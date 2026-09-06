@@ -1,6 +1,6 @@
 # Export Manifest
 
-- Generated: 2026-09-06T10:18:17+08:00
+- Generated: 2026-09-06T12:25:40+08:00
 - Source dashboard: `D:\work\汇总知识工作台\research-dashboard\data\research-library.json`
 - Source v4 database: `E:\research-intelligence-hub\backfill-2023-2026\manifests\research-knowledge-v4.sqlite`
 - Paper documents: 627
