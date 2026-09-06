@@ -1,0 +1,2696 @@
+# 论文索引
+
+共 627 篇公开可发布的派生论文摘要。
+
+## 按标签浏览
+
+### 论文声明资源（592）
+
+- [3 = 1 + 2: how the divide conquered de novo protein structure prediction and what is next?](papers/EVIW-CE1BFEB1B4EFF5F3.md) · Natl Sci Rev
+- [3D molecular generative framework for interaction-guided drug design](papers/EVIW-7F3D00C76F88E2D5.md) · Nat Commun
+- [A Comparative Study of Deep Learning and Classical Modeling Approaches for Protein–Ligand Binding Pose and Affinity Prediction in Coronavirus Main Proteases](papers/EVIW-C32EB93F00BC417D.md) · J Chem Inf Model
+- [A conditional denoising VAE-based framework for antimicrobial peptides generation with preserving desirable properties](papers/EVIW-B66607838B13CDF6.md) · Bioinformatics
+- [A conditional protein diffusion model generates artificial programmable endonuclease sequences with enhanced activity](papers/EVIW-C01A245FD055519A.md) · Cell Discov
+- [A deep generative model for deciphering cellular dynamics and in silico drug discovery in complex diseases](papers/EVIW-3570B6317B9288B7.md) · Nat Biomed Eng
+- [A deep learning framework for comprehensive prediction of human RNA G-quadruplex-binding proteins](papers/EVIW-299B7FE985681753.md) · Bioinformatics
+- [A deep learning method for drug-target affinity prediction based on sequence interaction information mining](papers/EVIW-643B1E1D6A4DC185.md) · PeerJ
+- [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](papers/EVIW-87C7E30CF2A5F5BF.md) · bioRxiv preprint
+- [A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets](papers/EVIW-EECA1B7E57AE69E8.md) · Nat Commun
+- [A dual diffusion model-based representation learning framework for antimicrobial peptides classification](papers/EVIW-584A3279CA37FE46.md) · Bioinformatics
+- [A dual-branch graph neural network architecture for drug-target binding affinity prediction](papers/EVIW-2BF3EC6B2F092890.md) · Scientific Reports
+- [A Folding-Docking-Affinity framework for protein-ligand binding affinity prediction](papers/EVIW-B2B46F1438C6AEE1.md) · Communications Chemistry
+- [A Foundation Model Identifies Broad-Spectrum Antimicrobial Peptides against Drug-Resistant Bacterial Infection](papers/EVIW-051601A26FADD01F.md) · Nature Communications
+- [A general hypergraph learning algorithm for drug multi-task predictions in micro-to-macro biomedical networks](papers/EVIW-F59F52E24538EC4D.md) · PLoS Comput Biol
+- [A general prediction model for compound-protein interactions based on deep learning](papers/EVIW-9800F11849B695A5.md) · Front Pharmacol
+- [A general temperature-guided language model to design proteins of enhanced stability and activity](papers/EVIW-A579ED1310C4033A.md) · Sci Adv
+- [A generative artificial intelligence approach for peptide antibiotic optimization](papers/EVIW-B47A1491CBD2F081.md) · Nat Mach Intell
+- [A generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture](papers/EVIW-06EDA5AA4592091B.md) · Commun Chem
+- [A generative explainable model for antimicrobial peptide prediction using bidirectional temporal convolutional neural network](papers/EVIW-FD12D61BC580B2CB.md) · Scientific Reports
+- [A Generative Neuro‐Symbolic AI for Protein Sequence Design](papers/EVIW-0B50D08AC6A9EB98.md) · Adv Sci (Weinh)
+- [A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules](papers/EVIW-A7B87B84C2DD8D8D.md) · Nature Communications
+- [A hybrid machine learning framework for functional annotation of mitochondrial glutathione transport and metabolism proteins in cancers](papers/EVIW-73E140E69C8EA6E1.md) · BMC Bioinformatics
+- [A Machine Learning Model for the Proteome-Wide Prediction of Lipid-Interacting Proteins](papers/EVIW-B69B7E2E38FB74D8.md) · J Chem Inf Model
+- [A Machine Learning-Enabled Venom Peptide Platform for Rapid Drug Discovery](papers/EVIW-27ACE42DCA76D5BE.md) · Pharmaceuticals (Basel)
+- [A modular protein language modelling approach to immunogenicity prediction](papers/EVIW-8F8C157B31B1403C.md) · PLoS Comput Biol
+- [A Molecular-Protein Fusion Framework for Rapid Virtual Screening: Accelerating Lead Discovery for 'Undruggable' Oncogenic Targets](papers/EVIW-DB4950B4D4A2E3D1.md) · Pharmaceuticals (Basel)
+- [A multi-grained symmetric differential equation model for learning protein-ligand binding dynamics](papers/EVIW-68E7B63A25D649D3.md) · Nat Commun
+- [A Multi-Task Self-Supervised Strategy for Predicting Molecular Properties and FGFR1 Inhibitors](papers/EVIW-0AE3B8186F6B90E7.md) · Adv Sci (Weinh)
+- [A multimodal Transformer Network for protein-small molecule interactions enhances predictions of kinase inhibition and enzyme-substrate relationships](papers/EVIW-B3F9D365DAD1F084.md) · PLoS Comput Biol
+- [A New Insight into the Study of Neural Cell Adhesion Molecule (NCAM) Polysialylation Inhibition Incorporated the Molecular Docking Models into the NMR Spectroscopy of a ...](papers/EVIW-0CC8ADDA45100879.md) · Biomolecules
+- [A non-canonical nucleophile unlocks a new mechanistic pathway in a designed enzyme](papers/EVIW-F464CA2FF7B2C26C.md) · Nat Commun
+- [A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties](papers/BFW-1743CA1AF5D6.md) · PLoS Comput Biol
+- [A Novel Weighted Ensemble Framework of Transformer and Deep Q-Network for ATP-Binding Site Prediction Using Protein Language Model Features](papers/EVIW-7410B1EBC89754BE.md) · Int J Mol Sci
+- [A paired sequence language model for protein-protein interaction modeling](papers/EVIW-1F44AF237AA8F268.md) · Nat Commun
+- [A pharmacophore-guided deep learning approach for bioactive molecular generation](papers/EVIW-AABC81152A5D218D.md) · Nat Commun
+- [A Point Cloud Graph Neural Network for Protein–Ligand Binding Site Prediction](papers/EVIW-58C55EE07E03C38A.md) · Int J Mol Sci
+- [A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations](papers/EVIW-354EEA5F3DCEF838.md) · PLoS Comput Biol
+- [A rationally designed 18-amino acid peptide with potential as GLP-1 receptor agonist](papers/EVIW-A7375920FC934F72.md) · Front Pharmacol
+- [A Robust Drug–Target Interaction Prediction Framework with Capsule Network and Transfer Learning](papers/EVIW-871765598D8AD623.md) · Int J Mol Sci
+- [A scalable reinforcement learning approach for screening large peptide libraries for bioactive peptide discovery](papers/EVIW-E9CD4536A504D6BA.md) · Nat Commun
+- [A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models](papers/EVIW-0AE5BB88A44BC105.md) · Communications Chemistry
+- [A Suite of Designed Protein Cages Using Machine Learning Algorithms and Protein Fragment-Based Protocols](papers/EVIW-8816AA5429600E64.md) · bioRxiv
+- [A systematic study of key elements underlying molecular property prediction](papers/EVIW-29B3E60590367062.md) · Nat Commun
+- [A Transformer for Reaction-Aware Compound Explorations with GFlowNet in QSAR-Guided Molecular Design](papers/EVIW-B44A523D00052AB4.md) · J Chem Inf Model
+- [A variational expectation-maximization framework for balanced multi-scale learning of protein and drug interactions](papers/EVIW-D858D0437C6CD98B.md) · Nat Commun
+- [AbFlex: designing antibody complementarity determining regions with flexible CDR definition](papers/EVIW-24F12258176E114A.md) · Bioinformatics
+- [Accelerating antimicrobial peptide design: Leveraging deep learning for rapid discovery](papers/EVIW-AB45A48DBA8A5BEE.md) · PLoS One
+- [Accurate de novo design of heterochiral protein–protein interactions](papers/EVIW-762DC9B38FFF15C5.md) · Cell Res
+- [Accurate de novo design of high-affinity protein-binding macrocycles using deep learning](papers/EVIW-24DA60356D0CA3B2.md) · Nat Chem Biol
+- [Accurate Generation of Conformational Ensembles for Intrinsically Disordered Proteins with IDPFold](papers/EVIW-BA3B778AE34FD6B6.md) · Adv Sci (Weinh)
+- [Accurate Identification of Protein Binding Sites for All Drug Modalities Using ALLSites](papers/EVIW-77CFA975A5E481C9.md) · Adv Sci (Weinh)
+- [Accurate prediction of protein function using statistics-informed graph networks](papers/EVIW-E1EEDE0F1E36CDEC.md) · Nat Commun
+- [Accurate prediction of protein-ligand interactions by combining physical energy functions and graph-neural networks](papers/EVIW-450A2DC6B2948F9C.md) · J Cheminform
+- [Accurate prediction of protein–ATP binding sites based on a protein pretrained large language model and a fractional-order convolutional neural network](papers/EVIW-B5871C7812C20042.md) · Scientific Reports
+- [Accurate prediction of toxicity peptide and its function using multi-view tensor learning and latent semantic learning framework](papers/EVIW-FE2C02759F001D51.md) · Bioinformatics
+- [Accurate Predictions of Molecular Properties of Proteins via Graph Neural Networks and Transfer Learning](papers/EVIW-0B512807A6577C16.md) · Journal of Chemical Theory and Computation
+- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](papers/EVIW-643136E50839D7AA.md) · Nature
+- [Accurate TCR-pMHC interaction prediction using a BERT-based transfer learning method](papers/EVIW-7F3870CE001D8F3E.md) · Brief Bioinform
+- [ACP-CapsPred: an explainable computational framework for identification and functional prediction of anticancer peptides based on capsule network](papers/EVIW-9740ACD6DFDD26CD.md) · Brief Bioinform
+- [Active learning of the thermodynamics-dynamics trade-off in protein condensates](papers/EVIW-59A067C244208CED.md) · Sci Adv
+- [ActivityDiff: a diffusion model with positive and negative activity guidance for de novo drug design](papers/EVIW-473F7478FC95951A.md) · Bioinformatics
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness prediction](papers/EVIW-8DEF05D4191F5455.md) · Bioinformatics
+- [Advancing drug–target interaction prediction: a comprehensive graph-based approach integrating knowledge graph embedding and ProtBert pretraining](papers/EVIW-58C5B543462616DE.md) · BMC Bioinformatics
+- [Advancing generative large language models toward discriminative performance in protein function prediction](papers/EVIW-3352EAE93C4D75CD.md) · Genome Biol
+- [Advancing one health vaccination: In silico design and evaluation of a multi-epitope subunit vaccine against Nipah virus for cross-species immunization using immunoinformatics and molecular modeling](papers/EVIW-98A04DE62441A501.md) · PLoS One
+- [AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development](papers/EVIW-98520D60907BC088.md) · Methods Protoc
+- [AI-driven antimicrobial peptide characterization unveils novel motifs for drug design](papers/EVIW-C03C2EAE5E699FCA.md) · Sci Rep
+- [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](papers/EVIW-F2D88608FBE5A657.md) · Acc Chem Res
+- [AI-driven drug discovery using transformer-based molecular representation learning](papers/EVIW-71C0302156224515.md) · Front Artif Intell
+- [AI-Driven Enzyme Engineering: Emerging Models and Next-Generation Biotechnological Applications](papers/EVIW-2CAD59D7021D3501.md) · Molecules
+- [AISMPred: A Machine Learning Approach for Predicting Anti-Inflammatory Small Molecules](papers/EVIW-6A2327D2365F2C90.md) · Pharmaceuticals (Basel)
+- [ALDELE: All-Purpose Deep Learning Toolkits for Predicting the Biocatalytic Activities of Enzymes](papers/EVIW-A62C4F1A4A241586.md) · J Chem Inf Model
+- [Alzheimer's Disease: Exploring Pathophysiological Hypotheses and the Role of Machine Learning in Drug Discovery](papers/EVIW-F5EBF91079150275.md) · Int J Mol Sci
+- [AMP-Diffusion: Integrating Latent Diffusion with Protein Language Models for Antimicrobial Peptide Generation](papers/EVIW-82B2503C91A465CA.md) · bioRxiv preprint
+- [AMPGen: an evolutionary information-reserved and diffusion-driven generative model for de novo design of antimicrobial peptides](papers/EVIW-3B0C00C5C6357749.md) · Communications Biology
+- [AmpHGT: expanding prediction of antimicrobial activity in peptides containing non-canonical amino acids using multi-view constrained heterogeneous graph transformer](papers/EVIW-BA31B886E6888BA5.md) · BMC Biology
+- [An artificial intelligence accelerated virtual screening platform for drug discovery](papers/EVIW-592FD20C360BC8B9.md) · Nat Commun
+- [An electron-density point-cloud framework for robust protein-ligand interaction prediction](papers/EVIW-1F343CF1A0E42087.md) · Nat Commun
+- [An end-to-end method for predicting compound-protein interactions based on simplified homogeneous graph convolutional network and pre-trained language model](papers/EVIW-9206AA79E73AF799.md) · J Cheminform
+- [An equivariant pretrained transformer for unified 3D molecular representation learning](papers/EVIW-F050E367127F0869.md) · Nat Commun
+- [An image-based protein-ligand binding representation learning framework via multi-level flexible dynamics trajectory pre-training](papers/EVIW-50596DE988BFF9EC.md) · Bioinformatics
+- [An in silico molecular docking and simulation study to identify potential anticancer phytochemicals targeting the RAS signaling pathway](papers/EVIW-65FBCECA5A9FF37D.md) · PLoS One
+- [An integrative approach to protein sequence design through multiobjective optimization](papers/EVIW-6115205069F1A499.md) · PLoS Comput Biol
+- [An interpretable geometric graph neural network for enhancing the generalizability of drug–target interaction prediction](papers/EVIW-A72DAED20A6AA86B.md) · BMC Biology
+- [An Interpretable Multi-Objective Machine Learning Framework for In Silico Prioritization of Anti-Staphylococcus aureus Antimicrobial Peptides](papers/EVIW-76378985A0FE2B41.md) · Diagnostics (Basel)
+- [Anesthetic drug discovery with computer-aided drug design and machine learning](papers/EVIW-9226012A34043DF0.md) · Anesthesiology and Perioperative Science
+- [AnnoPRO: a strategy for protein function annotation based on multi-scale protein representation and a hybrid deep learning of dual-path encoding](papers/EVIW-39BC77EC04B978FB.md) · Genome Biol
+- [Anti-Staphy Peptides Rationally Designed from Cry10Aa Bacterial Protein](papers/EVIW-71426490B42287E5.md) · ACS Omega
+- [AntiFold: improved structure-based antibody design using inverse folding](papers/EVIW-FC4F98D1EFC1712B.md) · Bioinform Adv
+- [Antimicrobial peptides: natural templates for next-generation therapeutics against antimicrobial resistance](papers/EVIW-92B7384043CDFC17.md) · Front Cell Infect Microbiol
+- [Antiviral Peptide-Generative Pre-Trained Transformer (AVP-GPT): A Deep Learning-Powered Model for Antiviral Peptide Design with High-Throughput Discovery and Exceptional Potency](papers/EVIW-2E8B47608015C954.md) · Viruses
+- [Approaching Optimal pH Enzyme Prediction with Large Language Models](papers/EVIW-43C1D0D0C335516B.md) · ACS Synth Biol
+- [APTAnet: an atom-level peptide-TCR interaction affinity prediction model](papers/EVIW-9A52A00B636813BB.md) · Biophys Rep
+- [AptaTrans: a deep neural network for predicting aptamer-protein interaction using pretrained encoders](papers/EVIW-5B4F83FAF83C4EDF.md) · BMC Bioinformatics
+- [Artificial Intelligence and Machine Learning in Pharmacological Research: Bridging the Gap Between Data and Drug Discovery](papers/EVIW-49A2F3C603A14A6A.md) · Cureus
+- [Artificial Intelligence and Machine Learning Methods to Evaluate Cardiotoxicity following the Adverse Outcome Pathway Frameworks](papers/EVIW-96F3681D49343478.md) · Toxics
+- [Artificial intelligence for prediction of biological activities and generation of molecular hits using stereochemical information](papers/EVIW-7B1AD73D6D7BD5FE.md) · J Comput Aided Mol Des
+- [Artificial Intelligence-Driven Discovery and Optimization of Antimicrobial Peptides Targeting ESKAPE Pathogens and Multidrug-Resistant Fungi](papers/EVIW-DB8E78E7468C01B3.md) · Microorganisms
+- [Artificial Intelligence-Powered Molecular Docking and Steered Molecular Dynamics for Accurate scFv Selection of Anti-CD30 Chimeric Antigen Receptors](papers/EVIW-EE66E8C995061077.md) · Int J Mol Sci
+- [Assessing protein model quality based on deep graph coupled networks using protein language model](papers/EVIW-4C2016E65967FD05.md) · Brief Bioinform
+- [Assessing the Interactions between Snake Venom Metalloproteinases and Hydroxamate Inhibitors Using Kinetic and ITC Assays, Molecular Dynamics Simulations and MM/PBSA-Based Calculations](papers/EVIW-7587EFB3DB8AABCA.md) · ACS Omega
+- [Assessing the potential of deep learning for protein-ligand docking](papers/EVIW-BC698A734AE51681.md) · Nat Mach Intell
+- [Atom-level enzyme active site scaffolding using RFdiffusion2](papers/BFW-677CA1020102.md) · Nature Methods
+- [Atomic context-conditioned protein sequence design using LigandMPNN](papers/EVIW-000C4D50B88BA07A.md) · Nat Methods
+- [AttABseq: an attention-based deep learning prediction method for antigen–antibody binding affinity changes based on protein sequences](papers/EVIW-8AA96DCC4EAD6598.md) · Brief Bioinform
+- [Attention network for predicting T-cell receptor-peptide binding can associate attention with interpretable protein structural properties](papers/EVIW-2851B31F304D19F1.md) · Front Bioinform
+- [Attention-based approach to predict drug-target interactions across seven target superfamilies](papers/EVIW-4E91B58A46E5B41F.md) · Bioinformatics
+- [Automated synthetic cell-based screening for designed proteins with emergent functions](papers/EVIW-5081FE7D706E3586.md) · Nat Commun
+- [AutoPeptideML: a study on how to build more trustworthy peptide bioactivity predictors](papers/EVIW-BE76B197C5D200BF.md) · Bioinformatics
+- [AVP-GPT2: A Transformer-Powered Platform for De Novo Generation, Screening, and Explanation of Antiviral Peptides](papers/EVIW-3A964B1973F54AF1.md) · Viruses
+- [Barlow Twins deep neural network for advanced 1D drug-target interaction prediction](papers/EVIW-1CE56F554CAB2790.md) · J Cheminform
+- [BBB-PEP-prediction: improved computational model for identification of blood–brain barrier peptides using blending position relative composition specific features and ensemble modeling](papers/EVIW-7F3218A7A0CFFE26.md) · J Cheminform
+- [Benchmarking AlphaFold3's protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation](papers/EVIW-7B3BA40DB3C17D72.md) · arXiv preprint
+- [Benchmarking antibody clustering methods using sequence, structural, and machine learning similarity measures for antibody discovery applications](papers/EVIW-5F9BAB708FD00C26.md) · Front Mol Biosci
+- [Benchmarking antigen-aware inverse folding methods for antibody design](papers/EVIW-A1AD09D7AFFD0BA7.md) · bioRxiv preprint
+- [Benchmarking compound activity prediction for real-world drug discovery applications](papers/EVIW-27BCEE46559B0DFA.md) · Commun Chem
+- [Benchmarking inverse folding models for antibody CDR sequence design](papers/EVIW-AEAE9AA5539B2E45.md) · PLOS ONE
+- [Benchmarking protein language models for protein crystallization](papers/EVIW-6A9AC2519DB77CAC.md) · Scientific Reports
+- [Benchmarking residue-resolution protein coarse-grained models for simulations of biomolecular condensates](papers/EVIW-D5F88398E446356B.md) · PLoS Comput Biol
+- [Benchmarking uncertainty quantification for protein engineering](papers/EVIW-A2A30144D58B3F7F.md) · PLoS Comput Biol
+- [BertADP: a fine-tuned protein language model for anti-diabetic peptide prediction](papers/EVIW-F9AD04E02887E9BD.md) · BMC Biology
+- [Bidirectional generation of structure and properties through a single molecular foundation model](papers/EVIW-8D53A06B9A414D98.md) · Nature Communications
+- [Bilingual language model for protein sequence and structure](papers/EVIW-50CC17ACB2AEA40C.md) · NAR Genom Bioinform
+- [Binding Mechanism of Inhibitors to BRD4 and BRD9 Decoded by Multiple Independent Molecular Dynamics Simulations and Deep Learning](papers/EVIW-5674D35A536949D9.md) · Molecules
+- [Bioactivity Deep Learning for Complex Structure-Free Compound-Protein Interaction Prediction](papers/EVIW-819EC6B4DDEB7DFB.md) · J Chem Inf Model
+- [Biophysics-based protein language models for protein engineering](papers/EVIW-40D5F9BF08E6F0D0.md) · Nat Methods
+- [BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists](papers/EVIW-DCAF3329DD185313.md) · Comput Struct Biotechnol J
+- [Biosensor and machine learning-aided engineering of an amaryllidaceae enzyme](papers/EVIW-F6790BBB81067D8C.md) · Nat Commun
+- [Bitter peptide prediction using graph neural networks](papers/EVIW-6CFA93D3BCD5F547.md) · J Cheminform
+- [Bond-centric modular design of protein assemblies](papers/EVIW-B7E9430722647682.md) · Nat Mater
+- [Bridging Generative AI and Diffusion Models With Molecular Simulation to Design Anti-Quorum-Sensing De novo Peptides Targeting LasR of Pseudomonas aeruginosa](papers/EVIW-8B26B6C224750AD8.md) · Probiotics and Antimicrobial Proteins
+- [BroadAMP-GPT: AI-Driven generation of broad-spectrum antimicrobial peptides for combating multidrug-resistant ESKAPE pathogens](papers/EVIW-8BB7B9217975CD7C.md) · Gut Microbes
+- [CaBind_MCNN: Identifying Potential Calcium Channel Blocker Targets by Predicting Calcium-Binding Sites in Ion Channels and Ion Transporters Using Protein Language Models and Multiscale Feature Extraction](papers/EVIW-6EF69641EF76DBE5.md) · J Chem Inf Model
+- [CAP: Commutative algebra prediction of protein-nucleic acid binding affinities](papers/EVIW-821C6299978698D5.md) · Machine Learning: Science and Technology
+- [caRBP-Pred: Leveraging Protein Language Models for the Prediction of Chromatin-Associated RNA-Binding Proteins](papers/EVIW-9AD6C1CBFC8016E4.md) · Comput Struct Biotechnol J
+- [CBIL-VHPLI: a model for predicting viral-host protein-lncRNA interactions based on machine learning and transfer learning](papers/EVIW-1D565539F2B2367E.md) · Scientific Reports
+- [Cell-free biosynthesis combined with deep learning accelerates de novo-development of antimicrobial peptides](papers/EVIW-7517D0EB7719FCF9.md) · Nat Commun
+- [ChatMol: interactive molecular discovery with natural language](papers/EVIW-EAE32CFD6D59B1E2.md) · Bioinformatics
+- [Chemical Language Model Linker: Blending Text and Molecules with Modular Adapters](papers/EVIW-2AB646F71CAFA9B7.md) · J Chem Inf Model
+- [ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization](papers/EVIW-E513F4FA4C3C0EAA.md) · Brief Bioinform
+- [ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation](papers/EVIW-56812DE3792757B2.md) · Journal of Chemical Information and Modeling
+- [Chlamy_ChloroPred: a deep learning-based, highly accurate binary classifier for chloroplast protein prediction in the model microalga, Chlamydomonas reinhardtii, with ...](papers/EVIW-9F9526DFCB88A280.md) · Front Microbiol
+- [CircSI-SSL: circRNA-binding site identification based on self-supervised learning](papers/EVIW-886EEFF6D7C82C08.md) · Bioinformatics
+- [CLDN18.2 antibody design with protein language models: A deep learning optimization framework](papers/EVIW-BE033C46CCB9A3C9.md) · PLOS Computational Biology
+- [CoDNet: controlled diffusion network for structure-based drug design](papers/EVIW-47A2C4E6BAECCE23.md) · Bioinform Adv
+- [Coevolution-Driven Method for Efficiently Simulating Conformational Changes in Proteins Reveals Molecular Details of Ligand Effects in the β2AR Receptor](papers/EVIW-1DB085E75A381A2B.md) · J Phys Chem B
+- [Combining machine learning with structure-based protein design to predict and engineer post-translational modifications of proteins](papers/EVIW-83AD8E36CF545DE1.md) · PLoS Comput Biol
+- [Combining Rosetta Sequence Design with Protein Language Model Predictions Using Evolutionary Scale Modeling (ESM) as Restraint](papers/EVIW-21DCFE55217047DC.md) · ACS Synth Biol
+- [Comparative evaluation of methods for the prediction of protein-ligand binding sites](papers/EVIW-D85A58477929E230.md) · J Cheminform
+- [Complementary multi-modality molecular self-supervised learning via non-overlapping masking for property prediction](papers/EVIW-684C37ADF16692C9.md) · Brief Bioinform
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [Comprehensive evaluation of artificial intelligence-empowered approaches for protein–aptamer complex prediction](papers/EVIW-EDB6C8BC2C49BED9.md) · Brief Bioinform
+- [Comprehensive Research on Druggable Proteins: From PSSM to Pre-Trained Language Models](papers/EVIW-9BCBB5D287E1A4A6.md) · Int J Mol Sci
+- [Computational and immunoinformatics approaches for designing phytocompound-based drugs and a multi-epitope vaccine targeting FemA, a cell wall protein of Staphylococcus aureus](papers/EVIW-4DB00018EB44F550.md) · PLoS One
+- [Computational design of class II MHC binding peptide with sequence-based evolution information](papers/EVIW-C4FB45BC99A93073.md) · Bioinform Adv
+- [Computational discovery of SARS-CoV-2 viral entry inhibitory peptides from Androctonus mauretanicus scorpion venom: molecular docking and molecular dynamics simulations](papers/EVIW-6F777AE24892782F.md) · Front Bioinform
+- [Computational scoring and experimental evaluation of enzymes generated by neural networks](papers/EVIW-915050C57D2DE52E.md) · Nat Biotechnol
+- [Computationally designed proteins mimic antibody immune evasion in viral evolution](papers/EVIW-52ECC165D4C1BC98.md) · Immunity
+- [Computer-Aided Drug Design and Drug Discovery: A Prospective Analysis](papers/EVIW-30CDB15201FE70BF.md) · Pharmaceuticals (Basel)
+- [Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules](papers/EVIW-A340204028FECB43.md) · Biomolecules
+- [CPP2Vec: A representation learning approach for cell-penetrating peptides prediction](papers/EVIW-1450D8C7581F6484.md) · PLOS Computational Biology
+- [CRISPR-Cas9 screening reveals a distinct class of MHC-I binders with precise HLA-peptide recognition](papers/EVIW-BD211E17DC7043A1.md) · iScience
+- [CS-DTA: a language model-driven framework for robust drug-target affinity prediction under strict cold-start scenarios](papers/EVIW-B2D74A3DCC6C8DF7.md) · Front Chem
+- [Cyclic peptide structure prediction and design using AlphaFold2](papers/EVIW-0E24408ABDFC740F.md) · Nature Communications
+- [CycPeptMP: enhancing membrane permeability prediction of cyclic peptides with multi-level molecular features and data augmentation](papers/EVIW-7D1ADFC98AF15650.md) · Brief Bioinform
+- [Cytochrome P450 Enzyme Design by Constraining the Catalytic Pocket in a Diffusion Model](papers/EVIW-1463F1CB9ABB78D8.md) · Research (Wash D C)
+- [DataDTA: a multi-feature and dual-interaction aggregation framework for drug–target binding affinity prediction](papers/EVIW-903FC9F7CF235FD5.md) · Bioinformatics
+- [DCGAT-DTI: dynamic cross-graph attention network for drug-target interaction prediction](papers/EVIW-8B742926549B15B5.md) · Bioinform Adv
+- [DDMut-PPI: predicting effects of mutations on protein-protein interactions using graph-based deep learning](papers/EVIW-437CF46420154922.md) · Nucleic Acids Res
+- [De Novo Antimicrobial Peptide Design with Feedback Generative Adversarial Networks](papers/EVIW-9D1944506B9DAEA2.md) · Int J Mol Sci
+- [De novo design of buttressed loops for sculpting protein functions](papers/EVIW-904CCEC07D5C8AF0.md) · Nat Chem Biol
+- [De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders](papers/EVIW-397BB32AC538E433.md) · J Am Chem Soc
+- [De novo designed proteins neutralize lethal snake venom toxins](papers/EVIW-5DAF70ACC4D7F4E9.md) · Nature
+- [De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning](papers/EVIW-6AFBE1321B318817.md) · J Comput Aided Mol Des
+- [De Novo Drug Design Using Transformer-Based Machine Translation and Reinforcement Learning of an Adaptive Monte Carlo Tree Search](papers/EVIW-7490C110E2A6B2C6.md) · Pharmaceuticals (Basel)
+- [De novo functional protein sequence generation: overcoming data scarcity through regeneration and large language models](papers/EVIW-4AC4AFB961A40084.md) · Brief Bioinform
+- [De novo synthetic antimicrobial peptide design with a recurrent neural network](papers/EVIW-647BFF7FAA5ECC23.md) · Protein Sci
+- [Deciphering key factors of active learning performance in biomolecular design](papers/EVIW-B295939543E1B491.md) · Bioinformatics
+- [Deep learning driven de novo drug design based on gastric proton pump structures](papers/EVIW-1280AD74B138884E.md) · Commun Biol
+- [Deep Learning Empowers the Discovery of Self-Assembling Peptides with Over 10 Trillion Sequences](papers/EVIW-78F12E35B43BB05A.md) · Adv Sci (Weinh)
+- [Deep learning in GPCR drug discovery: benchmarking the path to accurate peptide binding](papers/EVIW-7BBE077F641CF7F4.md) · Briefings in Bioinformatics
+- [Deep learning workflow for the inverse design of molecules with specific optoelectronic properties](papers/EVIW-B9DC20CAB83C85CC.md) · Sci Rep
+- [Deep Learning-Based Protein Half-Life Prediction for Identifying Rate-Limiting Enzymes in Metabolic Pathways to Alleviate Bottleneck Reactions](papers/EVIW-AD2EB1AE7FA48D96.md) · J Microbiol Biotechnol
+- [Deep learning-driven fragment ion series classification enables highly precise and sensitive de novo peptide sequencing](papers/EVIW-A2CA6D8C47557286.md) · Nat Commun
+- [Deep-STP: a deep learning-based approach to predict snake toxin proteins by using word embeddings](papers/EVIW-DECE7E720EE17251.md) · Front Med (Lausanne)
+- [Deep-WET: a deep learning-based approach for predicting DNA-binding proteins using word embedding techniques with weighted features](papers/EVIW-861BACD5E9ADCB6E.md) · Sci Rep
+- [DeepBP: Ensemble deep learning strategy for bioactive peptide prediction](papers/EVIW-A418833AC819190B.md) · BMC Bioinformatics
+- [DeepDTAGen: a multitask deep learning framework for drug-target affinity prediction and target-aware drugs generation](papers/EVIW-6A06FBBBEE19026B.md) · Nature Communications
+- [DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures](papers/EVIW-86CBE2CAA2AB3A69.md) · Brief Bioinform
+- [DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning](papers/EVIW-12CFC2FF0F445FBA.md) · Chem Sci
+- [DeepProSite: structure-aware protein binding site prediction using ESMFold and pretrained language model](papers/EVIW-8C02585678F47251.md) · Bioinformatics
+- [DeepRank-GNN-esm: a graph neural network for scoring protein-protein models using protein language model](papers/EVIW-15405E99B573B3CB.md) · Bioinform Adv
+- [Deep‐GB: A novel deep learning model for globular protein prediction using CNN‐BiLSTM architecture and enhanced PSSM with trisection strategy](papers/EVIW-05BF4DAB9253F9CE.md) · IET Syst Biol
+- [Descriptor-augmented machine learning for enzyme-chemical interaction predictions](papers/EVIW-E360B61141F505DD.md) · Synth Syst Biotechnol
+- [Design of high-specificity binders for peptide-MHC-I complexes](papers/EVIW-5B2A016A7A13F3AF.md) · Science Advances
+- [Design of linear and cyclic peptide binders from protein sequence information](papers/EVIW-01477EAB1AD23043.md) · Communications Chemistry
+- [Designing and immunomolecular analysis of a new broad-spectrum multiepitope vaccine against divergent human papillomavirus types](papers/EVIW-C67C00C7729CB4E5.md) · PLoS One
+- [Designing novel peptides with amyloid-β binding and clearance potential using BiLSTM and molecular dynamics](papers/EVIW-FBABEC0DFF6A2BDA.md) · Frontiers in Artificial Intelligence
+- [Developing an Improved Cycle Architecture for AI-Based Generation of New Structures Aimed at Drug Discovery](papers/EVIW-9C2449569FCAEB3C.md) · Molecules
+- [DG-Affinity: predicting antigen-antibody affinity with language models from sequences](papers/EVIW-E342A47CFC993CA7.md) · BMC Bioinformatics
+- [Diff-AMP: tailored designed antimicrobial peptide framework with all-in-one generation, identification, prediction and optimization](papers/EVIW-D786C348787A2E84.md) · Brief Bioinform
+- [DiffInt: A Diffusion Model for Structure-Based Drug Design with Explicit Hydrogen Bond Interaction Guidance](papers/EVIW-5955756A2B8C2AD9.md) · J Chem Inf Model
+- [Direct prediction of antimicrobial resistance in Pseudomonas aeruginosa by metagenomic next-generation sequencing](papers/EVIW-51CED1BE34996B4E.md) · Front Microbiol
+- [Direct prediction of intrinsically disordered protein conformational properties from sequence](papers/EVIW-7B3C01E5F293C7BA.md) · Nat Methods
+- [Discovery of a heparan sulfate binding domain in monkeypox virus H3 as an anti-poxviral drug target combining AI and MD simulations](papers/EVIW-630F868D55130F9E.md) · eLife
+- [DisoFLAG: accurate prediction of protein intrinsic disorder and its functions using graph-based interaction protein language model](papers/EVIW-50EC4D98F422F622.md) · BMC Biol
+- [DL-PPI: a method on prediction of sequenced protein-protein interaction based on deep learning](papers/EVIW-9630FF0B8DA024FE.md) · BMC Bioinformatics
+- [DLFea4AMPGen de novo design of antimicrobial peptides by integrating features learned from deep learning models](papers/EVIW-D14460AF0926DD13.md) · Nature Communications
+- [DLM-DTI: a dual language model for the prediction of drug-target interaction with hint-based learning](papers/EVIW-9782A427229EBEDC.md) · J Cheminform
+- [DLTKcat: deep learning-based prediction of temperature-dependent enzyme turnover rates](papers/EVIW-22CD6AE48DCDB16D.md) · Brief Bioinform
+- [Docking in the Dark: Insights into Protein-Protein and Protein-Ligand Blind Docking](papers/EVIW-AEE5912A09AF2567.md) · Pharmaceuticals (Basel)
+- [Drug target prediction through deep learning functional representation of gene signatures](papers/EVIW-D7448A2845B549ED.md) · Nature Communications
+- [Drug-target binding affinity prediction based on power graph and word2vec](papers/EVIW-677763E479C296BE.md) · BMC Med Genomics
+- [DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties](papers/EVIW-5D4BE1237541F61B.md) · bioRxiv preprint
+- [DrugSynthMC: An Atom-Based Generation of Drug-like Molecules with Monte Carlo Search](papers/EVIW-47A8ED5D9DD86471.md) · J Chem Inf Model
+- [dsAMP and dsAMPGAN: Deep Learning Networks for Antimicrobial Peptides Recognition and Generation](papers/EVIW-781B8D46BE658D76.md) · Antibiotics (Basel)
+- [DTGHAT: multi-molecule heterogeneous graph transformer based on multi-molecule graph for drug-target identification](papers/EVIW-D7E7DD745CE6E5FC.md) · Frontiers in Pharmacology
+- [DTI-LM: language model powered drug-target interaction prediction](papers/EVIW-1DB0B140C115A6B4.md) · Bioinformatics
+- [Dual modality feature fused neural network integrating binding site information for drug target affinity prediction](papers/EVIW-66B09075F5CEBC45.md) · NPJ Digit Med
+- [DualPG-DTA: A Large Language Model-Powered Graph Neural Network Framework for Enhanced Drug-Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti-Leukemia Activity](papers/EVIW-AFD057452A461D91.md) · Adv Sci (Weinh)
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [EasyDock 1.3: An Automated Pipeline for Molecular Docking](papers/EVIW-761F8F85742C0BFA.md) · J Chem Inf Model
+- [EGPDI: identifying protein-DNA binding sites based on multi-view graph embedding fusion](papers/EVIW-A05003840FFCE41D.md) · Brief Bioinform
+- [Electrostatics as a Guiding Principle in Understanding and Designing Enzymes](papers/EVIW-1CC386C8B1CCD478.md) · J Chem Theory Comput
+- [Elucidating Novel Targets for Ovarian Cancer Antibody–Drug Conjugate Development: Integrating In Silico Prediction and Surface Plasmon Resonance to Identify Targets with Enhanced Antibody Internalization Capacity](papers/EVIW-F9F1DA4ADCCE8570.md) · Antibodies (Basel)
+- [Embedding-based alignment: combining protein language models with dynamic programming alignment to detect structural similarities in the twilight-zone](papers/EVIW-D0EEC41ABCA877F9.md) · Bioinformatics
+- [Emerging opportunities of using large language models for translation between drug molecules and indications](papers/EVIW-320290EBA410B89A.md) · Sci Rep
+- [Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE](papers/EVIW-F561FB87AC7DBE6C.md) · eLife
+- [Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS](papers/EVIW-9A5BE8BC839DD39C.md) · Commun Biol
+- [Enhanced antibody-antigen structure prediction from molecular docking using AlphaFold2](papers/EVIW-E8AD4BD2C00BDB32.md) · Sci Rep
+- [Enhanced Sequence-Activity Mapping and Evolution of Artificial Metalloenzymes by Active Learning](papers/EVIW-FFB142A4D8094123.md) · ACS Cent Sci
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [Enhancing cross-context generalization in drug perturbation prediction with a multimodal conditional diffusion framework](papers/EVIW-22F27BE7269D0426.md) · Bioinformatics
+- [Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning](papers/EVIW-6C65D455AB73D2E8.md) · Nat Commun
+- [Enhancing G‐Quadruplex Binding: Rational Design and Biophysical Evaluation of Dimeric Ligands](papers/EVIW-6AD4B85696657A70.md) · Chemistry
+- [Enhancing missense variant pathogenicity prediction with protein language models using VariPred](papers/EVIW-D719F0DEC8B7742D.md) · Sci Rep
+- [Enhancing molecular property prediction of transformer models with dual graph representation](papers/EVIW-4C48077F6512FD82.md) · Nat Commun
+- [Enhancing predictions of protein stability changes induced by single mutations using MSA-based language models](papers/EVIW-9905919E453547B9.md) · Bioinformatics
+- [EnrichRBP: an automated and interpretable computational platform for predicting and analysing RNA-binding protein events](papers/EVIW-68353EB129CB967B.md) · Bioinformatics
+- [EnzyACT: A Novel Deep Learning Method to Predict the Impacts of Single and Multiple Mutations on Enzyme Activity](papers/EVIW-6982BB5A6E50E4A1.md) · J Chem Inf Model
+- [Enzyme catalytic efficiency prediction: employing convolutional neural networks and XGBoost](papers/EVIW-66058B0B5CB7A9B5.md) · Front Artif Intell
+- [Equivariant 3D-conditional diffusion model for molecular linker design](papers/EVIW-F0A20EFF2242FD07.md) · Nature Machine Intelligence
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [Equivariant score-based generative diffusion framework for 3D molecules](papers/EVIW-8B626510C8E7C600.md) · BMC Bioinformatics
+- [EuDockScore: Euclidean graph neural networks for scoring protein-protein interfaces](papers/EVIW-6115D3B8DB0F3420.md) · Bioinformatics
+- [Evaluating BindCraft for Generative Design of High-Affinity Peptides](papers/EVIW-5F5A18203EF1CB13.md) · ACS Chem Biol
+- [Evaluating GPT and BERT models for protein-protein interaction identification in biomedical text](papers/EVIW-1577F80E9EA4E4A8.md) · Bioinform Adv
+- [Evaluating ligand docking methods for drugging protein-protein interfaces: insights from AlphaFold2 and molecular dynamics refinement](papers/EVIW-B0F5998042EF0F16.md) · Journal of Cheminformatics
+- [Evaluating zero‐shot prediction of monomeric protein design success by AlphaFold , ESMFold , and ProteinMPNN](papers/EVIW-2B306696DD6EE567.md) · Protein Sci
+- [Exploring Conformational Landscapes and Cryptic Binding Pockets in Distinct Functional States of the SARS-CoV-2 Omicron BA.1 and BA.2 Trimers: Mutation-Induced Modulation of Protein Dynamics and Network-Guided Prediction of Variant-Specific Allosteric Binding Sites](papers/EVIW-8ECEE0BB1C04EBF7.md) · Viruses
+- [Exploring pocket-aware inhibitors of BTK kinase by generative deep learning, molecular docking, and molecular dynamics simulations](papers/EVIW-C79585753A328E55.md) · RSC Adv
+- [Extracellular Peptide-Ligand Dimerization Actuator Receptor Design for Reversible and Spatially Dosed 3D Cell-Material Communication](papers/EVIW-2E395C4AB7FEEF22.md) · ACS Synth Biol
+- [Fast, accurate ranking of engineered proteins by target-binding propensity using structure modeling](papers/EVIW-340773ED518DC742.md) · Mol Ther
+- [Feature selection enhances peptide binding predictions for TCR-specific interactions](papers/EVIW-C5253CE7914B46E5.md) · Front Immunol
+- [Fine-tuning protein language models boosts predictions across diverse tasks](papers/EVIW-70FFFBE1CB0E8DF4.md) · Nat Commun
+- [FlowPacker: protein side-chain packing with torsional flow matching](papers/EVIW-D5F73FACD24B56FF.md) · Bioinformatics
+- [FLOWR.ROOT – A flow matching-based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](papers/EVIW-3AE9D036AE8EC1CB.md) · Nat Commun
+- [FLOWR: flow matching for structure-aware de novo, interaction- and fragment-based ligand generation](papers/EVIW-F360206DF136306B.md) · Nat Comput Sci
+- [From Host-Derived Pressures to the Environmental Anti-Antimicrobial Peptides Resistome: Mechanisms, Reservoirs and Implications for Therapeutic Peptide Design](papers/EVIW-23609632C0117F43.md) · Mar Drugs
+- [From intuition to AI: evolution of small molecule representations in drug discovery](papers/EVIW-F7607A4022562C70.md) · Brief Bioinform
+- [From Latent Manifolds to Targeted Molecular Probes: An Interpretable, Kinome-Scale Generative Machine Learning Framework for Family-Based Kinase Ligand Design](papers/EVIW-B2066AB438F67363.md) · Biomolecules
+- [FuncFetch: an LLM-assisted workflow enables mining thousands of enzyme-substrate interactions from published manuscripts](papers/EVIW-AFC06331D986E6B0.md) · Bioinformatics
+- [Functional annotation of enzyme-encoding genes using deep learning with transformer layers](papers/EVIW-CE317302C001A9DD.md) · Nat Commun
+- [G Protein-Coupled Receptor-Ligand Pose and Functional Class Prediction](papers/EVIW-3CDA35EC397C9E5E.md) · Int J Mol Sci
+- [GATSol, an enhanced predictor of protein solubility through the synergy of 3D structure graph and large language modeling](papers/EVIW-A6F6E39304F1E6FD.md) · BMC Bioinformatics
+- [GcForest-based compound-protein interaction prediction model and its application in discovering small-molecule drugs targeting CD47](papers/EVIW-542A9C690DEB7869.md) · Front Chem
+- [Generalizable and scalable protein stability prediction with rewired protein generative models](papers/EVIW-2B553C8CDEE458EA.md) · Nature Communications
+- [Generalizable compound protein interaction prediction with a model incorporating protein structure aware and compound property aware language model representations](papers/EVIW-CC8FC3C6F23DD3D6.md) · Commun Chem
+- [Generation of 3D molecules in pockets via a language model](papers/EVIW-61D2CB039D461481.md) · Nature Machine Intelligence
+- [Generation of Rational Drug-like Molecular Structures Through a Multiple-Objective Reinforcement Learning Framework](papers/EVIW-FDB996EADA52B63D.md) · Molecules
+- [Generation, Characterisation and Identification of Bioactive Peptides from Mesopelagic Fish Protein Hydrolysates Using In Silico and In Vitro Approaches](papers/EVIW-DF49AF593037EBBE.md) · Mar Drugs
+- [Generative and predictive neural networks for the design of functional RNA molecules](papers/EVIW-6D3ECDD8A64E1E32.md) · Nature Communications
+- [Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model](papers/EVIW-4CF80ABA93015978.md) · J Cheminform
+- [Generative models for protein sequence modeling: recent advances and future directions](papers/EVIW-C230912D29890725.md) · Brief Bioinform
+- [Generative Multiobjective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design](papers/EVIW-8CC9E4F84F9247B1.md) · Ind Eng Chem Res
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [Genomic annotation for vaccine target identification and immunoinformatics-guided multi-epitope-based vaccine design against Songling virus through screening its whole genome encoded proteins](papers/EVIW-C72D1DEC3FDA5EA4.md) · Frontiers in Immunology
+- [Geometric Deep Learning for Structure-Based Ligand Design](papers/EVIW-CE352CFECBC51F9B.md) · ACS Cent Sci
+- [Geometric deep learning improves generalizability of MHC-bound peptide predictions](papers/EVIW-A3D5B6B8C925B41E.md) · Commun Biol
+- [Geometry-complete diffusion for 3D molecule generation and optimization](papers/EVIW-6AE7A4015DCC251E.md) · Commun Chem
+- [GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction](papers/EVIW-B75B8A6DA9771680.md) · J Chem Inf Model
+- [GPCR-BERT: Interpreting Sequential Design of G Protein-Coupled Receptors Using Protein Language Models](papers/EVIW-22E3EBA72131C076.md) · J Chem Inf Model
+- [GPSFun: geometry-aware protein sequence function predictions with language models](papers/EVIW-19ED48AF3238BE4A.md) · Nucleic Acids Res
+- [GRAPE: graph-regularized protein language modeling unlocks TCR-epitope binding specificity](papers/EVIW-D00A3E12F27E6D37.md) · Brief Bioinform
+- [Graph neural pre-training based drug-target affinity prediction](papers/EVIW-FA386874A4FFEF44.md) · Front Genet
+- [Graph-Aware AURALSTM: An Attentive Unified Representation Architecture with BiLSTM for Enhanced Molecular Property Prediction](papers/EVIW-11B7184B4CDCCEA9.md) · Mol Divers
+- [GraphMHC: Neoantigen prediction model applying the graph neural network to molecular structure](papers/EVIW-E76131B3A3B6CCC4.md) · PLoS One
+- [Graphormer supervised de novo protein design method and function validation](papers/EVIW-AEF2C8AA75D363A6.md) · Brief Bioinform
+- [GTE-PPIS: a protein-protein interaction site predictor based on graph transformer and equivariant graph neural network](papers/EVIW-1FCF26C238C374F6.md) · Brief Bioinform
+- [Guided diffusion for molecular generation with interaction prompt](papers/EVIW-CD8D2F4D209CDB2C.md) · Brief Bioinform
+- [Harnessing generative AI for predicting and optimizing antimicrobial peptides against drug-resistant infections](papers/EVIW-7E1473BE5E2241B3.md) · NPJ Antimicrob Resist
+- [Heuristic multi-site optimization for protein sequence design using Masked Protein Language Models](papers/EVIW-3BF8524B058D7177.md) · PLoS Comput Biol
+- [HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion](papers/EVIW-3A1ACC8879ECFFC5.md) · Chem Sci
+- [High-resolution cryo-EM of the human CDK-activating kinase for structure-based drug design](papers/EVIW-A6BD2E37B70E9799.md) · Nat Commun
+- [High-throughput prediction of protein conformational distributions with subsampled AlphaFold2](papers/EVIW-EEBA22DD03D0F7F6.md) · Nat Commun
+- [High-throughput screening for small-molecule stabilizers of misfolded glucocerebrosidase in Gaucher disease and Parkinson's disease](papers/EVIW-F738FC91BCD3D663.md) · Proc Natl Acad Sci U S A
+- [Highly accurate carbohydrate-binding site prediction with DeepGlycanSite](papers/EVIW-EC3B521734D2CD73.md) · Nat Commun
+- [Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework](papers/EVIW-3ECB78AEE0E7C23D.md) · Brief Bioinform
+- [HLA I immunopeptidome of synthetic long peptide pulsed human dendritic cells for therapeutic vaccine design](papers/EVIW-0EA8CC81C58675DC.md) · NPJ Vaccines
+- [Human-in-the-loop active learning for goal-oriented molecule generation](papers/EVIW-4EBEF1B1736214A1.md) · J Cheminform
+- [Hybrid Approach to Protein–Protein Complex Affinity Prediction Based on Language Models and Molecular Dynamics](papers/EVIW-11308829464B5DDF.md) · Int J Mol Sci
+- [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](papers/EVIW-571E77FA9E72F955.md) · bioRxiv preprint
+- [Hybrid Dual-Context Prompted Cross-Attention Framework with Language Model Guidance for Multi-Label Prediction of Human Off-Target Ligand-Protein Interactions](papers/EVIW-B72BFE30F8217623.md) · Int J Mol Sci
+- [Hybrid protein-ligand binding residue prediction with protein language models: does the structure matter?](papers/EVIW-EA13F1D6FE41297E.md) · Bioinformatics
+- [HybridGCN for protein solubility prediction with adaptive weighting of multiple features](papers/EVIW-7EB0644884548F6C.md) · J Cheminform
+- [HydrogelFinder: A Foundation Model for Efficient Self‐Assembling Peptide Discovery Guided by Non‐Peptidal Small Molecules](papers/EVIW-C75DCBB690B8C2D3.md) · Adv Sci (Weinh)
+- [Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes](papers/EVIW-75C84AFE6611C054.md) · Nat Commun
+- [HyperPCM: Robust Task-Conditioned Modeling of Drug-Target Interactions](papers/EVIW-3792DEB4F3929498.md) · J Chem Inf Model
+- [Identification and Design of Novel Potential Antimicrobial Peptides Targeting Mycobacterial Protein Kinase PknB](papers/EVIW-A5CF896B45EDAAC3.md) · Protein J
+- [Identification of Novel Extracellular-Signal-Regulated Kinase 2 Inhibitors Through Machine Learning-Driven De Novo Design, Molecular Docking, and Free-Energy Perturbation](papers/EVIW-7C59FBCE9E2F9366.md) · Pharmaceuticals (Basel)
+- [Identification of plant vacuole proteins by using graph neural network and contact maps](papers/EVIW-F784C77038E0FCCF.md) · BMC Bioinformatics
+- [Identification of Potent Acetylcholinesterase Inhibitors as New Candidates for Alzheimer Disease via Virtual Screening, Molecular Docking, Dynamic Simulation, and Molecular Mechanics–Poisson–Boltzmann Surface Area Calculations](papers/EVIW-9F227EF489FEA803.md) · Molecules
+- [Identifying the natural products in the treatment of atherosclerosis by increasing HDL-C level based on bioinformatics analysis, molecular docking, and in vitro experiment](papers/EVIW-716ED39BC8A83E83.md) · J Transl Med
+- [IDP-LM: Prediction of protein intrinsic disorder and disorder functions based on language models](papers/EVIW-2DE697E431AB06B3.md) · PLoS Comput Biol
+- [IEV2Mol: Molecular Generative Model Considering Protein-Ligand Interaction Energy Vectors](papers/EVIW-03ED7DB23F4F78B7.md) · J Chem Inf Model
+- [ifDEEPre: large protein language-based deep learning enables interpretable and fast predictions of enzyme commission numbers](papers/EVIW-79348126FDC75CF4.md) · Brief Bioinform
+- [Illuminating protein space with a programmable generative model](papers/EVIW-6223B4C58A3E1894.md) · Nature
+- [iMFP-LG: Identify Novel Multi-functional Peptides Using Protein Language Models and Graph-based Deep Learning](papers/EVIW-8B7452D150DEFDA3.md) · Genomics Proteomics Bioinformatics
+- [Improving antibody language models with native pairing](papers/EVIW-00430A1EC76AD16D.md) · Patterns (N Y)
+- [Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data](papers/EVIW-FB7086C56CA1FC5B.md) · Nat Methods
+- [Improving protein interaction prediction in GenPPi: a novel interaction sampling approach preserving network topology](papers/EVIW-DF0545692476B7C4.md) · BMC Bioinformatics
+- [Improving protein-ligand complex generation with force field guidance](papers/EVIW-3FC672A3E4A616F4.md) · J Cheminform
+- [In silico screening of protein-binding peptides with an application to developing peptide inhibitors against antibiotic resistance](papers/EVIW-CFF2D809F391FE3C.md) · PNAS Nexus
+- [In vivo screening for toxicity-modulating drug interactions identifies antagonism that protects against ototoxicity in zebrafish](papers/EVIW-FC6DB7E36A3F815A.md) · Front Pharmacol
+- [Insights into next generation sequencing guided antibody selection strategies](papers/EVIW-D8CC7F2F2F5F073D.md) · Sci Rep
+- [InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments](papers/EVIW-E410089C4FA4C69C.md) · Nature Machine Intelligence
+- [Integrated convolution and self-attention for improving peptide toxicity prediction](papers/EVIW-80816B41CDFB17A0.md) · Bioinformatics
+- [Integrating computational methods guided the discovery of phytochemicals as potential Pin1 inhibitors for cancer: pharmacophore modeling, molecular docking, MM-GBSA calculations and molecular dynamics studies](papers/EVIW-E3AE76E68A51977E.md) · Front Chem
+- [Integrating genetic algorithms and language models for enhanced enzyme design](papers/EVIW-6F408BE036DFFB9B.md) · Brief Bioinform
+- [Integrating Pharmacogenomics and Network Topology for Machine Learning Prediction of HLA-Associated Severe Cutaneous Adverse Drug Reactions](papers/EVIW-22277B55965967F9.md) · Int J Mol Sci
+- [Integrating Transformers and Many-Objective Optimization for Cancer Drug Design](papers/EVIW-794300AEDE5FAFED.md) · Research Square preprint
+- [Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction](papers/EVIW-88802DA5D524552E.md) · Nat Commun
+- [Integration of pre-trained protein language models with equivariant graph neural networks for peptide toxicity prediction](papers/EVIW-7EA3F029D887221F.md) · BMC Biology
+- [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](papers/EVIW-27D403917F03FFDC.md) · Nat Comput Sci
+- [Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions](papers/EVIW-B8221048D3E0EDF2.md) · Nat Commun
+- [iProtDNA-SMOTE: Enhancing protein-DNA binding sites prediction through imbalanced graph neural networks](papers/EVIW-C59AE2936DFD7151.md) · PLOS ONE
+- [JASPAR 2026: expansion of transcription factor binding profiles and integration of deep learning models](papers/EVIW-E4994E0304561D88.md) · Nucleic Acids Res
+- [KcsA-Kv1.x chimeras with complete ligand-binding sites provide improved predictivity for screening selective Kv1.x blockers](papers/EVIW-6421E43AB83FF29B.md) · J Biol Chem
+- [Keras/TensorFlow in Drug Design for Immunity Disorders](papers/EVIW-4AA4D88EAE77A3C6.md) · Int J Mol Sci
+- [Key considerations based on pharmacokinetic/pharmacodynamic in the design of antibody-drug conjugates](papers/EVIW-524CF2A3105DAD39.md) · Front Oncol
+- [KGDiff: towards explainable target-aware molecule generation with knowledge guidance](papers/EVIW-76C901E60A08C983.md) · Brief Bioinform
+- [Language models can identify enzymatic binding sites in protein sequences](papers/EVIW-99773954949241B5.md) · Comput Struct Biotechnol J
+- [LANTERN: TCR-peptide binding prediction via large language model representations](papers/EVIW-CFC36146C459CA15.md) · PeerJ
+- [Large Language Model Agent for Modular Task Execution in Drug Discovery](papers/EVIW-746AC8110B53CD45.md) · J Chem Inf Model
+- [Large scale paired antibody language models](papers/EVIW-F11B407E2D7D8A73.md) · PLoS Comput Biol
+- [Large-language models facilitate discovery of the molecular signatures regulating sleep and activity](papers/EVIW-11A654DEA4B441F3.md) · Nat Commun
+- [Learnt representations of proteins can be used for accurate prediction of small molecule binding sites on experimentally determined and predicted protein structures](papers/EVIW-7AE6844DD06B36E5.md) · J Cheminform
+- [Lessons from Deep Learning Structural Prediction of Multistate Multidomain Proteins—The Case Study of Coiled-Coil NOD-like Receptors](papers/EVIW-362466EDAD859B72.md) · Int J Mol Sci
+- [LigandDiff: de Novo Ligand Design for 3D Transition Metal Complexes with Diffusion Models](papers/EVIW-8F58F11A4939A0DF.md) · J Chem Theory Comput
+- [Linker-GPT: design of Antibody-drug conjugates linkers with molecular generators and reinforcement learning](papers/EVIW-711D16F025D99079.md) · Scientific Reports
+- [Lipoprotein Signal Peptide as Adjuvants: Leveraging Lipobox-Driven TLR2 Activation in Modern Vaccine Design](papers/EVIW-616A71F542DC7BE9.md) · Vaccines (Basel)
+- [LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding](papers/EVIW-02F2CAC014E9FB65.md) · Noncoding RNA Res
+- [Locuaz: an in silico platform for protein binders optimization](papers/EVIW-75B485A2F0A9568D.md) · Bioinformatics
+- [LSTM-driven drug design using SELFIES for target-focused de novo generation of HIV-1 protease inhibitor candidates for AIDS treatment](papers/EVIW-776BAC741ACF2378.md) · PLoS One
+- [M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structures](papers/EVIW-9B46DF810E666BD8.md) · BMC Bioinformatics
+- [Machine learning application to predict binding affinity between peptide containing non-canonical amino acids and HLA-A0201](papers/EVIW-1064EC94E290F45D.md) · PLoS One
+- [Machine learning approaches for predicting protein-ligand binding sites from sequence data](papers/EVIW-3398915ED0CEE12D.md) · Front Bioinform
+- [Machine learning assisted rational design of antimicrobial peptides based on human endogenous proteins and their applications for cosmetic preservative system optimization](papers/EVIW-EE6174BA055B0122.md) · Sci Rep
+- [Machine learning coarse-grained potentials of protein thermodynamics](papers/EVIW-1CF3E7A2D828542E.md) · Nat Commun
+- [Machine Learning Empowering Drug Discovery: Applications, Opportunities and Challenges](papers/EVIW-A8BABE8EC814634C.md) · Molecules
+- [Machine Learning Integrating Protein Structure, Sequence, and Dynamics to Predict the Enzyme Activity of Bovine Enterokinase Variants](papers/EVIW-15E2DBA73C1519C4.md) · J Chem Inf Model
+- [Machine learning predictor PSPire screens for phase-separating proteins lacking intrinsically disordered regions](papers/EVIW-7D646DB8FA15FE2B.md) · Nat Commun
+- [Machine learning-aided design and screening of an emergent protein function in synthetic cells](papers/EVIW-38CF1AFDF8FF6388.md) · Nat Commun
+- [Machine learning-based approaches for ubiquitination site prediction in human proteins](papers/EVIW-F8E52A4CD4F0DEA9.md) · BMC Bioinformatics
+- [Machine learning–driven discovery of antimicrobial peptides against Pseudomonas aeruginosa](papers/EVIW-270F20E09B0FD7FF.md) · Front Pharmacol
+- [MAPLE: interpretable deep learning identifies selective antimicrobial peptides using joint evolutionary–physicochemical analysis](papers/EVIW-E44B76ADFCA574C0.md) · Brief Bioinform
+- [MDF-DTA: A Multi-Dimensional Fusion Approach for Drug-Target Binding Affinity Prediction](papers/EVIW-E18C301976BF7DBA.md) · J Chem Inf Model
+- [MechFind: a computational framework for de novo prediction of enzyme mechanisms](papers/EVIW-45F28D684740026A.md) · Nature Communications
+- [MIFAM-DTI: a drug-target interactions predicting model based on multi-source information fusion and attention mechanism](papers/EVIW-687A8F948317CEBB.md) · Front Genet
+- [Mining and Validation of Novel Umami Peptides in Non-Alcoholic Beer by Integrating Machine Learning Prediction, Molecular Docking, and Sensory Validation, and Their Mult...](papers/EVIW-0C19992621209D05.md) · Foods
+- [Mining for Potent Inhibitors through Artificial Intelligence and Physics: A Unified Methodology for Ligand Based and Structure Based Drug Design](papers/EVIW-7DE1137A015AA401.md) · J Chem Inf Model
+- [MISATO: machine learning dataset of protein-ligand complexes for structure-based drug discovery](papers/EVIW-5313F99B646EE803.md) · Nat Comput Sci
+- [MMPred: a tool to predict peptide mimicry events in MHC class II recognition](papers/EVIW-215D94F22C60E301.md) · Front Genet
+- [Modeling Protein–Protein and Protein–Ligand Interactions by the ClusPro Team in CASP16](papers/EVIW-A0ED72899D0BF4C7.md) · Proteins
+- [MOFormer: navigating the antimicrobial peptide design space with Pareto-based multi-objective transformer](papers/EVIW-DDA5A6DE373DB097.md) · Brief Bioinform
+- [Molecular co-assembled strategy tuning protein conformation for cartilage regeneration](papers/EVIW-9926183132EFD640.md) · Nat Commun
+- [Molecular Docking Analysis of Heparin-Diclofenac Complexes: Insights into Enhanced Cox Enzyme Inhibition for Pain Management](papers/EVIW-E9D0A7FE5A425F5E.md) · Life (Basel)
+- [Molecular embedding-based algorithm selection in protein-ligand docking](papers/EVIW-C523617C641D7770.md) · J Cheminform
+- [Molecular fingerprints are strong models for peptide function prediction](papers/EVIW-8B9311D2D9CE4EF1.md) · Bioinformatics
+- [Molecular insights into kaempferol derivatives as potential inhibitors for CDK2 in colon cancer: pharmacophore modeling, docking, and dynamic analysis](papers/EVIW-96DE5B12E1C7E4BB.md) · Front Chem
+- [Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning](papers/EVIW-5563135995C558B7.md) · Commun Chem
+- [Molecular set representation learning](papers/EVIW-85D291B8690C6C29.md) · Nature Machine Intelligence
+- [Molecular-level protein semantic learning via structure-aware coarse-grained language modeling](papers/EVIW-01A2549BFA96DEBC.md) · Bioinformatics
+- [MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation](papers/EVIW-BA2790340B49F580.md) · J Chem Theory Comput
+- [MoleculeFormer is a GCN-transformer architecture for molecular property prediction](papers/EVIW-4FE02D4F53E14E17.md) · Communications Biology
+- [MoleMCL: a multi-level contrastive learning framework for molecular pre-training](papers/EVIW-1E03BAE643FFD505.md) · Bioinformatics
+- [MolMVC: Enhancing molecular representations for drug-related tasks through multi-view contrastive learning](papers/EVIW-B4F99E0FCFBFDBDF.md) · Bioinformatics
+- [MolPIF: a parameter interpolation flow model for molecule generation](papers/EVIW-CF0CF17881A92EFC.md) · Bioinformatics
+- [MPBind: a multitask protein binding site predictor using protein language models and equivariant GNNs](papers/EVIW-8D488E8314E26BBB.md) · Bioinformatics
+- [MSAT: a FAERS-informed heterogeneous graph neural network for pharmacovigilance prediction of Chinese materia medica–associated adverse drug reactions](papers/EVIW-6EDE5E961DBE531E.md) · Front Pharmacol
+- [MULAN: multimodal protein language model for sequence and structure encoding](papers/EVIW-723AD18D0B910730.md) · Bioinform Adv
+- [Multi-feature enhanced protein language models for accurate protein-RNA binding residue prediction](papers/EVIW-C0E4B8B295CD0E78.md) · Discover Artificial Intelligence
+- [Multi-indicator comparative evaluation for deep learning-based protein sequence design methods](papers/EVIW-8DDAC377EF9B4668.md) · Bioinformatics
+- [Multi-modal features-based human-herpesvirus protein-protein interaction prediction by using LightGBM](papers/EVIW-E6C9A04E4627E40B.md) · Brief Bioinform
+- [Multi-Modal Topology-Aware Graph Neural Network for Robust Chemical–Protein Interaction Prediction](papers/EVIW-6911ECFF6567B7FE.md) · Int J Mol Sci
+- [Multi-Property De Novo Drug Design Using Deep Learning-Based Knowledge Distillation and Reinforcement Learning](papers/EVIW-FCBA3B306071F343.md) · Int J Mol Sci
+- [Multi-task bioassay pre-training for protein-ligand binding affinity prediction](papers/EVIW-EC580540DF307D9E.md) · Brief Bioinform
+- [Multi-View Biomedical Foundation Models for Molecule-Target and Property Prediction](papers/EVIW-30CB21D1BF9FB596.md) · Adv Sci (Weinh)
+- [Multimodal diffusion for joint design of protein sequence and structure](papers/EVIW-5AE373C130864D82.md) · Protein Sci
+- [Multimodal learning in clinical proteomics: enhancing antimicrobial resistance prediction models with chemical information](papers/EVIW-817D5BB12EEE1B9E.md) · Bioinformatics
+- [Multimodal learning on heterogeneous subgraphs and LLMs representation for MHC-peptide binding affinity prediction](papers/EVIW-D72122024E05F9F5.md) · BMC Bioinformatics
+- [Multimodal Protein Representation Learning and Target-aware Variational Auto-encoders for Protein-binding Ligand Generation](papers/EVIW-3E703C5F9F927E28.md) · Research Square preprint
+- [Multistate and functional protein design using RoseTTAFold sequence space diffusion](papers/EVIW-1885107C07DD1242.md) · Nature Biotechnology
+- [MuToN Quantifies Binding Affinity Changes upon Protein Mutations by Geometric Deep Learning](papers/EVIW-BA8CD2D90E270D39.md) · Adv Sci (Weinh)
+- [Mutual annotation-based prediction of protein domain functions with Domain2GO](papers/EVIW-59363E818003F4AF.md) · Protein Sci
+- [MVRBind: multi-view learning for RNA-small molecule binding site prediction](papers/EVIW-1C4F432A13C3AD34.md) · Brief Bioinform
+- [MVSO-PPIS: a structured objective learning model for protein-protein interaction sites prediction via multi-view graph information integration](papers/EVIW-0665AE2922F1C927.md) · Bioinformatics
+- [NAC4ED: A high-throughput computational platform for the rational design of enzyme activity and substrate selectivity](papers/EVIW-46385D553969B118.md) · mLife
+- [NanoBinder: a machine learning assisted nanobody binding prediction tool using Rosetta energy scores](papers/EVIW-F71426628BACE35E.md) · Journal of Cheminformatics
+- [Nature’s defense against emerging neurodegenerative threats: Dynamic simulation, PCA, DCCM identified potential plant-based antiviral lead targeting borna disease virus nucleoprotein](papers/EVIW-18035DE6B31CBCCE.md) · PLoS One
+- [Next Generation SICLOPPS Screening for the Identification of Inhibitors of the HIF-1α/HIF-1β Protein-Protein Interaction](papers/EVIW-5A8CE5D0431D65FB.md) · ACS Chem Biol
+- [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](papers/EVIW-FB7FD6B2AF942CF0.md) · BMC Biology
+- [NIMO: A Natural Product-Inspired Molecular Generative Model Based on Conditional Transformer](papers/EVIW-DDEFC294A4BFD2F3.md) · Molecules
+- [Normalized Protein-Ligand Distance Likelihood Score for End-to-End Blind Docking and Virtual Screening](papers/EVIW-7C3C8ADEABA829E3.md) · J Chem Inf Model
+- [Novel antimicrobial peptides against Cutibacterium acnes designed by deep learning](papers/EVIW-8C5FAD76AB2C6BBD.md) · Sci Rep
+- [Nucleotide context models outperform protein language models for predicting antibody affinity maturation](papers/EVIW-54070BE482574736.md) · PLoS Comput Biol
+- [On the difficulty of validating molecular generative models realistically: a case study on public and proprietary data](papers/EVIW-987975E1F8F992B3.md) · J Cheminform
+- [One step forward towards deep-learning protein complex structure prediction by precise multiple sequence alignment construction](papers/EVIW-213FDD6F0C8EC2DA.md) · Clin Transl Med
+- [Opioid/Dopamine Receptor Binding Studies, NMR and Molecular Dynamics Simulation of LENART01 Chimera, an Opioid-Bombesin-like Peptide](papers/EVIW-08C055C70552D8D8.md) · Molecules
+- [Opportunities and Challenges for Machine Learning-Assisted Enzyme Engineering](papers/EVIW-FA0D3E8C8C44A6F0.md) · ACS Cent Sci
+- [Optimization of binding affinities in chemical space with generative pre-trained transformer and deep reinforcement learning](papers/EVIW-F61E94423526029D.md) · F1000Res
+- [Optimization of drug-target affinity prediction methods through feature processing schemes](papers/EVIW-CEACCF94FA0C0158.md) · Bioinformatics
+- [Optimizing drug design by merging generative AI with a physics-based active learning framework](papers/EVIW-50D727060A34458E.md) · Communications Chemistry
+- [Optimizing enzyme thermostability by combining multiple mutations using protein language model](papers/EVIW-1F0317EDE567CE78.md) · mLife
+- [OrgNet+: towards robust protein stability prediction with convolutional neural networks](papers/EVIW-58D3E8C0E71F5BAB.md) · Bioinformatics
+- [p-IgGen: a paired antibody generative language model](papers/EVIW-38FE5D1C96C03B2A.md) · Bioinformatics
+- [PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking](papers/EVIW-041FA648F6D77FF2.md) · bioRxiv preprint
+- [PatchProt: hydrophobic patch prediction using protein foundation models](papers/EVIW-489DE22C3AA92EB0.md) · Bioinform Adv
+- [PED: a novel predictor-encoder-decoder model for Alzheimer drug molecular generation](papers/EVIW-5F546E2D7FA21560.md) · Front Artif Intell
+- [PepINVENT: generative peptide design beyond natural amino acids](papers/EVIW-3E36560C8B5CDCDB.md) · Chem Sci
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PepNet: an interpretable neural network for anti-inflammatory and antimicrobial peptides prediction using a pre-trained protein language model](papers/EVIW-D985354C317F9E28.md) · Communications Biology
+- [Peptide binder design with inverse folding and protein structure prediction](papers/EVIW-A1287DC66E85C7EA.md) · Commun Chem
+- [Peptide-Aware Chemical Language Model Successfully Predicts Membrane Diffusion of Cyclic Peptides](papers/EVIW-8A9A06F1043F02B8.md) · Journal of Chemical Information and Modeling
+- [PeptiVerse: A unified platform for therapeutic peptide property prediction](papers/EVIW-A02DA92D045E68B7.md) · Nature Communications
+- [pH-Responsive Elastin-Like Polypeptide Designer Condensates](papers/EVIW-88141ED2186FE3C3.md) · ACS Appl Mater Interfaces
+- [Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling](papers/EVIW-768EC931C6366253.md) · Brief Bioinform
+- [PHIStruct: improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings](papers/EVIW-FE0F8AB0DCCFA28D.md) · Bioinformatics
+- [PhosBoost: Improved phosphorylation prediction recall using gradient boosting and protein language models](papers/EVIW-6144C586F0C7E057.md) · Plant Direct
+- [PhyloSuite v2: The development of an all-in-one, efficient and visualization-oriented suite for molecular dating analysis and other advanced features](papers/EVIW-ED9B7B2C7CD82350.md) · Imeta
+- [PI-Mamba: linear-time protein backbone generation via spectrally initialized flow matching](papers/EVIW-02F3D8D5AADFAEE5.md) · Bioinformatics
+- [PLiSAGE: enhancing protein-ligand interaction prediction with multimodal surface and geometry encoding](papers/EVIW-7B3BB7FC1C77330C.md) · Bioinformatics
+- [pMHChat, characterizing the interactions between major histocompatibility complex class II molecules and peptides with large language models and deep hypergraph learning](papers/EVIW-47213BB42F0B8049.md) · Brief Bioinform
+- [PMIpred: a physics-informed web server for quantitative protein–membrane interaction prediction](papers/EVIW-B7344ADA79740409.md) · Bioinformatics
+- [Pocket Crafter: a 3D generative modeling based workflow for the rapid generation of hit molecules in drug discovery](papers/EVIW-36A749A84CFDA403.md) · Journal of Cheminformatics
+- [POOE: predicting oomycete effectors based on a pre-trained large protein language model](papers/EVIW-426A1A532D5D26FF.md) · mSystems
+- [Post-processing enhances protein secondary structure prediction with second order deep learning and embeddings](papers/EVIW-974DF7FD702DC54E.md) · Comput Struct Biotechnol J
+- [PPI-Diff: De Novo Generation of Peptide Binders via Resolution-Aware Geometric Diffusion](papers/EVIW-1E14B1FE6D202679.md) · Biomolecules
+- [PPI-Graphomer: enhanced protein-protein affinity prediction using pretrained and graph transformer models](papers/EVIW-D5826B6BE45CEB6A.md) · BMC Bioinformatics
+- [PractiCPP: a deep learning approach tailored for extremely imbalanced datasets in cell-penetrating peptide prediction](papers/EVIW-BCFBFEF388C36C02.md) · Bioinformatics
+- [Precise Generation of Conformational Ensembles for Intrinsically Disordered Proteins via Fine-tuned Diffusion Models](papers/EVIW-5CE9DC528115448C.md) · bioRxiv preprint
+- [Precision antimicrobials: the next paradigm shift after broad-spectrum therapy](papers/EVIW-D5DF4C6464F9E9D9.md) · Front Microbiol
+- [Predicting ADMET Properties from Molecule SMILE: A Bottom-Up Approach Using Attention-Based Graph Neural Networks](papers/EVIW-31DF9988F21F0F0B.md) · Pharmaceutics
+- [Predicting blood–brain barrier permeability of molecules with a large language model and machine learning](papers/EVIW-02B621CFAF1FFA56.md) · Sci Rep
+- [Predicting drug‐perturbed transcriptional responses using multi‐conditional diffusion transformer](papers/EVIW-E395FE01ADC316B7.md) · Quant Biol
+- [Predicting peroxisome proliferator-activated receptor gamma potency of small molecules: a synergistic consensus model and deep learning binding affinity approach powered by Enalos Cloud Platform](papers/EVIW-00CA1038713C40D3.md) · Mol Divers
+- [Predicting protein–carbohydrate binding sites: a deep learning approach integrating protein language model embeddings and structural features](papers/EVIW-2B57DB63EFE65586.md) · Brief Bioinform
+- [Predicting the conformational flexibility of antibody and T cell receptor complementarity-determining regions](papers/EVIW-3B2B490A01870886.md) · Nat Mach Intell
+- [Predicting Transcription Factor Binding Sites with Deep Learning](papers/EVIW-4DE71E4E5BC22265.md) · Int J Mol Sci
+- [Prediction and design of thermostable proteins with a desired melting temperature](papers/EVIW-F4198C42346A9E3A.md) · Scientific Reports
+- [Prediction of antibiotic resistance mechanisms using a protein language model](papers/EVIW-DF4F66AEE5CA4D6A.md) · Bioinformatics
+- [Prediction of liquid–liquid phase separation proteins based on protein language model](papers/EVIW-5C0E1B3C27B595A5.md) · Brief Bioinform
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Prediction of polyspecificity from antibody sequence data by machine learning](papers/EVIW-1D71405426232F03.md) · Front Bioinform
+- [Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation](papers/EVIW-CFF211E7FC7B9340.md) · Sci Rep
+- [Prediction of Thermostability of Enzymes Based on the Amino Acid Index (AAindex) Database and Machine Learning](papers/EVIW-5A88A4F560515F6B.md) · Molecules
+- [Preferential CDR masking in paired antibody language models improves binding affinity prediction](papers/EVIW-0BE96BB606351927.md) · Communications AI & Computing
+- [Pretrainable geometric graph neural network for antibody affinity maturation](papers/EVIW-EF1A8384D5AD5106.md) · Nature Communications
+- [Primary sequence based protein-protein interaction binder generation with transformers](papers/EVIW-EA884EE67692937E.md) · Discover Artificial Intelligence
+- [PRO-LDM: A Conditional Latent Diffusion Model for Protein Sequence Design and Functional Optimization](papers/EVIW-C3FDA26B02DE8830.md) · Adv Sci (Weinh)
+- [Probabilistic generative transformer language models for generative design of molecules](papers/EVIW-C0C005C3739D6CDB.md) · J Cheminform
+- [Programmable protein stabilization with language model-derived peptide guides](papers/EVIW-FE530DA12E55A92A.md) · Nature Communications
+- [Prompt-to-Pill: Multi-Agent Drug Discovery and Clinical Simulation Pipeline](papers/EVIW-9ED27D0068D38655.md) · Bioinform Adv
+- [Prospective de novo drug design with deep interactome learning](papers/EVIW-DDD30F904E03A0E0.md) · Nat Commun
+- [ProT-GFDM: A generative fractional diffusion model for protein generation](papers/EVIW-1AEFB724D39999C4.md) · Computational and Structural Biotechnology Journal
+- [Protein A-like Peptide Design Based on Diffusion and ESM2 Models](papers/EVIW-806C0F8BBDF226B8.md) · Molecules
+- [Protein Biomarkers Shared by Multiple Neurodegenerative Diseases Are Calmodulin-Binding Proteins Offering Novel and Potentially Universal Therapeutic Targets](papers/EVIW-6FC92A0D0820C724.md) · J Clin Med
+- [Protein design using structure-based residue preferences](papers/EVIW-73A3EA2A0A3BFC91.md) · Nat Commun
+- [Protein embeddings predict binding residues in disordered regions](papers/EVIW-A8926FF4DD7A845A.md) · Sci Rep
+- [Protein intrinsically disordered region prediction by combining neural architecture search and multi-objective genetic algorithm](papers/EVIW-971C1D1183A6FAC4.md) · BMC Biol
+- [Protein language model embeddings improve HIV drug resistance prediction: a comprehensive benchmark with attention-based interpretability](papers/EVIW-2298CD3BA71BF0DF.md) · Bioinformatics
+- [Protein language model-embedded geometric graphs power inter-protein contact prediction](papers/EVIW-A67BD0A05AA3B3CE.md) · eLife
+- [Protein Language Models and Machine Learning Facilitate the Identification of Antimicrobial Peptides](papers/EVIW-BF2DD47B64FE886A.md) · Int J Mol Sci
+- [Protein language models can capture protein quaternary state](papers/EVIW-367AD9D40B92C56F.md) · BMC Bioinformatics
+- [Protein language models meet reduced amino acid alphabets](papers/EVIW-6C82FA785A104FF8.md) · Bioinformatics
+- [Protein language models uncover carbohydrate-active enzyme function in metagenomics](papers/EVIW-CD412B405D36CFCA.md) · BMC Bioinformatics
+- [Protein remote homology detection and structural alignment using deep learning](papers/EVIW-5E8F2B723F9545BB.md) · Nat Biotechnol
+- [Protein Set Transformer: A protein-based genome language model to power high diversity viromics](papers/EVIW-90178F1EA972262A.md) · bioRxiv preprint
+- [Protein stability prediction by fine-tuning a protein language model on a mega-scale dataset](papers/EVIW-81ABABCCA0141DCD.md) · PLoS Comput Biol
+- [Protein structure generation via folding diffusion](papers/EVIW-872EB564D511B08C.md) · Nat Commun
+- [Protein-ligand binding affinity prediction using multi-instance learning with docking structures](papers/EVIW-5C0DA702F696CD1D.md) · Front Pharmacol
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [ProteomeLM: A proteome-scale language model enables accurate and rapid prediction of protein–protein interactions and gene essentiality across taxa](papers/EVIW-32FD7D3722148CE1.md) · Proc Natl Acad Sci U S A
+- [ProtSeqGen: a novel deep learning model for protein sequence design](papers/EVIW-618377823AEE766A.md) · BMC Bioinformatics
+- [ProT‐Diff: A Modularized and Efficient Strategy for De Novo Generation of Antimicrobial Peptide Sequences by Integrating Protein Language and Diffusion Models](papers/EVIW-C3615774EAE72FC3.md) · Adv Sci (Weinh)
+- [PTM-Mamba: a PTM-aware protein language model with bidirectional gated Mamba blocks](papers/EVIW-5AD4D124DC0AC35A.md) · Nat Methods
+- [Quantum-classical generative models for drug design](papers/EVIW-BDC0DD7FAEA44C1D.md) · Quantum Machine Intelligence
+- [Quantum-classical hybrid learning framework for molecular property prediction and molecule optimization in drug discovery](papers/EVIW-4F0906652A78868E.md) · Journal of Computer-Aided Molecular Design
+- [QuickBind: A Light-Weight And Interpretable Molecular Docking Model](papers/EVIW-527C7FEA245769C5.md) · arXiv preprint
+- [Rapid discovery of high-affinity antibodies via massively parallel sequencing, ribosome display and affinity screening](papers/EVIW-808977826178161D.md) · Nat Biomed Eng
+- [Rapid prediction of key residues for foldability by machine learning model enables the design of highly functional libraries with hyperstable constrained peptide scaffolds](papers/EVIW-1C95A4882CFA116B.md) · PLoS Comput Biol
+- [Rational design of flavivirus E protein vaccine optimizes immunogenicity and mitigates antibody dependent enhancement risk](papers/EVIW-6AE7DC33BBA3D04E.md) · Nat Commun
+- [Rationally seeded computational protein design of ɑ-helical barrels](papers/EVIW-FDA5C6B43CD436AE.md) · Nat Chem Biol
+- [Recent advances in computational antimicrobial peptide discovery through big data, modeling, and artificial intelligence and their interplay in ushering the next golden era of drug development](papers/EVIW-427FAE6AD95695BE.md) · Front Bioinform
+- [Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction](papers/EVIW-D12CA6E5603A8D3C.md) · J Chem Theory Comput
+- [Rethinking peptide developability with sequence-only models: interpretable screening of microplastic-binding peptides with gated query pooling](papers/EVIW-99840038E21BBF77.md) · Chem Sci
+- [RLEAAI: improving antibody–antigen interaction prediction using protein language model and sequence order information](papers/EVIW-BEED86C0B6E8B844.md) · Brief Bioinform
+- [S 2 ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](papers/EVIW-81BCF02102E54A0C.md) · Research (Wash D C)
+- [SaLT&PepPr is an interface-predicting language model for designing peptide-guided protein degraders](papers/EVIW-2E2E82348BA7421D.md) · Commun Biol
+- [Sample efficient reinforcement learning with active learning for molecular design](papers/EVIW-CB1940C39F6CF321.md) · Chem Sci
+- [Scaffold-Lab: Critical evaluation and ranking of protein backbone generation methods in a unified framework](papers/EVIW-245CBF630CEB9822.md) · PLoS Comput Biol
+- [Scaling SMILES-based chemical language models for therapeutic peptide engineering](papers/EVIW-F5B7CCA4515BCA48.md) · bioRxiv
+- [Screening de novo designed protein binders in unpurified lysate using flow induced dispersion analysis](papers/EVIW-2909E3C25C9E9F9F.md) · Protein Sci
+- [Screening of multi deep learning-based de novo molecular generation models and their application for specific target molecular generation](papers/EVIW-D9BFEBB497FF7CE0.md) · Scientific Reports
+- [Sensitive remote homology search by local alignment of small positional embeddings from protein language models](papers/EVIW-FE09597837C23FBA.md) · eLife
+- [Seq2Phase: language model-based accurate prediction of client proteins in liquid-liquid phase separation](papers/EVIW-EFC798AC8E4439DA.md) · Bioinform Adv
+- [Sequence, structure prediction, and epitope analysis of the polymorphic membrane protein family in Chlamydia trachomatis](papers/EVIW-56B801568E1856E2.md) · PLoS One
+- [Sequence-Activity Relationship of Angiotensin-Converting Enzyme Inhibitory Peptides Derived from Food Proteins, Based on a New Deep Learning Model](papers/EVIW-C0909D1E08197D7A.md) · Foods
+- [Sequence-based prediction of the intrinsic solubility of peptides containing non-natural amino acids](papers/EVIW-65F619A543F74CDB.md) · Nat Commun
+- [Sequence-only prediction of binding affinity changes: a robust and interpretable model for antibody engineering](papers/EVIW-A27EE3BD864D2A98.md) · Bioinformatics
+- [Shining light on drug discovery: optogenetic screening for TopBP1 biomolecular condensate inhibitors](papers/EVIW-37A7A7C4B022A4C8.md) · NAR Cancer
+- [Simultaneous enhancement of multiple functional properties using evolution-informed protein design](papers/EVIW-203F936780CD552A.md) · Nat Commun
+- [SOFB is a comprehensive ensemble deep learning approach for elucidating and characterizing protein-nucleic-acid-binding residues](papers/EVIW-9923DFE22B48744F.md) · Commun Biol
+- [SpatialPPI: Three-dimensional space protein-protein interaction prediction with AlphaFold Multimer](papers/EVIW-EFFF07329F054B3F.md) · Comput Struct Biotechnol J
+- [SpatialPPIv2: Enhancing protein-protein interaction prediction through graph neural networks with protein language models](papers/EVIW-F0E393D381C5CCE0.md) · Comput Struct Biotechnol J
+- [SPIN-CGNN: Improved fixed backbone protein design with contact map-based graph construction and contact graph neural network](papers/EVIW-B62B9EA1E43384ED.md) · PLoS Comput Biol
+- [SPOT: A machine learning model that predicts specific substrates for transport proteins](papers/EVIW-A6E7B6A382EF56C8.md) · PLoS Biol
+- [Stabilizing Plasmodium falciparum proteins for small molecule drug discovery](papers/EVIW-CFF2E675DCF2E84C.md) · Protein Sci
+- [StructuralDPPIV: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-IV inhibitory peptides](papers/EVIW-D497BC14270D15F8.md) · Bioinformatics
+- [Structure Prediction and Protein Engineering Yield New Insights into Microcin J25 Precursor Recognition](papers/EVIW-E9A901E4923AAA73.md) · ACS Chem Biol
+- [Structure prediction of alternative protein conformations](papers/EVIW-2A54D144D5FCB54F.md) · Nat Commun
+- [Structure-aware deep learning model for peptide toxicity prediction](papers/EVIW-F80C49767EED2FC0.md) · Protein Sci
+- [Structure-aware deep model for MHC-II peptide binding affinity prediction](papers/EVIW-E9F999EE59819090.md) · BMC Genomics
+- [Structure-aware machine learning strategies for antimicrobial peptide discovery](papers/EVIW-0A19F803228ADC09.md) · Sci Rep
+- [Structure-Based Approaches for Protein-Protein Interaction Prediction Using Machine Learning and Deep Learning](papers/EVIW-45132B2221AB880D.md) · Biomolecules
+- [Structure-based design of a phosphotyrosine-masked covalent ligand targeting the E3 ligase SOCS2](papers/EVIW-A8B798D34F48E25A.md) · Nat Commun
+- [Structure-based prediction of nucleic acid binding residues by merging deep learning- and template-based approaches](papers/EVIW-4E557E8CF39F8A46.md) · PLoS Comput Biol
+- [Structure-based prediction of protein-nucleic acid binding using graph neural networks](papers/EVIW-778F0D9B754DA725.md) · Biophys Rev
+- [Structure-based TCR-pMHC binding prediction and generalization to unseen peptides](papers/EVIW-E07E46D19FBD81BA.md) · npj Drug Discovery
+- [Structure-enhanced deep learning accelerates aptamer selection for small molecule families like steroids](papers/EVIW-89C54A6ECDC07E00.md) · Brief Bioinform
+- [SubMDTA: drug target affinity prediction based on substructure extraction and multi-scale features](papers/EVIW-01443391B114BBA9.md) · BMC Bioinformatics
+- [SumoPred-PLM: human SUMOylation and SUMO2/3 sites Prediction using Pre-trained Protein Language Model](papers/EVIW-342371DAB3074A41.md) · NAR Genom Bioinform
+- [SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction](papers/EVIW-EC9637C020BEE703.md) · bioRxiv preprint
+- [SurfFold: a unified model for protein inverse folding by integrating surface and structural information](papers/EVIW-874EB338BB355D67.md) · Bioinformatics
+- [SwissDock 2024: major enhancements for small-molecule docking with Attracting Cavities and AutoDock Vina](papers/EVIW-8C95A970087008AA.md) · Nucleic Acids Res
+- [Systematic Exploration of Small-Molecule Binding via a Large Language Model Trained on Textualized Protein-Ligand Interactions](papers/EVIW-29AA774D6FE17308.md) · Molecules
+- [t-SMILES: a fragment-based molecular representation framework for de novo ligand design](papers/EVIW-DADFA60369AE3EA8.md) · Nat Commun
+- [Tailored structured peptide design with a key-cutting machine approach](papers/EVIW-3344196F75794324.md) · Nat Mach Intell
+- [TamGen: drug design with target-aware molecule generation through a chemical language model](papers/EVIW-FE15D09DFF53156B.md) · Nat Commun
+- [Target sequence-conditioned design of peptide binders using masked language modeling](papers/EVIW-BF159123222D1607.md) · Nature Biotechnology
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [TargetCLP: clathrin proteins prediction combining transformed and evolutionary scale modeling-based multi-view features via weighted feature integration approach](papers/EVIW-404C5BACD2E2FE9A.md) · Brief Bioinform
+- [TCRBinder: Unified pre-trained language model with paired-chain synergy for predicting T-cell receptor binding specificity](papers/EVIW-1B10BF11D52702A4.md) · PLoS Comput Biol
+- [The Accurate Prediction of Antibody Deamidations by Combining High-Throughput Automated Peptide Mapping and Protein Language Model-Based Deep Learning](papers/EVIW-F063CCE9F585DD43.md) · Antibodies (Basel)
+- [The promises of large language models for protein design and modeling](papers/EVIW-F8ED02A0B71D4CD5.md) · Front Bioinform
+- [The rise of big data: deep sequencing-driven computational methods are transforming the landscape of synthetic antibody design](papers/EVIW-6854B3739083B0DF.md) · J Biomed Sci
+- [The role of artificial intelligence and machine learning in predicting and combating antimicrobial resistance](papers/EVIW-0E5613C62EC99AB5.md) · Comput Struct Biotechnol J
+- [THPLM: a sequence-based deep learning framework for protein stability changes prediction upon point variations using pretrained protein language model](papers/EVIW-5FA829750FC5822C.md) · Bioinformatics
+- [Token-Mol 1.0: tokenized drug design with large language models](papers/EVIW-A49F35F3F1F4BB7E.md) · Nature Communications
+- [Top-Down Machine Learning of Coarse-Grained Protein Force Fields](papers/EVIW-244699D876EF7DD8.md) · J Chem Theory Comput
+- [Towards a Truly General Intermolecular Binding Affinity Calculator for Drug Discovery & Design](papers/EVIW-EF3595BA7CFEACDB.md) · Preprints.org
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [Towards the accurate modelling of antibody-antigen complexes from sequence using machine learning and information-driven docking](papers/EVIW-1F804F232529DF61.md) · Bioinformatics
+- [Tpgen: a language model for stable protein design with a specific topology structure](papers/EVIW-B4DD900E446E25B9.md) · BMC Bioinformatics
+- [TransBind allows precise detection of DNA-binding proteins and residues using language models and deep learning](papers/EVIW-457E2FBD9F52B0DD.md) · Communications Biology
+- [TransFactor—prediction of pro-viral SARS-CoV-2 host factors using a protein language model](papers/EVIW-204A215535DA2931.md) · Bioinformatics
+- [Transfer learning with graph neural networks for improved molecular property prediction in the multi-fidelity setting](papers/EVIW-AC7E20846416A28D.md) · Nat Commun
+- [Transferable deep generative modeling of intrinsically disordered protein conformations](papers/EVIW-C2860AB1F974666A.md) · PLoS Comput Biol
+- [Transformer Learning in Sequence‐Based Drug Design Depends on Compound Memorization and Similarity of Sequence‐Compound Pairs](papers/EVIW-F2A47C3216EC7DEB.md) · Mol Inform
+- [Transformer-Decoder GPT Models for Generating Virtual Screening Libraries of HMG-Coenzyme A Reductase Inhibitors: Effects of Temperature, Prompt Length, and Transfer-Learning Strategies](papers/EVIW-3C57D47B61C5B421.md) · J Chem Inf Model
+- [Transformers enable accurate prediction of acute and chronic chemical toxicity in aquatic organisms](papers/EVIW-A744CE81A2103EEC.md) · Sci Adv
+- [ULDNA: integrating unsupervised multi-source language models with LSTM-attention network for high-accuracy protein-DNA binding site prediction](papers/EVIW-2AD4C34E7E631F20.md) · Brief Bioinform
+- [Ultrahigh-throughput screening-assisted in vivo directed evolution for enzyme engineering](papers/EVIW-E5DC182A1A2C420F.md) · Biotechnol Biofuels Bioprod
+- [UniKP: a unified framework for the prediction of enzyme kinetic parameters](papers/EVIW-8DA30E5B97E9FAFF.md) · Nat Commun
+- [Unraveling druggable cancer-driving proteins and targeted drugs using artificial intelligence and multi-omics analyses](papers/EVIW-E7967B111A41F5EB.md) · Scientific Reports
+- [Unveiling Switching Function of Amino Acids in Proteins Using a Machine Learning Approach](papers/EVIW-6E7A213DBFD9F077.md) · J Chem Theory Comput
+- [Using deep learning and large protein language models to predict protein-membrane interfaces of peripheral membrane proteins](papers/EVIW-90130005AA3C23BF.md) · Bioinform Adv
+- [Using protein language models for protein interaction hot spot prediction with limited data](papers/EVIW-67FB689C91FAADD9.md) · BMC Bioinformatics
+- [Utility of the Morgan Fingerprint in Structure-Based Virtual Ligand Screening](papers/EVIW-184C215C5D4F8AB2.md) · J Phys Chem B
+- [Utilizing Molecular Dynamics Simulations, Machine Learning, Cryo-EM, and NMR Spectroscopy to Predict and Validate Protein Dynamics](papers/EVIW-A70BA40F241E16C8.md) · Int J Mol Sci
+- [Vaccinomics-aided next-generation novel multi-epitope-based vaccine engineering against multidrug resistant Shigella Sonnei: Immunoinformatics and chemoinformatics approaches](papers/EVIW-A8301B26D48B6C75.md) · PLoS One
+- [VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design](papers/EVIW-817614F6D85CF180.md) · J Chem Inf Model
+- [VGAE-MCTS: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search](papers/EVIW-E055FF023C0B29CB.md) · J Chem Inf Model
+- [VirusHound-I: prediction of viral proteins involved in the evasion of host adaptive immune response using the random forest algorithm and generative adversarial network](papers/EVIW-DC23DC882167B02D.md) · Brief Bioinform
+- [VISH-Pred: an ensemble of fine-tuned ESM models for protein toxicity prediction](papers/EVIW-A2E8C5BC0F97026E.md) · Brief Bioinform
+- [When Protein Structure Embedding Meets Large Language Models](papers/EVIW-3C9A3952CB15CE69.md) · Genes (Basel)
+- [xBitterT5: an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides](papers/EVIW-AD4E50B8A34842BA.md) · Journal of Cheminformatics
+- [xCAPT5: protein-protein interaction prediction using deep and wide multi-kernel pooling convolutional neural networks with protein language model](papers/EVIW-548BA32503295D77.md) · BMC Bioinformatics
+- [Zero-shot prediction of mutation effects with multimodal deep representation learning guides protein engineering](papers/EVIW-352EF67848CF571F.md) · Cell Res
+- [ZeroGEN: leveraging language models for zero-shot ligand design from protein sequences](papers/EVIW-2B81F9DEB564E4C3.md) · Bioinformatics
+
+### Pi 已解析（526）
+
+- [3 = 1 + 2: how the divide conquered de novo protein structure prediction and what is next?](papers/EVIW-CE1BFEB1B4EFF5F3.md) · Natl Sci Rev
+- [3D molecular generative framework for interaction-guided drug design](papers/EVIW-7F3D00C76F88E2D5.md) · Nat Commun
+- [A Comparative Study of Deep Learning and Classical Modeling Approaches for Protein–Ligand Binding Pose and Affinity Prediction in Coronavirus Main Proteases](papers/EVIW-C32EB93F00BC417D.md) · J Chem Inf Model
+- [A conditional denoising VAE-based framework for antimicrobial peptides generation with preserving desirable properties](papers/EVIW-B66607838B13CDF6.md) · Bioinformatics
+- [A conditional protein diffusion model generates artificial programmable endonuclease sequences with enhanced activity](papers/EVIW-C01A245FD055519A.md) · Cell Discov
+- [A deep learning framework for comprehensive prediction of human RNA G-quadruplex-binding proteins](papers/EVIW-299B7FE985681753.md) · Bioinformatics
+- [A deep learning method for drug-target affinity prediction based on sequence interaction information mining](papers/EVIW-643B1E1D6A4DC185.md) · PeerJ
+- [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](papers/EVIW-87C7E30CF2A5F5BF.md) · bioRxiv preprint
+- [A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets](papers/EVIW-EECA1B7E57AE69E8.md) · Nat Commun
+- [A dual diffusion model-based representation learning framework for antimicrobial peptides classification](papers/EVIW-584A3279CA37FE46.md) · Bioinformatics
+- [A Folding-Docking-Affinity framework for protein-ligand binding affinity prediction](papers/EVIW-B2B46F1438C6AEE1.md) · Communications Chemistry
+- [A Foundation Model Identifies Broad-Spectrum Antimicrobial Peptides against Drug-Resistant Bacterial Infection](papers/EVIW-051601A26FADD01F.md) · Nature Communications
+- [A general prediction model for compound-protein interactions based on deep learning](papers/EVIW-9800F11849B695A5.md) · Front Pharmacol
+- [A general temperature-guided language model to design proteins of enhanced stability and activity](papers/EVIW-A579ED1310C4033A.md) · Sci Adv
+- [A generative artificial intelligence approach for peptide antibiotic optimization](papers/EVIW-B47A1491CBD2F081.md) · Nat Mach Intell
+- [A generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture](papers/EVIW-06EDA5AA4592091B.md) · Commun Chem
+- [A generative explainable model for antimicrobial peptide prediction using bidirectional temporal convolutional neural network](papers/EVIW-FD12D61BC580B2CB.md) · Scientific Reports
+- [A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules](papers/EVIW-A7B87B84C2DD8D8D.md) · Nature Communications
+- [A Machine Learning Model for the Proteome-Wide Prediction of Lipid-Interacting Proteins](papers/EVIW-B69B7E2E38FB74D8.md) · J Chem Inf Model
+- [A Machine Learning-Enabled Venom Peptide Platform for Rapid Drug Discovery](papers/EVIW-27ACE42DCA76D5BE.md) · Pharmaceuticals (Basel)
+- [A modular protein language modelling approach to immunogenicity prediction](papers/EVIW-8F8C157B31B1403C.md) · PLoS Comput Biol
+- [A Molecular-Protein Fusion Framework for Rapid Virtual Screening: Accelerating Lead Discovery for 'Undruggable' Oncogenic Targets](papers/EVIW-DB4950B4D4A2E3D1.md) · Pharmaceuticals (Basel)
+- [A Multi-Task Self-Supervised Strategy for Predicting Molecular Properties and FGFR1 Inhibitors](papers/EVIW-0AE3B8186F6B90E7.md) · Adv Sci (Weinh)
+- [A multimodal Transformer Network for protein-small molecule interactions enhances predictions of kinase inhibition and enzyme-substrate relationships](papers/EVIW-B3F9D365DAD1F084.md) · PLoS Comput Biol
+- [A New Insight into the Study of Neural Cell Adhesion Molecule (NCAM) Polysialylation Inhibition Incorporated the Molecular Docking Models into the NMR Spectroscopy of a ...](papers/EVIW-0CC8ADDA45100879.md) · Biomolecules
+- [A new paradigm for applying deep learning to protein-ligand interaction prediction](papers/EVIW-5B1517D884AADDC2.md) · Brief Bioinform
+- [A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties](papers/BFW-1743CA1AF5D6.md) · PLoS Comput Biol
+- [A Novel Weighted Ensemble Framework of Transformer and Deep Q-Network for ATP-Binding Site Prediction Using Protein Language Model Features](papers/EVIW-7410B1EBC89754BE.md) · Int J Mol Sci
+- [A pharmacophore-guided deep learning approach for bioactive molecular generation](papers/EVIW-AABC81152A5D218D.md) · Nat Commun
+- [A Point Cloud Graph Neural Network for Protein–Ligand Binding Site Prediction](papers/EVIW-58C55EE07E03C38A.md) · Int J Mol Sci
+- [A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations](papers/EVIW-354EEA5F3DCEF838.md) · PLoS Comput Biol
+- [A Reinforcement Learning-Guided Genetic Algorithm Integrating Medicinal Chemistry-Inspired Molecular Transformations](papers/EVIW-1B989548047E5BE8.md) · J Chem Inf Model
+- [A Robust Drug–Target Interaction Prediction Framework with Capsule Network and Transfer Learning](papers/EVIW-871765598D8AD623.md) · Int J Mol Sci
+- [A scalable reinforcement learning approach for screening large peptide libraries for bioactive peptide discovery](papers/EVIW-E9CD4536A504D6BA.md) · Nat Commun
+- [A Suite of Designed Protein Cages Using Machine Learning Algorithms and Protein Fragment-Based Protocols](papers/EVIW-8816AA5429600E64.md) · bioRxiv
+- [A systematic study of key elements underlying molecular property prediction](papers/EVIW-29B3E60590367062.md) · Nat Commun
+- [A Transformer for Reaction-Aware Compound Explorations with GFlowNet in QSAR-Guided Molecular Design](papers/EVIW-B44A523D00052AB4.md) · J Chem Inf Model
+- [A variational expectation-maximization framework for balanced multi-scale learning of protein and drug interactions](papers/EVIW-D858D0437C6CD98B.md) · Nat Commun
+- [AbFlex: designing antibody complementarity determining regions with flexible CDR definition](papers/EVIW-24F12258176E114A.md) · Bioinformatics
+- [Accelerating antimicrobial peptide design: Leveraging deep learning for rapid discovery](papers/EVIW-AB45A48DBA8A5BEE.md) · PLoS One
+- [Accurate and transferable drug-target interaction prediction with DrugLAMP](papers/EVIW-81F2594343B5883B.md) · Bioinformatics
+- [Accurate de novo design of heterochiral protein–protein interactions](papers/EVIW-762DC9B38FFF15C5.md) · Cell Res
+- [Accurate de novo design of high-affinity protein-binding macrocycles using deep learning](papers/EVIW-24DA60356D0CA3B2.md) · Nat Chem Biol
+- [Accurate Generation of Conformational Ensembles for Intrinsically Disordered Proteins with IDPFold](papers/EVIW-BA3B778AE34FD6B6.md) · Adv Sci (Weinh)
+- [Accurate Identification of Protein Binding Sites for All Drug Modalities Using ALLSites](papers/EVIW-77CFA975A5E481C9.md) · Adv Sci (Weinh)
+- [Accurate prediction of protein-ligand interactions by combining physical energy functions and graph-neural networks](papers/EVIW-450A2DC6B2948F9C.md) · J Cheminform
+- [Accurate prediction of toxicity peptide and its function using multi-view tensor learning and latent semantic learning framework](papers/EVIW-FE2C02759F001D51.md) · Bioinformatics
+- [Accurate Predictions of Molecular Properties of Proteins via Graph Neural Networks and Transfer Learning](papers/EVIW-0B512807A6577C16.md) · Journal of Chemical Theory and Computation
+- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](papers/EVIW-643136E50839D7AA.md) · Nature
+- [Accurate TCR-pMHC interaction prediction using a BERT-based transfer learning method](papers/EVIW-7F3870CE001D8F3E.md) · Brief Bioinform
+- [Active learning of the thermodynamics-dynamics trade-off in protein condensates](papers/EVIW-59A067C244208CED.md) · Sci Adv
+- [ActivityDiff: a diffusion model with positive and negative activity guidance for de novo drug design](papers/EVIW-473F7478FC95951A.md) · Bioinformatics
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness prediction](papers/EVIW-8DEF05D4191F5455.md) · Bioinformatics
+- [Advancing drug–target interaction prediction: a comprehensive graph-based approach integrating knowledge graph embedding and ProtBert pretraining](papers/EVIW-58C5B543462616DE.md) · BMC Bioinformatics
+- [Advancing generative large language models toward discriminative performance in protein function prediction](papers/EVIW-3352EAE93C4D75CD.md) · Genome Biol
+- [Advancing one health vaccination: In silico design and evaluation of a multi-epitope subunit vaccine against Nipah virus for cross-species immunization using immunoinformatics and molecular modeling](papers/EVIW-98A04DE62441A501.md) · PLoS One
+- [AI-driven antimicrobial peptide characterization unveils novel motifs for drug design](papers/EVIW-C03C2EAE5E699FCA.md) · Sci Rep
+- [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](papers/EVIW-F2D88608FBE5A657.md) · Acc Chem Res
+- [AI-driven drug discovery using transformer-based molecular representation learning](papers/EVIW-71C0302156224515.md) · Front Artif Intell
+- [AI-Driven Enzyme Engineering: Emerging Models and Next-Generation Biotechnological Applications](papers/EVIW-2CAD59D7021D3501.md) · Molecules
+- [ALDELE: All-Purpose Deep Learning Toolkits for Predicting the Biocatalytic Activities of Enzymes](papers/EVIW-A62C4F1A4A241586.md) · J Chem Inf Model
+- [AlphaFold Meets De Novo Drug Design: Leveraging Structural Protein Information in Multitarget Molecular Generative Models](papers/EVIW-820A87609D2AD16D.md) · J Chem Inf Model
+- [Alzheimer's Disease: Exploring Pathophysiological Hypotheses and the Role of Machine Learning in Drug Discovery](papers/EVIW-F5EBF91079150275.md) · Int J Mol Sci
+- [AMP-Diffusion: Integrating Latent Diffusion with Protein Language Models for Antimicrobial Peptide Generation](papers/EVIW-82B2503C91A465CA.md) · bioRxiv preprint
+- [AMPGen: an evolutionary information-reserved and diffusion-driven generative model for de novo design of antimicrobial peptides](papers/EVIW-3B0C00C5C6357749.md) · Communications Biology
+- [AmpHGT: expanding prediction of antimicrobial activity in peptides containing non-canonical amino acids using multi-view constrained heterogeneous graph transformer](papers/EVIW-BA31B886E6888BA5.md) · BMC Biology
+- [An artificial intelligence accelerated virtual screening platform for drug discovery](papers/EVIW-592FD20C360BC8B9.md) · Nat Commun
+- [An end-to-end method for predicting compound-protein interactions based on simplified homogeneous graph convolutional network and pre-trained language model](papers/EVIW-9206AA79E73AF799.md) · J Cheminform
+- [An equivariant pretrained transformer for unified 3D molecular representation learning](papers/EVIW-F050E367127F0869.md) · Nat Commun
+- [An image-based protein-ligand binding representation learning framework via multi-level flexible dynamics trajectory pre-training](papers/EVIW-50596DE988BFF9EC.md) · Bioinformatics
+- [An in silico molecular docking and simulation study to identify potential anticancer phytochemicals targeting the RAS signaling pathway](papers/EVIW-65FBCECA5A9FF37D.md) · PLoS One
+- [An integrative approach to protein sequence design through multiobjective optimization](papers/EVIW-6115205069F1A499.md) · PLoS Comput Biol
+- [An interpretable geometric graph neural network for enhancing the generalizability of drug–target interaction prediction](papers/EVIW-A72DAED20A6AA86B.md) · BMC Biology
+- [An Interpretable Multi-Objective Machine Learning Framework for In Silico Prioritization of Anti-Staphylococcus aureus Antimicrobial Peptides](papers/EVIW-76378985A0FE2B41.md) · Diagnostics (Basel)
+- [Anesthetic drug discovery with computer-aided drug design and machine learning](papers/EVIW-9226012A34043DF0.md) · Anesthesiology and Perioperative Science
+- [AnnoPRO: a strategy for protein function annotation based on multi-scale protein representation and a hybrid deep learning of dual-path encoding](papers/EVIW-39BC77EC04B978FB.md) · Genome Biol
+- [AntiFold: improved structure-based antibody design using inverse folding](papers/EVIW-FC4F98D1EFC1712B.md) · Bioinform Adv
+- [Antimicrobial peptides: natural templates for next-generation therapeutics against antimicrobial resistance](papers/EVIW-92B7384043CDFC17.md) · Front Cell Infect Microbiol
+- [Antiviral Peptide-Generative Pre-Trained Transformer (AVP-GPT): A Deep Learning-Powered Model for Antiviral Peptide Design with High-Throughput Discovery and Exceptional Potency](papers/EVIW-2E8B47608015C954.md) · Viruses
+- [Approaching Optimal pH Enzyme Prediction with Large Language Models](papers/EVIW-43C1D0D0C335516B.md) · ACS Synth Biol
+- [AptaTrans: a deep neural network for predicting aptamer-protein interaction using pretrained encoders](papers/EVIW-5B4F83FAF83C4EDF.md) · BMC Bioinformatics
+- [Artificial Intelligence and Machine Learning in Pharmacological Research: Bridging the Gap Between Data and Drug Discovery](papers/EVIW-49A2F3C603A14A6A.md) · Cureus
+- [Artificial intelligence for prediction of biological activities and generation of molecular hits using stereochemical information](papers/EVIW-7B1AD73D6D7BD5FE.md) · J Comput Aided Mol Des
+- [Artificial Intelligence-Driven Discovery and Optimization of Antimicrobial Peptides Targeting ESKAPE Pathogens and Multidrug-Resistant Fungi](papers/EVIW-DB8E78E7468C01B3.md) · Microorganisms
+- [Assessing the Interactions between Snake Venom Metalloproteinases and Hydroxamate Inhibitors Using Kinetic and ITC Assays, Molecular Dynamics Simulations and MM/PBSA-Based Calculations](papers/EVIW-7587EFB3DB8AABCA.md) · ACS Omega
+- [Assessing the potential of deep learning for protein-ligand docking](papers/EVIW-BC698A734AE51681.md) · Nat Mach Intell
+- [Atom-level enzyme active site scaffolding using RFdiffusion2](papers/BFW-677CA1020102.md) · Nature Methods
+- [Atomic context-conditioned protein sequence design using LigandMPNN](papers/EVIW-000C4D50B88BA07A.md) · Nat Methods
+- [AttABseq: an attention-based deep learning prediction method for antigen–antibody binding affinity changes based on protein sequences](papers/EVIW-8AA96DCC4EAD6598.md) · Brief Bioinform
+- [Attention network for predicting T-cell receptor-peptide binding can associate attention with interpretable protein structural properties](papers/EVIW-2851B31F304D19F1.md) · Front Bioinform
+- [Attention-based approach to predict drug-target interactions across seven target superfamilies](papers/EVIW-4E91B58A46E5B41F.md) · Bioinformatics
+- [Automated synthetic cell-based screening for designed proteins with emergent functions](papers/EVIW-5081FE7D706E3586.md) · Nat Commun
+- [AVP-GPT2: A Transformer-Powered Platform for De Novo Generation, Screening, and Explanation of Antiviral Peptides](papers/EVIW-3A964B1973F54AF1.md) · Viruses
+- [Barlow Twins deep neural network for advanced 1D drug-target interaction prediction](papers/EVIW-1CE56F554CAB2790.md) · J Cheminform
+- [Benchmarking AlphaFold3's protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation](papers/EVIW-7B3BA40DB3C17D72.md) · arXiv preprint
+- [Benchmarking antibody clustering methods using sequence, structural, and machine learning similarity measures for antibody discovery applications](papers/EVIW-5F9BAB708FD00C26.md) · Front Mol Biosci
+- [Benchmarking antigen-aware inverse folding methods for antibody design](papers/EVIW-A1AD09D7AFFD0BA7.md) · bioRxiv preprint
+- [Benchmarking compound activity prediction for real-world drug discovery applications](papers/EVIW-27BCEE46559B0DFA.md) · Commun Chem
+- [Benchmarking inverse folding models for antibody CDR sequence design](papers/EVIW-AEAE9AA5539B2E45.md) · PLOS ONE
+- [Benchmarking protein language models for protein crystallization](papers/EVIW-6A9AC2519DB77CAC.md) · Scientific Reports
+- [Benchmarking residue-resolution protein coarse-grained models for simulations of biomolecular condensates](papers/EVIW-D5F88398E446356B.md) · PLoS Comput Biol
+- [Benchmarking uncertainty quantification for protein engineering](papers/EVIW-A2A30144D58B3F7F.md) · PLoS Comput Biol
+- [Bidirectional generation of structure and properties through a single molecular foundation model](papers/EVIW-8D53A06B9A414D98.md) · Nature Communications
+- [Bilingual language model for protein sequence and structure](papers/EVIW-50CC17ACB2AEA40C.md) · NAR Genom Bioinform
+- [Binding Mechanism of Inhibitors to BRD4 and BRD9 Decoded by Multiple Independent Molecular Dynamics Simulations and Deep Learning](papers/EVIW-5674D35A536949D9.md) · Molecules
+- [Bioactivity Deep Learning for Complex Structure-Free Compound-Protein Interaction Prediction](papers/EVIW-819EC6B4DDEB7DFB.md) · J Chem Inf Model
+- [Biophysics-based protein language models for protein engineering](papers/EVIW-40D5F9BF08E6F0D0.md) · Nat Methods
+- [BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists](papers/EVIW-DCAF3329DD185313.md) · Comput Struct Biotechnol J
+- [Biosensor and machine learning-aided engineering of an amaryllidaceae enzyme](papers/EVIW-F6790BBB81067D8C.md) · Nat Commun
+- [Bitter peptide prediction using graph neural networks](papers/EVIW-6CFA93D3BCD5F547.md) · J Cheminform
+- [BoltzGen: Toward Universal Binder Design](papers/EVIW-EBBC8C147959FE4A.md) · bioRxiv
+- [BPFun: a deep learning framework for bioactive peptide function prediction using multi-label strategy by transformer-driven and sequence rich intrinsic information](papers/EVIW-6392FF2B56C99F91.md) · BMC Bioinformatics
+- [Bridging Generative AI and Diffusion Models With Molecular Simulation to Design Anti-Quorum-Sensing De novo Peptides Targeting LasR of Pseudomonas aeruginosa](papers/EVIW-8B26B6C224750AD8.md) · Probiotics and Antimicrobial Proteins
+- [BroadAMP-GPT: AI-Driven generation of broad-spectrum antimicrobial peptides for combating multidrug-resistant ESKAPE pathogens](papers/EVIW-8BB7B9217975CD7C.md) · Gut Microbes
+- [CAP: Commutative algebra prediction of protein-nucleic acid binding affinities](papers/EVIW-821C6299978698D5.md) · Machine Learning: Science and Technology
+- [caRBP-Pred: Leveraging Protein Language Models for the Prediction of Chromatin-Associated RNA-Binding Proteins](papers/EVIW-9AD6C1CBFC8016E4.md) · Comput Struct Biotechnol J
+- [CBIL-VHPLI: a model for predicting viral-host protein-lncRNA interactions based on machine learning and transfer learning](papers/EVIW-1D565539F2B2367E.md) · Scientific Reports
+- [Cell-free biosynthesis combined with deep learning accelerates de novo-development of antimicrobial peptides](papers/EVIW-7517D0EB7719FCF9.md) · Nat Commun
+- [ChatMol: interactive molecular discovery with natural language](papers/EVIW-EAE32CFD6D59B1E2.md) · Bioinformatics
+- [Chemical Language Model Linker: Blending Text and Molecules with Modular Adapters](papers/EVIW-2AB646F71CAFA9B7.md) · J Chem Inf Model
+- [ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization](papers/EVIW-E513F4FA4C3C0EAA.md) · Brief Bioinform
+- [ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation](papers/EVIW-56812DE3792757B2.md) · Journal of Chemical Information and Modeling
+- [Chlamy_ChloroPred: a deep learning-based, highly accurate binary classifier for chloroplast protein prediction in the model microalga, Chlamydomonas reinhardtii, with ...](papers/EVIW-9F9526DFCB88A280.md) · Front Microbiol
+- [CLDN18.2 antibody design with protein language models: A deep learning optimization framework](papers/EVIW-BE033C46CCB9A3C9.md) · PLOS Computational Biology
+- [Co-design protein sequence and structure in discrete space via generative flow](papers/EVIW-E1EB5AD1AEBADA84.md) · Bioinformatics
+- [CoDNet: controlled diffusion network for structure-based drug design](papers/EVIW-47A2C4E6BAECCE23.md) · Bioinform Adv
+- [Combining machine learning with structure-based protein design to predict and engineer post-translational modifications of proteins](papers/EVIW-83AD8E36CF545DE1.md) · PLoS Comput Biol
+- [Combining Rosetta Sequence Design with Protein Language Model Predictions Using Evolutionary Scale Modeling (ESM) as Restraint](papers/EVIW-21DCFE55217047DC.md) · ACS Synth Biol
+- [Comparative evaluation of methods for the prediction of protein-ligand binding sites](papers/EVIW-D85A58477929E230.md) · J Cheminform
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [Comprehensive evaluation of artificial intelligence-empowered approaches for protein–aptamer complex prediction](papers/EVIW-EDB6C8BC2C49BED9.md) · Brief Bioinform
+- [Comprehensive Research on Druggable Proteins: From PSSM to Pre-Trained Language Models](papers/EVIW-9BCBB5D287E1A4A6.md) · Int J Mol Sci
+- [Computational and immunoinformatics approaches for designing phytocompound-based drugs and a multi-epitope vaccine targeting FemA, a cell wall protein of Staphylococcus aureus](papers/EVIW-4DB00018EB44F550.md) · PLoS One
+- [Computational design of class II MHC binding peptide with sequence-based evolution information](papers/EVIW-C4FB45BC99A93073.md) · Bioinform Adv
+- [Computational discovery of SARS-CoV-2 viral entry inhibitory peptides from Androctonus mauretanicus scorpion venom: molecular docking and molecular dynamics simulations](papers/EVIW-6F777AE24892782F.md) · Front Bioinform
+- [Computationally designed proteins mimic antibody immune evasion in viral evolution](papers/EVIW-52ECC165D4C1BC98.md) · Immunity
+- [Computer-Aided Drug Design and Drug Discovery: A Prospective Analysis](papers/EVIW-30CDB15201FE70BF.md) · Pharmaceuticals (Basel)
+- [Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules](papers/EVIW-A340204028FECB43.md) · Biomolecules
+- [CPL‐Diff: A Diffusion Model for De Novo Design of Functional Peptide Sequences with Fixed Length](papers/EVIW-466228B7D151118B.md) · Adv Sci (Weinh)
+- [CPP2Vec: A representation learning approach for cell-penetrating peptides prediction](papers/EVIW-1450D8C7581F6484.md) · PLOS Computational Biology
+- [CRISPR-Cas9 screening reveals a distinct class of MHC-I binders with precise HLA-peptide recognition](papers/EVIW-BD211E17DC7043A1.md) · iScience
+- [CS-DTA: a language model-driven framework for robust drug-target affinity prediction under strict cold-start scenarios](papers/EVIW-B2D74A3DCC6C8DF7.md) · Front Chem
+- [Cyclic peptide structure prediction and design using AlphaFold2](papers/EVIW-0E24408ABDFC740F.md) · Nature Communications
+- [CycPeptMP: enhancing membrane permeability prediction of cyclic peptides with multi-level molecular features and data augmentation](papers/EVIW-7D1ADFC98AF15650.md) · Brief Bioinform
+- [Cytochrome P450 Enzyme Design by Constraining the Catalytic Pocket in a Diffusion Model](papers/EVIW-1463F1CB9ABB78D8.md) · Research (Wash D C)
+- [DataDTA: a multi-feature and dual-interaction aggregation framework for drug–target binding affinity prediction](papers/EVIW-903FC9F7CF235FD5.md) · Bioinformatics
+- [DCGAT-DTI: dynamic cross-graph attention network for drug-target interaction prediction](papers/EVIW-8B742926549B15B5.md) · Bioinform Adv
+- [DDAffinity: predicting the changes in binding affinity of multiple point mutations using protein 3D structure](papers/EVIW-B067DEF24DEA2110.md) · Bioinformatics
+- [DDMut-PPI: predicting effects of mutations on protein-protein interactions using graph-based deep learning](papers/EVIW-437CF46420154922.md) · Nucleic Acids Res
+- [De Novo Antimicrobial Peptide Design with Feedback Generative Adversarial Networks](papers/EVIW-9D1944506B9DAEA2.md) · Int J Mol Sci
+- [De novo design of buttressed loops for sculpting protein functions](papers/EVIW-904CCEC07D5C8AF0.md) · Nat Chem Biol
+- [De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders](papers/EVIW-397BB32AC538E433.md) · J Am Chem Soc
+- [De novo designed proteins neutralize lethal snake venom toxins](papers/EVIW-5DAF70ACC4D7F4E9.md) · Nature
+- [De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning](papers/EVIW-6AFBE1321B318817.md) · J Comput Aided Mol Des
+- [De Novo Drug Design Using Transformer-Based Machine Translation and Reinforcement Learning of an Adaptive Monte Carlo Tree Search](papers/EVIW-7490C110E2A6B2C6.md) · Pharmaceuticals (Basel)
+- [De novo functional protein sequence generation: overcoming data scarcity through regeneration and large language models](papers/EVIW-4AC4AFB961A40084.md) · Brief Bioinform
+- [De novo synthetic antimicrobial peptide design with a recurrent neural network](papers/EVIW-647BFF7FAA5ECC23.md) · Protein Sci
+- [Deciphering key factors of active learning performance in biomolecular design](papers/EVIW-B295939543E1B491.md) · Bioinformatics
+- [Deep learning driven de novo drug design based on gastric proton pump structures](papers/EVIW-1280AD74B138884E.md) · Commun Biol
+- [Deep Learning Empowers the Discovery of Self-Assembling Peptides with Over 10 Trillion Sequences](papers/EVIW-78F12E35B43BB05A.md) · Adv Sci (Weinh)
+- [Deep Learning for Protein–peptide binding Prediction: Incorporating Sequence, Structural and Language Model Features](papers/EVIW-16CD02A4DB552231.md) · bioRxiv preprint
+- [Deep learning in GPCR drug discovery: benchmarking the path to accurate peptide binding](papers/EVIW-7BBE077F641CF7F4.md) · Briefings in Bioinformatics
+- [Deep learning workflow for the inverse design of molecules with specific optoelectronic properties](papers/EVIW-B9DC20CAB83C85CC.md) · Sci Rep
+- [Deep-STP: a deep learning-based approach to predict snake toxin proteins by using word embeddings](papers/EVIW-DECE7E720EE17251.md) · Front Med (Lausanne)
+- [Deep-WET: a deep learning-based approach for predicting DNA-binding proteins using word embedding techniques with weighted features](papers/EVIW-861BACD5E9ADCB6E.md) · Sci Rep
+- [DeepAVP-TPPred: identification of antiviral peptides using transformed image-based localized descriptors and binary tree growth algorithm](papers/EVIW-512C8F008B03ACB6.md) · Bioinformatics
+- [DeepBP: Ensemble deep learning strategy for bioactive peptide prediction](papers/EVIW-A418833AC819190B.md) · BMC Bioinformatics
+- [DeepDTAGen: a multitask deep learning framework for drug-target affinity prediction and target-aware drugs generation](papers/EVIW-6A06FBBBEE19026B.md) · Nature Communications
+- [DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures](papers/EVIW-86CBE2CAA2AB3A69.md) · Brief Bioinform
+- [DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning](papers/EVIW-12CFC2FF0F445FBA.md) · Chem Sci
+- [DeepProSite: structure-aware protein binding site prediction using ESMFold and pretrained language model](papers/EVIW-8C02585678F47251.md) · Bioinformatics
+- [DeepRank-GNN-esm: a graph neural network for scoring protein-protein models using protein language model](papers/EVIW-15405E99B573B3CB.md) · Bioinform Adv
+- [Deep‐GB: A novel deep learning model for globular protein prediction using CNN‐BiLSTM architecture and enhanced PSSM with trisection strategy](papers/EVIW-05BF4DAB9253F9CE.md) · IET Syst Biol
+- [Democratizing protein language models with parameter-efficient fine-tuning](papers/EVIW-6B4C678CD5B415B8.md) · Proc Natl Acad Sci U S A
+- [Descriptor-augmented machine learning for enzyme-chemical interaction predictions](papers/EVIW-E360B61141F505DD.md) · Synth Syst Biotechnol
+- [Design of high-specificity binders for peptide-MHC-I complexes](papers/EVIW-5B2A016A7A13F3AF.md) · Science Advances
+- [Design of linear and cyclic peptide binders from protein sequence information](papers/EVIW-01477EAB1AD23043.md) · Communications Chemistry
+- [DG-Affinity: predicting antigen-antibody affinity with language models from sequences](papers/EVIW-E342A47CFC993CA7.md) · BMC Bioinformatics
+- [Diff-AMP: tailored designed antimicrobial peptide framework with all-in-one generation, identification, prediction and optimization](papers/EVIW-D786C348787A2E84.md) · Brief Bioinform
+- [DiffInt: A Diffusion Model for Structure-Based Drug Design with Explicit Hydrogen Bond Interaction Guidance](papers/EVIW-5955756A2B8C2AD9.md) · J Chem Inf Model
+- [Direct prediction of antimicrobial resistance in Pseudomonas aeruginosa by metagenomic next-generation sequencing](papers/EVIW-51CED1BE34996B4E.md) · Front Microbiol
+- [Direct prediction of intrinsically disordered protein conformational properties from sequence](papers/EVIW-7B3C01E5F293C7BA.md) · Nat Methods
+- [DisoFLAG: accurate prediction of protein intrinsic disorder and its functions using graph-based interaction protein language model](papers/EVIW-50EC4D98F422F622.md) · BMC Biol
+- [DL-PPI: a method on prediction of sequenced protein-protein interaction based on deep learning](papers/EVIW-9630FF0B8DA024FE.md) · BMC Bioinformatics
+- [DLFea4AMPGen de novo design of antimicrobial peptides by integrating features learned from deep learning models](papers/EVIW-D14460AF0926DD13.md) · Nature Communications
+- [DLM-DTI: a dual language model for the prediction of drug-target interaction with hint-based learning](papers/EVIW-9782A427229EBEDC.md) · J Cheminform
+- [DLTKcat: deep learning-based prediction of temperature-dependent enzyme turnover rates](papers/EVIW-22CD6AE48DCDB16D.md) · Brief Bioinform
+- [Docking in the Dark: Insights into Protein-Protein and Protein-Ligand Blind Docking](papers/EVIW-AEE5912A09AF2567.md) · Pharmaceuticals (Basel)
+- [Drug target prediction through deep learning functional representation of gene signatures](papers/EVIW-D7448A2845B549ED.md) · Nature Communications
+- [Drug-target binding affinity prediction based on power graph and word2vec](papers/EVIW-677763E479C296BE.md) · BMC Med Genomics
+- [DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties](papers/EVIW-5D4BE1237541F61B.md) · bioRxiv preprint
+- [DrugSynthMC: An Atom-Based Generation of Drug-like Molecules with Monte Carlo Search](papers/EVIW-47A8ED5D9DD86471.md) · J Chem Inf Model
+- [dsAMP and dsAMPGAN: Deep Learning Networks for Antimicrobial Peptides Recognition and Generation](papers/EVIW-781B8D46BE658D76.md) · Antibiotics (Basel)
+- [DTGHAT: multi-molecule heterogeneous graph transformer based on multi-molecule graph for drug-target identification](papers/EVIW-D7E7DD745CE6E5FC.md) · Frontiers in Pharmacology
+- [DTI-LM: language model powered drug-target interaction prediction](papers/EVIW-1DB0B140C115A6B4.md) · Bioinformatics
+- [Dual modality feature fused neural network integrating binding site information for drug target affinity prediction](papers/EVIW-66B09075F5CEBC45.md) · NPJ Digit Med
+- [DualPG-DTA: A Large Language Model-Powered Graph Neural Network Framework for Enhanced Drug-Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti-Leukemia Activity](papers/EVIW-AFD057452A461D91.md) · Adv Sci (Weinh)
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [E(3) equivariant graph neural networks for robust and accurate protein-protein interaction site prediction](papers/EVIW-B8BCB4B14D4A9325.md) · PLoS Comput Biol
+- [EGPDI: identifying protein-DNA binding sites based on multi-view graph embedding fusion](papers/EVIW-A05003840FFCE41D.md) · Brief Bioinform
+- [Electrostatics as a Guiding Principle in Understanding and Designing Enzymes](papers/EVIW-1CC386C8B1CCD478.md) · J Chem Theory Comput
+- [Embedding-based alignment: combining protein language models with dynamic programming alignment to detect structural similarities in the twilight-zone](papers/EVIW-D0EEC41ABCA877F9.md) · Bioinformatics
+- [Emerging opportunities of using large language models for translation between drug molecules and indications](papers/EVIW-320290EBA410B89A.md) · Sci Rep
+- [Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE](papers/EVIW-F561FB87AC7DBE6C.md) · eLife
+- [Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS](papers/EVIW-9A5BE8BC839DD39C.md) · Commun Biol
+- [Enhanced antibody-antigen structure prediction from molecular docking using AlphaFold2](papers/EVIW-E8AD4BD2C00BDB32.md) · Sci Rep
+- [Enhanced Sequence-Activity Mapping and Evolution of Artificial Metalloenzymes by Active Learning](papers/EVIW-FFB142A4D8094123.md) · ACS Cent Sci
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [Enhancing cross-context generalization in drug perturbation prediction with a multimodal conditional diffusion framework](papers/EVIW-22F27BE7269D0426.md) · Bioinformatics
+- [Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning](papers/EVIW-6C65D455AB73D2E8.md) · Nat Commun
+- [Enhancing G‐Quadruplex Binding: Rational Design and Biophysical Evaluation of Dimeric Ligands](papers/EVIW-6AD4B85696657A70.md) · Chemistry
+- [Enhancing missense variant pathogenicity prediction with protein language models using VariPred](papers/EVIW-D719F0DEC8B7742D.md) · Sci Rep
+- [Enhancing predictions of protein stability changes induced by single mutations using MSA-based language models](papers/EVIW-9905919E453547B9.md) · Bioinformatics
+- [EnzyACT: A Novel Deep Learning Method to Predict the Impacts of Single and Multiple Mutations on Enzyme Activity](papers/EVIW-6982BB5A6E50E4A1.md) · J Chem Inf Model
+- [Enzyme catalytic efficiency prediction: employing convolutional neural networks and XGBoost](papers/EVIW-66058B0B5CB7A9B5.md) · Front Artif Intell
+- [EPIC-TRACE: predicting TCR binding to unseen epitopes using attention and contextualized embeddings](papers/EVIW-B49F02FF5A100753.md) · Bioinformatics
+- [EpiScan: accurate high-throughput mapping of antibody-specific epitopes using sequence information](papers/EVIW-6DB3A28D6A381F14.md) · NPJ Syst Biol Appl
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Equivariant 3D-conditional diffusion model for molecular linker design](papers/EVIW-F0A20EFF2242FD07.md) · Nature Machine Intelligence
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [Equivariant score-based generative diffusion framework for 3D molecules](papers/EVIW-8B626510C8E7C600.md) · BMC Bioinformatics
+- [Evaluating BindCraft for Generative Design of High-Affinity Peptides](papers/EVIW-5F5A18203EF1CB13.md) · ACS Chem Biol
+- [Evaluating GPT and BERT models for protein-protein interaction identification in biomedical text](papers/EVIW-1577F80E9EA4E4A8.md) · Bioinform Adv
+- [Evaluating ligand docking methods for drugging protein-protein interfaces: insights from AlphaFold2 and molecular dynamics refinement](papers/EVIW-B0F5998042EF0F16.md) · Journal of Cheminformatics
+- [Evaluating zero‐shot prediction of monomeric protein design success by AlphaFold , ESMFold , and ProteinMPNN](papers/EVIW-2B306696DD6EE567.md) · Protein Sci
+- [Expert-guided protein language models enable accurate and blazingly fast fitness prediction](papers/EVIW-DF17577005540B9D.md) · Bioinformatics
+- [Exploring Conformational Landscapes and Cryptic Binding Pockets in Distinct Functional States of the SARS-CoV-2 Omicron BA.1 and BA.2 Trimers: Mutation-Induced Modulation of Protein Dynamics and Network-Guided Prediction of Variant-Specific Allosteric Binding Sites](papers/EVIW-8ECEE0BB1C04EBF7.md) · Viruses
+- [Exploring pocket-aware inhibitors of BTK kinase by generative deep learning, molecular docking, and molecular dynamics simulations](papers/EVIW-C79585753A328E55.md) · RSC Adv
+- [Feature selection enhances peptide binding predictions for TCR-specific interactions](papers/EVIW-C5253CE7914B46E5.md) · Front Immunol
+- [Fine-tuning protein language models boosts predictions across diverse tasks](papers/EVIW-70FFFBE1CB0E8DF4.md) · Nat Commun
+- [FLAb: Benchmarking deep learning methods for antibody fitness prediction](papers/EVIW-E73B8F33B74E7327.md) · bioRxiv preprint
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [FLOWR.ROOT – A flow matching-based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](papers/EVIW-3AE9D036AE8EC1CB.md) · Nat Commun
+- [FLOWR: flow matching for structure-aware de novo, interaction- and fragment-based ligand generation](papers/EVIW-F360206DF136306B.md) · Nat Comput Sci
+- [From intuition to AI: evolution of small molecule representations in drug discovery](papers/EVIW-F7607A4022562C70.md) · Brief Bioinform
+- [From Latent Manifolds to Targeted Molecular Probes: An Interpretable, Kinome-Scale Generative Machine Learning Framework for Family-Based Kinase Ligand Design](papers/EVIW-B2066AB438F67363.md) · Biomolecules
+- [Functional annotation of enzyme-encoding genes using deep learning with transformer layers](papers/EVIW-CE317302C001A9DD.md) · Nat Commun
+- [G Protein-Coupled Receptor-Ligand Pose and Functional Class Prediction](papers/EVIW-3CDA35EC397C9E5E.md) · Int J Mol Sci
+- [GATSol, an enhanced predictor of protein solubility through the synergy of 3D structure graph and large language modeling](papers/EVIW-A6F6E39304F1E6FD.md) · BMC Bioinformatics
+- [GcForest-based compound-protein interaction prediction model and its application in discovering small-molecule drugs targeting CD47](papers/EVIW-542A9C690DEB7869.md) · Front Chem
+- [Generalizable and scalable protein stability prediction with rewired protein generative models](papers/EVIW-2B553C8CDEE458EA.md) · Nature Communications
+- [Generalizable compound protein interaction prediction with a model incorporating protein structure aware and compound property aware language model representations](papers/EVIW-CC8FC3C6F23DD3D6.md) · Commun Chem
+- [Generation of 3D molecules in pockets via a language model](papers/EVIW-61D2CB039D461481.md) · Nature Machine Intelligence
+- [Generation of Rational Drug-like Molecular Structures Through a Multiple-Objective Reinforcement Learning Framework](papers/EVIW-FDB996EADA52B63D.md) · Molecules
+- [Generative and predictive neural networks for the design of functional RNA molecules](papers/EVIW-6D3ECDD8A64E1E32.md) · Nature Communications
+- [Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model](papers/EVIW-4CF80ABA93015978.md) · J Cheminform
+- [Generative models for protein sequence modeling: recent advances and future directions](papers/EVIW-C230912D29890725.md) · Brief Bioinform
+- [Generative Multiobjective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design](papers/EVIW-8CC9E4F84F9247B1.md) · Ind Eng Chem Res
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [Genomic annotation for vaccine target identification and immunoinformatics-guided multi-epitope-based vaccine design against Songling virus through screening its whole genome encoded proteins](papers/EVIW-C72D1DEC3FDA5EA4.md) · Frontiers in Immunology
+- [Geometric Deep Learning for Structure-Based Ligand Design](papers/EVIW-CE352CFECBC51F9B.md) · ACS Cent Sci
+- [Geometric deep learning improves generalizability of MHC-bound peptide predictions](papers/EVIW-A3D5B6B8C925B41E.md) · Commun Biol
+- [Geometry-complete diffusion for 3D molecule generation and optimization](papers/EVIW-6AE7A4015DCC251E.md) · Commun Chem
+- [GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction](papers/EVIW-B75B8A6DA9771680.md) · J Chem Inf Model
+- [GPCR-BERT: Interpreting Sequential Design of G Protein-Coupled Receptors Using Protein Language Models](papers/EVIW-22E3EBA72131C076.md) · J Chem Inf Model
+- [GPSFun: geometry-aware protein sequence function predictions with language models](papers/EVIW-19ED48AF3238BE4A.md) · Nucleic Acids Res
+- [GRAPE: graph-regularized protein language modeling unlocks TCR-epitope binding specificity](papers/EVIW-D00A3E12F27E6D37.md) · Brief Bioinform
+- [Graph neural pre-training based drug-target affinity prediction](papers/EVIW-FA386874A4FFEF44.md) · Front Genet
+- [Graph-Aware AURALSTM: An Attentive Unified Representation Architecture with BiLSTM for Enhanced Molecular Property Prediction](papers/EVIW-11B7184B4CDCCEA9.md) · Mol Divers
+- [GraphMHC: Neoantigen prediction model applying the graph neural network to molecular structure](papers/EVIW-E76131B3A3B6CCC4.md) · PLoS One
+- [Graphormer supervised de novo protein design method and function validation](papers/EVIW-AEF2C8AA75D363A6.md) · Brief Bioinform
+- [GTE-PPIS: a protein-protein interaction site predictor based on graph transformer and equivariant graph neural network](papers/EVIW-1FCF26C238C374F6.md) · Brief Bioinform
+- [Guided diffusion for molecular generation with interaction prompt](papers/EVIW-CD8D2F4D209CDB2C.md) · Brief Bioinform
+- [Harnessing generative AI for predicting and optimizing antimicrobial peptides against drug-resistant infections](papers/EVIW-7E1473BE5E2241B3.md) · NPJ Antimicrob Resist
+- [Heuristic multi-site optimization for protein sequence design using Masked Protein Language Models](papers/EVIW-3BF8524B058D7177.md) · PLoS Comput Biol
+- [HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion](papers/EVIW-3A1ACC8879ECFFC5.md) · Chem Sci
+- [High-resolution cryo-EM of the human CDK-activating kinase for structure-based drug design](papers/EVIW-A6BD2E37B70E9799.md) · Nat Commun
+- [High-throughput prediction of protein conformational distributions with subsampled AlphaFold2](papers/EVIW-EEBA22DD03D0F7F6.md) · Nat Commun
+- [Highly accurate carbohydrate-binding site prediction with DeepGlycanSite](papers/EVIW-EC3B521734D2CD73.md) · Nat Commun
+- [Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework](papers/EVIW-3ECB78AEE0E7C23D.md) · Brief Bioinform
+- [HLA I immunopeptidome of synthetic long peptide pulsed human dendritic cells for therapeutic vaccine design](papers/EVIW-0EA8CC81C58675DC.md) · NPJ Vaccines
+- [Human-in-the-loop active learning for goal-oriented molecule generation](papers/EVIW-4EBEF1B1736214A1.md) · J Cheminform
+- [Hybrid Approach to Protein–Protein Complex Affinity Prediction Based on Language Models and Molecular Dynamics](papers/EVIW-11308829464B5DDF.md) · Int J Mol Sci
+- [Hybrid Dual-Context Prompted Cross-Attention Framework with Language Model Guidance for Multi-Label Prediction of Human Off-Target Ligand-Protein Interactions](papers/EVIW-B72BFE30F8217623.md) · Int J Mol Sci
+- [Hybrid protein-ligand binding residue prediction with protein language models: does the structure matter?](papers/EVIW-EA13F1D6FE41297E.md) · Bioinformatics
+- [HybridGCN for protein solubility prediction with adaptive weighting of multiple features](papers/EVIW-7EB0644884548F6C.md) · J Cheminform
+- [HydrogelFinder: A Foundation Model for Efficient Self‐Assembling Peptide Discovery Guided by Non‐Peptidal Small Molecules](papers/EVIW-C75DCBB690B8C2D3.md) · Adv Sci (Weinh)
+- [Identification and Design of Novel Potential Antimicrobial Peptides Targeting Mycobacterial Protein Kinase PknB](papers/EVIW-A5CF896B45EDAAC3.md) · Protein J
+- [Identification of Novel Extracellular-Signal-Regulated Kinase 2 Inhibitors Through Machine Learning-Driven De Novo Design, Molecular Docking, and Free-Energy Perturbation](papers/EVIW-7C59FBCE9E2F9366.md) · Pharmaceuticals (Basel)
+- [Identification of Potent Acetylcholinesterase Inhibitors as New Candidates for Alzheimer Disease via Virtual Screening, Molecular Docking, Dynamic Simulation, and Molecular Mechanics–Poisson–Boltzmann Surface Area Calculations](papers/EVIW-9F227EF489FEA803.md) · Molecules
+- [Identifying the natural products in the treatment of atherosclerosis by increasing HDL-C level based on bioinformatics analysis, molecular docking, and in vitro experiment](papers/EVIW-716ED39BC8A83E83.md) · J Transl Med
+- [IDP-LM: Prediction of protein intrinsic disorder and disorder functions based on language models](papers/EVIW-2DE697E431AB06B3.md) · PLoS Comput Biol
+- [IEV2Mol: Molecular Generative Model Considering Protein-Ligand Interaction Energy Vectors](papers/EVIW-03ED7DB23F4F78B7.md) · J Chem Inf Model
+- [ifDEEPre: large protein language-based deep learning enables interpretable and fast predictions of enzyme commission numbers](papers/EVIW-79348126FDC75CF4.md) · Brief Bioinform
+- [IgPose: a generative data-augmented pipeline for robust immunoglobulin-antigen binding prediction](papers/EVIW-C1FE2E1F2F53218E.md) · Bioinformatics
+- [Illuminating protein space with a programmable generative model](papers/EVIW-6223B4C58A3E1894.md) · Nature
+- [iMFP-LG: Identify Novel Multi-functional Peptides Using Protein Language Models and Graph-based Deep Learning](papers/EVIW-8B7452D150DEFDA3.md) · Genomics Proteomics Bioinformatics
+- [Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data](papers/EVIW-FB7086C56CA1FC5B.md) · Nat Methods
+- [Improving protein-ligand complex generation with force field guidance](papers/EVIW-3FC672A3E4A616F4.md) · J Cheminform
+- [In silico screening of protein-binding peptides with an application to developing peptide inhibitors against antibiotic resistance](papers/EVIW-CFF2D809F391FE3C.md) · PNAS Nexus
+- [InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments](papers/EVIW-E410089C4FA4C69C.md) · Nature Machine Intelligence
+- [Integrated convolution and self-attention for improving peptide toxicity prediction](papers/EVIW-80816B41CDFB17A0.md) · Bioinformatics
+- [Integrating computational methods guided the discovery of phytochemicals as potential Pin1 inhibitors for cancer: pharmacophore modeling, molecular docking, MM-GBSA calculations and molecular dynamics studies](papers/EVIW-E3AE76E68A51977E.md) · Front Chem
+- [Integrating genetic algorithms and language models for enhanced enzyme design](papers/EVIW-6F408BE036DFFB9B.md) · Brief Bioinform
+- [Integrating Pharmacogenomics and Network Topology for Machine Learning Prediction of HLA-Associated Severe Cutaneous Adverse Drug Reactions](papers/EVIW-22277B55965967F9.md) · Int J Mol Sci
+- [Integrating Transformers and Many-Objective Optimization for Cancer Drug Design](papers/EVIW-794300AEDE5FAFED.md) · Research Square preprint
+- [Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction](papers/EVIW-88802DA5D524552E.md) · Nat Commun
+- [Integration of pre-trained protein language models with equivariant graph neural networks for peptide toxicity prediction](papers/EVIW-7EA3F029D887221F.md) · BMC Biology
+- [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](papers/EVIW-27D403917F03FFDC.md) · Nat Comput Sci
+- [Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions](papers/EVIW-B8221048D3E0EDF2.md) · Nat Commun
+- [iProtDNA-SMOTE: Enhancing protein-DNA binding sites prediction through imbalanced graph neural networks](papers/EVIW-C59AE2936DFD7151.md) · PLOS ONE
+- [JASPAR 2026: expansion of transcription factor binding profiles and integration of deep learning models](papers/EVIW-E4994E0304561D88.md) · Nucleic Acids Res
+- [Key considerations based on pharmacokinetic/pharmacodynamic in the design of antibody-drug conjugates](papers/EVIW-524CF2A3105DAD39.md) · Front Oncol
+- [KGDiff: towards explainable target-aware molecule generation with knowledge guidance](papers/EVIW-76C901E60A08C983.md) · Brief Bioinform
+- [Language models can identify enzymatic binding sites in protein sequences](papers/EVIW-99773954949241B5.md) · Comput Struct Biotechnol J
+- [LANTERN: TCR-peptide binding prediction via large language model representations](papers/EVIW-CFC36146C459CA15.md) · PeerJ
+- [Large Language Model Agent for Modular Task Execution in Drug Discovery](papers/EVIW-746AC8110B53CD45.md) · J Chem Inf Model
+- [Large scale paired antibody language models](papers/EVIW-F11B407E2D7D8A73.md) · PLoS Comput Biol
+- [Large-language models facilitate discovery of the molecular signatures regulating sleep and activity](papers/EVIW-11A654DEA4B441F3.md) · Nat Commun
+- [Learnt representations of proteins can be used for accurate prediction of small molecule binding sites on experimentally determined and predicted protein structures](papers/EVIW-7AE6844DD06B36E5.md) · J Cheminform
+- [LigandDiff: de Novo Ligand Design for 3D Transition Metal Complexes with Diffusion Models](papers/EVIW-8F58F11A4939A0DF.md) · J Chem Theory Comput
+- [Linker-GPT: design of Antibody-drug conjugates linkers with molecular generators and reinforcement learning](papers/EVIW-711D16F025D99079.md) · Scientific Reports
+- [LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding](papers/EVIW-02F2CAC014E9FB65.md) · Noncoding RNA Res
+- [Locuaz: an in silico platform for protein binders optimization](papers/EVIW-75B485A2F0A9568D.md) · Bioinformatics
+- [LSTM-driven drug design using SELFIES for target-focused de novo generation of HIV-1 protease inhibitor candidates for AIDS treatment](papers/EVIW-776BAC741ACF2378.md) · PLoS One
+- [Machine learning application to predict binding affinity between peptide containing non-canonical amino acids and HLA-A0201](papers/EVIW-1064EC94E290F45D.md) · PLoS One
+- [Machine learning approaches for predicting protein-ligand binding sites from sequence data](papers/EVIW-3398915ED0CEE12D.md) · Front Bioinform
+- [Machine learning assisted rational design of antimicrobial peptides based on human endogenous proteins and their applications for cosmetic preservative system optimization](papers/EVIW-EE6174BA055B0122.md) · Sci Rep
+- [Machine learning coarse-grained potentials of protein thermodynamics](papers/EVIW-1CF3E7A2D828542E.md) · Nat Commun
+- [Machine Learning Empowering Drug Discovery: Applications, Opportunities and Challenges](papers/EVIW-A8BABE8EC814634C.md) · Molecules
+- [Machine Learning Integrating Protein Structure, Sequence, and Dynamics to Predict the Enzyme Activity of Bovine Enterokinase Variants](papers/EVIW-15E2DBA73C1519C4.md) · J Chem Inf Model
+- [Machine learning predictor PSPire screens for phase-separating proteins lacking intrinsically disordered regions](papers/EVIW-7D646DB8FA15FE2B.md) · Nat Commun
+- [Machine learning-aided design and screening of an emergent protein function in synthetic cells](papers/EVIW-38CF1AFDF8FF6388.md) · Nat Commun
+- [Machine learning-based approaches for ubiquitination site prediction in human proteins](papers/EVIW-F8E52A4CD4F0DEA9.md) · BMC Bioinformatics
+- [MDF-DTA: A Multi-Dimensional Fusion Approach for Drug-Target Binding Affinity Prediction](papers/EVIW-E18C301976BF7DBA.md) · J Chem Inf Model
+- [MIFAM-DTI: a drug-target interactions predicting model based on multi-source information fusion and attention mechanism](papers/EVIW-687A8F948317CEBB.md) · Front Genet
+- [Mining and Validation of Novel Umami Peptides in Non-Alcoholic Beer by Integrating Machine Learning Prediction, Molecular Docking, and Sensory Validation, and Their Mult...](papers/EVIW-0C19992621209D05.md) · Foods
+- [Mining for Potent Inhibitors through Artificial Intelligence and Physics: A Unified Methodology for Ligand Based and Structure Based Drug Design](papers/EVIW-7DE1137A015AA401.md) · J Chem Inf Model
+- [MISATO: machine learning dataset of protein-ligand complexes for structure-based drug discovery](papers/EVIW-5313F99B646EE803.md) · Nat Comput Sci
+- [MMPred: a tool to predict peptide mimicry events in MHC class II recognition](papers/EVIW-215D94F22C60E301.md) · Front Genet
+- [Modeling Protein–Protein and Protein–Ligand Interactions by the ClusPro Team in CASP16](papers/EVIW-A0ED72899D0BF4C7.md) · Proteins
+- [MOFormer: navigating the antimicrobial peptide design space with Pareto-based multi-objective transformer](papers/EVIW-DDA5A6DE373DB097.md) · Brief Bioinform
+- [Molecular co-assembled strategy tuning protein conformation for cartilage regeneration](papers/EVIW-9926183132EFD640.md) · Nat Commun
+- [Molecular Docking Analysis of Heparin-Diclofenac Complexes: Insights into Enhanced Cox Enzyme Inhibition for Pain Management](papers/EVIW-E9D0A7FE5A425F5E.md) · Life (Basel)
+- [Molecular embedding-based algorithm selection in protein-ligand docking](papers/EVIW-C523617C641D7770.md) · J Cheminform
+- [Molecular fingerprints are strong models for peptide function prediction](papers/EVIW-8B9311D2D9CE4EF1.md) · Bioinformatics
+- [Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning](papers/EVIW-5563135995C558B7.md) · Commun Chem
+- [Molecular set representation learning](papers/EVIW-85D291B8690C6C29.md) · Nature Machine Intelligence
+- [Molecular-level protein semantic learning via structure-aware coarse-grained language modeling](papers/EVIW-01A2549BFA96DEBC.md) · Bioinformatics
+- [MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation](papers/EVIW-BA2790340B49F580.md) · J Chem Theory Comput
+- [MoleculeFormer is a GCN-transformer architecture for molecular property prediction](papers/EVIW-4FE02D4F53E14E17.md) · Communications Biology
+- [MolMVC: Enhancing molecular representations for drug-related tasks through multi-view contrastive learning](papers/EVIW-B4F99E0FCFBFDBDF.md) · Bioinformatics
+- [MolPIF: a parameter interpolation flow model for molecule generation](papers/EVIW-CF0CF17881A92EFC.md) · Bioinformatics
+- [MPBind: a multitask protein binding site predictor using protein language models and equivariant GNNs](papers/EVIW-8D488E8314E26BBB.md) · Bioinformatics
+- [MULAN: multimodal protein language model for sequence and structure encoding](papers/EVIW-723AD18D0B910730.md) · Bioinform Adv
+- [Multi-indicator comparative evaluation for deep learning-based protein sequence design methods](papers/EVIW-8DDAC377EF9B4668.md) · Bioinformatics
+- [Multi-modal features-based human-herpesvirus protein-protein interaction prediction by using LightGBM](papers/EVIW-E6C9A04E4627E40B.md) · Brief Bioinform
+- [Multi-Modal Topology-Aware Graph Neural Network for Robust Chemical–Protein Interaction Prediction](papers/EVIW-6911ECFF6567B7FE.md) · Int J Mol Sci
+- [Multi-Property De Novo Drug Design Using Deep Learning-Based Knowledge Distillation and Reinforcement Learning](papers/EVIW-FCBA3B306071F343.md) · Int J Mol Sci
+- [Multi-task bioassay pre-training for protein-ligand binding affinity prediction](papers/EVIW-EC580540DF307D9E.md) · Brief Bioinform
+- [Multi-View Biomedical Foundation Models for Molecule-Target and Property Prediction](papers/EVIW-30CB21D1BF9FB596.md) · Adv Sci (Weinh)
+- [Multimodal diffusion for joint design of protein sequence and structure](papers/EVIW-5AE373C130864D82.md) · Protein Sci
+- [Multimodal learning in clinical proteomics: enhancing antimicrobial resistance prediction models with chemical information](papers/EVIW-817D5BB12EEE1B9E.md) · Bioinformatics
+- [Multimodal learning on heterogeneous subgraphs and LLMs representation for MHC-peptide binding affinity prediction](papers/EVIW-D72122024E05F9F5.md) · BMC Bioinformatics
+- [Multimodal pretraining for unsupervised protein representation learning](papers/EVIW-7CE21BAAD11F573D.md) · Biol Methods Protoc
+- [Multimodal Protein Representation Learning and Target-aware Variational Auto-encoders for Protein-binding Ligand Generation](papers/EVIW-3E703C5F9F927E28.md) · Research Square preprint
+- [Multistate and functional protein design using RoseTTAFold sequence space diffusion](papers/EVIW-1885107C07DD1242.md) · Nature Biotechnology
+- [MuToN Quantifies Binding Affinity Changes upon Protein Mutations by Geometric Deep Learning](papers/EVIW-BA8CD2D90E270D39.md) · Adv Sci (Weinh)
+- [Mutual annotation-based prediction of protein domain functions with Domain2GO](papers/EVIW-59363E818003F4AF.md) · Protein Sci
+- [MVRBind: multi-view learning for RNA-small molecule binding site prediction](papers/EVIW-1C4F432A13C3AD34.md) · Brief Bioinform
+- [NAC4ED: A high-throughput computational platform for the rational design of enzyme activity and substrate selectivity](papers/EVIW-46385D553969B118.md) · mLife
+- [NanoBinder: a machine learning assisted nanobody binding prediction tool using Rosetta energy scores](papers/EVIW-F71426628BACE35E.md) · Journal of Cheminformatics
+- [Nature’s defense against emerging neurodegenerative threats: Dynamic simulation, PCA, DCCM identified potential plant-based antiviral lead targeting borna disease virus nucleoprotein](papers/EVIW-18035DE6B31CBCCE.md) · PLoS One
+- [Next Generation SICLOPPS Screening for the Identification of Inhibitors of the HIF-1α/HIF-1β Protein-Protein Interaction](papers/EVIW-5A8CE5D0431D65FB.md) · ACS Chem Biol
+- [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](papers/EVIW-FB7FD6B2AF942CF0.md) · BMC Biology
+- [NIMO: A Natural Product-Inspired Molecular Generative Model Based on Conditional Transformer](papers/EVIW-DDEFC294A4BFD2F3.md) · Molecules
+- [Normalized Protein-Ligand Distance Likelihood Score for End-to-End Blind Docking and Virtual Screening](papers/EVIW-7C3C8ADEABA829E3.md) · J Chem Inf Model
+- [Novel antimicrobial peptides against Cutibacterium acnes designed by deep learning](papers/EVIW-8C5FAD76AB2C6BBD.md) · Sci Rep
+- [Nucleotide context models outperform protein language models for predicting antibody affinity maturation](papers/EVIW-54070BE482574736.md) · PLoS Comput Biol
+- [One step forward towards deep-learning protein complex structure prediction by precise multiple sequence alignment construction](papers/EVIW-213FDD6F0C8EC2DA.md) · Clin Transl Med
+- [Opioid/Dopamine Receptor Binding Studies, NMR and Molecular Dynamics Simulation of LENART01 Chimera, an Opioid-Bombesin-like Peptide](papers/EVIW-08C055C70552D8D8.md) · Molecules
+- [Opportunities and Challenges for Machine Learning-Assisted Enzyme Engineering](papers/EVIW-FA0D3E8C8C44A6F0.md) · ACS Cent Sci
+- [Optimization of binding affinities in chemical space with generative pre-trained transformer and deep reinforcement learning](papers/EVIW-F61E94423526029D.md) · F1000Res
+- [Optimization of drug-target affinity prediction methods through feature processing schemes](papers/EVIW-CEACCF94FA0C0158.md) · Bioinformatics
+- [Optimizing drug design by merging generative AI with a physics-based active learning framework](papers/EVIW-50D727060A34458E.md) · Communications Chemistry
+- [Optimizing enzyme thermostability by combining multiple mutations using protein language model](papers/EVIW-1F0317EDE567CE78.md) · mLife
+- [p-IgGen: a paired antibody generative language model](papers/EVIW-38FE5D1C96C03B2A.md) · Bioinformatics
+- [PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking](papers/EVIW-041FA648F6D77FF2.md) · bioRxiv preprint
+- [Pair-EGRET: enhancing the prediction of protein-protein interaction sites through graph attention networks and protein language models](papers/EVIW-2ED551432A25CE7B.md) · Bioinformatics
+- [PatchProt: hydrophobic patch prediction using protein foundation models](papers/EVIW-489DE22C3AA92EB0.md) · Bioinform Adv
+- [PED: a novel predictor-encoder-decoder model for Alzheimer drug molecular generation](papers/EVIW-5F546E2D7FA21560.md) · Front Artif Intell
+- [PepCNN deep learning tool for predicting peptide binding residues in proteins using sequence, structural, and language model features](papers/EVIW-932468299F5C923F.md) · Sci Rep
+- [PepINVENT: generative peptide design beyond natural amino acids](papers/EVIW-3E36560C8B5CDCDB.md) · Chem Sci
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PepNet: an interpretable neural network for anti-inflammatory and antimicrobial peptides prediction using a pre-trained protein language model](papers/EVIW-D985354C317F9E28.md) · Communications Biology
+- [Peptide binder design with inverse folding and protein structure prediction](papers/EVIW-A1287DC66E85C7EA.md) · Commun Chem
+- [Peptide-Aware Chemical Language Model Successfully Predicts Membrane Diffusion of Cyclic Peptides](papers/EVIW-8A9A06F1043F02B8.md) · Journal of Chemical Information and Modeling
+- [PGAT-ABPp: harnessing protein language models and graph attention networks for antibacterial peptide identification with remarkable accuracy](papers/EVIW-E288C151E5D5BCAF.md) · Bioinformatics
+- [pH-Responsive Elastin-Like Polypeptide Designer Condensates](papers/EVIW-88141ED2186FE3C3.md) · ACS Appl Mater Interfaces
+- [Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling](papers/EVIW-768EC931C6366253.md) · Brief Bioinform
+- [PHIStruct: improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings](papers/EVIW-FE0F8AB0DCCFA28D.md) · Bioinformatics
+- [PhyloSuite v2: The development of an all-in-one, efficient and visualization-oriented suite for molecular dating analysis and other advanced features](papers/EVIW-ED9B7B2C7CD82350.md) · Imeta
+- [PI-Mamba: linear-time protein backbone generation via spectrally initialized flow matching](papers/EVIW-02F3D8D5AADFAEE5.md) · Bioinformatics
+- [PLiSAGE: enhancing protein-ligand interaction prediction with multimodal surface and geometry encoding](papers/EVIW-7B3BB7FC1C77330C.md) · Bioinformatics
+- [pMHChat, characterizing the interactions between major histocompatibility complex class II molecules and peptides with large language models and deep hypergraph learning](papers/EVIW-47213BB42F0B8049.md) · Brief Bioinform
+- [PMIpred: a physics-informed web server for quantitative protein–membrane interaction prediction](papers/EVIW-B7344ADA79740409.md) · Bioinformatics
+- [Pocket Crafter: a 3D generative modeling based workflow for the rapid generation of hit molecules in drug discovery](papers/EVIW-36A749A84CFDA403.md) · Journal of Cheminformatics
+- [POOE: predicting oomycete effectors based on a pre-trained large protein language model](papers/EVIW-426A1A532D5D26FF.md) · mSystems
+- [PPI-Diff: De Novo Generation of Peptide Binders via Resolution-Aware Geometric Diffusion](papers/EVIW-1E14B1FE6D202679.md) · Biomolecules
+- [PPI-Graphomer: enhanced protein-protein affinity prediction using pretrained and graph transformer models](papers/EVIW-D5826B6BE45CEB6A.md) · BMC Bioinformatics
+- [PractiCPP: a deep learning approach tailored for extremely imbalanced datasets in cell-penetrating peptide prediction](papers/EVIW-BCFBFEF388C36C02.md) · Bioinformatics
+- [Predicting ADMET Properties from Molecule SMILE: A Bottom-Up Approach Using Attention-Based Graph Neural Networks](papers/EVIW-31DF9988F21F0F0B.md) · Pharmaceutics
+- [Predicting blood–brain barrier permeability of molecules with a large language model and machine learning](papers/EVIW-02B621CFAF1FFA56.md) · Sci Rep
+- [Predicting drug‐perturbed transcriptional responses using multi‐conditional diffusion transformer](papers/EVIW-E395FE01ADC316B7.md) · Quant Biol
+- [Predicting peroxisome proliferator-activated receptor gamma potency of small molecules: a synergistic consensus model and deep learning binding affinity approach powered by Enalos Cloud Platform](papers/EVIW-00CA1038713C40D3.md) · Mol Divers
+- [Predicting protein–carbohydrate binding sites: a deep learning approach integrating protein language model embeddings and structural features](papers/EVIW-2B57DB63EFE65586.md) · Brief Bioinform
+- [Predicting Transcription Factor Binding Sites with Deep Learning](papers/EVIW-4DE71E4E5BC22265.md) · Int J Mol Sci
+- [Prediction and design of thermostable proteins with a desired melting temperature](papers/EVIW-F4198C42346A9E3A.md) · Scientific Reports
+- [Prediction of antibiotic resistance mechanisms using a protein language model](papers/EVIW-DF4F66AEE5CA4D6A.md) · Bioinformatics
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Prediction of polyspecificity from antibody sequence data by machine learning](papers/EVIW-1D71405426232F03.md) · Front Bioinform
+- [Prediction of Thermostability of Enzymes Based on the Amino Acid Index (AAindex) Database and Machine Learning](papers/EVIW-5A88A4F560515F6B.md) · Molecules
+- [Preferential CDR masking in paired antibody language models improves binding affinity prediction](papers/EVIW-0BE96BB606351927.md) · Communications AI & Computing
+- [Pretrainable geometric graph neural network for antibody affinity maturation](papers/EVIW-EF1A8384D5AD5106.md) · Nature Communications
+- [Primary sequence based protein-protein interaction binder generation with transformers](papers/EVIW-EA884EE67692937E.md) · Discover Artificial Intelligence
+- [PRO-LDM: A Conditional Latent Diffusion Model for Protein Sequence Design and Functional Optimization](papers/EVIW-C3FDA26B02DE8830.md) · Adv Sci (Weinh)
+- [Probabilistic generative transformer language models for generative design of molecules](papers/EVIW-C0C005C3739D6CDB.md) · J Cheminform
+- [Programmable protein stabilization with language model-derived peptide guides](papers/EVIW-FE530DA12E55A92A.md) · Nature Communications
+- [Prompt-to-Pill: Multi-Agent Drug Discovery and Clinical Simulation Pipeline](papers/EVIW-9ED27D0068D38655.md) · Bioinform Adv
+- [Prospective de novo drug design with deep interactome learning](papers/EVIW-DDD30F904E03A0E0.md) · Nat Commun
+- [PROSTATA: a framework for protein stability assessment using transformers](papers/EVIW-DE65F63CDC81659C.md) · Bioinformatics
+- [ProT-GFDM: A generative fractional diffusion model for protein generation](papers/EVIW-1AEFB724D39999C4.md) · Computational and Structural Biotechnology Journal
+- [Protein A-like Peptide Design Based on Diffusion and ESM2 Models](papers/EVIW-806C0F8BBDF226B8.md) · Molecules
+- [Protein Biomarkers Shared by Multiple Neurodegenerative Diseases Are Calmodulin-Binding Proteins Offering Novel and Potentially Universal Therapeutic Targets](papers/EVIW-6FC92A0D0820C724.md) · J Clin Med
+- [Protein design using structure-based residue preferences](papers/EVIW-73A3EA2A0A3BFC91.md) · Nat Commun
+- [Protein embeddings predict binding residues in disordered regions](papers/EVIW-A8926FF4DD7A845A.md) · Sci Rep
+- [Protein language model embeddings improve HIV drug resistance prediction: a comprehensive benchmark with attention-based interpretability](papers/EVIW-2298CD3BA71BF0DF.md) · Bioinformatics
+- [Protein language model-embedded geometric graphs power inter-protein contact prediction](papers/EVIW-A67BD0A05AA3B3CE.md) · eLife
+- [Protein Language Models and Machine Learning Facilitate the Identification of Antimicrobial Peptides](papers/EVIW-BF2DD47B64FE886A.md) · Int J Mol Sci
+- [Protein language models meet reduced amino acid alphabets](papers/EVIW-6C82FA785A104FF8.md) · Bioinformatics
+- [Protein remote homology detection and structural alignment using deep learning](papers/EVIW-5E8F2B723F9545BB.md) · Nat Biotechnol
+- [Protein Set Transformer: A protein-based genome language model to power high diversity viromics](papers/EVIW-90178F1EA972262A.md) · bioRxiv preprint
+- [Protein stability prediction by fine-tuning a protein language model on a mega-scale dataset](papers/EVIW-81ABABCCA0141DCD.md) · PLoS Comput Biol
+- [Protein structure generation via folding diffusion](papers/EVIW-872EB564D511B08C.md) · Nat Commun
+- [Protein-ligand binding affinity prediction using multi-instance learning with docking structures](papers/EVIW-5C0DA702F696CD1D.md) · Front Pharmacol
+- [ProteinDJ: A high-performance and modular protein design pipeline](papers/BFW-18482A721FC0.md) · Protein Sci
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [ProteomeLM: A proteome-scale language model enables accurate and rapid prediction of protein–protein interactions and gene essentiality across taxa](papers/EVIW-32FD7D3722148CE1.md) · Proc Natl Acad Sci U S A
+- [ProT‐Diff: A Modularized and Efficient Strategy for De Novo Generation of Antimicrobial Peptide Sequences by Integrating Protein Language and Diffusion Models](papers/EVIW-C3615774EAE72FC3.md) · Adv Sci (Weinh)
+- [PTM-Mamba: a PTM-aware protein language model with bidirectional gated Mamba blocks](papers/EVIW-5AD4D124DC0AC35A.md) · Nat Methods
+- [PyAMPA: a high-throughput prediction and optimization tool for antimicrobial peptides](papers/EVIW-CD77471719D184D7.md) · mSystems
+- [Quantum-classical hybrid learning framework for molecular property prediction and molecule optimization in drug discovery](papers/EVIW-4F0906652A78868E.md) · Journal of Computer-Aided Molecular Design
+- [Rapid discovery of high-affinity antibodies via massively parallel sequencing, ribosome display and affinity screening](papers/EVIW-808977826178161D.md) · Nat Biomed Eng
+- [Rapid prediction of key residues for foldability by machine learning model enables the design of highly functional libraries with hyperstable constrained peptide scaffolds](papers/EVIW-1C95A4882CFA116B.md) · PLoS Comput Biol
+- [Recent advances in computational antimicrobial peptide discovery through big data, modeling, and artificial intelligence and their interplay in ushering the next golden era of drug development](papers/EVIW-427FAE6AD95695BE.md) · Front Bioinform
+- [Reinvent 4: Modern AI-driven generative molecule design](papers/EVIW-A1D7A445A164113B.md) · J Cheminform
+- [Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction](papers/EVIW-D12CA6E5603A8D3C.md) · J Chem Theory Comput
+- [Rethinking peptide developability with sequence-only models: interpretable screening of microplastic-binding peptides with gated query pooling](papers/EVIW-99840038E21BBF77.md) · Chem Sci
+- [RLEAAI: improving antibody–antigen interaction prediction using protein language model and sequence order information](papers/EVIW-BEED86C0B6E8B844.md) · Brief Bioinform
+- [RNA-EFM: energy-based flow matching for protein-conditioned RNA sequence-structure co-design](papers/EVIW-F532E27CA97BDB0E.md) · Bioinform Adv
+- [ROSes-FINDER: a multi-task deep learning framework for accurate prediction of microorganism reactive oxygen species scavenging enzymes](papers/EVIW-F0B134F58B588610.md) · Front Microbiol
+- [S 2 ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](papers/EVIW-81BCF02102E54A0C.md) · Research (Wash D C)
+- [S-PLM: Structure-Aware Protein Language Model via Contrastive Learning Between Sequence and Structure](papers/EVIW-593480AEBAE04B3E.md) · Adv Sci (Weinh)
+- [SaLT&PepPr is an interface-predicting language model for designing peptide-guided protein degraders](papers/EVIW-2E2E82348BA7421D.md) · Commun Biol
+- [Sample efficient reinforcement learning with active learning for molecular design](papers/EVIW-CB1940C39F6CF321.md) · Chem Sci
+- [Screening de novo designed protein binders in unpurified lysate using flow induced dispersion analysis](papers/EVIW-2909E3C25C9E9F9F.md) · Protein Sci
+- [Screening of multi deep learning-based de novo molecular generation models and their application for specific target molecular generation](papers/EVIW-D9BFEBB497FF7CE0.md) · Scientific Reports
+- [Sensitive remote homology search by local alignment of small positional embeddings from protein language models](papers/EVIW-FE09597837C23FBA.md) · eLife
+- [Seq2Phase: language model-based accurate prediction of client proteins in liquid-liquid phase separation](papers/EVIW-EFC798AC8E4439DA.md) · Bioinform Adv
+- [Sequence, structure prediction, and epitope analysis of the polymorphic membrane protein family in Chlamydia trachomatis](papers/EVIW-56B801568E1856E2.md) · PLoS One
+- [Sequence-Activity Relationship of Angiotensin-Converting Enzyme Inhibitory Peptides Derived from Food Proteins, Based on a New Deep Learning Model](papers/EVIW-C0909D1E08197D7A.md) · Foods
+- [Sequence-based prediction of the intrinsic solubility of peptides containing non-natural amino acids](papers/EVIW-65F619A543F74CDB.md) · Nat Commun
+- [Sequence-only prediction of binding affinity changes: a robust and interpretable model for antibody engineering](papers/EVIW-A27EE3BD864D2A98.md) · Bioinformatics
+- [Shining light on drug discovery: optogenetic screening for TopBP1 biomolecular condensate inhibitors](papers/EVIW-37A7A7C4B022A4C8.md) · NAR Cancer
+- [Simultaneous enhancement of multiple functional properties using evolution-informed protein design](papers/EVIW-203F936780CD552A.md) · Nat Commun
+- [SOFB is a comprehensive ensemble deep learning approach for elucidating and characterizing protein-nucleic-acid-binding residues](papers/EVIW-9923DFE22B48744F.md) · Commun Biol
+- [SpatialPPI: Three-dimensional space protein-protein interaction prediction with AlphaFold Multimer](papers/EVIW-EFFF07329F054B3F.md) · Comput Struct Biotechnol J
+- [SpatialPPIv2: Enhancing protein-protein interaction prediction through graph neural networks with protein language models](papers/EVIW-F0E393D381C5CCE0.md) · Comput Struct Biotechnol J
+- [SPIN-CGNN: Improved fixed backbone protein design with contact map-based graph construction and contact graph neural network](papers/EVIW-B62B9EA1E43384ED.md) · PLoS Comput Biol
+- [SPOT: A machine learning model that predicts specific substrates for transport proteins](papers/EVIW-A6E7B6A382EF56C8.md) · PLoS Biol
+- [StructuralDPPIV: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-IV inhibitory peptides](papers/EVIW-D497BC14270D15F8.md) · Bioinformatics
+- [Structure prediction of alternative protein conformations](papers/EVIW-2A54D144D5FCB54F.md) · Nat Commun
+- [Structure prediction of protein-ligand complexes from sequence information with Umol](papers/EVIW-9BE8411A125E7FEF.md) · bioRxiv preprint
+- [Structure-aware deep learning model for peptide toxicity prediction](papers/EVIW-F80C49767EED2FC0.md) · Protein Sci
+- [Structure-aware deep model for MHC-II peptide binding affinity prediction](papers/EVIW-E9F999EE59819090.md) · BMC Genomics
+- [Structure-aware machine learning strategies for antimicrobial peptide discovery](papers/EVIW-0A19F803228ADC09.md) · Sci Rep
+- [Structure-Based Approaches for Protein-Protein Interaction Prediction Using Machine Learning and Deep Learning](papers/EVIW-45132B2221AB880D.md) · Biomolecules
+- [Structure-based design of a phosphotyrosine-masked covalent ligand targeting the E3 ligase SOCS2](papers/EVIW-A8B798D34F48E25A.md) · Nat Commun
+- [Structure-based prediction of nucleic acid binding residues by merging deep learning- and template-based approaches](papers/EVIW-4E557E8CF39F8A46.md) · PLoS Comput Biol
+- [Structure-based prediction of protein-nucleic acid binding using graph neural networks](papers/EVIW-778F0D9B754DA725.md) · Biophys Rev
+- [Structure-based TCR-pMHC binding prediction and generalization to unseen peptides](papers/EVIW-E07E46D19FBD81BA.md) · npj Drug Discovery
+- [SubMDTA: drug target affinity prediction based on substructure extraction and multi-scale features](papers/EVIW-01443391B114BBA9.md) · BMC Bioinformatics
+- [SumoPred-PLM: human SUMOylation and SUMO2/3 sites Prediction using Pre-trained Protein Language Model](papers/EVIW-342371DAB3074A41.md) · NAR Genom Bioinform
+- [SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction](papers/EVIW-EC9637C020BEE703.md) · bioRxiv preprint
+- [SurfFold: a unified model for protein inverse folding by integrating surface and structural information](papers/EVIW-874EB338BB355D67.md) · Bioinformatics
+- [SwissDock 2024: major enhancements for small-molecule docking with Attracting Cavities and AutoDock Vina](papers/EVIW-8C95A970087008AA.md) · Nucleic Acids Res
+- [Systematic Exploration of Small-Molecule Binding via a Large Language Model Trained on Textualized Protein-Ligand Interactions](papers/EVIW-29AA774D6FE17308.md) · Molecules
+- [t-SMILES: a fragment-based molecular representation framework for de novo ligand design](papers/EVIW-DADFA60369AE3EA8.md) · Nat Commun
+- [Tailored structured peptide design with a key-cutting machine approach](papers/EVIW-3344196F75794324.md) · Nat Mach Intell
+- [TamGen: drug design with target-aware molecule generation through a chemical language model](papers/EVIW-FE15D09DFF53156B.md) · Nat Commun
+- [Target sequence-conditioned design of peptide binders using masked language modeling](papers/EVIW-BF159123222D1607.md) · Nature Biotechnology
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [TargetCLP: clathrin proteins prediction combining transformed and evolutionary scale modeling-based multi-view features via weighted feature integration approach](papers/EVIW-404C5BACD2E2FE9A.md) · Brief Bioinform
+- [TemStaPro: protein thermostability prediction using sequence representations from protein language models](papers/EVIW-331087A1C5C59223.md) · Bioinformatics
+- [The Accurate Prediction of Antibody Deamidations by Combining High-Throughput Automated Peptide Mapping and Protein Language Model-Based Deep Learning](papers/EVIW-F063CCE9F585DD43.md) · Antibodies (Basel)
+- [The promises of large language models for protein design and modeling](papers/EVIW-F8ED02A0B71D4CD5.md) · Front Bioinform
+- [The role of artificial intelligence and machine learning in predicting and combating antimicrobial resistance](papers/EVIW-0E5613C62EC99AB5.md) · Comput Struct Biotechnol J
+- [THPLM: a sequence-based deep learning framework for protein stability changes prediction upon point variations using pretrained protein language model](papers/EVIW-5FA829750FC5822C.md) · Bioinformatics
+- [Token-Mol 1.0: tokenized drug design with large language models](papers/EVIW-A49F35F3F1F4BB7E.md) · Nature Communications
+- [Towards a Truly General Intermolecular Binding Affinity Calculator for Drug Discovery & Design](papers/EVIW-EF3595BA7CFEACDB.md) · Preprints.org
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [Towards the accurate modelling of antibody-antigen complexes from sequence using machine learning and information-driven docking](papers/EVIW-1F804F232529DF61.md) · Bioinformatics
+- [Tpgen: a language model for stable protein design with a specific topology structure](papers/EVIW-B4DD900E446E25B9.md) · BMC Bioinformatics
+- [TransBind allows precise detection of DNA-binding proteins and residues using language models and deep learning](papers/EVIW-457E2FBD9F52B0DD.md) · Communications Biology
+- [TransFactor—prediction of pro-viral SARS-CoV-2 host factors using a protein language model](papers/EVIW-204A215535DA2931.md) · Bioinformatics
+- [Transfer learning with graph neural networks for improved molecular property prediction in the multi-fidelity setting](papers/EVIW-AC7E20846416A28D.md) · Nat Commun
+- [Transferable deep generative modeling of intrinsically disordered protein conformations](papers/EVIW-C2860AB1F974666A.md) · PLoS Comput Biol
+- [Transformer-Decoder GPT Models for Generating Virtual Screening Libraries of HMG-Coenzyme A Reductase Inhibitors: Effects of Temperature, Prompt Length, and Transfer-Learning Strategies](papers/EVIW-3C57D47B61C5B421.md) · J Chem Inf Model
+- [Transformers enable accurate prediction of acute and chronic chemical toxicity in aquatic organisms](papers/EVIW-A744CE81A2103EEC.md) · Sci Adv
+- [ULDNA: integrating unsupervised multi-source language models with LSTM-attention network for high-accuracy protein-DNA binding site prediction](papers/EVIW-2AD4C34E7E631F20.md) · Brief Bioinform
+- [UniKP: a unified framework for the prediction of enzyme kinetic parameters](papers/EVIW-8DA30E5B97E9FAFF.md) · Nat Commun
+- [Unraveling druggable cancer-driving proteins and targeted drugs using artificial intelligence and multi-omics analyses](papers/EVIW-E7967B111A41F5EB.md) · Scientific Reports
+- [Using deep learning and large protein language models to predict protein-membrane interfaces of peripheral membrane proteins](papers/EVIW-90130005AA3C23BF.md) · Bioinform Adv
+- [Using protein language models for protein interaction hot spot prediction with limited data](papers/EVIW-67FB689C91FAADD9.md) · BMC Bioinformatics
+- [Utility of the Morgan Fingerprint in Structure-Based Virtual Ligand Screening](papers/EVIW-184C215C5D4F8AB2.md) · J Phys Chem B
+- [Utilizing Molecular Dynamics Simulations, Machine Learning, Cryo-EM, and NMR Spectroscopy to Predict and Validate Protein Dynamics](papers/EVIW-A70BA40F241E16C8.md) · Int J Mol Sci
+- [VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design](papers/EVIW-817614F6D85CF180.md) · J Chem Inf Model
+- [VGAE-MCTS: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search](papers/EVIW-E055FF023C0B29CB.md) · J Chem Inf Model
+- [VirusHound-I: prediction of viral proteins involved in the evasion of host adaptive immune response using the random forest algorithm and generative adversarial network](papers/EVIW-DC23DC882167B02D.md) · Brief Bioinform
+- [VISH-Pred: an ensemble of fine-tuned ESM models for protein toxicity prediction](papers/EVIW-A2E8C5BC0F97026E.md) · Brief Bioinform
+- [When Protein Structure Embedding Meets Large Language Models](papers/EVIW-3C9A3952CB15CE69.md) · Genes (Basel)
+- [xBitterT5: an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides](papers/EVIW-AD4E50B8A34842BA.md) · Journal of Cheminformatics
+- [xCAPT5: protein-protein interaction prediction using deep and wide multi-kernel pooling convolutional neural networks with protein language model](papers/EVIW-548BA32503295D77.md) · BMC Bioinformatics
+- [Zero-shot prediction of mutation effects with multimodal deep representation learning guides protein engineering](papers/EVIW-352EF67848CF571F.md) · Cell Res
+- [ZeroGEN: leveraging language models for zero-shot ligand design from protein sequences](papers/EVIW-2B81F9DEB564E4C3.md) · Bioinformatics
+
+### 核心相关（458）
+
+- [3D molecular generative framework for interaction-guided drug design](papers/EVIW-7F3D00C76F88E2D5.md) · Nat Commun
+- [A Comparative Study of Deep Learning and Classical Modeling Approaches for Protein–Ligand Binding Pose and Affinity Prediction in Coronavirus Main Proteases](papers/EVIW-C32EB93F00BC417D.md) · J Chem Inf Model
+- [A conditional denoising VAE-based framework for antimicrobial peptides generation with preserving desirable properties](papers/EVIW-B66607838B13CDF6.md) · Bioinformatics
+- [A conditional protein diffusion model generates artificial programmable endonuclease sequences with enhanced activity](papers/EVIW-C01A245FD055519A.md) · Cell Discov
+- [A deep learning method for drug-target affinity prediction based on sequence interaction information mining](papers/EVIW-643B1E1D6A4DC185.md) · PeerJ
+- [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](papers/EVIW-87C7E30CF2A5F5BF.md) · bioRxiv preprint
+- [A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets](papers/EVIW-EECA1B7E57AE69E8.md) · Nat Commun
+- [A dual diffusion model-based representation learning framework for antimicrobial peptides classification](papers/EVIW-584A3279CA37FE46.md) · Bioinformatics
+- [A dual-branch graph neural network architecture for drug-target binding affinity prediction](papers/EVIW-2BF3EC6B2F092890.md) · Scientific Reports
+- [A Folding-Docking-Affinity framework for protein-ligand binding affinity prediction](papers/EVIW-B2B46F1438C6AEE1.md) · Communications Chemistry
+- [A Foundation Model Identifies Broad-Spectrum Antimicrobial Peptides against Drug-Resistant Bacterial Infection](papers/EVIW-051601A26FADD01F.md) · Nature Communications
+- [A general hypergraph learning algorithm for drug multi-task predictions in micro-to-macro biomedical networks](papers/EVIW-F59F52E24538EC4D.md) · PLoS Comput Biol
+- [A general prediction model for compound-protein interactions based on deep learning](papers/EVIW-9800F11849B695A5.md) · Front Pharmacol
+- [A general temperature-guided language model to design proteins of enhanced stability and activity](papers/EVIW-A579ED1310C4033A.md) · Sci Adv
+- [A generative artificial intelligence approach for peptide antibiotic optimization](papers/EVIW-B47A1491CBD2F081.md) · Nat Mach Intell
+- [A generative explainable model for antimicrobial peptide prediction using bidirectional temporal convolutional neural network](papers/EVIW-FD12D61BC580B2CB.md) · Scientific Reports
+- [A Generative Neuro‐Symbolic AI for Protein Sequence Design](papers/EVIW-0B50D08AC6A9EB98.md) · Adv Sci (Weinh)
+- [A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules](papers/EVIW-A7B87B84C2DD8D8D.md) · Nature Communications
+- [A hybrid variational autoencoder and WGAN with gradient penalty for tertiary protein structure generation](papers/EVIW-6907C6E55D45B2C1.md) · Scientific Reports
+- [A Machine Learning-Enabled Venom Peptide Platform for Rapid Drug Discovery](papers/EVIW-27ACE42DCA76D5BE.md) · Pharmaceuticals (Basel)
+- [A modular protein language modelling approach to immunogenicity prediction](papers/EVIW-8F8C157B31B1403C.md) · PLoS Comput Biol
+- [A Molecular-Protein Fusion Framework for Rapid Virtual Screening: Accelerating Lead Discovery for 'Undruggable' Oncogenic Targets](papers/EVIW-DB4950B4D4A2E3D1.md) · Pharmaceuticals (Basel)
+- [A multi-grained symmetric differential equation model for learning protein-ligand binding dynamics](papers/EVIW-68E7B63A25D649D3.md) · Nat Commun
+- [A Multi-Task Self-Supervised Strategy for Predicting Molecular Properties and FGFR1 Inhibitors](papers/EVIW-0AE3B8186F6B90E7.md) · Adv Sci (Weinh)
+- [A multimodal Transformer Network for protein-small molecule interactions enhances predictions of kinase inhibition and enzyme-substrate relationships](papers/EVIW-B3F9D365DAD1F084.md) · PLoS Comput Biol
+- [A New Insight into the Study of Neural Cell Adhesion Molecule (NCAM) Polysialylation Inhibition Incorporated the Molecular Docking Models into the NMR Spectroscopy of a ...](papers/EVIW-0CC8ADDA45100879.md) · Biomolecules
+- [A new paradigm for applying deep learning to protein-ligand interaction prediction](papers/EVIW-5B1517D884AADDC2.md) · Brief Bioinform
+- [A non-canonical nucleophile unlocks a new mechanistic pathway in a designed enzyme](papers/EVIW-F464CA2FF7B2C26C.md) · Nat Commun
+- [A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties](papers/BFW-1743CA1AF5D6.md) · PLoS Comput Biol
+- [A paired sequence language model for protein-protein interaction modeling](papers/EVIW-1F44AF237AA8F268.md) · Nat Commun
+- [A pharmacophore-guided deep learning approach for bioactive molecular generation](papers/EVIW-AABC81152A5D218D.md) · Nat Commun
+- [A Point Cloud Graph Neural Network for Protein–Ligand Binding Site Prediction](papers/EVIW-58C55EE07E03C38A.md) · Int J Mol Sci
+- [A rationally designed 18-amino acid peptide with potential as GLP-1 receptor agonist](papers/EVIW-A7375920FC934F72.md) · Front Pharmacol
+- [A Reinforcement Learning-Guided Genetic Algorithm Integrating Medicinal Chemistry-Inspired Molecular Transformations](papers/EVIW-1B989548047E5BE8.md) · J Chem Inf Model
+- [A Robust Drug–Target Interaction Prediction Framework with Capsule Network and Transfer Learning](papers/EVIW-871765598D8AD623.md) · Int J Mol Sci
+- [A scalable reinforcement learning approach for screening large peptide libraries for bioactive peptide discovery](papers/EVIW-E9CD4536A504D6BA.md) · Nat Commun
+- [A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models](papers/EVIW-0AE5BB88A44BC105.md) · Communications Chemistry
+- [A Suite of Designed Protein Cages Using Machine Learning Algorithms and Protein Fragment-Based Protocols](papers/EVIW-8816AA5429600E64.md) · bioRxiv
+- [A Transformer for Reaction-Aware Compound Explorations with GFlowNet in QSAR-Guided Molecular Design](papers/EVIW-B44A523D00052AB4.md) · J Chem Inf Model
+- [A variational expectation-maximization framework for balanced multi-scale learning of protein and drug interactions](papers/EVIW-D858D0437C6CD98B.md) · Nat Commun
+- [AbFlex: designing antibody complementarity determining regions with flexible CDR definition](papers/EVIW-24F12258176E114A.md) · Bioinformatics
+- [Accelerating antimicrobial peptide design: Leveraging deep learning for rapid discovery](papers/EVIW-AB45A48DBA8A5BEE.md) · PLoS One
+- [Accurate and transferable drug-target interaction prediction with DrugLAMP](papers/EVIW-81F2594343B5883B.md) · Bioinformatics
+- [Accurate de novo design of heterochiral protein–protein interactions](papers/EVIW-762DC9B38FFF15C5.md) · Cell Res
+- [Accurate de novo design of high-affinity protein-binding macrocycles using deep learning](papers/EVIW-24DA60356D0CA3B2.md) · Nat Chem Biol
+- [Accurate Generation of Conformational Ensembles for Intrinsically Disordered Proteins with IDPFold](papers/EVIW-BA3B778AE34FD6B6.md) · Adv Sci (Weinh)
+- [Accurate Identification of Protein Binding Sites for All Drug Modalities Using ALLSites](papers/EVIW-77CFA975A5E481C9.md) · Adv Sci (Weinh)
+- [Accurate prediction of protein-ligand interactions by combining physical energy functions and graph-neural networks](papers/EVIW-450A2DC6B2948F9C.md) · J Cheminform
+- [Accurate prediction of toxicity peptide and its function using multi-view tensor learning and latent semantic learning framework](papers/EVIW-FE2C02759F001D51.md) · Bioinformatics
+- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](papers/EVIW-643136E50839D7AA.md) · Nature
+- [Accurate TCR-pMHC interaction prediction using a BERT-based transfer learning method](papers/EVIW-7F3870CE001D8F3E.md) · Brief Bioinform
+- [ACP-CapsPred: an explainable computational framework for identification and functional prediction of anticancer peptides based on capsule network](papers/EVIW-9740ACD6DFDD26CD.md) · Brief Bioinform
+- [Active learning of the thermodynamics-dynamics trade-off in protein condensates](papers/EVIW-59A067C244208CED.md) · Sci Adv
+- [ActivityDiff: a diffusion model with positive and negative activity guidance for de novo drug design](papers/EVIW-473F7478FC95951A.md) · Bioinformatics
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness prediction](papers/EVIW-8DEF05D4191F5455.md) · Bioinformatics
+- [Advancing drug–target interaction prediction: a comprehensive graph-based approach integrating knowledge graph embedding and ProtBert pretraining](papers/EVIW-58C5B543462616DE.md) · BMC Bioinformatics
+- [AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development](papers/EVIW-98520D60907BC088.md) · Methods Protoc
+- [AI-driven antimicrobial peptide characterization unveils novel motifs for drug design](papers/EVIW-C03C2EAE5E699FCA.md) · Sci Rep
+- [AI-driven drug discovery using transformer-based molecular representation learning](papers/EVIW-71C0302156224515.md) · Front Artif Intell
+- [AISMPred: A Machine Learning Approach for Predicting Anti-Inflammatory Small Molecules](papers/EVIW-6A2327D2365F2C90.md) · Pharmaceuticals (Basel)
+- [ALDELE: All-Purpose Deep Learning Toolkits for Predicting the Biocatalytic Activities of Enzymes](papers/EVIW-A62C4F1A4A241586.md) · J Chem Inf Model
+- [AlphaFold Meets De Novo Drug Design: Leveraging Structural Protein Information in Multitarget Molecular Generative Models](papers/EVIW-820A87609D2AD16D.md) · J Chem Inf Model
+- [AMP-Diffusion: Integrating Latent Diffusion with Protein Language Models for Antimicrobial Peptide Generation](papers/EVIW-82B2503C91A465CA.md) · bioRxiv preprint
+- [AMPGen: an evolutionary information-reserved and diffusion-driven generative model for de novo design of antimicrobial peptides](papers/EVIW-3B0C00C5C6357749.md) · Communications Biology
+- [AmpHGT: expanding prediction of antimicrobial activity in peptides containing non-canonical amino acids using multi-view constrained heterogeneous graph transformer](papers/EVIW-BA31B886E6888BA5.md) · BMC Biology
+- [An artificial intelligence accelerated virtual screening platform for drug discovery](papers/EVIW-592FD20C360BC8B9.md) · Nat Commun
+- [An electron-density point-cloud framework for robust protein-ligand interaction prediction](papers/EVIW-1F343CF1A0E42087.md) · Nat Commun
+- [An end-to-end method for predicting compound-protein interactions based on simplified homogeneous graph convolutional network and pre-trained language model](papers/EVIW-9206AA79E73AF799.md) · J Cheminform
+- [An image-based protein-ligand binding representation learning framework via multi-level flexible dynamics trajectory pre-training](papers/EVIW-50596DE988BFF9EC.md) · Bioinformatics
+- [An in silico molecular docking and simulation study to identify potential anticancer phytochemicals targeting the RAS signaling pathway](papers/EVIW-65FBCECA5A9FF37D.md) · PLoS One
+- [An integrative approach to protein sequence design through multiobjective optimization](papers/EVIW-6115205069F1A499.md) · PLoS Comput Biol
+- [An interpretable geometric graph neural network for enhancing the generalizability of drug–target interaction prediction](papers/EVIW-A72DAED20A6AA86B.md) · BMC Biology
+- [An Interpretable Multi-Objective Machine Learning Framework for In Silico Prioritization of Anti-Staphylococcus aureus Antimicrobial Peptides](papers/EVIW-76378985A0FE2B41.md) · Diagnostics (Basel)
+- [Anti-Staphy Peptides Rationally Designed from Cry10Aa Bacterial Protein](papers/EVIW-71426490B42287E5.md) · ACS Omega
+- [AntiFold: improved structure-based antibody design using inverse folding](papers/EVIW-FC4F98D1EFC1712B.md) · Bioinform Adv
+- [Antiviral Peptide-Generative Pre-Trained Transformer (AVP-GPT): A Deep Learning-Powered Model for Antiviral Peptide Design with High-Throughput Discovery and Exceptional Potency](papers/EVIW-2E8B47608015C954.md) · Viruses
+- [Approaching Optimal pH Enzyme Prediction with Large Language Models](papers/EVIW-43C1D0D0C335516B.md) · ACS Synth Biol
+- [APTAnet: an atom-level peptide-TCR interaction affinity prediction model](papers/EVIW-9A52A00B636813BB.md) · Biophys Rep
+- [AptaTrans: a deep neural network for predicting aptamer-protein interaction using pretrained encoders](papers/EVIW-5B4F83FAF83C4EDF.md) · BMC Bioinformatics
+- [Artificial intelligence for prediction of biological activities and generation of molecular hits using stereochemical information](papers/EVIW-7B1AD73D6D7BD5FE.md) · J Comput Aided Mol Des
+- [Artificial Intelligence-Powered Molecular Docking and Steered Molecular Dynamics for Accurate scFv Selection of Anti-CD30 Chimeric Antigen Receptors](papers/EVIW-EE66E8C995061077.md) · Int J Mol Sci
+- [Assessing the Interactions between Snake Venom Metalloproteinases and Hydroxamate Inhibitors Using Kinetic and ITC Assays, Molecular Dynamics Simulations and MM/PBSA-Based Calculations](papers/EVIW-7587EFB3DB8AABCA.md) · ACS Omega
+- [Assessing the potential of deep learning for protein-ligand docking](papers/EVIW-BC698A734AE51681.md) · Nat Mach Intell
+- [Atom-level enzyme active site scaffolding using RFdiffusion2](papers/BFW-677CA1020102.md) · Nature Methods
+- [Atomic context-conditioned protein sequence design using LigandMPNN](papers/EVIW-000C4D50B88BA07A.md) · Nat Methods
+- [AttABseq: an attention-based deep learning prediction method for antigen–antibody binding affinity changes based on protein sequences](papers/EVIW-8AA96DCC4EAD6598.md) · Brief Bioinform
+- [Attention network for predicting T-cell receptor-peptide binding can associate attention with interpretable protein structural properties](papers/EVIW-2851B31F304D19F1.md) · Front Bioinform
+- [Attention-based approach to predict drug-target interactions across seven target superfamilies](papers/EVIW-4E91B58A46E5B41F.md) · Bioinformatics
+- [Automated and modular protein binder design with BinderFlow](papers/EVIW-C02982996FBD3F6A.md) · PLOS Computational Biology
+- [Automated synthetic cell-based screening for designed proteins with emergent functions](papers/EVIW-5081FE7D706E3586.md) · Nat Commun
+- [AutoPeptideML: a study on how to build more trustworthy peptide bioactivity predictors](papers/EVIW-BE76B197C5D200BF.md) · Bioinformatics
+- [AVP-GPT2: A Transformer-Powered Platform for De Novo Generation, Screening, and Explanation of Antiviral Peptides](papers/EVIW-3A964B1973F54AF1.md) · Viruses
+- [Barlow Twins deep neural network for advanced 1D drug-target interaction prediction](papers/EVIW-1CE56F554CAB2790.md) · J Cheminform
+- [BBB-PEP-prediction: improved computational model for identification of blood–brain barrier peptides using blending position relative composition specific features and ensemble modeling](papers/EVIW-7F3218A7A0CFFE26.md) · J Cheminform
+- [Benchmarking AlphaFold3's protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation](papers/EVIW-7B3BA40DB3C17D72.md) · arXiv preprint
+- [Benchmarking antigen-aware inverse folding methods for antibody design](papers/EVIW-A1AD09D7AFFD0BA7.md) · bioRxiv preprint
+- [Benchmarking compound activity prediction for real-world drug discovery applications](papers/EVIW-27BCEE46559B0DFA.md) · Commun Chem
+- [Benchmarking inverse folding models for antibody CDR sequence design](papers/EVIW-AEAE9AA5539B2E45.md) · PLOS ONE
+- [BertADP: a fine-tuned protein language model for anti-diabetic peptide prediction](papers/EVIW-F9AD04E02887E9BD.md) · BMC Biology
+- [Bioactivity Deep Learning for Complex Structure-Free Compound-Protein Interaction Prediction](papers/EVIW-819EC6B4DDEB7DFB.md) · J Chem Inf Model
+- [Biophysics-based protein language models for protein engineering](papers/EVIW-40D5F9BF08E6F0D0.md) · Nat Methods
+- [BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists](papers/EVIW-DCAF3329DD185313.md) · Comput Struct Biotechnol J
+- [Biosensor and machine learning-aided engineering of an amaryllidaceae enzyme](papers/EVIW-F6790BBB81067D8C.md) · Nat Commun
+- [Bitter peptide prediction using graph neural networks](papers/EVIW-6CFA93D3BCD5F547.md) · J Cheminform
+- [BoltzGen: Toward Universal Binder Design](papers/EVIW-EBBC8C147959FE4A.md) · bioRxiv
+- [Bond-centric modular design of protein assemblies](papers/EVIW-B7E9430722647682.md) · Nat Mater
+- [BPFun: a deep learning framework for bioactive peptide function prediction using multi-label strategy by transformer-driven and sequence rich intrinsic information](papers/EVIW-6392FF2B56C99F91.md) · BMC Bioinformatics
+- [Bridging Generative AI and Diffusion Models With Molecular Simulation to Design Anti-Quorum-Sensing De novo Peptides Targeting LasR of Pseudomonas aeruginosa](papers/EVIW-8B26B6C224750AD8.md) · Probiotics and Antimicrobial Proteins
+- [BroadAMP-GPT: AI-Driven generation of broad-spectrum antimicrobial peptides for combating multidrug-resistant ESKAPE pathogens](papers/EVIW-8BB7B9217975CD7C.md) · Gut Microbes
+- [CaBind_MCNN: Identifying Potential Calcium Channel Blocker Targets by Predicting Calcium-Binding Sites in Ion Channels and Ion Transporters Using Protein Language Models and Multiscale Feature Extraction](papers/EVIW-6EF69641EF76DBE5.md) · J Chem Inf Model
+- [CAP: Commutative algebra prediction of protein-nucleic acid binding affinities](papers/EVIW-821C6299978698D5.md) · Machine Learning: Science and Technology
+- [Cell-free biosynthesis combined with deep learning accelerates de novo-development of antimicrobial peptides](papers/EVIW-7517D0EB7719FCF9.md) · Nat Commun
+- [ChatMol: interactive molecular discovery with natural language](papers/EVIW-EAE32CFD6D59B1E2.md) · Bioinformatics
+- [ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization](papers/EVIW-E513F4FA4C3C0EAA.md) · Brief Bioinform
+- [ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation](papers/EVIW-56812DE3792757B2.md) · Journal of Chemical Information and Modeling
+- [CLDN18.2 antibody design with protein language models: A deep learning optimization framework](papers/EVIW-BE033C46CCB9A3C9.md) · PLOS Computational Biology
+- [Co-design protein sequence and structure in discrete space via generative flow](papers/EVIW-E1EB5AD1AEBADA84.md) · Bioinformatics
+- [CoDNet: controlled diffusion network for structure-based drug design](papers/EVIW-47A2C4E6BAECCE23.md) · Bioinform Adv
+- [Combining machine learning with structure-based protein design to predict and engineer post-translational modifications of proteins](papers/EVIW-83AD8E36CF545DE1.md) · PLoS Comput Biol
+- [Combining Rosetta Sequence Design with Protein Language Model Predictions Using Evolutionary Scale Modeling (ESM) as Restraint](papers/EVIW-21DCFE55217047DC.md) · ACS Synth Biol
+- [Comparative evaluation of methods for the prediction of protein-ligand binding sites](papers/EVIW-D85A58477929E230.md) · J Cheminform
+- [Complementary multi-modality molecular self-supervised learning via non-overlapping masking for property prediction](papers/EVIW-684C37ADF16692C9.md) · Brief Bioinform
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [Computational design of class II MHC binding peptide with sequence-based evolution information](papers/EVIW-C4FB45BC99A93073.md) · Bioinform Adv
+- [Computational discovery of SARS-CoV-2 viral entry inhibitory peptides from Androctonus mauretanicus scorpion venom: molecular docking and molecular dynamics simulations](papers/EVIW-6F777AE24892782F.md) · Front Bioinform
+- [Computational scoring and experimental evaluation of enzymes generated by neural networks](papers/EVIW-915050C57D2DE52E.md) · Nat Biotechnol
+- [Computationally designed proteins mimic antibody immune evasion in viral evolution](papers/EVIW-52ECC165D4C1BC98.md) · Immunity
+- [Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules](papers/EVIW-A340204028FECB43.md) · Biomolecules
+- [CPL‐Diff: A Diffusion Model for De Novo Design of Functional Peptide Sequences with Fixed Length](papers/EVIW-466228B7D151118B.md) · Adv Sci (Weinh)
+- [CPP2Vec: A representation learning approach for cell-penetrating peptides prediction](papers/EVIW-1450D8C7581F6484.md) · PLOS Computational Biology
+- [CRISPR-Cas9 screening reveals a distinct class of MHC-I binders with precise HLA-peptide recognition](papers/EVIW-BD211E17DC7043A1.md) · iScience
+- [CS-DTA: a language model-driven framework for robust drug-target affinity prediction under strict cold-start scenarios](papers/EVIW-B2D74A3DCC6C8DF7.md) · Front Chem
+- [Cyclic peptide structure prediction and design using AlphaFold2](papers/EVIW-0E24408ABDFC740F.md) · Nature Communications
+- [CycPeptMP: enhancing membrane permeability prediction of cyclic peptides with multi-level molecular features and data augmentation](papers/EVIW-7D1ADFC98AF15650.md) · Brief Bioinform
+- [Cytochrome P450 Enzyme Design by Constraining the Catalytic Pocket in a Diffusion Model](papers/EVIW-1463F1CB9ABB78D8.md) · Research (Wash D C)
+- [DataDTA: a multi-feature and dual-interaction aggregation framework for drug–target binding affinity prediction](papers/EVIW-903FC9F7CF235FD5.md) · Bioinformatics
+- [DCGAT-DTI: dynamic cross-graph attention network for drug-target interaction prediction](papers/EVIW-8B742926549B15B5.md) · Bioinform Adv
+- [DDAffinity: predicting the changes in binding affinity of multiple point mutations using protein 3D structure](papers/EVIW-B067DEF24DEA2110.md) · Bioinformatics
+- [DDMut-PPI: predicting effects of mutations on protein-protein interactions using graph-based deep learning](papers/EVIW-437CF46420154922.md) · Nucleic Acids Res
+- [De Novo Antimicrobial Peptide Design with Feedback Generative Adversarial Networks](papers/EVIW-9D1944506B9DAEA2.md) · Int J Mol Sci
+- [De novo design of buttressed loops for sculpting protein functions](papers/EVIW-904CCEC07D5C8AF0.md) · Nat Chem Biol
+- [De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders](papers/EVIW-397BB32AC538E433.md) · J Am Chem Soc
+- [De novo designed proteins neutralize lethal snake venom toxins](papers/EVIW-5DAF70ACC4D7F4E9.md) · Nature
+- [De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning](papers/EVIW-6AFBE1321B318817.md) · J Comput Aided Mol Des
+- [De Novo Drug Design Using Transformer-Based Machine Translation and Reinforcement Learning of an Adaptive Monte Carlo Tree Search](papers/EVIW-7490C110E2A6B2C6.md) · Pharmaceuticals (Basel)
+- [De novo functional protein sequence generation: overcoming data scarcity through regeneration and large language models](papers/EVIW-4AC4AFB961A40084.md) · Brief Bioinform
+- [De novo synthetic antimicrobial peptide design with a recurrent neural network](papers/EVIW-647BFF7FAA5ECC23.md) · Protein Sci
+- [Deciphering key factors of active learning performance in biomolecular design](papers/EVIW-B295939543E1B491.md) · Bioinformatics
+- [Deep learning driven de novo drug design based on gastric proton pump structures](papers/EVIW-1280AD74B138884E.md) · Commun Biol
+- [Deep Learning Empowers the Discovery of Self-Assembling Peptides with Over 10 Trillion Sequences](papers/EVIW-78F12E35B43BB05A.md) · Adv Sci (Weinh)
+- [Deep Learning for Protein–peptide binding Prediction: Incorporating Sequence, Structural and Language Model Features](papers/EVIW-16CD02A4DB552231.md) · bioRxiv preprint
+- [Deep learning in GPCR drug discovery: benchmarking the path to accurate peptide binding](papers/EVIW-7BBE077F641CF7F4.md) · Briefings in Bioinformatics
+- [Deep learning workflow for the inverse design of molecules with specific optoelectronic properties](papers/EVIW-B9DC20CAB83C85CC.md) · Sci Rep
+- [Deep Learning-Based Protein Half-Life Prediction for Identifying Rate-Limiting Enzymes in Metabolic Pathways to Alleviate Bottleneck Reactions](papers/EVIW-AD2EB1AE7FA48D96.md) · J Microbiol Biotechnol
+- [DeepAVP-TPPred: identification of antiviral peptides using transformed image-based localized descriptors and binary tree growth algorithm](papers/EVIW-512C8F008B03ACB6.md) · Bioinformatics
+- [DeepBP: Ensemble deep learning strategy for bioactive peptide prediction](papers/EVIW-A418833AC819190B.md) · BMC Bioinformatics
+- [DeepDTAGen: a multitask deep learning framework for drug-target affinity prediction and target-aware drugs generation](papers/EVIW-6A06FBBBEE19026B.md) · Nature Communications
+- [DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures](papers/EVIW-86CBE2CAA2AB3A69.md) · Brief Bioinform
+- [DeepPath: overcoming data scarcity for protein transition pathway prediction using physics-based deep learning](papers/EVIW-12CFC2FF0F445FBA.md) · Chem Sci
+- [DeepProSite: structure-aware protein binding site prediction using ESMFold and pretrained language model](papers/EVIW-8C02585678F47251.md) · Bioinformatics
+- [DeepRank-GNN-esm: a graph neural network for scoring protein-protein models using protein language model](papers/EVIW-15405E99B573B3CB.md) · Bioinform Adv
+- [Democratizing protein language models with parameter-efficient fine-tuning](papers/EVIW-6B4C678CD5B415B8.md) · Proc Natl Acad Sci U S A
+- [Descriptor-augmented machine learning for enzyme-chemical interaction predictions](papers/EVIW-E360B61141F505DD.md) · Synth Syst Biotechnol
+- [Design of high-specificity binders for peptide-MHC-I complexes](papers/EVIW-5B2A016A7A13F3AF.md) · Science Advances
+- [Design of linear and cyclic peptide binders from protein sequence information](papers/EVIW-01477EAB1AD23043.md) · Communications Chemistry
+- [Designing and immunomolecular analysis of a new broad-spectrum multiepitope vaccine against divergent human papillomavirus types](papers/EVIW-C67C00C7729CB4E5.md) · PLoS One
+- [Designing novel peptides with amyloid-β binding and clearance potential using BiLSTM and molecular dynamics](papers/EVIW-FBABEC0DFF6A2BDA.md) · Frontiers in Artificial Intelligence
+- [Developing an Improved Cycle Architecture for AI-Based Generation of New Structures Aimed at Drug Discovery](papers/EVIW-9C2449569FCAEB3C.md) · Molecules
+- [DG-Affinity: predicting antigen-antibody affinity with language models from sequences](papers/EVIW-E342A47CFC993CA7.md) · BMC Bioinformatics
+- [Diff-AMP: tailored designed antimicrobial peptide framework with all-in-one generation, identification, prediction and optimization](papers/EVIW-D786C348787A2E84.md) · Brief Bioinform
+- [DiffInt: A Diffusion Model for Structure-Based Drug Design with Explicit Hydrogen Bond Interaction Guidance](papers/EVIW-5955756A2B8C2AD9.md) · J Chem Inf Model
+- [Direct prediction of intrinsically disordered protein conformational properties from sequence](papers/EVIW-7B3C01E5F293C7BA.md) · Nat Methods
+- [Discovery of a heparan sulfate binding domain in monkeypox virus H3 as an anti-poxviral drug target combining AI and MD simulations](papers/EVIW-630F868D55130F9E.md) · eLife
+- [DL-PPI: a method on prediction of sequenced protein-protein interaction based on deep learning](papers/EVIW-9630FF0B8DA024FE.md) · BMC Bioinformatics
+- [DLFea4AMPGen de novo design of antimicrobial peptides by integrating features learned from deep learning models](papers/EVIW-D14460AF0926DD13.md) · Nature Communications
+- [DLM-DTI: a dual language model for the prediction of drug-target interaction with hint-based learning](papers/EVIW-9782A427229EBEDC.md) · J Cheminform
+- [DLTKcat: deep learning-based prediction of temperature-dependent enzyme turnover rates](papers/EVIW-22CD6AE48DCDB16D.md) · Brief Bioinform
+- [Drug target prediction through deep learning functional representation of gene signatures](papers/EVIW-D7448A2845B549ED.md) · Nature Communications
+- [Drug-target binding affinity prediction based on power graph and word2vec](papers/EVIW-677763E479C296BE.md) · BMC Med Genomics
+- [DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties](papers/EVIW-5D4BE1237541F61B.md) · bioRxiv preprint
+- [DrugSynthMC: An Atom-Based Generation of Drug-like Molecules with Monte Carlo Search](papers/EVIW-47A8ED5D9DD86471.md) · J Chem Inf Model
+- [dsAMP and dsAMPGAN: Deep Learning Networks for Antimicrobial Peptides Recognition and Generation](papers/EVIW-781B8D46BE658D76.md) · Antibiotics (Basel)
+- [DTGHAT: multi-molecule heterogeneous graph transformer based on multi-molecule graph for drug-target identification](papers/EVIW-D7E7DD745CE6E5FC.md) · Frontiers in Pharmacology
+- [DTI-LM: language model powered drug-target interaction prediction](papers/EVIW-1DB0B140C115A6B4.md) · Bioinformatics
+- [Dual modality feature fused neural network integrating binding site information for drug target affinity prediction](papers/EVIW-66B09075F5CEBC45.md) · NPJ Digit Med
+- [DualPG-DTA: A Large Language Model-Powered Graph Neural Network Framework for Enhanced Drug-Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti-Leukemia Activity](papers/EVIW-AFD057452A461D91.md) · Adv Sci (Weinh)
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [EasyDock 1.3: An Automated Pipeline for Molecular Docking](papers/EVIW-761F8F85742C0BFA.md) · J Chem Inf Model
+- [EGPDI: identifying protein-DNA binding sites based on multi-view graph embedding fusion](papers/EVIW-A05003840FFCE41D.md) · Brief Bioinform
+- [Elucidating Novel Targets for Ovarian Cancer Antibody–Drug Conjugate Development: Integrating In Silico Prediction and Surface Plasmon Resonance to Identify Targets with Enhanced Antibody Internalization Capacity](papers/EVIW-F9F1DA4ADCCE8570.md) · Antibodies (Basel)
+- [Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE](papers/EVIW-F561FB87AC7DBE6C.md) · eLife
+- [Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS](papers/EVIW-9A5BE8BC839DD39C.md) · Commun Biol
+- [Enhanced antibody-antigen structure prediction from molecular docking using AlphaFold2](papers/EVIW-E8AD4BD2C00BDB32.md) · Sci Rep
+- [Enhanced Sequence-Activity Mapping and Evolution of Artificial Metalloenzymes by Active Learning](papers/EVIW-FFB142A4D8094123.md) · ACS Cent Sci
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning](papers/EVIW-6C65D455AB73D2E8.md) · Nat Commun
+- [Enhancing molecular property prediction of transformer models with dual graph representation](papers/EVIW-4C48077F6512FD82.md) · Nat Commun
+- [Enhancing predictions of protein stability changes induced by single mutations using MSA-based language models](papers/EVIW-9905919E453547B9.md) · Bioinformatics
+- [EnzyACT: A Novel Deep Learning Method to Predict the Impacts of Single and Multiple Mutations on Enzyme Activity](papers/EVIW-6982BB5A6E50E4A1.md) · J Chem Inf Model
+- [Enzyme catalytic efficiency prediction: employing convolutional neural networks and XGBoost](papers/EVIW-66058B0B5CB7A9B5.md) · Front Artif Intell
+- [EpiScan: accurate high-throughput mapping of antibody-specific epitopes using sequence information](papers/EVIW-6DB3A28D6A381F14.md) · NPJ Syst Biol Appl
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Equivariant 3D-conditional diffusion model for molecular linker design](papers/EVIW-F0A20EFF2242FD07.md) · Nature Machine Intelligence
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [EuDockScore: Euclidean graph neural networks for scoring protein-protein interfaces](papers/EVIW-6115D3B8DB0F3420.md) · Bioinformatics
+- [Evaluating BindCraft for Generative Design of High-Affinity Peptides](papers/EVIW-5F5A18203EF1CB13.md) · ACS Chem Biol
+- [Evaluating ligand docking methods for drugging protein-protein interfaces: insights from AlphaFold2 and molecular dynamics refinement](papers/EVIW-B0F5998042EF0F16.md) · Journal of Cheminformatics
+- [Evaluating zero‐shot prediction of monomeric protein design success by AlphaFold , ESMFold , and ProteinMPNN](papers/EVIW-2B306696DD6EE567.md) · Protein Sci
+- [Expert-guided protein language models enable accurate and blazingly fast fitness prediction](papers/EVIW-DF17577005540B9D.md) · Bioinformatics
+- [Exploring Conformational Landscapes and Cryptic Binding Pockets in Distinct Functional States of the SARS-CoV-2 Omicron BA.1 and BA.2 Trimers: Mutation-Induced Modulation of Protein Dynamics and Network-Guided Prediction of Variant-Specific Allosteric Binding Sites](papers/EVIW-8ECEE0BB1C04EBF7.md) · Viruses
+- [Exploring pocket-aware inhibitors of BTK kinase by generative deep learning, molecular docking, and molecular dynamics simulations](papers/EVIW-C79585753A328E55.md) · RSC Adv
+- [Extracellular Peptide-Ligand Dimerization Actuator Receptor Design for Reversible and Spatially Dosed 3D Cell-Material Communication](papers/EVIW-2E395C4AB7FEEF22.md) · ACS Synth Biol
+- [Fast, accurate ranking of engineered proteins by target-binding propensity using structure modeling](papers/EVIW-340773ED518DC742.md) · Mol Ther
+- [Feature selection enhances peptide binding predictions for TCR-specific interactions](papers/EVIW-C5253CE7914B46E5.md) · Front Immunol
+- [Fine-tuning protein language models boosts predictions across diverse tasks](papers/EVIW-70FFFBE1CB0E8DF4.md) · Nat Commun
+- [FLAb: Benchmarking deep learning methods for antibody fitness prediction](papers/EVIW-E73B8F33B74E7327.md) · bioRxiv preprint
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [FlowPacker: protein side-chain packing with torsional flow matching](papers/EVIW-D5F73FACD24B56FF.md) · Bioinformatics
+- [FLOWR.ROOT – A flow matching-based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](papers/EVIW-3AE9D036AE8EC1CB.md) · Nat Commun
+- [FLOWR: flow matching for structure-aware de novo, interaction- and fragment-based ligand generation](papers/EVIW-F360206DF136306B.md) · Nat Comput Sci
+- [From Latent Manifolds to Targeted Molecular Probes: An Interpretable, Kinome-Scale Generative Machine Learning Framework for Family-Based Kinase Ligand Design](papers/EVIW-B2066AB438F67363.md) · Biomolecules
+- [Functional annotation of enzyme-encoding genes using deep learning with transformer layers](papers/EVIW-CE317302C001A9DD.md) · Nat Commun
+- [G Protein-Coupled Receptor-Ligand Pose and Functional Class Prediction](papers/EVIW-3CDA35EC397C9E5E.md) · Int J Mol Sci
+- [GcForest-based compound-protein interaction prediction model and its application in discovering small-molecule drugs targeting CD47](papers/EVIW-542A9C690DEB7869.md) · Front Chem
+- [Generalizable and scalable protein stability prediction with rewired protein generative models](papers/EVIW-2B553C8CDEE458EA.md) · Nature Communications
+- [Generalizable compound protein interaction prediction with a model incorporating protein structure aware and compound property aware language model representations](papers/EVIW-CC8FC3C6F23DD3D6.md) · Commun Chem
+- [Generation of 3D molecules in pockets via a language model](papers/EVIW-61D2CB039D461481.md) · Nature Machine Intelligence
+- [Generation of Rational Drug-like Molecular Structures Through a Multiple-Objective Reinforcement Learning Framework](papers/EVIW-FDB996EADA52B63D.md) · Molecules
+- [Generation, Characterisation and Identification of Bioactive Peptides from Mesopelagic Fish Protein Hydrolysates Using In Silico and In Vitro Approaches](papers/EVIW-DF49AF593037EBBE.md) · Mar Drugs
+- [Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model](papers/EVIW-4CF80ABA93015978.md) · J Cheminform
+- [Generative Multiobjective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design](papers/EVIW-8CC9E4F84F9247B1.md) · Ind Eng Chem Res
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [Geometric Deep Learning for Structure-Based Ligand Design](papers/EVIW-CE352CFECBC51F9B.md) · ACS Cent Sci
+- [Geometric deep learning improves generalizability of MHC-bound peptide predictions](papers/EVIW-A3D5B6B8C925B41E.md) · Commun Biol
+- [Geometry-complete diffusion for 3D molecule generation and optimization](papers/EVIW-6AE7A4015DCC251E.md) · Commun Chem
+- [GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction](papers/EVIW-B75B8A6DA9771680.md) · J Chem Inf Model
+- [GPCR-BERT: Interpreting Sequential Design of G Protein-Coupled Receptors Using Protein Language Models](papers/EVIW-22E3EBA72131C076.md) · J Chem Inf Model
+- [GRAPE: graph-regularized protein language modeling unlocks TCR-epitope binding specificity](papers/EVIW-D00A3E12F27E6D37.md) · Brief Bioinform
+- [Graph neural pre-training based drug-target affinity prediction](papers/EVIW-FA386874A4FFEF44.md) · Front Genet
+- [Graph-Aware AURALSTM: An Attentive Unified Representation Architecture with BiLSTM for Enhanced Molecular Property Prediction](papers/EVIW-11B7184B4CDCCEA9.md) · Mol Divers
+- [GraphMHC: Neoantigen prediction model applying the graph neural network to molecular structure](papers/EVIW-E76131B3A3B6CCC4.md) · PLoS One
+- [Graphormer supervised de novo protein design method and function validation](papers/EVIW-AEF2C8AA75D363A6.md) · Brief Bioinform
+- [GTE-PPIS: a protein-protein interaction site predictor based on graph transformer and equivariant graph neural network](papers/EVIW-1FCF26C238C374F6.md) · Brief Bioinform
+- [Guided diffusion for molecular generation with interaction prompt](papers/EVIW-CD8D2F4D209CDB2C.md) · Brief Bioinform
+- [Heuristic multi-site optimization for protein sequence design using Masked Protein Language Models](papers/EVIW-3BF8524B058D7177.md) · PLoS Comput Biol
+- [HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion](papers/EVIW-3A1ACC8879ECFFC5.md) · Chem Sci
+- [High-resolution cryo-EM of the human CDK-activating kinase for structure-based drug design](papers/EVIW-A6BD2E37B70E9799.md) · Nat Commun
+- [High-throughput prediction of protein conformational distributions with subsampled AlphaFold2](papers/EVIW-EEBA22DD03D0F7F6.md) · Nat Commun
+- [High-throughput screening for small-molecule stabilizers of misfolded glucocerebrosidase in Gaucher disease and Parkinson's disease](papers/EVIW-F738FC91BCD3D663.md) · Proc Natl Acad Sci U S A
+- [HLA I immunopeptidome of synthetic long peptide pulsed human dendritic cells for therapeutic vaccine design](papers/EVIW-0EA8CC81C58675DC.md) · NPJ Vaccines
+- [Human-in-the-loop active learning for goal-oriented molecule generation](papers/EVIW-4EBEF1B1736214A1.md) · J Cheminform
+- [Hybrid Approach to Protein–Protein Complex Affinity Prediction Based on Language Models and Molecular Dynamics](papers/EVIW-11308829464B5DDF.md) · Int J Mol Sci
+- [Hybrid Dual-Context Prompted Cross-Attention Framework with Language Model Guidance for Multi-Label Prediction of Human Off-Target Ligand-Protein Interactions](papers/EVIW-B72BFE30F8217623.md) · Int J Mol Sci
+- [Hybrid protein-ligand binding residue prediction with protein language models: does the structure matter?](papers/EVIW-EA13F1D6FE41297E.md) · Bioinformatics
+- [HybridGCN for protein solubility prediction with adaptive weighting of multiple features](papers/EVIW-7EB0644884548F6C.md) · J Cheminform
+- [HydrogelFinder: A Foundation Model for Efficient Self‐Assembling Peptide Discovery Guided by Non‐Peptidal Small Molecules](papers/EVIW-C75DCBB690B8C2D3.md) · Adv Sci (Weinh)
+- [Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes](papers/EVIW-75C84AFE6611C054.md) · Nat Commun
+- [HyperPCM: Robust Task-Conditioned Modeling of Drug-Target Interactions](papers/EVIW-3792DEB4F3929498.md) · J Chem Inf Model
+- [Identification and Design of Novel Potential Antimicrobial Peptides Targeting Mycobacterial Protein Kinase PknB](papers/EVIW-A5CF896B45EDAAC3.md) · Protein J
+- [Identification of Novel Extracellular-Signal-Regulated Kinase 2 Inhibitors Through Machine Learning-Driven De Novo Design, Molecular Docking, and Free-Energy Perturbation](papers/EVIW-7C59FBCE9E2F9366.md) · Pharmaceuticals (Basel)
+- [IEV2Mol: Molecular Generative Model Considering Protein-Ligand Interaction Energy Vectors](papers/EVIW-03ED7DB23F4F78B7.md) · J Chem Inf Model
+- [IgPose: a generative data-augmented pipeline for robust immunoglobulin-antigen binding prediction](papers/EVIW-C1FE2E1F2F53218E.md) · Bioinformatics
+- [Illuminating protein space with a programmable generative model](papers/EVIW-6223B4C58A3E1894.md) · Nature
+- [iMFP-LG: Identify Novel Multi-functional Peptides Using Protein Language Models and Graph-based Deep Learning](papers/EVIW-8B7452D150DEFDA3.md) · Genomics Proteomics Bioinformatics
+- [Improving antibody language models with native pairing](papers/EVIW-00430A1EC76AD16D.md) · Patterns (N Y)
+- [Improving protein interaction prediction in GenPPi: a novel interaction sampling approach preserving network topology](papers/EVIW-DF0545692476B7C4.md) · BMC Bioinformatics
+- [Improving protein-ligand complex generation with force field guidance](papers/EVIW-3FC672A3E4A616F4.md) · J Cheminform
+- [In silico screening of protein-binding peptides with an application to developing peptide inhibitors against antibiotic resistance](papers/EVIW-CFF2D809F391FE3C.md) · PNAS Nexus
+- [Insights into next generation sequencing guided antibody selection strategies](papers/EVIW-D8CC7F2F2F5F073D.md) · Sci Rep
+- [Integrated convolution and self-attention for improving peptide toxicity prediction](papers/EVIW-80816B41CDFB17A0.md) · Bioinformatics
+- [Integrating genetic algorithms and language models for enhanced enzyme design](papers/EVIW-6F408BE036DFFB9B.md) · Brief Bioinform
+- [Integrating Transformers and Many-Objective Optimization for Cancer Drug Design](papers/EVIW-794300AEDE5FAFED.md) · Research Square preprint
+- [Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction](papers/EVIW-88802DA5D524552E.md) · Nat Commun
+- [Integration of pre-trained protein language models with equivariant graph neural networks for peptide toxicity prediction](papers/EVIW-7EA3F029D887221F.md) · BMC Biology
+- [Investigating the volume and diversity of data needed for generalizable antibody–antigen ΔΔG prediction](papers/EVIW-27D403917F03FFDC.md) · Nat Comput Sci
+- [iProtDNA-SMOTE: Enhancing protein-DNA binding sites prediction through imbalanced graph neural networks](papers/EVIW-C59AE2936DFD7151.md) · PLOS ONE
+- [KcsA-Kv1.x chimeras with complete ligand-binding sites provide improved predictivity for screening selective Kv1.x blockers](papers/EVIW-6421E43AB83FF29B.md) · J Biol Chem
+- [Keras/TensorFlow in Drug Design for Immunity Disorders](papers/EVIW-4AA4D88EAE77A3C6.md) · Int J Mol Sci
+- [KGDiff: towards explainable target-aware molecule generation with knowledge guidance](papers/EVIW-76C901E60A08C983.md) · Brief Bioinform
+- [Language models can identify enzymatic binding sites in protein sequences](papers/EVIW-99773954949241B5.md) · Comput Struct Biotechnol J
+- [LANTERN: TCR-peptide binding prediction via large language model representations](papers/EVIW-CFC36146C459CA15.md) · PeerJ
+- [Large scale paired antibody language models](papers/EVIW-F11B407E2D7D8A73.md) · PLoS Comput Biol
+- [Learnt representations of proteins can be used for accurate prediction of small molecule binding sites on experimentally determined and predicted protein structures](papers/EVIW-7AE6844DD06B36E5.md) · J Cheminform
+- [Linker-GPT: design of Antibody-drug conjugates linkers with molecular generators and reinforcement learning](papers/EVIW-711D16F025D99079.md) · Scientific Reports
+- [Locuaz: an in silico platform for protein binders optimization](papers/EVIW-75B485A2F0A9568D.md) · Bioinformatics
+- [LSTM-driven drug design using SELFIES for target-focused de novo generation of HIV-1 protease inhibitor candidates for AIDS treatment](papers/EVIW-776BAC741ACF2378.md) · PLoS One
+- [M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structures](papers/EVIW-9B46DF810E666BD8.md) · BMC Bioinformatics
+- [Machine learning application to predict binding affinity between peptide containing non-canonical amino acids and HLA-A0201](papers/EVIW-1064EC94E290F45D.md) · PLoS One
+- [Machine learning assisted rational design of antimicrobial peptides based on human endogenous proteins and their applications for cosmetic preservative system optimization](papers/EVIW-EE6174BA055B0122.md) · Sci Rep
+- [Machine Learning Integrating Protein Structure, Sequence, and Dynamics to Predict the Enzyme Activity of Bovine Enterokinase Variants](papers/EVIW-15E2DBA73C1519C4.md) · J Chem Inf Model
+- [Machine learning-aided design and screening of an emergent protein function in synthetic cells](papers/EVIW-38CF1AFDF8FF6388.md) · Nat Commun
+- [Machine learning–driven discovery of antimicrobial peptides against Pseudomonas aeruginosa](papers/EVIW-270F20E09B0FD7FF.md) · Front Pharmacol
+- [MAPLE: interpretable deep learning identifies selective antimicrobial peptides using joint evolutionary–physicochemical analysis](papers/EVIW-E44B76ADFCA574C0.md) · Brief Bioinform
+- [MDF-DTA: A Multi-Dimensional Fusion Approach for Drug-Target Binding Affinity Prediction](papers/EVIW-E18C301976BF7DBA.md) · J Chem Inf Model
+- [MechFind: a computational framework for de novo prediction of enzyme mechanisms](papers/EVIW-45F28D684740026A.md) · Nature Communications
+- [MIFAM-DTI: a drug-target interactions predicting model based on multi-source information fusion and attention mechanism](papers/EVIW-687A8F948317CEBB.md) · Front Genet
+- [Mining for Potent Inhibitors through Artificial Intelligence and Physics: A Unified Methodology for Ligand Based and Structure Based Drug Design](papers/EVIW-7DE1137A015AA401.md) · J Chem Inf Model
+- [MISATO: machine learning dataset of protein-ligand complexes for structure-based drug discovery](papers/EVIW-5313F99B646EE803.md) · Nat Comput Sci
+- [MMPred: a tool to predict peptide mimicry events in MHC class II recognition](papers/EVIW-215D94F22C60E301.md) · Front Genet
+- [Modeling Protein–Protein and Protein–Ligand Interactions by the ClusPro Team in CASP16](papers/EVIW-A0ED72899D0BF4C7.md) · Proteins
+- [MOFormer: navigating the antimicrobial peptide design space with Pareto-based multi-objective transformer](papers/EVIW-DDA5A6DE373DB097.md) · Brief Bioinform
+- [Molecular Docking Analysis of Heparin-Diclofenac Complexes: Insights into Enhanced Cox Enzyme Inhibition for Pain Management](papers/EVIW-E9D0A7FE5A425F5E.md) · Life (Basel)
+- [Molecular embedding-based algorithm selection in protein-ligand docking](papers/EVIW-C523617C641D7770.md) · J Cheminform
+- [Molecular fingerprints are strong models for peptide function prediction](papers/EVIW-8B9311D2D9CE4EF1.md) · Bioinformatics
+- [Molecular insights into kaempferol derivatives as potential inhibitors for CDK2 in colon cancer: pharmacophore modeling, docking, and dynamic analysis](papers/EVIW-96DE5B12E1C7E4BB.md) · Front Chem
+- [Molecular optimization using a conditional transformer for reaction-aware compound exploration with reinforcement learning](papers/EVIW-5563135995C558B7.md) · Commun Chem
+- [MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation](papers/EVIW-BA2790340B49F580.md) · J Chem Theory Comput
+- [MolPIF: a parameter interpolation flow model for molecule generation](papers/EVIW-CF0CF17881A92EFC.md) · Bioinformatics
+- [MPBind: a multitask protein binding site predictor using protein language models and equivariant GNNs](papers/EVIW-8D488E8314E26BBB.md) · Bioinformatics
+- [Multi-indicator comparative evaluation for deep learning-based protein sequence design methods](papers/EVIW-8DDAC377EF9B4668.md) · Bioinformatics
+- [Multi-modal features-based human-herpesvirus protein-protein interaction prediction by using LightGBM](papers/EVIW-E6C9A04E4627E40B.md) · Brief Bioinform
+- [Multi-Modal Topology-Aware Graph Neural Network for Robust Chemical–Protein Interaction Prediction](papers/EVIW-6911ECFF6567B7FE.md) · Int J Mol Sci
+- [Multi-Property De Novo Drug Design Using Deep Learning-Based Knowledge Distillation and Reinforcement Learning](papers/EVIW-FCBA3B306071F343.md) · Int J Mol Sci
+- [Multi-task bioassay pre-training for protein-ligand binding affinity prediction](papers/EVIW-EC580540DF307D9E.md) · Brief Bioinform
+- [Multimodal diffusion for joint design of protein sequence and structure](papers/EVIW-5AE373C130864D82.md) · Protein Sci
+- [Multimodal learning on heterogeneous subgraphs and LLMs representation for MHC-peptide binding affinity prediction](papers/EVIW-D72122024E05F9F5.md) · BMC Bioinformatics
+- [Multimodal Protein Representation Learning and Target-aware Variational Auto-encoders for Protein-binding Ligand Generation](papers/EVIW-3E703C5F9F927E28.md) · Research Square preprint
+- [Multistate and functional protein design using RoseTTAFold sequence space diffusion](papers/EVIW-1885107C07DD1242.md) · Nature Biotechnology
+- [MuToN Quantifies Binding Affinity Changes upon Protein Mutations by Geometric Deep Learning](papers/EVIW-BA8CD2D90E270D39.md) · Adv Sci (Weinh)
+- [MVSO-PPIS: a structured objective learning model for protein-protein interaction sites prediction via multi-view graph information integration](papers/EVIW-0665AE2922F1C927.md) · Bioinformatics
+- [NAC4ED: A high-throughput computational platform for the rational design of enzyme activity and substrate selectivity](papers/EVIW-46385D553969B118.md) · mLife
+- [NanoBinder: a machine learning assisted nanobody binding prediction tool using Rosetta energy scores](papers/EVIW-F71426628BACE35E.md) · Journal of Cheminformatics
+- [Next Generation SICLOPPS Screening for the Identification of Inhibitors of the HIF-1α/HIF-1β Protein-Protein Interaction](papers/EVIW-5A8CE5D0431D65FB.md) · ACS Chem Biol
+- [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](papers/EVIW-FB7FD6B2AF942CF0.md) · BMC Biology
+- [NIMO: A Natural Product-Inspired Molecular Generative Model Based on Conditional Transformer](papers/EVIW-DDEFC294A4BFD2F3.md) · Molecules
+- [Normalized Protein-Ligand Distance Likelihood Score for End-to-End Blind Docking and Virtual Screening](papers/EVIW-7C3C8ADEABA829E3.md) · J Chem Inf Model
+- [Novel antimicrobial peptides against Cutibacterium acnes designed by deep learning](papers/EVIW-8C5FAD76AB2C6BBD.md) · Sci Rep
+- [Nucleotide context models outperform protein language models for predicting antibody affinity maturation](papers/EVIW-54070BE482574736.md) · PLoS Comput Biol
+- [On the difficulty of validating molecular generative models realistically: a case study on public and proprietary data](papers/EVIW-987975E1F8F992B3.md) · J Cheminform
+- [Opioid/Dopamine Receptor Binding Studies, NMR and Molecular Dynamics Simulation of LENART01 Chimera, an Opioid-Bombesin-like Peptide](papers/EVIW-08C055C70552D8D8.md) · Molecules
+- [Optimization of binding affinities in chemical space with generative pre-trained transformer and deep reinforcement learning](papers/EVIW-F61E94423526029D.md) · F1000Res
+- [Optimization of drug-target affinity prediction methods through feature processing schemes](papers/EVIW-CEACCF94FA0C0158.md) · Bioinformatics
+- [Optimizing drug design by merging generative AI with a physics-based active learning framework](papers/EVIW-50D727060A34458E.md) · Communications Chemistry
+- [Optimizing enzyme thermostability by combining multiple mutations using protein language model](papers/EVIW-1F0317EDE567CE78.md) · mLife
+- [OrgNet+: towards robust protein stability prediction with convolutional neural networks](papers/EVIW-58D3E8C0E71F5BAB.md) · Bioinformatics
+- [p-IgGen: a paired antibody generative language model](papers/EVIW-38FE5D1C96C03B2A.md) · Bioinformatics
+- [PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking](papers/EVIW-041FA648F6D77FF2.md) · bioRxiv preprint
+- [Pair-EGRET: enhancing the prediction of protein-protein interaction sites through graph attention networks and protein language models](papers/EVIW-2ED551432A25CE7B.md) · Bioinformatics
+- [PED: a novel predictor-encoder-decoder model for Alzheimer drug molecular generation](papers/EVIW-5F546E2D7FA21560.md) · Front Artif Intell
+- [PepINVENT: generative peptide design beyond natural amino acids](papers/EVIW-3E36560C8B5CDCDB.md) · Chem Sci
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PepNet: an interpretable neural network for anti-inflammatory and antimicrobial peptides prediction using a pre-trained protein language model](papers/EVIW-D985354C317F9E28.md) · Communications Biology
+- [Peptide binder design with inverse folding and protein structure prediction](papers/EVIW-A1287DC66E85C7EA.md) · Commun Chem
+- [Peptide-Aware Chemical Language Model Successfully Predicts Membrane Diffusion of Cyclic Peptides](papers/EVIW-8A9A06F1043F02B8.md) · Journal of Chemical Information and Modeling
+- [PeptiVerse: A unified platform for therapeutic peptide property prediction](papers/EVIW-A02DA92D045E68B7.md) · Nature Communications
+- [PGAT-ABPp: harnessing protein language models and graph attention networks for antibacterial peptide identification with remarkable accuracy](papers/EVIW-E288C151E5D5BCAF.md) · Bioinformatics
+- [pH-Responsive Elastin-Like Polypeptide Designer Condensates](papers/EVIW-88141ED2186FE3C3.md) · ACS Appl Mater Interfaces
+- [Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling](papers/EVIW-768EC931C6366253.md) · Brief Bioinform
+- [PI-Mamba: linear-time protein backbone generation via spectrally initialized flow matching](papers/EVIW-02F3D8D5AADFAEE5.md) · Bioinformatics
+- [PLiSAGE: enhancing protein-ligand interaction prediction with multimodal surface and geometry encoding](papers/EVIW-7B3BB7FC1C77330C.md) · Bioinformatics
+- [pMHChat, characterizing the interactions between major histocompatibility complex class II molecules and peptides with large language models and deep hypergraph learning](papers/EVIW-47213BB42F0B8049.md) · Brief Bioinform
+- [PMIpred: a physics-informed web server for quantitative protein–membrane interaction prediction](papers/EVIW-B7344ADA79740409.md) · Bioinformatics
+- [Pocket Crafter: a 3D generative modeling based workflow for the rapid generation of hit molecules in drug discovery](papers/EVIW-36A749A84CFDA403.md) · Journal of Cheminformatics
+- [PPI-Diff: De Novo Generation of Peptide Binders via Resolution-Aware Geometric Diffusion](papers/EVIW-1E14B1FE6D202679.md) · Biomolecules
+- [PPI-Graphomer: enhanced protein-protein affinity prediction using pretrained and graph transformer models](papers/EVIW-D5826B6BE45CEB6A.md) · BMC Bioinformatics
+- [PractiCPP: a deep learning approach tailored for extremely imbalanced datasets in cell-penetrating peptide prediction](papers/EVIW-BCFBFEF388C36C02.md) · Bioinformatics
+- [Predicting ADMET Properties from Molecule SMILE: A Bottom-Up Approach Using Attention-Based Graph Neural Networks](papers/EVIW-31DF9988F21F0F0B.md) · Pharmaceutics
+- [Predicting blood–brain barrier permeability of molecules with a large language model and machine learning](papers/EVIW-02B621CFAF1FFA56.md) · Sci Rep
+- [Predicting peroxisome proliferator-activated receptor gamma potency of small molecules: a synergistic consensus model and deep learning binding affinity approach powered by Enalos Cloud Platform](papers/EVIW-00CA1038713C40D3.md) · Mol Divers
+- [Predicting protein–carbohydrate binding sites: a deep learning approach integrating protein language model embeddings and structural features](papers/EVIW-2B57DB63EFE65586.md) · Brief Bioinform
+- [Predicting the conformational flexibility of antibody and T cell receptor complementarity-determining regions](papers/EVIW-3B2B490A01870886.md) · Nat Mach Intell
+- [Prediction and design of thermostable proteins with a desired melting temperature](papers/EVIW-F4198C42346A9E3A.md) · Scientific Reports
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Prediction of polyspecificity from antibody sequence data by machine learning](papers/EVIW-1D71405426232F03.md) · Front Bioinform
+- [Prediction of Thermostability of Enzymes Based on the Amino Acid Index (AAindex) Database and Machine Learning](papers/EVIW-5A88A4F560515F6B.md) · Molecules
+- [Preferential CDR masking in paired antibody language models improves binding affinity prediction](papers/EVIW-0BE96BB606351927.md) · Communications AI & Computing
+- [Pretrainable geometric graph neural network for antibody affinity maturation](papers/EVIW-EF1A8384D5AD5106.md) · Nature Communications
+- [Primary sequence based protein-protein interaction binder generation with transformers](papers/EVIW-EA884EE67692937E.md) · Discover Artificial Intelligence
+- [PRO-LDM: A Conditional Latent Diffusion Model for Protein Sequence Design and Functional Optimization](papers/EVIW-C3FDA26B02DE8830.md) · Adv Sci (Weinh)
+- [Probabilistic generative transformer language models for generative design of molecules](papers/EVIW-C0C005C3739D6CDB.md) · J Cheminform
+- [Programmable protein stabilization with language model-derived peptide guides](papers/EVIW-FE530DA12E55A92A.md) · Nature Communications
+- [Prospective de novo drug design with deep interactome learning](papers/EVIW-DDD30F904E03A0E0.md) · Nat Commun
+- [PROSTATA: a framework for protein stability assessment using transformers](papers/EVIW-DE65F63CDC81659C.md) · Bioinformatics
+- [ProT-GFDM: A generative fractional diffusion model for protein generation](papers/EVIW-1AEFB724D39999C4.md) · Computational and Structural Biotechnology Journal
+- [Protein A-like Peptide Design Based on Diffusion and ESM2 Models](papers/EVIW-806C0F8BBDF226B8.md) · Molecules
+- [Protein design using structure-based residue preferences](papers/EVIW-73A3EA2A0A3BFC91.md) · Nat Commun
+- [Protein embeddings predict binding residues in disordered regions](papers/EVIW-A8926FF4DD7A845A.md) · Sci Rep
+- [Protein language model-embedded geometric graphs power inter-protein contact prediction](papers/EVIW-A67BD0A05AA3B3CE.md) · eLife
+- [Protein Language Models and Machine Learning Facilitate the Identification of Antimicrobial Peptides](papers/EVIW-BF2DD47B64FE886A.md) · Int J Mol Sci
+- [Protein stability prediction by fine-tuning a protein language model on a mega-scale dataset](papers/EVIW-81ABABCCA0141DCD.md) · PLoS Comput Biol
+- [Protein structure generation via folding diffusion](papers/EVIW-872EB564D511B08C.md) · Nat Commun
+- [Protein-ligand binding affinity prediction using multi-instance learning with docking structures](papers/EVIW-5C0DA702F696CD1D.md) · Front Pharmacol
+- [ProteinDJ: A high-performance and modular protein design pipeline](papers/BFW-18482A721FC0.md) · Protein Sci
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [ProtSeqGen: a novel deep learning model for protein sequence design](papers/EVIW-618377823AEE766A.md) · BMC Bioinformatics
+- [ProT‐Diff: A Modularized and Efficient Strategy for De Novo Generation of Antimicrobial Peptide Sequences by Integrating Protein Language and Diffusion Models](papers/EVIW-C3615774EAE72FC3.md) · Adv Sci (Weinh)
+- [PTM-Mamba: a PTM-aware protein language model with bidirectional gated Mamba blocks](papers/EVIW-5AD4D124DC0AC35A.md) · Nat Methods
+- [PyAMPA: a high-throughput prediction and optimization tool for antimicrobial peptides](papers/EVIW-CD77471719D184D7.md) · mSystems
+- [Quantum-classical generative models for drug design](papers/EVIW-BDC0DD7FAEA44C1D.md) · Quantum Machine Intelligence
+- [QuickBind: A Light-Weight And Interpretable Molecular Docking Model](papers/EVIW-527C7FEA245769C5.md) · arXiv preprint
+- [Rapid discovery of high-affinity antibodies via massively parallel sequencing, ribosome display and affinity screening](papers/EVIW-808977826178161D.md) · Nat Biomed Eng
+- [Rapid prediction of key residues for foldability by machine learning model enables the design of highly functional libraries with hyperstable constrained peptide scaffolds](papers/EVIW-1C95A4882CFA116B.md) · PLoS Comput Biol
+- [Rational design of flavivirus E protein vaccine optimizes immunogenicity and mitigates antibody dependent enhancement risk](papers/EVIW-6AE7DC33BBA3D04E.md) · Nat Commun
+- [Rationally seeded computational protein design of ɑ-helical barrels](papers/EVIW-FDA5C6B43CD436AE.md) · Nat Chem Biol
+- [Reinvent 4: Modern AI-driven generative molecule design](papers/EVIW-A1D7A445A164113B.md) · J Cheminform
+- [Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction](papers/EVIW-D12CA6E5603A8D3C.md) · J Chem Theory Comput
+- [Rethinking peptide developability with sequence-only models: interpretable screening of microplastic-binding peptides with gated query pooling](papers/EVIW-99840038E21BBF77.md) · Chem Sci
+- [RLEAAI: improving antibody–antigen interaction prediction using protein language model and sequence order information](papers/EVIW-BEED86C0B6E8B844.md) · Brief Bioinform
+- [S 2 ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](papers/EVIW-81BCF02102E54A0C.md) · Research (Wash D C)
+- [SaLT&PepPr is an interface-predicting language model for designing peptide-guided protein degraders](papers/EVIW-2E2E82348BA7421D.md) · Commun Biol
+- [Sample efficient reinforcement learning with active learning for molecular design](papers/EVIW-CB1940C39F6CF321.md) · Chem Sci
+- [Scaffold-Lab: Critical evaluation and ranking of protein backbone generation methods in a unified framework](papers/EVIW-245CBF630CEB9822.md) · PLoS Comput Biol
+- [Scaling SMILES-based chemical language models for therapeutic peptide engineering](papers/EVIW-F5B7CCA4515BCA48.md) · bioRxiv
+- [Screening de novo designed protein binders in unpurified lysate using flow induced dispersion analysis](papers/EVIW-2909E3C25C9E9F9F.md) · Protein Sci
+- [Screening of multi deep learning-based de novo molecular generation models and their application for specific target molecular generation](papers/EVIW-D9BFEBB497FF7CE0.md) · Scientific Reports
+- [Sequence-Activity Relationship of Angiotensin-Converting Enzyme Inhibitory Peptides Derived from Food Proteins, Based on a New Deep Learning Model](papers/EVIW-C0909D1E08197D7A.md) · Foods
+- [Sequence-based prediction of the intrinsic solubility of peptides containing non-natural amino acids](papers/EVIW-65F619A543F74CDB.md) · Nat Commun
+- [Sequence-only prediction of binding affinity changes: a robust and interpretable model for antibody engineering](papers/EVIW-A27EE3BD864D2A98.md) · Bioinformatics
+- [Simultaneous enhancement of multiple functional properties using evolution-informed protein design](papers/EVIW-203F936780CD552A.md) · Nat Commun
+- [SOFB is a comprehensive ensemble deep learning approach for elucidating and characterizing protein-nucleic-acid-binding residues](papers/EVIW-9923DFE22B48744F.md) · Commun Biol
+- [SpatialPPI: Three-dimensional space protein-protein interaction prediction with AlphaFold Multimer](papers/EVIW-EFFF07329F054B3F.md) · Comput Struct Biotechnol J
+- [SpatialPPIv2: Enhancing protein-protein interaction prediction through graph neural networks with protein language models](papers/EVIW-F0E393D381C5CCE0.md) · Comput Struct Biotechnol J
+- [SPIN-CGNN: Improved fixed backbone protein design with contact map-based graph construction and contact graph neural network](papers/EVIW-B62B9EA1E43384ED.md) · PLoS Comput Biol
+- [Stabilizing Plasmodium falciparum proteins for small molecule drug discovery](papers/EVIW-CFF2E675DCF2E84C.md) · Protein Sci
+- [StructuralDPPIV: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-IV inhibitory peptides](papers/EVIW-D497BC14270D15F8.md) · Bioinformatics
+- [Structure Prediction and Protein Engineering Yield New Insights into Microcin J25 Precursor Recognition](papers/EVIW-E9A901E4923AAA73.md) · ACS Chem Biol
+- [Structure prediction of protein-ligand complexes from sequence information with Umol](papers/EVIW-9BE8411A125E7FEF.md) · bioRxiv preprint
+- [Structure-aware deep learning model for peptide toxicity prediction](papers/EVIW-F80C49767EED2FC0.md) · Protein Sci
+- [Structure-aware deep model for MHC-II peptide binding affinity prediction](papers/EVIW-E9F999EE59819090.md) · BMC Genomics
+- [Structure-aware machine learning strategies for antimicrobial peptide discovery](papers/EVIW-0A19F803228ADC09.md) · Sci Rep
+- [Structure-based design of a phosphotyrosine-masked covalent ligand targeting the E3 ligase SOCS2](papers/EVIW-A8B798D34F48E25A.md) · Nat Commun
+- [Structure-based prediction of protein-nucleic acid binding using graph neural networks](papers/EVIW-778F0D9B754DA725.md) · Biophys Rev
+- [Structure-based TCR-pMHC binding prediction and generalization to unseen peptides](papers/EVIW-E07E46D19FBD81BA.md) · npj Drug Discovery
+- [Structure-enhanced deep learning accelerates aptamer selection for small molecule families like steroids](papers/EVIW-89C54A6ECDC07E00.md) · Brief Bioinform
+- [SubMDTA: drug target affinity prediction based on substructure extraction and multi-scale features](papers/EVIW-01443391B114BBA9.md) · BMC Bioinformatics
+- [SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction](papers/EVIW-EC9637C020BEE703.md) · bioRxiv preprint
+- [SurfFold: a unified model for protein inverse folding by integrating surface and structural information](papers/EVIW-874EB338BB355D67.md) · Bioinformatics
+- [SwissDock 2024: major enhancements for small-molecule docking with Attracting Cavities and AutoDock Vina](papers/EVIW-8C95A970087008AA.md) · Nucleic Acids Res
+- [Systematic Exploration of Small-Molecule Binding via a Large Language Model Trained on Textualized Protein-Ligand Interactions](papers/EVIW-29AA774D6FE17308.md) · Molecules
+- [t-SMILES: a fragment-based molecular representation framework for de novo ligand design](papers/EVIW-DADFA60369AE3EA8.md) · Nat Commun
+- [Tailored structured peptide design with a key-cutting machine approach](papers/EVIW-3344196F75794324.md) · Nat Mach Intell
+- [TamGen: drug design with target-aware molecule generation through a chemical language model](papers/EVIW-FE15D09DFF53156B.md) · Nat Commun
+- [Target sequence-conditioned design of peptide binders using masked language modeling](papers/EVIW-BF159123222D1607.md) · Nature Biotechnology
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [TCRBinder: Unified pre-trained language model with paired-chain synergy for predicting T-cell receptor binding specificity](papers/EVIW-1B10BF11D52702A4.md) · PLoS Comput Biol
+- [TemStaPro: protein thermostability prediction using sequence representations from protein language models](papers/EVIW-331087A1C5C59223.md) · Bioinformatics
+- [The Accurate Prediction of Antibody Deamidations by Combining High-Throughput Automated Peptide Mapping and Protein Language Model-Based Deep Learning](papers/EVIW-F063CCE9F585DD43.md) · Antibodies (Basel)
+- [THPLM: a sequence-based deep learning framework for protein stability changes prediction upon point variations using pretrained protein language model](papers/EVIW-5FA829750FC5822C.md) · Bioinformatics
+- [Token-Mol 1.0: tokenized drug design with large language models](papers/EVIW-A49F35F3F1F4BB7E.md) · Nature Communications
+- [Top-Down Machine Learning of Coarse-Grained Protein Force Fields](papers/EVIW-244699D876EF7DD8.md) · J Chem Theory Comput
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [Towards the accurate modelling of antibody-antigen complexes from sequence using machine learning and information-driven docking](papers/EVIW-1F804F232529DF61.md) · Bioinformatics
+- [Tpgen: a language model for stable protein design with a specific topology structure](papers/EVIW-B4DD900E446E25B9.md) · BMC Bioinformatics
+- [Transfer learning with graph neural networks for improved molecular property prediction in the multi-fidelity setting](papers/EVIW-AC7E20846416A28D.md) · Nat Commun
+- [Transformer-Decoder GPT Models for Generating Virtual Screening Libraries of HMG-Coenzyme A Reductase Inhibitors: Effects of Temperature, Prompt Length, and Transfer-Learning Strategies](papers/EVIW-3C57D47B61C5B421.md) · J Chem Inf Model
+- [ULDNA: integrating unsupervised multi-source language models with LSTM-attention network for high-accuracy protein-DNA binding site prediction](papers/EVIW-2AD4C34E7E631F20.md) · Brief Bioinform
+- [Ultrahigh-throughput screening-assisted in vivo directed evolution for enzyme engineering](papers/EVIW-E5DC182A1A2C420F.md) · Biotechnol Biofuels Bioprod
+- [UniKP: a unified framework for the prediction of enzyme kinetic parameters](papers/EVIW-8DA30E5B97E9FAFF.md) · Nat Commun
+- [Using protein language models for protein interaction hot spot prediction with limited data](papers/EVIW-67FB689C91FAADD9.md) · BMC Bioinformatics
+- [Utility of the Morgan Fingerprint in Structure-Based Virtual Ligand Screening](papers/EVIW-184C215C5D4F8AB2.md) · J Phys Chem B
+- [Vaccinomics-aided next-generation novel multi-epitope-based vaccine engineering against multidrug resistant Shigella Sonnei: Immunoinformatics and chemoinformatics approaches](papers/EVIW-A8301B26D48B6C75.md) · PLoS One
+- [VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design](papers/EVIW-817614F6D85CF180.md) · J Chem Inf Model
+- [VGAE-MCTS: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search](papers/EVIW-E055FF023C0B29CB.md) · J Chem Inf Model
+- [xBitterT5: an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides](papers/EVIW-AD4E50B8A34842BA.md) · Journal of Cheminformatics
+- [xCAPT5: protein-protein interaction prediction using deep and wide multi-kernel pooling convolutional neural networks with protein language model](papers/EVIW-548BA32503295D77.md) · BMC Bioinformatics
+- [Zero-shot prediction of mutation effects with multimodal deep representation learning guides protein engineering](papers/EVIW-352EF67848CF571F.md) · Cell Res
+- [ZeroGEN: leveraging language models for zero-shot ligand design from protein sequences](papers/EVIW-2B81F9DEB564E4C3.md) · Bioinformatics
+
+### 语言模型（156）
+
+- [A Foundation Model Identifies Broad-Spectrum Antimicrobial Peptides against Drug-Resistant Bacterial Infection](papers/EVIW-051601A26FADD01F.md) · Nature Communications
+- [A general temperature-guided language model to design proteins of enhanced stability and activity](papers/EVIW-A579ED1310C4033A.md) · Sci Adv
+- [A Machine Learning Model for the Proteome-Wide Prediction of Lipid-Interacting Proteins](papers/EVIW-B69B7E2E38FB74D8.md) · J Chem Inf Model
+- [A modular protein language modelling approach to immunogenicity prediction](papers/EVIW-8F8C157B31B1403C.md) · PLoS Comput Biol
+- [A Molecular-Protein Fusion Framework for Rapid Virtual Screening: Accelerating Lead Discovery for 'Undruggable' Oncogenic Targets](papers/EVIW-DB4950B4D4A2E3D1.md) · Pharmaceuticals (Basel)
+- [A Novel Weighted Ensemble Framework of Transformer and Deep Q-Network for ATP-Binding Site Prediction Using Protein Language Model Features](papers/EVIW-7410B1EBC89754BE.md) · Int J Mol Sci
+- [A paired sequence language model for protein-protein interaction modeling](papers/EVIW-1F44AF237AA8F268.md) · Nat Commun
+- [A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations](papers/EVIW-354EEA5F3DCEF838.md) · PLoS Comput Biol
+- [A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models](papers/EVIW-0AE5BB88A44BC105.md) · Communications Chemistry
+- [Accurate prediction of protein–ATP binding sites based on a protein pretrained large language model and a fractional-order convolutional neural network](papers/EVIW-B5871C7812C20042.md) · Scientific Reports
+- [Accurate prediction of toxicity peptide and its function using multi-view tensor learning and latent semantic learning framework](papers/EVIW-FE2C02759F001D51.md) · Bioinformatics
+- [ADME-drug-likeness: enriching molecular foundation models via pharmacokinetics-guided multi-task learning for drug-likeness prediction](papers/EVIW-8DEF05D4191F5455.md) · Bioinformatics
+- [Advancing generative large language models toward discriminative performance in protein function prediction](papers/EVIW-3352EAE93C4D75CD.md) · Genome Biol
+- [AI-driven antimicrobial peptide characterization unveils novel motifs for drug design](papers/EVIW-C03C2EAE5E699FCA.md) · Sci Rep
+- [AMP-Diffusion: Integrating Latent Diffusion with Protein Language Models for Antimicrobial Peptide Generation](papers/EVIW-82B2503C91A465CA.md) · bioRxiv preprint
+- [An end-to-end method for predicting compound-protein interactions based on simplified homogeneous graph convolutional network and pre-trained language model](papers/EVIW-9206AA79E73AF799.md) · J Cheminform
+- [Approaching Optimal pH Enzyme Prediction with Large Language Models](papers/EVIW-43C1D0D0C335516B.md) · ACS Synth Biol
+- [Artificial Intelligence-Driven Discovery and Optimization of Antimicrobial Peptides Targeting ESKAPE Pathogens and Multidrug-Resistant Fungi](papers/EVIW-DB8E78E7468C01B3.md) · Microorganisms
+- [Assessing protein model quality based on deep graph coupled networks using protein language model](papers/EVIW-4C2016E65967FD05.md) · Brief Bioinform
+- [AutoPeptideML: a study on how to build more trustworthy peptide bioactivity predictors](papers/EVIW-BE76B197C5D200BF.md) · Bioinformatics
+- [Benchmarking protein language models for protein crystallization](papers/EVIW-6A9AC2519DB77CAC.md) · Scientific Reports
+- [Benchmarking uncertainty quantification for protein engineering](papers/EVIW-A2A30144D58B3F7F.md) · PLoS Comput Biol
+- [BertADP: a fine-tuned protein language model for anti-diabetic peptide prediction](papers/EVIW-F9AD04E02887E9BD.md) · BMC Biology
+- [Bidirectional generation of structure and properties through a single molecular foundation model](papers/EVIW-8D53A06B9A414D98.md) · Nature Communications
+- [Bilingual language model for protein sequence and structure](papers/EVIW-50CC17ACB2AEA40C.md) · NAR Genom Bioinform
+- [Bioactivity Deep Learning for Complex Structure-Free Compound-Protein Interaction Prediction](papers/EVIW-819EC6B4DDEB7DFB.md) · J Chem Inf Model
+- [Biophysics-based protein language models for protein engineering](papers/EVIW-40D5F9BF08E6F0D0.md) · Nat Methods
+- [CaBind_MCNN: Identifying Potential Calcium Channel Blocker Targets by Predicting Calcium-Binding Sites in Ion Channels and Ion Transporters Using Protein Language Models and Multiscale Feature Extraction](papers/EVIW-6EF69641EF76DBE5.md) · J Chem Inf Model
+- [caRBP-Pred: Leveraging Protein Language Models for the Prediction of Chromatin-Associated RNA-Binding Proteins](papers/EVIW-9AD6C1CBFC8016E4.md) · Comput Struct Biotechnol J
+- [ChatMol: interactive molecular discovery with natural language](papers/EVIW-EAE32CFD6D59B1E2.md) · Bioinformatics
+- [Chemical Language Model Linker: Blending Text and Molecules with Modular Adapters](papers/EVIW-2AB646F71CAFA9B7.md) · J Chem Inf Model
+- [Chlamy_ChloroPred: a deep learning-based, highly accurate binary classifier for chloroplast protein prediction in the model microalga, Chlamydomonas reinhardtii, with ...](papers/EVIW-9F9526DFCB88A280.md) · Front Microbiol
+- [CLDN18.2 antibody design with protein language models: A deep learning optimization framework](papers/EVIW-BE033C46CCB9A3C9.md) · PLOS Computational Biology
+- [Combining Rosetta Sequence Design with Protein Language Model Predictions Using Evolutionary Scale Modeling (ESM) as Restraint](papers/EVIW-21DCFE55217047DC.md) · ACS Synth Biol
+- [Comprehensive Research on Druggable Proteins: From PSSM to Pre-Trained Language Models](papers/EVIW-9BCBB5D287E1A4A6.md) · Int J Mol Sci
+- [CS-DTA: a language model-driven framework for robust drug-target affinity prediction under strict cold-start scenarios](papers/EVIW-B2D74A3DCC6C8DF7.md) · Front Chem
+- [DDMut-PPI: predicting effects of mutations on protein-protein interactions using graph-based deep learning](papers/EVIW-437CF46420154922.md) · Nucleic Acids Res
+- [De novo drug design as GPT language modeling: large chemistry models with supervised and reinforcement learning](papers/EVIW-6AFBE1321B318817.md) · J Comput Aided Mol Des
+- [De novo functional protein sequence generation: overcoming data scarcity through regeneration and large language models](papers/EVIW-4AC4AFB961A40084.md) · Brief Bioinform
+- [Deep Learning for Protein–peptide binding Prediction: Incorporating Sequence, Structural and Language Model Features](papers/EVIW-16CD02A4DB552231.md) · bioRxiv preprint
+- [Deep learning in GPCR drug discovery: benchmarking the path to accurate peptide binding](papers/EVIW-7BBE077F641CF7F4.md) · Briefings in Bioinformatics
+- [DeepProSite: structure-aware protein binding site prediction using ESMFold and pretrained language model](papers/EVIW-8C02585678F47251.md) · Bioinformatics
+- [DeepRank-GNN-esm: a graph neural network for scoring protein-protein models using protein language model](papers/EVIW-15405E99B573B3CB.md) · Bioinform Adv
+- [Democratizing protein language models with parameter-efficient fine-tuning](papers/EVIW-6B4C678CD5B415B8.md) · Proc Natl Acad Sci U S A
+- [DG-Affinity: predicting antigen-antibody affinity with language models from sequences](papers/EVIW-E342A47CFC993CA7.md) · BMC Bioinformatics
+- [DisoFLAG: accurate prediction of protein intrinsic disorder and its functions using graph-based interaction protein language model](papers/EVIW-50EC4D98F422F622.md) · BMC Biol
+- [DLM-DTI: a dual language model for the prediction of drug-target interaction with hint-based learning](papers/EVIW-9782A427229EBEDC.md) · J Cheminform
+- [DTI-LM: language model powered drug-target interaction prediction](papers/EVIW-1DB0B140C115A6B4.md) · Bioinformatics
+- [DualPG-DTA: A Large Language Model-Powered Graph Neural Network Framework for Enhanced Drug-Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti-Leukemia Activity](papers/EVIW-AFD057452A461D91.md) · Adv Sci (Weinh)
+- [Embedding-based alignment: combining protein language models with dynamic programming alignment to detect structural similarities in the twilight-zone](papers/EVIW-D0EEC41ABCA877F9.md) · Bioinformatics
+- [Emerging opportunities of using large language models for translation between drug molecules and indications](papers/EVIW-320290EBA410B89A.md) · Sci Rep
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning](papers/EVIW-6C65D455AB73D2E8.md) · Nat Commun
+- [Enhancing missense variant pathogenicity prediction with protein language models using VariPred](papers/EVIW-D719F0DEC8B7742D.md) · Sci Rep
+- [Enhancing predictions of protein stability changes induced by single mutations using MSA-based language models](papers/EVIW-9905919E453547B9.md) · Bioinformatics
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Expert-guided protein language models enable accurate and blazingly fast fitness prediction](papers/EVIW-DF17577005540B9D.md) · Bioinformatics
+- [Fine-tuning protein language models boosts predictions across diverse tasks](papers/EVIW-70FFFBE1CB0E8DF4.md) · Nat Commun
+- [FLOWR.ROOT – A flow matching-based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](papers/EVIW-3AE9D036AE8EC1CB.md) · Nat Commun
+- [GATSol, an enhanced predictor of protein solubility through the synergy of 3D structure graph and large language modeling](papers/EVIW-A6F6E39304F1E6FD.md) · BMC Bioinformatics
+- [Generalizable compound protein interaction prediction with a model incorporating protein structure aware and compound property aware language model representations](papers/EVIW-CC8FC3C6F23DD3D6.md) · Commun Chem
+- [Generation of 3D molecules in pockets via a language model](papers/EVIW-61D2CB039D461481.md) · Nature Machine Intelligence
+- [Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model](papers/EVIW-4CF80ABA93015978.md) · J Cheminform
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction](papers/EVIW-B75B8A6DA9771680.md) · J Chem Inf Model
+- [GPCR-BERT: Interpreting Sequential Design of G Protein-Coupled Receptors Using Protein Language Models](papers/EVIW-22E3EBA72131C076.md) · J Chem Inf Model
+- [GPSFun: geometry-aware protein sequence function predictions with language models](papers/EVIW-19ED48AF3238BE4A.md) · Nucleic Acids Res
+- [GRAPE: graph-regularized protein language modeling unlocks TCR-epitope binding specificity](papers/EVIW-D00A3E12F27E6D37.md) · Brief Bioinform
+- [Heuristic multi-site optimization for protein sequence design using Masked Protein Language Models](papers/EVIW-3BF8524B058D7177.md) · PLoS Comput Biol
+- [Hybrid Approach to Protein–Protein Complex Affinity Prediction Based on Language Models and Molecular Dynamics](papers/EVIW-11308829464B5DDF.md) · Int J Mol Sci
+- [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](papers/EVIW-571E77FA9E72F955.md) · bioRxiv preprint
+- [Hybrid Dual-Context Prompted Cross-Attention Framework with Language Model Guidance for Multi-Label Prediction of Human Off-Target Ligand-Protein Interactions](papers/EVIW-B72BFE30F8217623.md) · Int J Mol Sci
+- [Hybrid protein-ligand binding residue prediction with protein language models: does the structure matter?](papers/EVIW-EA13F1D6FE41297E.md) · Bioinformatics
+- [HydrogelFinder: A Foundation Model for Efficient Self‐Assembling Peptide Discovery Guided by Non‐Peptidal Small Molecules](papers/EVIW-C75DCBB690B8C2D3.md) · Adv Sci (Weinh)
+- [IDP-LM: Prediction of protein intrinsic disorder and disorder functions based on language models](papers/EVIW-2DE697E431AB06B3.md) · PLoS Comput Biol
+- [ifDEEPre: large protein language-based deep learning enables interpretable and fast predictions of enzyme commission numbers](papers/EVIW-79348126FDC75CF4.md) · Brief Bioinform
+- [iMFP-LG: Identify Novel Multi-functional Peptides Using Protein Language Models and Graph-based Deep Learning](papers/EVIW-8B7452D150DEFDA3.md) · Genomics Proteomics Bioinformatics
+- [Improving antibody language models with native pairing](papers/EVIW-00430A1EC76AD16D.md) · Patterns (N Y)
+- [Integrating genetic algorithms and language models for enhanced enzyme design](papers/EVIW-6F408BE036DFFB9B.md) · Brief Bioinform
+- [Integration of pre-trained protein language models with equivariant graph neural networks for peptide toxicity prediction](papers/EVIW-7EA3F029D887221F.md) · BMC Biology
+- [iProtDNA-SMOTE: Enhancing protein-DNA binding sites prediction through imbalanced graph neural networks](papers/EVIW-C59AE2936DFD7151.md) · PLOS ONE
+- [Language models can identify enzymatic binding sites in protein sequences](papers/EVIW-99773954949241B5.md) · Comput Struct Biotechnol J
+- [LANTERN: TCR-peptide binding prediction via large language model representations](papers/EVIW-CFC36146C459CA15.md) · PeerJ
+- [Large Language Model Agent for Modular Task Execution in Drug Discovery](papers/EVIW-746AC8110B53CD45.md) · J Chem Inf Model
+- [Large scale paired antibody language models](papers/EVIW-F11B407E2D7D8A73.md) · PLoS Comput Biol
+- [Large-language models facilitate discovery of the molecular signatures regulating sleep and activity](papers/EVIW-11A654DEA4B441F3.md) · Nat Commun
+- [LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding](papers/EVIW-02F2CAC014E9FB65.md) · Noncoding RNA Res
+- [Machine learning approaches for predicting protein-ligand binding sites from sequence data](papers/EVIW-3398915ED0CEE12D.md) · Front Bioinform
+- [MAPLE: interpretable deep learning identifies selective antimicrobial peptides using joint evolutionary–physicochemical analysis](papers/EVIW-E44B76ADFCA574C0.md) · Brief Bioinform
+- [Molecular-level protein semantic learning via structure-aware coarse-grained language modeling](papers/EVIW-01A2549BFA96DEBC.md) · Bioinformatics
+- [MPBind: a multitask protein binding site predictor using protein language models and equivariant GNNs](papers/EVIW-8D488E8314E26BBB.md) · Bioinformatics
+- [MULAN: multimodal protein language model for sequence and structure encoding](papers/EVIW-723AD18D0B910730.md) · Bioinform Adv
+- [Multi-feature enhanced protein language models for accurate protein-RNA binding residue prediction](papers/EVIW-C0E4B8B295CD0E78.md) · Discover Artificial Intelligence
+- [Multi-View Biomedical Foundation Models for Molecule-Target and Property Prediction](papers/EVIW-30CB21D1BF9FB596.md) · Adv Sci (Weinh)
+- [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](papers/EVIW-FB7FD6B2AF942CF0.md) · BMC Biology
+- [Nucleotide context models outperform protein language models for predicting antibody affinity maturation](papers/EVIW-54070BE482574736.md) · PLoS Comput Biol
+- [Optimizing enzyme thermostability by combining multiple mutations using protein language model](papers/EVIW-1F0317EDE567CE78.md) · mLife
+- [p-IgGen: a paired antibody generative language model](papers/EVIW-38FE5D1C96C03B2A.md) · Bioinformatics
+- [Pair-EGRET: enhancing the prediction of protein-protein interaction sites through graph attention networks and protein language models](papers/EVIW-2ED551432A25CE7B.md) · Bioinformatics
+- [PatchProt: hydrophobic patch prediction using protein foundation models](papers/EVIW-489DE22C3AA92EB0.md) · Bioinform Adv
+- [PepCNN deep learning tool for predicting peptide binding residues in proteins using sequence, structural, and language model features](papers/EVIW-932468299F5C923F.md) · Sci Rep
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PepNet: an interpretable neural network for anti-inflammatory and antimicrobial peptides prediction using a pre-trained protein language model](papers/EVIW-D985354C317F9E28.md) · Communications Biology
+- [Peptide-Aware Chemical Language Model Successfully Predicts Membrane Diffusion of Cyclic Peptides](papers/EVIW-8A9A06F1043F02B8.md) · Journal of Chemical Information and Modeling
+- [PGAT-ABPp: harnessing protein language models and graph attention networks for antibacterial peptide identification with remarkable accuracy](papers/EVIW-E288C151E5D5BCAF.md) · Bioinformatics
+- [PhosBoost: Improved phosphorylation prediction recall using gradient boosting and protein language models](papers/EVIW-6144C586F0C7E057.md) · Plant Direct
+- [pMHChat, characterizing the interactions between major histocompatibility complex class II molecules and peptides with large language models and deep hypergraph learning](papers/EVIW-47213BB42F0B8049.md) · Brief Bioinform
+- [POOE: predicting oomycete effectors based on a pre-trained large protein language model](papers/EVIW-426A1A532D5D26FF.md) · mSystems
+- [Predicting blood–brain barrier permeability of molecules with a large language model and machine learning](papers/EVIW-02B621CFAF1FFA56.md) · Sci Rep
+- [Predicting protein–carbohydrate binding sites: a deep learning approach integrating protein language model embeddings and structural features](papers/EVIW-2B57DB63EFE65586.md) · Brief Bioinform
+- [Prediction of antibiotic resistance mechanisms using a protein language model](papers/EVIW-DF4F66AEE5CA4D6A.md) · Bioinformatics
+- [Prediction of liquid–liquid phase separation proteins based on protein language model](papers/EVIW-5C0E1B3C27B595A5.md) · Brief Bioinform
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation](papers/EVIW-CFF211E7FC7B9340.md) · Sci Rep
+- [Preferential CDR masking in paired antibody language models improves binding affinity prediction](papers/EVIW-0BE96BB606351927.md) · Communications AI & Computing
+- [Probabilistic generative transformer language models for generative design of molecules](papers/EVIW-C0C005C3739D6CDB.md) · J Cheminform
+- [Programmable protein stabilization with language model-derived peptide guides](papers/EVIW-FE530DA12E55A92A.md) · Nature Communications
+- [Protein language model embeddings improve HIV drug resistance prediction: a comprehensive benchmark with attention-based interpretability](papers/EVIW-2298CD3BA71BF0DF.md) · Bioinformatics
+- [Protein language model-embedded geometric graphs power inter-protein contact prediction](papers/EVIW-A67BD0A05AA3B3CE.md) · eLife
+- [Protein Language Models and Machine Learning Facilitate the Identification of Antimicrobial Peptides](papers/EVIW-BF2DD47B64FE886A.md) · Int J Mol Sci
+- [Protein language models can capture protein quaternary state](papers/EVIW-367AD9D40B92C56F.md) · BMC Bioinformatics
+- [Protein language models meet reduced amino acid alphabets](papers/EVIW-6C82FA785A104FF8.md) · Bioinformatics
+- [Protein language models uncover carbohydrate-active enzyme function in metagenomics](papers/EVIW-CD412B405D36CFCA.md) · BMC Bioinformatics
+- [Protein Set Transformer: A protein-based genome language model to power high diversity viromics](papers/EVIW-90178F1EA972262A.md) · bioRxiv preprint
+- [Protein stability prediction by fine-tuning a protein language model on a mega-scale dataset](papers/EVIW-81ABABCCA0141DCD.md) · PLoS Comput Biol
+- [ProteomeLM: A proteome-scale language model enables accurate and rapid prediction of protein–protein interactions and gene essentiality across taxa](papers/EVIW-32FD7D3722148CE1.md) · Proc Natl Acad Sci U S A
+- [PTM-Mamba: a PTM-aware protein language model with bidirectional gated Mamba blocks](papers/EVIW-5AD4D124DC0AC35A.md) · Nat Methods
+- [RLEAAI: improving antibody–antigen interaction prediction using protein language model and sequence order information](papers/EVIW-BEED86C0B6E8B844.md) · Brief Bioinform
+- [S 2 ALM: Sequence-Structure Pre-trained Large Language Model for Comprehensive Antibody Representation Learning](papers/EVIW-81BCF02102E54A0C.md) · Research (Wash D C)
+- [S-PLM: Structure-Aware Protein Language Model via Contrastive Learning Between Sequence and Structure](papers/EVIW-593480AEBAE04B3E.md) · Adv Sci (Weinh)
+- [SaLT&PepPr is an interface-predicting language model for designing peptide-guided protein degraders](papers/EVIW-2E2E82348BA7421D.md) · Commun Biol
+- [Scaling SMILES-based chemical language models for therapeutic peptide engineering](papers/EVIW-F5B7CCA4515BCA48.md) · bioRxiv
+- [Sensitive remote homology search by local alignment of small positional embeddings from protein language models](papers/EVIW-FE09597837C23FBA.md) · eLife
+- [Seq2Phase: language model-based accurate prediction of client proteins in liquid-liquid phase separation](papers/EVIW-EFC798AC8E4439DA.md) · Bioinform Adv
+- [SpatialPPIv2: Enhancing protein-protein interaction prediction through graph neural networks with protein language models](papers/EVIW-F0E393D381C5CCE0.md) · Comput Struct Biotechnol J
+- [SumoPred-PLM: human SUMOylation and SUMO2/3 sites Prediction using Pre-trained Protein Language Model](papers/EVIW-342371DAB3074A41.md) · NAR Genom Bioinform
+- [Systematic Exploration of Small-Molecule Binding via a Large Language Model Trained on Textualized Protein-Ligand Interactions](papers/EVIW-29AA774D6FE17308.md) · Molecules
+- [TamGen: drug design with target-aware molecule generation through a chemical language model](papers/EVIW-FE15D09DFF53156B.md) · Nat Commun
+- [Target sequence-conditioned design of peptide binders using masked language modeling](papers/EVIW-BF159123222D1607.md) · Nature Biotechnology
+- [TargetCLP: clathrin proteins prediction combining transformed and evolutionary scale modeling-based multi-view features via weighted feature integration approach](papers/EVIW-404C5BACD2E2FE9A.md) · Brief Bioinform
+- [TCRBinder: Unified pre-trained language model with paired-chain synergy for predicting T-cell receptor binding specificity](papers/EVIW-1B10BF11D52702A4.md) · PLoS Comput Biol
+- [TemStaPro: protein thermostability prediction using sequence representations from protein language models](papers/EVIW-331087A1C5C59223.md) · Bioinformatics
+- [The Accurate Prediction of Antibody Deamidations by Combining High-Throughput Automated Peptide Mapping and Protein Language Model-Based Deep Learning](papers/EVIW-F063CCE9F585DD43.md) · Antibodies (Basel)
+- [The promises of large language models for protein design and modeling](papers/EVIW-F8ED02A0B71D4CD5.md) · Front Bioinform
+- [THPLM: a sequence-based deep learning framework for protein stability changes prediction upon point variations using pretrained protein language model](papers/EVIW-5FA829750FC5822C.md) · Bioinformatics
+- [Token-Mol 1.0: tokenized drug design with large language models](papers/EVIW-A49F35F3F1F4BB7E.md) · Nature Communications
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [Tpgen: a language model for stable protein design with a specific topology structure](papers/EVIW-B4DD900E446E25B9.md) · BMC Bioinformatics
+- [TransBind allows precise detection of DNA-binding proteins and residues using language models and deep learning](papers/EVIW-457E2FBD9F52B0DD.md) · Communications Biology
+- [TransFactor—prediction of pro-viral SARS-CoV-2 host factors using a protein language model](papers/EVIW-204A215535DA2931.md) · Bioinformatics
+- [ULDNA: integrating unsupervised multi-source language models with LSTM-attention network for high-accuracy protein-DNA binding site prediction](papers/EVIW-2AD4C34E7E631F20.md) · Brief Bioinform
+- [Using deep learning and large protein language models to predict protein-membrane interfaces of peripheral membrane proteins](papers/EVIW-90130005AA3C23BF.md) · Bioinform Adv
+- [Using protein language models for protein interaction hot spot prediction with limited data](papers/EVIW-67FB689C91FAADD9.md) · BMC Bioinformatics
+- [When Protein Structure Embedding Meets Large Language Models](papers/EVIW-3C9A3952CB15CE69.md) · Genes (Basel)
+- [xCAPT5: protein-protein interaction prediction using deep and wide multi-kernel pooling convolutional neural networks with protein language model](papers/EVIW-548BA32503295D77.md) · BMC Bioinformatics
+- [ZeroGEN: leveraging language models for zero-shot ligand design from protein sequences](papers/EVIW-2B81F9DEB564E4C3.md) · Bioinformatics
+
+### 肽与抗菌肽（143）
+
+- [A conditional denoising VAE-based framework for antimicrobial peptides generation with preserving desirable properties](papers/EVIW-B66607838B13CDF6.md) · Bioinformatics
+- [A dual diffusion model-based representation learning framework for antimicrobial peptides classification](papers/EVIW-584A3279CA37FE46.md) · Bioinformatics
+- [A Foundation Model Identifies Broad-Spectrum Antimicrobial Peptides against Drug-Resistant Bacterial Infection](papers/EVIW-051601A26FADD01F.md) · Nature Communications
+- [A generative artificial intelligence approach for peptide antibiotic optimization](papers/EVIW-B47A1491CBD2F081.md) · Nat Mach Intell
+- [A generative explainable model for antimicrobial peptide prediction using bidirectional temporal convolutional neural network](papers/EVIW-FD12D61BC580B2CB.md) · Scientific Reports
+- [A Machine Learning-Enabled Venom Peptide Platform for Rapid Drug Discovery](papers/EVIW-27ACE42DCA76D5BE.md) · Pharmaceuticals (Basel)
+- [A modular protein language modelling approach to immunogenicity prediction](papers/EVIW-8F8C157B31B1403C.md) · PLoS Comput Biol
+- [A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties](papers/BFW-1743CA1AF5D6.md) · PLoS Comput Biol
+- [A rationally designed 18-amino acid peptide with potential as GLP-1 receptor agonist](papers/EVIW-A7375920FC934F72.md) · Front Pharmacol
+- [A scalable reinforcement learning approach for screening large peptide libraries for bioactive peptide discovery](papers/EVIW-E9CD4536A504D6BA.md) · Nat Commun
+- [A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models](papers/EVIW-0AE5BB88A44BC105.md) · Communications Chemistry
+- [Accelerating antimicrobial peptide design: Leveraging deep learning for rapid discovery](papers/EVIW-AB45A48DBA8A5BEE.md) · PLoS One
+- [Accurate and transferable drug-target interaction prediction with DrugLAMP](papers/EVIW-81F2594343B5883B.md) · Bioinformatics
+- [Accurate prediction of toxicity peptide and its function using multi-view tensor learning and latent semantic learning framework](papers/EVIW-FE2C02759F001D51.md) · Bioinformatics
+- [Accurate TCR-pMHC interaction prediction using a BERT-based transfer learning method](papers/EVIW-7F3870CE001D8F3E.md) · Brief Bioinform
+- [ACP-CapsPred: an explainable computational framework for identification and functional prediction of anticancer peptides based on capsule network](papers/EVIW-9740ACD6DFDD26CD.md) · Brief Bioinform
+- [AI-driven antimicrobial peptide characterization unveils novel motifs for drug design](papers/EVIW-C03C2EAE5E699FCA.md) · Sci Rep
+- [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](papers/EVIW-F2D88608FBE5A657.md) · Acc Chem Res
+- [AMP-Diffusion: Integrating Latent Diffusion with Protein Language Models for Antimicrobial Peptide Generation](papers/EVIW-82B2503C91A465CA.md) · bioRxiv preprint
+- [AMPGen: an evolutionary information-reserved and diffusion-driven generative model for de novo design of antimicrobial peptides](papers/EVIW-3B0C00C5C6357749.md) · Communications Biology
+- [AmpHGT: expanding prediction of antimicrobial activity in peptides containing non-canonical amino acids using multi-view constrained heterogeneous graph transformer](papers/EVIW-BA31B886E6888BA5.md) · BMC Biology
+- [An Interpretable Multi-Objective Machine Learning Framework for In Silico Prioritization of Anti-Staphylococcus aureus Antimicrobial Peptides](papers/EVIW-76378985A0FE2B41.md) · Diagnostics (Basel)
+- [Anti-Staphy Peptides Rationally Designed from Cry10Aa Bacterial Protein](papers/EVIW-71426490B42287E5.md) · ACS Omega
+- [Antimicrobial peptides: natural templates for next-generation therapeutics against antimicrobial resistance](papers/EVIW-92B7384043CDFC17.md) · Front Cell Infect Microbiol
+- [Antiviral Peptide-Generative Pre-Trained Transformer (AVP-GPT): A Deep Learning-Powered Model for Antiviral Peptide Design with High-Throughput Discovery and Exceptional Potency](papers/EVIW-2E8B47608015C954.md) · Viruses
+- [APTAnet: an atom-level peptide-TCR interaction affinity prediction model](papers/EVIW-9A52A00B636813BB.md) · Biophys Rep
+- [Artificial Intelligence-Driven Discovery and Optimization of Antimicrobial Peptides Targeting ESKAPE Pathogens and Multidrug-Resistant Fungi](papers/EVIW-DB8E78E7468C01B3.md) · Microorganisms
+- [Atom-level enzyme active site scaffolding using RFdiffusion2](papers/BFW-677CA1020102.md) · Nature Methods
+- [Attention network for predicting T-cell receptor-peptide binding can associate attention with interpretable protein structural properties](papers/EVIW-2851B31F304D19F1.md) · Front Bioinform
+- [AutoPeptideML: a study on how to build more trustworthy peptide bioactivity predictors](papers/EVIW-BE76B197C5D200BF.md) · Bioinformatics
+- [AVP-GPT2: A Transformer-Powered Platform for De Novo Generation, Screening, and Explanation of Antiviral Peptides](papers/EVIW-3A964B1973F54AF1.md) · Viruses
+- [BBB-PEP-prediction: improved computational model for identification of blood–brain barrier peptides using blending position relative composition specific features and ensemble modeling](papers/EVIW-7F3218A7A0CFFE26.md) · J Cheminform
+- [BertADP: a fine-tuned protein language model for anti-diabetic peptide prediction](papers/EVIW-F9AD04E02887E9BD.md) · BMC Biology
+- [Bitter peptide prediction using graph neural networks](papers/EVIW-6CFA93D3BCD5F547.md) · J Cheminform
+- [BPFun: a deep learning framework for bioactive peptide function prediction using multi-label strategy by transformer-driven and sequence rich intrinsic information](papers/EVIW-6392FF2B56C99F91.md) · BMC Bioinformatics
+- [Bridging Generative AI and Diffusion Models With Molecular Simulation to Design Anti-Quorum-Sensing De novo Peptides Targeting LasR of Pseudomonas aeruginosa](papers/EVIW-8B26B6C224750AD8.md) · Probiotics and Antimicrobial Proteins
+- [BroadAMP-GPT: AI-Driven generation of broad-spectrum antimicrobial peptides for combating multidrug-resistant ESKAPE pathogens](papers/EVIW-8BB7B9217975CD7C.md) · Gut Microbes
+- [Cell-free biosynthesis combined with deep learning accelerates de novo-development of antimicrobial peptides](papers/EVIW-7517D0EB7719FCF9.md) · Nat Commun
+- [Computational design of class II MHC binding peptide with sequence-based evolution information](papers/EVIW-C4FB45BC99A93073.md) · Bioinform Adv
+- [Computational discovery of SARS-CoV-2 viral entry inhibitory peptides from Androctonus mauretanicus scorpion venom: molecular docking and molecular dynamics simulations](papers/EVIW-6F777AE24892782F.md) · Front Bioinform
+- [CPL‐Diff: A Diffusion Model for De Novo Design of Functional Peptide Sequences with Fixed Length](papers/EVIW-466228B7D151118B.md) · Adv Sci (Weinh)
+- [CPP2Vec: A representation learning approach for cell-penetrating peptides prediction](papers/EVIW-1450D8C7581F6484.md) · PLOS Computational Biology
+- [CRISPR-Cas9 screening reveals a distinct class of MHC-I binders with precise HLA-peptide recognition](papers/EVIW-BD211E17DC7043A1.md) · iScience
+- [Cyclic peptide structure prediction and design using AlphaFold2](papers/EVIW-0E24408ABDFC740F.md) · Nature Communications
+- [CycPeptMP: enhancing membrane permeability prediction of cyclic peptides with multi-level molecular features and data augmentation](papers/EVIW-7D1ADFC98AF15650.md) · Brief Bioinform
+- [De Novo Antimicrobial Peptide Design with Feedback Generative Adversarial Networks](papers/EVIW-9D1944506B9DAEA2.md) · Int J Mol Sci
+- [De Novo Design of Peptide Masks Enables Rapid Generation of Conditionally-Active Miniprotein Binders](papers/EVIW-397BB32AC538E433.md) · J Am Chem Soc
+- [De novo synthetic antimicrobial peptide design with a recurrent neural network](papers/EVIW-647BFF7FAA5ECC23.md) · Protein Sci
+- [Deep Learning Empowers the Discovery of Self-Assembling Peptides with Over 10 Trillion Sequences](papers/EVIW-78F12E35B43BB05A.md) · Adv Sci (Weinh)
+- [Deep Learning for Protein–peptide binding Prediction: Incorporating Sequence, Structural and Language Model Features](papers/EVIW-16CD02A4DB552231.md) · bioRxiv preprint
+- [Deep learning in GPCR drug discovery: benchmarking the path to accurate peptide binding](papers/EVIW-7BBE077F641CF7F4.md) · Briefings in Bioinformatics
+- [Deep learning-driven fragment ion series classification enables highly precise and sensitive de novo peptide sequencing](papers/EVIW-A2CA6D8C47557286.md) · Nat Commun
+- [DeepAVP-TPPred: identification of antiviral peptides using transformed image-based localized descriptors and binary tree growth algorithm](papers/EVIW-512C8F008B03ACB6.md) · Bioinformatics
+- [DeepBP: Ensemble deep learning strategy for bioactive peptide prediction](papers/EVIW-A418833AC819190B.md) · BMC Bioinformatics
+- [Design of high-specificity binders for peptide-MHC-I complexes](papers/EVIW-5B2A016A7A13F3AF.md) · Science Advances
+- [Design of linear and cyclic peptide binders from protein sequence information](papers/EVIW-01477EAB1AD23043.md) · Communications Chemistry
+- [Designing novel peptides with amyloid-β binding and clearance potential using BiLSTM and molecular dynamics](papers/EVIW-FBABEC0DFF6A2BDA.md) · Frontiers in Artificial Intelligence
+- [Diff-AMP: tailored designed antimicrobial peptide framework with all-in-one generation, identification, prediction and optimization](papers/EVIW-D786C348787A2E84.md) · Brief Bioinform
+- [Direct prediction of antimicrobial resistance in Pseudomonas aeruginosa by metagenomic next-generation sequencing](papers/EVIW-51CED1BE34996B4E.md) · Front Microbiol
+- [DLFea4AMPGen de novo design of antimicrobial peptides by integrating features learned from deep learning models](papers/EVIW-D14460AF0926DD13.md) · Nature Communications
+- [dsAMP and dsAMPGAN: Deep Learning Networks for Antimicrobial Peptides Recognition and Generation](papers/EVIW-781B8D46BE658D76.md) · Antibiotics (Basel)
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [Evaluating BindCraft for Generative Design of High-Affinity Peptides](papers/EVIW-5F5A18203EF1CB13.md) · ACS Chem Biol
+- [Extracellular Peptide-Ligand Dimerization Actuator Receptor Design for Reversible and Spatially Dosed 3D Cell-Material Communication](papers/EVIW-2E395C4AB7FEEF22.md) · ACS Synth Biol
+- [Feature selection enhances peptide binding predictions for TCR-specific interactions](papers/EVIW-C5253CE7914B46E5.md) · Front Immunol
+- [From Host-Derived Pressures to the Environmental Anti-Antimicrobial Peptides Resistome: Mechanisms, Reservoirs and Implications for Therapeutic Peptide Design](papers/EVIW-23609632C0117F43.md) · Mar Drugs
+- [Generation, Characterisation and Identification of Bioactive Peptides from Mesopelagic Fish Protein Hydrolysates Using In Silico and In Vitro Approaches](papers/EVIW-DF49AF593037EBBE.md) · Mar Drugs
+- [Generative Multiobjective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design](papers/EVIW-8CC9E4F84F9247B1.md) · Ind Eng Chem Res
+- [Geometric deep learning improves generalizability of MHC-bound peptide predictions](papers/EVIW-A3D5B6B8C925B41E.md) · Commun Biol
+- [GeoPep: A Geometry-Aware Masked Language Model for Protein-Peptide Binding Site Prediction](papers/EVIW-B75B8A6DA9771680.md) · J Chem Inf Model
+- [GraphMHC: Neoantigen prediction model applying the graph neural network to molecular structure](papers/EVIW-E76131B3A3B6CCC4.md) · PLoS One
+- [Harnessing generative AI for predicting and optimizing antimicrobial peptides against drug-resistant infections](papers/EVIW-7E1473BE5E2241B3.md) · NPJ Antimicrob Resist
+- [HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion](papers/EVIW-3A1ACC8879ECFFC5.md) · Chem Sci
+- [High-throughput prediction of protein conformational distributions with subsampled AlphaFold2](papers/EVIW-EEBA22DD03D0F7F6.md) · Nat Commun
+- [HLA I immunopeptidome of synthetic long peptide pulsed human dendritic cells for therapeutic vaccine design](papers/EVIW-0EA8CC81C58675DC.md) · NPJ Vaccines
+- [HydrogelFinder: A Foundation Model for Efficient Self‐Assembling Peptide Discovery Guided by Non‐Peptidal Small Molecules](papers/EVIW-C75DCBB690B8C2D3.md) · Adv Sci (Weinh)
+- [Identification and Design of Novel Potential Antimicrobial Peptides Targeting Mycobacterial Protein Kinase PknB](papers/EVIW-A5CF896B45EDAAC3.md) · Protein J
+- [iMFP-LG: Identify Novel Multi-functional Peptides Using Protein Language Models and Graph-based Deep Learning](papers/EVIW-8B7452D150DEFDA3.md) · Genomics Proteomics Bioinformatics
+- [Improving protein interaction prediction in GenPPi: a novel interaction sampling approach preserving network topology](papers/EVIW-DF0545692476B7C4.md) · BMC Bioinformatics
+- [In silico screening of protein-binding peptides with an application to developing peptide inhibitors against antibiotic resistance](papers/EVIW-CFF2D809F391FE3C.md) · PNAS Nexus
+- [InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments](papers/EVIW-E410089C4FA4C69C.md) · Nature Machine Intelligence
+- [Integrated convolution and self-attention for improving peptide toxicity prediction](papers/EVIW-80816B41CDFB17A0.md) · Bioinformatics
+- [Integration of pre-trained protein language models with equivariant graph neural networks for peptide toxicity prediction](papers/EVIW-7EA3F029D887221F.md) · BMC Biology
+- [LANTERN: TCR-peptide binding prediction via large language model representations](papers/EVIW-CFC36146C459CA15.md) · PeerJ
+- [Lipoprotein Signal Peptide as Adjuvants: Leveraging Lipobox-Driven TLR2 Activation in Modern Vaccine Design](papers/EVIW-616A71F542DC7BE9.md) · Vaccines (Basel)
+- [LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding](papers/EVIW-02F2CAC014E9FB65.md) · Noncoding RNA Res
+- [M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structures](papers/EVIW-9B46DF810E666BD8.md) · BMC Bioinformatics
+- [Machine learning application to predict binding affinity between peptide containing non-canonical amino acids and HLA-A0201](papers/EVIW-1064EC94E290F45D.md) · PLoS One
+- [Machine learning assisted rational design of antimicrobial peptides based on human endogenous proteins and their applications for cosmetic preservative system optimization](papers/EVIW-EE6174BA055B0122.md) · Sci Rep
+- [Machine learning–driven discovery of antimicrobial peptides against Pseudomonas aeruginosa](papers/EVIW-270F20E09B0FD7FF.md) · Front Pharmacol
+- [MAPLE: interpretable deep learning identifies selective antimicrobial peptides using joint evolutionary–physicochemical analysis](papers/EVIW-E44B76ADFCA574C0.md) · Brief Bioinform
+- [Mining and Validation of Novel Umami Peptides in Non-Alcoholic Beer by Integrating Machine Learning Prediction, Molecular Docking, and Sensory Validation, and Their Mult...](papers/EVIW-0C19992621209D05.md) · Foods
+- [MMPred: a tool to predict peptide mimicry events in MHC class II recognition](papers/EVIW-215D94F22C60E301.md) · Front Genet
+- [MOFormer: navigating the antimicrobial peptide design space with Pareto-based multi-objective transformer](papers/EVIW-DDA5A6DE373DB097.md) · Brief Bioinform
+- [Molecular fingerprints are strong models for peptide function prediction](papers/EVIW-8B9311D2D9CE4EF1.md) · Bioinformatics
+- [Multimodal learning in clinical proteomics: enhancing antimicrobial resistance prediction models with chemical information](papers/EVIW-817D5BB12EEE1B9E.md) · Bioinformatics
+- [Multimodal learning on heterogeneous subgraphs and LLMs representation for MHC-peptide binding affinity prediction](papers/EVIW-D72122024E05F9F5.md) · BMC Bioinformatics
+- [Next Generation SICLOPPS Screening for the Identification of Inhibitors of the HIF-1α/HIF-1β Protein-Protein Interaction](papers/EVIW-5A8CE5D0431D65FB.md) · ACS Chem Biol
+- [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](papers/EVIW-FB7FD6B2AF942CF0.md) · BMC Biology
+- [Novel antimicrobial peptides against Cutibacterium acnes designed by deep learning](papers/EVIW-8C5FAD76AB2C6BBD.md) · Sci Rep
+- [Opioid/Dopamine Receptor Binding Studies, NMR and Molecular Dynamics Simulation of LENART01 Chimera, an Opioid-Bombesin-like Peptide](papers/EVIW-08C055C70552D8D8.md) · Molecules
+- [PepCNN deep learning tool for predicting peptide binding residues in proteins using sequence, structural, and language model features](papers/EVIW-932468299F5C923F.md) · Sci Rep
+- [PepINVENT: generative peptide design beyond natural amino acids](papers/EVIW-3E36560C8B5CDCDB.md) · Chem Sci
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PepNet: an interpretable neural network for anti-inflammatory and antimicrobial peptides prediction using a pre-trained protein language model](papers/EVIW-D985354C317F9E28.md) · Communications Biology
+- [Peptide binder design with inverse folding and protein structure prediction](papers/EVIW-A1287DC66E85C7EA.md) · Commun Chem
+- [Peptide-Aware Chemical Language Model Successfully Predicts Membrane Diffusion of Cyclic Peptides](papers/EVIW-8A9A06F1043F02B8.md) · Journal of Chemical Information and Modeling
+- [PeptiVerse: A unified platform for therapeutic peptide property prediction](papers/EVIW-A02DA92D045E68B7.md) · Nature Communications
+- [PGAT-ABPp: harnessing protein language models and graph attention networks for antibacterial peptide identification with remarkable accuracy](papers/EVIW-E288C151E5D5BCAF.md) · Bioinformatics
+- [pH-Responsive Elastin-Like Polypeptide Designer Condensates](papers/EVIW-88141ED2186FE3C3.md) · ACS Appl Mater Interfaces
+- [Phanto-IDP: compact model for precise intrinsically disordered protein backbone generation and enhanced sampling](papers/EVIW-768EC931C6366253.md) · Brief Bioinform
+- [pMHChat, characterizing the interactions between major histocompatibility complex class II molecules and peptides with large language models and deep hypergraph learning](papers/EVIW-47213BB42F0B8049.md) · Brief Bioinform
+- [PPI-Diff: De Novo Generation of Peptide Binders via Resolution-Aware Geometric Diffusion](papers/EVIW-1E14B1FE6D202679.md) · Biomolecules
+- [PractiCPP: a deep learning approach tailored for extremely imbalanced datasets in cell-penetrating peptide prediction](papers/EVIW-BCFBFEF388C36C02.md) · Bioinformatics
+- [Precision antimicrobials: the next paradigm shift after broad-spectrum therapy](papers/EVIW-D5DF4C6464F9E9D9.md) · Front Microbiol
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Programmable protein stabilization with language model-derived peptide guides](papers/EVIW-FE530DA12E55A92A.md) · Nature Communications
+- [Protein A-like Peptide Design Based on Diffusion and ESM2 Models](papers/EVIW-806C0F8BBDF226B8.md) · Molecules
+- [Protein Language Models and Machine Learning Facilitate the Identification of Antimicrobial Peptides](papers/EVIW-BF2DD47B64FE886A.md) · Int J Mol Sci
+- [ProT‐Diff: A Modularized and Efficient Strategy for De Novo Generation of Antimicrobial Peptide Sequences by Integrating Protein Language and Diffusion Models](papers/EVIW-C3615774EAE72FC3.md) · Adv Sci (Weinh)
+- [PyAMPA: a high-throughput prediction and optimization tool for antimicrobial peptides](papers/EVIW-CD77471719D184D7.md) · mSystems
+- [Rapid prediction of key residues for foldability by machine learning model enables the design of highly functional libraries with hyperstable constrained peptide scaffolds](papers/EVIW-1C95A4882CFA116B.md) · PLoS Comput Biol
+- [Rationally seeded computational protein design of ɑ-helical barrels](papers/EVIW-FDA5C6B43CD436AE.md) · Nat Chem Biol
+- [Recent advances in computational antimicrobial peptide discovery through big data, modeling, and artificial intelligence and their interplay in ushering the next golden era of drug development](papers/EVIW-427FAE6AD95695BE.md) · Front Bioinform
+- [Rethinking peptide developability with sequence-only models: interpretable screening of microplastic-binding peptides with gated query pooling](papers/EVIW-99840038E21BBF77.md) · Chem Sci
+- [SaLT&PepPr is an interface-predicting language model for designing peptide-guided protein degraders](papers/EVIW-2E2E82348BA7421D.md) · Commun Biol
+- [Sample efficient reinforcement learning with active learning for molecular design](papers/EVIW-CB1940C39F6CF321.md) · Chem Sci
+- [Scaling SMILES-based chemical language models for therapeutic peptide engineering](papers/EVIW-F5B7CCA4515BCA48.md) · bioRxiv
+- [Sequence-Activity Relationship of Angiotensin-Converting Enzyme Inhibitory Peptides Derived from Food Proteins, Based on a New Deep Learning Model](papers/EVIW-C0909D1E08197D7A.md) · Foods
+- [Sequence-based prediction of the intrinsic solubility of peptides containing non-natural amino acids](papers/EVIW-65F619A543F74CDB.md) · Nat Commun
+- [Simultaneous enhancement of multiple functional properties using evolution-informed protein design](papers/EVIW-203F936780CD552A.md) · Nat Commun
+- [StructuralDPPIV: a novel deep learning model based on atom structure for predicting dipeptidyl peptidase-IV inhibitory peptides](papers/EVIW-D497BC14270D15F8.md) · Bioinformatics
+- [Structure-aware deep learning model for peptide toxicity prediction](papers/EVIW-F80C49767EED2FC0.md) · Protein Sci
+- [Structure-aware deep model for MHC-II peptide binding affinity prediction](papers/EVIW-E9F999EE59819090.md) · BMC Genomics
+- [Structure-aware machine learning strategies for antimicrobial peptide discovery](papers/EVIW-0A19F803228ADC09.md) · Sci Rep
+- [Structure-based TCR-pMHC binding prediction and generalization to unseen peptides](papers/EVIW-E07E46D19FBD81BA.md) · npj Drug Discovery
+- [Tailored structured peptide design with a key-cutting machine approach](papers/EVIW-3344196F75794324.md) · Nat Mach Intell
+- [Target sequence-conditioned design of peptide binders using masked language modeling](papers/EVIW-BF159123222D1607.md) · Nature Biotechnology
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [The Accurate Prediction of Antibody Deamidations by Combining High-Throughput Automated Peptide Mapping and Protein Language Model-Based Deep Learning](papers/EVIW-F063CCE9F585DD43.md) · Antibodies (Basel)
+- [The role of artificial intelligence and machine learning in predicting and combating antimicrobial resistance](papers/EVIW-0E5613C62EC99AB5.md) · Comput Struct Biotechnol J
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [xBitterT5: an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides](papers/EVIW-AD4E50B8A34842BA.md) · Journal of Cheminformatics
+
+### 数据集/基准（138）
+
+- [3D molecular generative framework for interaction-guided drug design](papers/EVIW-7F3D00C76F88E2D5.md) · Nat Commun
+- [A deep learning method for drug-target affinity prediction based on sequence interaction information mining](papers/EVIW-643B1E1D6A4DC185.md) · PeerJ
+- [A general prediction model for compound-protein interactions based on deep learning](papers/EVIW-9800F11849B695A5.md) · Front Pharmacol
+- [A modular protein language modelling approach to immunogenicity prediction](papers/EVIW-8F8C157B31B1403C.md) · PLoS Comput Biol
+- [A new paradigm for applying deep learning to protein-ligand interaction prediction](papers/EVIW-5B1517D884AADDC2.md) · Brief Bioinform
+- [A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties](papers/BFW-1743CA1AF5D6.md) · PLoS Comput Biol
+- [A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations](papers/EVIW-354EEA5F3DCEF838.md) · PLoS Comput Biol
+- [A systematic study of key elements underlying molecular property prediction](papers/EVIW-29B3E60590367062.md) · Nat Commun
+- [Accurate Identification of Protein Binding Sites for All Drug Modalities Using ALLSites](papers/EVIW-77CFA975A5E481C9.md) · Adv Sci (Weinh)
+- [Accurate prediction of protein-ligand interactions by combining physical energy functions and graph-neural networks](papers/EVIW-450A2DC6B2948F9C.md) · J Cheminform
+- [Accurate prediction of toxicity peptide and its function using multi-view tensor learning and latent semantic learning framework](papers/EVIW-FE2C02759F001D51.md) · Bioinformatics
+- [Accurate TCR-pMHC interaction prediction using a BERT-based transfer learning method](papers/EVIW-7F3870CE001D8F3E.md) · Brief Bioinform
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [ALDELE: All-Purpose Deep Learning Toolkits for Predicting the Biocatalytic Activities of Enzymes](papers/EVIW-A62C4F1A4A241586.md) · J Chem Inf Model
+- [An electron-density point-cloud framework for robust protein-ligand interaction prediction](papers/EVIW-1F343CF1A0E42087.md) · Nat Commun
+- [An equivariant pretrained transformer for unified 3D molecular representation learning](papers/EVIW-F050E367127F0869.md) · Nat Commun
+- [An image-based protein-ligand binding representation learning framework via multi-level flexible dynamics trajectory pre-training](papers/EVIW-50596DE988BFF9EC.md) · Bioinformatics
+- [An integrative approach to protein sequence design through multiobjective optimization](papers/EVIW-6115205069F1A499.md) · PLoS Comput Biol
+- [An Interpretable Multi-Objective Machine Learning Framework for In Silico Prioritization of Anti-Staphylococcus aureus Antimicrobial Peptides](papers/EVIW-76378985A0FE2B41.md) · Diagnostics (Basel)
+- [AnnoPRO: a strategy for protein function annotation based on multi-scale protein representation and a hybrid deep learning of dual-path encoding](papers/EVIW-39BC77EC04B978FB.md) · Genome Biol
+- [Barlow Twins deep neural network for advanced 1D drug-target interaction prediction](papers/EVIW-1CE56F554CAB2790.md) · J Cheminform
+- [Benchmarking AlphaFold3's protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation](papers/EVIW-7B3BA40DB3C17D72.md) · arXiv preprint
+- [Benchmarking antibody clustering methods using sequence, structural, and machine learning similarity measures for antibody discovery applications](papers/EVIW-5F9BAB708FD00C26.md) · Front Mol Biosci
+- [Benchmarking antigen-aware inverse folding methods for antibody design](papers/EVIW-A1AD09D7AFFD0BA7.md) · bioRxiv preprint
+- [Benchmarking compound activity prediction for real-world drug discovery applications](papers/EVIW-27BCEE46559B0DFA.md) · Commun Chem
+- [Benchmarking inverse folding models for antibody CDR sequence design](papers/EVIW-AEAE9AA5539B2E45.md) · PLOS ONE
+- [Benchmarking protein language models for protein crystallization](papers/EVIW-6A9AC2519DB77CAC.md) · Scientific Reports
+- [Benchmarking residue-resolution protein coarse-grained models for simulations of biomolecular condensates](papers/EVIW-D5F88398E446356B.md) · PLoS Comput Biol
+- [Benchmarking uncertainty quantification for protein engineering](papers/EVIW-A2A30144D58B3F7F.md) · PLoS Comput Biol
+- [Bioactivity Deep Learning for Complex Structure-Free Compound-Protein Interaction Prediction](papers/EVIW-819EC6B4DDEB7DFB.md) · J Chem Inf Model
+- [Bridging Generative AI and Diffusion Models With Molecular Simulation to Design Anti-Quorum-Sensing De novo Peptides Targeting LasR of Pseudomonas aeruginosa](papers/EVIW-8B26B6C224750AD8.md) · Probiotics and Antimicrobial Proteins
+- [BroadAMP-GPT: AI-Driven generation of broad-spectrum antimicrobial peptides for combating multidrug-resistant ESKAPE pathogens](papers/EVIW-8BB7B9217975CD7C.md) · Gut Microbes
+- [ChatMol: interactive molecular discovery with natural language](papers/EVIW-EAE32CFD6D59B1E2.md) · Bioinformatics
+- [Chemical Language Model Linker: Blending Text and Molecules with Modular Adapters](papers/EVIW-2AB646F71CAFA9B7.md) · J Chem Inf Model
+- [ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization](papers/EVIW-E513F4FA4C3C0EAA.md) · Brief Bioinform
+- [CircSI-SSL: circRNA-binding site identification based on self-supervised learning](papers/EVIW-886EEFF6D7C82C08.md) · Bioinformatics
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [Comprehensive evaluation of artificial intelligence-empowered approaches for protein–aptamer complex prediction](papers/EVIW-EDB6C8BC2C49BED9.md) · Brief Bioinform
+- [Computational design of class II MHC binding peptide with sequence-based evolution information](papers/EVIW-C4FB45BC99A93073.md) · Bioinform Adv
+- [Cyclic peptide structure prediction and design using AlphaFold2](papers/EVIW-0E24408ABDFC740F.md) · Nature Communications
+- [DataDTA: a multi-feature and dual-interaction aggregation framework for drug–target binding affinity prediction](papers/EVIW-903FC9F7CF235FD5.md) · Bioinformatics
+- [DCGAT-DTI: dynamic cross-graph attention network for drug-target interaction prediction](papers/EVIW-8B742926549B15B5.md) · Bioinform Adv
+- [De Novo Drug Design Using Transformer-Based Machine Translation and Reinforcement Learning of an Adaptive Monte Carlo Tree Search](papers/EVIW-7490C110E2A6B2C6.md) · Pharmaceuticals (Basel)
+- [Deep learning in GPCR drug discovery: benchmarking the path to accurate peptide binding](papers/EVIW-7BBE077F641CF7F4.md) · Briefings in Bioinformatics
+- [Deep learning workflow for the inverse design of molecules with specific optoelectronic properties](papers/EVIW-B9DC20CAB83C85CC.md) · Sci Rep
+- [Deep-WET: a deep learning-based approach for predicting DNA-binding proteins using word embedding techniques with weighted features](papers/EVIW-861BACD5E9ADCB6E.md) · Sci Rep
+- [DeepBP: Ensemble deep learning strategy for bioactive peptide prediction](papers/EVIW-A418833AC819190B.md) · BMC Bioinformatics
+- [DeepDTAGen: a multitask deep learning framework for drug-target affinity prediction and target-aware drugs generation](papers/EVIW-6A06FBBBEE19026B.md) · Nature Communications
+- [DiffInt: A Diffusion Model for Structure-Based Drug Design with Explicit Hydrogen Bond Interaction Guidance](papers/EVIW-5955756A2B8C2AD9.md) · J Chem Inf Model
+- [DL-PPI: a method on prediction of sequenced protein-protein interaction based on deep learning](papers/EVIW-9630FF0B8DA024FE.md) · BMC Bioinformatics
+- [DLFea4AMPGen de novo design of antimicrobial peptides by integrating features learned from deep learning models](papers/EVIW-D14460AF0926DD13.md) · Nature Communications
+- [DTI-LM: language model powered drug-target interaction prediction](papers/EVIW-1DB0B140C115A6B4.md) · Bioinformatics
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [Electrostatics as a Guiding Principle in Understanding and Designing Enzymes](papers/EVIW-1CC386C8B1CCD478.md) · J Chem Theory Comput
+- [Embedding-based alignment: combining protein language models with dynamic programming alignment to detect structural similarities in the twilight-zone](papers/EVIW-D0EEC41ABCA877F9.md) · Bioinformatics
+- [Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS](papers/EVIW-9A5BE8BC839DD39C.md) · Commun Biol
+- [Enhanced antibody-antigen structure prediction from molecular docking using AlphaFold2](papers/EVIW-E8AD4BD2C00BDB32.md) · Sci Rep
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [EnzyACT: A Novel Deep Learning Method to Predict the Impacts of Single and Multiple Mutations on Enzyme Activity](papers/EVIW-6982BB5A6E50E4A1.md) · J Chem Inf Model
+- [Enzyme catalytic efficiency prediction: employing convolutional neural networks and XGBoost](papers/EVIW-66058B0B5CB7A9B5.md) · Front Artif Intell
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [Evaluating ligand docking methods for drugging protein-protein interfaces: insights from AlphaFold2 and molecular dynamics refinement](papers/EVIW-B0F5998042EF0F16.md) · Journal of Cheminformatics
+- [Feature selection enhances peptide binding predictions for TCR-specific interactions](papers/EVIW-C5253CE7914B46E5.md) · Front Immunol
+- [FLAb: Benchmarking deep learning methods for antibody fitness prediction](papers/EVIW-E73B8F33B74E7327.md) · bioRxiv preprint
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [From intuition to AI: evolution of small molecule representations in drug discovery](papers/EVIW-F7607A4022562C70.md) · Brief Bioinform
+- [GcForest-based compound-protein interaction prediction model and its application in discovering small-molecule drugs targeting CD47](papers/EVIW-542A9C690DEB7869.md) · Front Chem
+- [Generalizable compound protein interaction prediction with a model incorporating protein structure aware and compound property aware language model representations](papers/EVIW-CC8FC3C6F23DD3D6.md) · Commun Chem
+- [Generation of 3D molecules in pockets via a language model](papers/EVIW-61D2CB039D461481.md) · Nature Machine Intelligence
+- [Generation of Rational Drug-like Molecular Structures Through a Multiple-Objective Reinforcement Learning Framework](papers/EVIW-FDB996EADA52B63D.md) · Molecules
+- [Generative Multiobjective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design](papers/EVIW-8CC9E4F84F9247B1.md) · Ind Eng Chem Res
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [Geometric Deep Learning for Structure-Based Ligand Design](papers/EVIW-CE352CFECBC51F9B.md) · ACS Cent Sci
+- [Graph neural pre-training based drug-target affinity prediction](papers/EVIW-FA386874A4FFEF44.md) · Front Genet
+- [Graph-Aware AURALSTM: An Attentive Unified Representation Architecture with BiLSTM for Enhanced Molecular Property Prediction](papers/EVIW-11B7184B4CDCCEA9.md) · Mol Divers
+- [GTE-PPIS: a protein-protein interaction site predictor based on graph transformer and equivariant graph neural network](papers/EVIW-1FCF26C238C374F6.md) · Brief Bioinform
+- [Human-in-the-loop active learning for goal-oriented molecule generation](papers/EVIW-4EBEF1B1736214A1.md) · J Cheminform
+- [HyperPCM: Robust Task-Conditioned Modeling of Drug-Target Interactions](papers/EVIW-3792DEB4F3929498.md) · J Chem Inf Model
+- [iMFP-LG: Identify Novel Multi-functional Peptides Using Protein Language Models and Graph-based Deep Learning](papers/EVIW-8B7452D150DEFDA3.md) · Genomics Proteomics Bioinformatics
+- [Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data](papers/EVIW-FB7086C56CA1FC5B.md) · Nat Methods
+- [Improving protein-ligand complex generation with force field guidance](papers/EVIW-3FC672A3E4A616F4.md) · J Cheminform
+- [Integrated convolution and self-attention for improving peptide toxicity prediction](papers/EVIW-80816B41CDFB17A0.md) · Bioinformatics
+- [Integrating Transformers and Many-Objective Optimization for Cancer Drug Design](papers/EVIW-794300AEDE5FAFED.md) · Research Square preprint
+- [Machine learning-based approaches for ubiquitination site prediction in human proteins](papers/EVIW-F8E52A4CD4F0DEA9.md) · BMC Bioinformatics
+- [MAPLE: interpretable deep learning identifies selective antimicrobial peptides using joint evolutionary–physicochemical analysis](papers/EVIW-E44B76ADFCA574C0.md) · Brief Bioinform
+- [MIFAM-DTI: a drug-target interactions predicting model based on multi-source information fusion and attention mechanism](papers/EVIW-687A8F948317CEBB.md) · Front Genet
+- [MISATO: machine learning dataset of protein-ligand complexes for structure-based drug discovery](papers/EVIW-5313F99B646EE803.md) · Nat Comput Sci
+- [MOFormer: navigating the antimicrobial peptide design space with Pareto-based multi-objective transformer](papers/EVIW-DDA5A6DE373DB097.md) · Brief Bioinform
+- [Molecular embedding-based algorithm selection in protein-ligand docking](papers/EVIW-C523617C641D7770.md) · J Cheminform
+- [Molecular set representation learning](papers/EVIW-85D291B8690C6C29.md) · Nature Machine Intelligence
+- [MoleMCL: a multi-level contrastive learning framework for molecular pre-training](papers/EVIW-1E03BAE643FFD505.md) · Bioinformatics
+- [MolMVC: Enhancing molecular representations for drug-related tasks through multi-view contrastive learning](papers/EVIW-B4F99E0FCFBFDBDF.md) · Bioinformatics
+- [Multi-indicator comparative evaluation for deep learning-based protein sequence design methods](papers/EVIW-8DDAC377EF9B4668.md) · Bioinformatics
+- [Multi-modal features-based human-herpesvirus protein-protein interaction prediction by using LightGBM](papers/EVIW-E6C9A04E4627E40B.md) · Brief Bioinform
+- [Multi-task bioassay pre-training for protein-ligand binding affinity prediction](papers/EVIW-EC580540DF307D9E.md) · Brief Bioinform
+- [Multimodal pretraining for unsupervised protein representation learning](papers/EVIW-7CE21BAAD11F573D.md) · Biol Methods Protoc
+- [NeXtMD: a new generation of machine learning and deep learning stacked hybrid framework for accurate identification of anti-inflammatory peptides](papers/EVIW-FB7FD6B2AF942CF0.md) · BMC Biology
+- [Normalized Protein-Ligand Distance Likelihood Score for End-to-End Blind Docking and Virtual Screening](papers/EVIW-7C3C8ADEABA829E3.md) · J Chem Inf Model
+- [Novel antimicrobial peptides against Cutibacterium acnes designed by deep learning](papers/EVIW-8C5FAD76AB2C6BBD.md) · Sci Rep
+- [PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking](papers/EVIW-041FA648F6D77FF2.md) · bioRxiv preprint
+- [PED: a novel predictor-encoder-decoder model for Alzheimer drug molecular generation](papers/EVIW-5F546E2D7FA21560.md) · Front Artif Intell
+- [PepINVENT: generative peptide design beyond natural amino acids](papers/EVIW-3E36560C8B5CDCDB.md) · Chem Sci
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PLiSAGE: enhancing protein-ligand interaction prediction with multimodal surface and geometry encoding](papers/EVIW-7B3BB7FC1C77330C.md) · Bioinformatics
+- [Pocket Crafter: a 3D generative modeling based workflow for the rapid generation of hit molecules in drug discovery](papers/EVIW-36A749A84CFDA403.md) · Journal of Cheminformatics
+- [PPI-Graphomer: enhanced protein-protein affinity prediction using pretrained and graph transformer models](papers/EVIW-D5826B6BE45CEB6A.md) · BMC Bioinformatics
+- [PractiCPP: a deep learning approach tailored for extremely imbalanced datasets in cell-penetrating peptide prediction](papers/EVIW-BCFBFEF388C36C02.md) · Bioinformatics
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation](papers/EVIW-CFF211E7FC7B9340.md) · Sci Rep
+- [Preferential CDR masking in paired antibody language models improves binding affinity prediction](papers/EVIW-0BE96BB606351927.md) · Communications AI & Computing
+- [ProT-GFDM: A generative fractional diffusion model for protein generation](papers/EVIW-1AEFB724D39999C4.md) · Computational and Structural Biotechnology Journal
+- [Protein embeddings predict binding residues in disordered regions](papers/EVIW-A8926FF4DD7A845A.md) · Sci Rep
+- [Protein language model embeddings improve HIV drug resistance prediction: a comprehensive benchmark with attention-based interpretability](papers/EVIW-2298CD3BA71BF0DF.md) · Bioinformatics
+- [Protein stability prediction by fine-tuning a protein language model on a mega-scale dataset](papers/EVIW-81ABABCCA0141DCD.md) · PLoS Comput Biol
+- [Protein-ligand binding affinity prediction using multi-instance learning with docking structures](papers/EVIW-5C0DA702F696CD1D.md) · Front Pharmacol
+- [ProteinDJ: A high-performance and modular protein design pipeline](papers/BFW-18482A721FC0.md) · Protein Sci
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [Quantum-classical hybrid learning framework for molecular property prediction and molecule optimization in drug discovery](papers/EVIW-4F0906652A78868E.md) · Journal of Computer-Aided Molecular Design
+- [Rethinking peptide developability with sequence-only models: interpretable screening of microplastic-binding peptides with gated query pooling](papers/EVIW-99840038E21BBF77.md) · Chem Sci
+- [RNA-EFM: energy-based flow matching for protein-conditioned RNA sequence-structure co-design](papers/EVIW-F532E27CA97BDB0E.md) · Bioinform Adv
+- [Sensitive remote homology search by local alignment of small positional embeddings from protein language models](papers/EVIW-FE09597837C23FBA.md) · eLife
+- [SOFB is a comprehensive ensemble deep learning approach for elucidating and characterizing protein-nucleic-acid-binding residues](papers/EVIW-9923DFE22B48744F.md) · Commun Biol
+- [Structure prediction of protein-ligand complexes from sequence information with Umol](papers/EVIW-9BE8411A125E7FEF.md) · bioRxiv preprint
+- [SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction](papers/EVIW-EC9637C020BEE703.md) · bioRxiv preprint
+- [SwissDock 2024: major enhancements for small-molecule docking with Attracting Cavities and AutoDock Vina](papers/EVIW-8C95A970087008AA.md) · Nucleic Acids Res
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [Token-Mol 1.0: tokenized drug design with large language models](papers/EVIW-A49F35F3F1F4BB7E.md) · Nature Communications
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [ULDNA: integrating unsupervised multi-source language models with LSTM-attention network for high-accuracy protein-DNA binding site prediction](papers/EVIW-2AD4C34E7E631F20.md) · Brief Bioinform
+- [Using protein language models for protein interaction hot spot prediction with limited data](papers/EVIW-67FB689C91FAADD9.md) · BMC Bioinformatics
+- [Utility of the Morgan Fingerprint in Structure-Based Virtual Ligand Screening](papers/EVIW-184C215C5D4F8AB2.md) · J Phys Chem B
+- [VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design](papers/EVIW-817614F6D85CF180.md) · J Chem Inf Model
+- [VGAE-MCTS: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search](papers/EVIW-E055FF023C0B29CB.md) · J Chem Inf Model
+- [VISH-Pred: an ensemble of fine-tuned ESM models for protein toxicity prediction](papers/EVIW-A2E8C5BC0F97026E.md) · Brief Bioinform
+- [When Protein Structure Embedding Meets Large Language Models](papers/EVIW-3C9A3952CB15CE69.md) · Genes (Basel)
+- [xBitterT5: an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides](papers/EVIW-AD4E50B8A34842BA.md) · Journal of Cheminformatics
+- [xCAPT5: protein-protein interaction prediction using deep and wide multi-kernel pooling convolutional neural networks with protein language model](papers/EVIW-548BA32503295D77.md) · BMC Bioinformatics
+
+### 可迁移方法（121）
+
+- [A deep generative model for deciphering cellular dynamics and in silico drug discovery in complex diseases](papers/EVIW-3570B6317B9288B7.md) · Nat Biomed Eng
+- [A deep learning framework for comprehensive prediction of human RNA G-quadruplex-binding proteins](papers/EVIW-299B7FE985681753.md) · Bioinformatics
+- [A generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture](papers/EVIW-06EDA5AA4592091B.md) · Commun Chem
+- [A hybrid machine learning framework for functional annotation of mitochondrial glutathione transport and metabolism proteins in cancers](papers/EVIW-73E140E69C8EA6E1.md) · BMC Bioinformatics
+- [A Machine Learning Model for the Proteome-Wide Prediction of Lipid-Interacting Proteins](papers/EVIW-B69B7E2E38FB74D8.md) · J Chem Inf Model
+- [A Novel Weighted Ensemble Framework of Transformer and Deep Q-Network for ATP-Binding Site Prediction Using Protein Language Model Features](papers/EVIW-7410B1EBC89754BE.md) · Int J Mol Sci
+- [A pre-trained language model-based cross-modal fusion framework for predicting miRNA-drug resistance and sensitivity associations](papers/EVIW-354EEA5F3DCEF838.md) · PLoS Comput Biol
+- [A systematic study of key elements underlying molecular property prediction](papers/EVIW-29B3E60590367062.md) · Nat Commun
+- [Accurate prediction of protein function using statistics-informed graph networks](papers/EVIW-E1EEDE0F1E36CDEC.md) · Nat Commun
+- [Accurate prediction of protein–ATP binding sites based on a protein pretrained large language model and a fractional-order convolutional neural network](papers/EVIW-B5871C7812C20042.md) · Scientific Reports
+- [Accurate Predictions of Molecular Properties of Proteins via Graph Neural Networks and Transfer Learning](papers/EVIW-0B512807A6577C16.md) · Journal of Chemical Theory and Computation
+- [Advancing generative large language models toward discriminative performance in protein function prediction](papers/EVIW-3352EAE93C4D75CD.md) · Genome Biol
+- [An equivariant pretrained transformer for unified 3D molecular representation learning](papers/EVIW-F050E367127F0869.md) · Nat Commun
+- [AnnoPRO: a strategy for protein function annotation based on multi-scale protein representation and a hybrid deep learning of dual-path encoding](papers/EVIW-39BC77EC04B978FB.md) · Genome Biol
+- [Artificial Intelligence and Machine Learning Methods to Evaluate Cardiotoxicity following the Adverse Outcome Pathway Frameworks](papers/EVIW-96F3681D49343478.md) · Toxics
+- [Assessing protein model quality based on deep graph coupled networks using protein language model](papers/EVIW-4C2016E65967FD05.md) · Brief Bioinform
+- [Benchmarking antibody clustering methods using sequence, structural, and machine learning similarity measures for antibody discovery applications](papers/EVIW-5F9BAB708FD00C26.md) · Front Mol Biosci
+- [Benchmarking protein language models for protein crystallization](papers/EVIW-6A9AC2519DB77CAC.md) · Scientific Reports
+- [Benchmarking residue-resolution protein coarse-grained models for simulations of biomolecular condensates](papers/EVIW-D5F88398E446356B.md) · PLoS Comput Biol
+- [Benchmarking uncertainty quantification for protein engineering](papers/EVIW-A2A30144D58B3F7F.md) · PLoS Comput Biol
+- [Bidirectional generation of structure and properties through a single molecular foundation model](papers/EVIW-8D53A06B9A414D98.md) · Nature Communications
+- [Bilingual language model for protein sequence and structure](papers/EVIW-50CC17ACB2AEA40C.md) · NAR Genom Bioinform
+- [caRBP-Pred: Leveraging Protein Language Models for the Prediction of Chromatin-Associated RNA-Binding Proteins](papers/EVIW-9AD6C1CBFC8016E4.md) · Comput Struct Biotechnol J
+- [CBIL-VHPLI: a model for predicting viral-host protein-lncRNA interactions based on machine learning and transfer learning](papers/EVIW-1D565539F2B2367E.md) · Scientific Reports
+- [Chemical Language Model Linker: Blending Text and Molecules with Modular Adapters](papers/EVIW-2AB646F71CAFA9B7.md) · J Chem Inf Model
+- [Chlamy_ChloroPred: a deep learning-based, highly accurate binary classifier for chloroplast protein prediction in the model microalga, Chlamydomonas reinhardtii, with ...](papers/EVIW-9F9526DFCB88A280.md) · Front Microbiol
+- [CircSI-SSL: circRNA-binding site identification based on self-supervised learning](papers/EVIW-886EEFF6D7C82C08.md) · Bioinformatics
+- [Coevolution-Driven Method for Efficiently Simulating Conformational Changes in Proteins Reveals Molecular Details of Ligand Effects in the β2AR Receptor](papers/EVIW-1DB085E75A381A2B.md) · J Phys Chem B
+- [Comprehensive evaluation of artificial intelligence-empowered approaches for protein–aptamer complex prediction](papers/EVIW-EDB6C8BC2C49BED9.md) · Brief Bioinform
+- [Deep-STP: a deep learning-based approach to predict snake toxin proteins by using word embeddings](papers/EVIW-DECE7E720EE17251.md) · Front Med (Lausanne)
+- [Deep-WET: a deep learning-based approach for predicting DNA-binding proteins using word embedding techniques with weighted features](papers/EVIW-861BACD5E9ADCB6E.md) · Sci Rep
+- [Deep‐GB: A novel deep learning model for globular protein prediction using CNN‐BiLSTM architecture and enhanced PSSM with trisection strategy](papers/EVIW-05BF4DAB9253F9CE.md) · IET Syst Biol
+- [Direct prediction of antimicrobial resistance in Pseudomonas aeruginosa by metagenomic next-generation sequencing](papers/EVIW-51CED1BE34996B4E.md) · Front Microbiol
+- [DisoFLAG: accurate prediction of protein intrinsic disorder and its functions using graph-based interaction protein language model](papers/EVIW-50EC4D98F422F622.md) · BMC Biol
+- [E(3) equivariant graph neural networks for robust and accurate protein-protein interaction site prediction](papers/EVIW-B8BCB4B14D4A9325.md) · PLoS Comput Biol
+- [Electrostatics as a Guiding Principle in Understanding and Designing Enzymes](papers/EVIW-1CC386C8B1CCD478.md) · J Chem Theory Comput
+- [Embedding-based alignment: combining protein language models with dynamic programming alignment to detect structural similarities in the twilight-zone](papers/EVIW-D0EEC41ABCA877F9.md) · Bioinformatics
+- [Emerging opportunities of using large language models for translation between drug molecules and indications](papers/EVIW-320290EBA410B89A.md) · Sci Rep
+- [Enhancing cross-context generalization in drug perturbation prediction with a multimodal conditional diffusion framework](papers/EVIW-22F27BE7269D0426.md) · Bioinformatics
+- [Enhancing missense variant pathogenicity prediction with protein language models using VariPred](papers/EVIW-D719F0DEC8B7742D.md) · Sci Rep
+- [EnrichRBP: an automated and interpretable computational platform for predicting and analysing RNA-binding protein events](papers/EVIW-68353EB129CB967B.md) · Bioinformatics
+- [EPIC-TRACE: predicting TCR binding to unseen epitopes using attention and contextualized embeddings](papers/EVIW-B49F02FF5A100753.md) · Bioinformatics
+- [Equivariant score-based generative diffusion framework for 3D molecules](papers/EVIW-8B626510C8E7C600.md) · BMC Bioinformatics
+- [Evaluating GPT and BERT models for protein-protein interaction identification in biomedical text](papers/EVIW-1577F80E9EA4E4A8.md) · Bioinform Adv
+- [FuncFetch: an LLM-assisted workflow enables mining thousands of enzyme-substrate interactions from published manuscripts](papers/EVIW-AFC06331D986E6B0.md) · Bioinformatics
+- [GATSol, an enhanced predictor of protein solubility through the synergy of 3D structure graph and large language modeling](papers/EVIW-A6F6E39304F1E6FD.md) · BMC Bioinformatics
+- [Generative and predictive neural networks for the design of functional RNA molecules](papers/EVIW-6D3ECDD8A64E1E32.md) · Nature Communications
+- [GPSFun: geometry-aware protein sequence function predictions with language models](papers/EVIW-19ED48AF3238BE4A.md) · Nucleic Acids Res
+- [Highly accurate carbohydrate-binding site prediction with DeepGlycanSite](papers/EVIW-EC3B521734D2CD73.md) · Nat Commun
+- [Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework](papers/EVIW-3ECB78AEE0E7C23D.md) · Brief Bioinform
+- [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](papers/EVIW-571E77FA9E72F955.md) · bioRxiv preprint
+- [Identification of plant vacuole proteins by using graph neural network and contact maps](papers/EVIW-F784C77038E0FCCF.md) · BMC Bioinformatics
+- [IDP-LM: Prediction of protein intrinsic disorder and disorder functions based on language models](papers/EVIW-2DE697E431AB06B3.md) · PLoS Comput Biol
+- [ifDEEPre: large protein language-based deep learning enables interpretable and fast predictions of enzyme commission numbers](papers/EVIW-79348126FDC75CF4.md) · Brief Bioinform
+- [Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data](papers/EVIW-FB7086C56CA1FC5B.md) · Nat Methods
+- [In vivo screening for toxicity-modulating drug interactions identifies antagonism that protects against ototoxicity in zebrafish](papers/EVIW-FC6DB7E36A3F815A.md) · Front Pharmacol
+- [InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments](papers/EVIW-E410089C4FA4C69C.md) · Nature Machine Intelligence
+- [Integrating Pharmacogenomics and Network Topology for Machine Learning Prediction of HLA-Associated Severe Cutaneous Adverse Drug Reactions](papers/EVIW-22277B55965967F9.md) · Int J Mol Sci
+- [Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions](papers/EVIW-B8221048D3E0EDF2.md) · Nat Commun
+- [JASPAR 2026: expansion of transcription factor binding profiles and integration of deep learning models](papers/EVIW-E4994E0304561D88.md) · Nucleic Acids Res
+- [Large Language Model Agent for Modular Task Execution in Drug Discovery](papers/EVIW-746AC8110B53CD45.md) · J Chem Inf Model
+- [Lessons from Deep Learning Structural Prediction of Multistate Multidomain Proteins—The Case Study of Coiled-Coil NOD-like Receptors](papers/EVIW-362466EDAD859B72.md) · Int J Mol Sci
+- [LigandDiff: de Novo Ligand Design for 3D Transition Metal Complexes with Diffusion Models](papers/EVIW-8F58F11A4939A0DF.md) · J Chem Theory Comput
+- [LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding](papers/EVIW-02F2CAC014E9FB65.md) · Noncoding RNA Res
+- [Machine learning coarse-grained potentials of protein thermodynamics](papers/EVIW-1CF3E7A2D828542E.md) · Nat Commun
+- [Machine learning predictor PSPire screens for phase-separating proteins lacking intrinsically disordered regions](papers/EVIW-7D646DB8FA15FE2B.md) · Nat Commun
+- [Machine learning-based approaches for ubiquitination site prediction in human proteins](papers/EVIW-F8E52A4CD4F0DEA9.md) · BMC Bioinformatics
+- [Mining and Validation of Novel Umami Peptides in Non-Alcoholic Beer by Integrating Machine Learning Prediction, Molecular Docking, and Sensory Validation, and Their Mult...](papers/EVIW-0C19992621209D05.md) · Foods
+- [Molecular co-assembled strategy tuning protein conformation for cartilage regeneration](papers/EVIW-9926183132EFD640.md) · Nat Commun
+- [Molecular set representation learning](papers/EVIW-85D291B8690C6C29.md) · Nature Machine Intelligence
+- [Molecular-level protein semantic learning via structure-aware coarse-grained language modeling](papers/EVIW-01A2549BFA96DEBC.md) · Bioinformatics
+- [MoleculeFormer is a GCN-transformer architecture for molecular property prediction](papers/EVIW-4FE02D4F53E14E17.md) · Communications Biology
+- [MoleMCL: a multi-level contrastive learning framework for molecular pre-training](papers/EVIW-1E03BAE643FFD505.md) · Bioinformatics
+- [MolMVC: Enhancing molecular representations for drug-related tasks through multi-view contrastive learning](papers/EVIW-B4F99E0FCFBFDBDF.md) · Bioinformatics
+- [MSAT: a FAERS-informed heterogeneous graph neural network for pharmacovigilance prediction of Chinese materia medica–associated adverse drug reactions](papers/EVIW-6EDE5E961DBE531E.md) · Front Pharmacol
+- [MULAN: multimodal protein language model for sequence and structure encoding](papers/EVIW-723AD18D0B910730.md) · Bioinform Adv
+- [Multi-feature enhanced protein language models for accurate protein-RNA binding residue prediction](papers/EVIW-C0E4B8B295CD0E78.md) · Discover Artificial Intelligence
+- [Multi-View Biomedical Foundation Models for Molecule-Target and Property Prediction](papers/EVIW-30CB21D1BF9FB596.md) · Adv Sci (Weinh)
+- [Multimodal learning in clinical proteomics: enhancing antimicrobial resistance prediction models with chemical information](papers/EVIW-817D5BB12EEE1B9E.md) · Bioinformatics
+- [Multimodal pretraining for unsupervised protein representation learning](papers/EVIW-7CE21BAAD11F573D.md) · Biol Methods Protoc
+- [Mutual annotation-based prediction of protein domain functions with Domain2GO](papers/EVIW-59363E818003F4AF.md) · Protein Sci
+- [MVRBind: multi-view learning for RNA-small molecule binding site prediction](papers/EVIW-1C4F432A13C3AD34.md) · Brief Bioinform
+- [PatchProt: hydrophobic patch prediction using protein foundation models](papers/EVIW-489DE22C3AA92EB0.md) · Bioinform Adv
+- [PepCNN deep learning tool for predicting peptide binding residues in proteins using sequence, structural, and language model features](papers/EVIW-932468299F5C923F.md) · Sci Rep
+- [PHIStruct: improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings](papers/EVIW-FE0F8AB0DCCFA28D.md) · Bioinformatics
+- [PhosBoost: Improved phosphorylation prediction recall using gradient boosting and protein language models](papers/EVIW-6144C586F0C7E057.md) · Plant Direct
+- [POOE: predicting oomycete effectors based on a pre-trained large protein language model](papers/EVIW-426A1A532D5D26FF.md) · mSystems
+- [Post-processing enhances protein secondary structure prediction with second order deep learning and embeddings](papers/EVIW-974DF7FD702DC54E.md) · Comput Struct Biotechnol J
+- [Precise Generation of Conformational Ensembles for Intrinsically Disordered Proteins via Fine-tuned Diffusion Models](papers/EVIW-5CE9DC528115448C.md) · bioRxiv preprint
+- [Predicting drug‐perturbed transcriptional responses using multi‐conditional diffusion transformer](papers/EVIW-E395FE01ADC316B7.md) · Quant Biol
+- [Prediction of antibiotic resistance mechanisms using a protein language model](papers/EVIW-DF4F66AEE5CA4D6A.md) · Bioinformatics
+- [Prediction of liquid–liquid phase separation proteins based on protein language model](papers/EVIW-5C0E1B3C27B595A5.md) · Brief Bioinform
+- [Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation](papers/EVIW-CFF211E7FC7B9340.md) · Sci Rep
+- [Protein intrinsically disordered region prediction by combining neural architecture search and multi-objective genetic algorithm](papers/EVIW-971C1D1183A6FAC4.md) · BMC Biol
+- [Protein language model embeddings improve HIV drug resistance prediction: a comprehensive benchmark with attention-based interpretability](papers/EVIW-2298CD3BA71BF0DF.md) · Bioinformatics
+- [Protein language models can capture protein quaternary state](papers/EVIW-367AD9D40B92C56F.md) · BMC Bioinformatics
+- [Protein language models meet reduced amino acid alphabets](papers/EVIW-6C82FA785A104FF8.md) · Bioinformatics
+- [Protein language models uncover carbohydrate-active enzyme function in metagenomics](papers/EVIW-CD412B405D36CFCA.md) · BMC Bioinformatics
+- [Protein remote homology detection and structural alignment using deep learning](papers/EVIW-5E8F2B723F9545BB.md) · Nat Biotechnol
+- [Protein Set Transformer: A protein-based genome language model to power high diversity viromics](papers/EVIW-90178F1EA972262A.md) · bioRxiv preprint
+- [ProteomeLM: A proteome-scale language model enables accurate and rapid prediction of protein–protein interactions and gene essentiality across taxa](papers/EVIW-32FD7D3722148CE1.md) · Proc Natl Acad Sci U S A
+- [Quantum-classical hybrid learning framework for molecular property prediction and molecule optimization in drug discovery](papers/EVIW-4F0906652A78868E.md) · Journal of Computer-Aided Molecular Design
+- [RNA-EFM: energy-based flow matching for protein-conditioned RNA sequence-structure co-design](papers/EVIW-F532E27CA97BDB0E.md) · Bioinform Adv
+- [ROSes-FINDER: a multi-task deep learning framework for accurate prediction of microorganism reactive oxygen species scavenging enzymes](papers/EVIW-F0B134F58B588610.md) · Front Microbiol
+- [S-PLM: Structure-Aware Protein Language Model via Contrastive Learning Between Sequence and Structure](papers/EVIW-593480AEBAE04B3E.md) · Adv Sci (Weinh)
+- [Sensitive remote homology search by local alignment of small positional embeddings from protein language models](papers/EVIW-FE09597837C23FBA.md) · eLife
+- [Seq2Phase: language model-based accurate prediction of client proteins in liquid-liquid phase separation](papers/EVIW-EFC798AC8E4439DA.md) · Bioinform Adv
+- [SPOT: A machine learning model that predicts specific substrates for transport proteins](papers/EVIW-A6E7B6A382EF56C8.md) · PLoS Biol
+- [Structure prediction of alternative protein conformations](papers/EVIW-2A54D144D5FCB54F.md) · Nat Commun
+- [Structure-based prediction of nucleic acid binding residues by merging deep learning- and template-based approaches](papers/EVIW-4E557E8CF39F8A46.md) · PLoS Comput Biol
+- [SumoPred-PLM: human SUMOylation and SUMO2/3 sites Prediction using Pre-trained Protein Language Model](papers/EVIW-342371DAB3074A41.md) · NAR Genom Bioinform
+- [TargetCLP: clathrin proteins prediction combining transformed and evolutionary scale modeling-based multi-view features via weighted feature integration approach](papers/EVIW-404C5BACD2E2FE9A.md) · Brief Bioinform
+- [TransBind allows precise detection of DNA-binding proteins and residues using language models and deep learning](papers/EVIW-457E2FBD9F52B0DD.md) · Communications Biology
+- [TransFactor—prediction of pro-viral SARS-CoV-2 host factors using a protein language model](papers/EVIW-204A215535DA2931.md) · Bioinformatics
+- [Transferable deep generative modeling of intrinsically disordered protein conformations](papers/EVIW-C2860AB1F974666A.md) · PLoS Comput Biol
+- [Transformers enable accurate prediction of acute and chronic chemical toxicity in aquatic organisms](papers/EVIW-A744CE81A2103EEC.md) · Sci Adv
+- [Unraveling druggable cancer-driving proteins and targeted drugs using artificial intelligence and multi-omics analyses](papers/EVIW-E7967B111A41F5EB.md) · Scientific Reports
+- [Unveiling Switching Function of Amino Acids in Proteins Using a Machine Learning Approach](papers/EVIW-6E7A213DBFD9F077.md) · J Chem Theory Comput
+- [Using deep learning and large protein language models to predict protein-membrane interfaces of peripheral membrane proteins](papers/EVIW-90130005AA3C23BF.md) · Bioinform Adv
+- [VirusHound-I: prediction of viral proteins involved in the evasion of host adaptive immune response using the random forest algorithm and generative adversarial network](papers/EVIW-DC23DC882167B02D.md) · Brief Bioinform
+- [VISH-Pred: an ensemble of fine-tuned ESM models for protein toxicity prediction](papers/EVIW-A2E8C5BC0F97026E.md) · Brief Bioinform
+
+### 蛋白-配体（104）
+
+- [A Comparative Study of Deep Learning and Classical Modeling Approaches for Protein–Ligand Binding Pose and Affinity Prediction in Coronavirus Main Proteases](papers/EVIW-C32EB93F00BC417D.md) · J Chem Inf Model
+- [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](papers/EVIW-87C7E30CF2A5F5BF.md) · bioRxiv preprint
+- [A dual-branch graph neural network architecture for drug-target binding affinity prediction](papers/EVIW-2BF3EC6B2F092890.md) · Scientific Reports
+- [A Folding-Docking-Affinity framework for protein-ligand binding affinity prediction](papers/EVIW-B2B46F1438C6AEE1.md) · Communications Chemistry
+- [A Molecular-Protein Fusion Framework for Rapid Virtual Screening: Accelerating Lead Discovery for 'Undruggable' Oncogenic Targets](papers/EVIW-DB4950B4D4A2E3D1.md) · Pharmaceuticals (Basel)
+- [A multi-grained symmetric differential equation model for learning protein-ligand binding dynamics](papers/EVIW-68E7B63A25D649D3.md) · Nat Commun
+- [A Multi-Task Self-Supervised Strategy for Predicting Molecular Properties and FGFR1 Inhibitors](papers/EVIW-0AE3B8186F6B90E7.md) · Adv Sci (Weinh)
+- [A New Insight into the Study of Neural Cell Adhesion Molecule (NCAM) Polysialylation Inhibition Incorporated the Molecular Docking Models into the NMR Spectroscopy of a ...](papers/EVIW-0CC8ADDA45100879.md) · Biomolecules
+- [A new paradigm for applying deep learning to protein-ligand interaction prediction](papers/EVIW-5B1517D884AADDC2.md) · Brief Bioinform
+- [A Point Cloud Graph Neural Network for Protein–Ligand Binding Site Prediction](papers/EVIW-58C55EE07E03C38A.md) · Int J Mol Sci
+- [A rationally designed 18-amino acid peptide with potential as GLP-1 receptor agonist](papers/EVIW-A7375920FC934F72.md) · Front Pharmacol
+- [Accurate prediction of protein-ligand interactions by combining physical energy functions and graph-neural networks](papers/EVIW-450A2DC6B2948F9C.md) · J Cheminform
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [AlphaFold Meets De Novo Drug Design: Leveraging Structural Protein Information in Multitarget Molecular Generative Models](papers/EVIW-820A87609D2AD16D.md) · J Chem Inf Model
+- [An electron-density point-cloud framework for robust protein-ligand interaction prediction](papers/EVIW-1F343CF1A0E42087.md) · Nat Commun
+- [An image-based protein-ligand binding representation learning framework via multi-level flexible dynamics trajectory pre-training](papers/EVIW-50596DE988BFF9EC.md) · Bioinformatics
+- [An in silico molecular docking and simulation study to identify potential anticancer phytochemicals targeting the RAS signaling pathway](papers/EVIW-65FBCECA5A9FF37D.md) · PLoS One
+- [Artificial Intelligence-Powered Molecular Docking and Steered Molecular Dynamics for Accurate scFv Selection of Anti-CD30 Chimeric Antigen Receptors](papers/EVIW-EE66E8C995061077.md) · Int J Mol Sci
+- [Assessing the potential of deep learning for protein-ligand docking](papers/EVIW-BC698A734AE51681.md) · Nat Mach Intell
+- [Atomic context-conditioned protein sequence design using LigandMPNN](papers/EVIW-000C4D50B88BA07A.md) · Nat Methods
+- [AttABseq: an attention-based deep learning prediction method for antigen–antibody binding affinity changes based on protein sequences](papers/EVIW-8AA96DCC4EAD6598.md) · Brief Bioinform
+- [BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists](papers/EVIW-DCAF3329DD185313.md) · Comput Struct Biotechnol J
+- [ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation](papers/EVIW-56812DE3792757B2.md) · Journal of Chemical Information and Modeling
+- [Coevolution-Driven Method for Efficiently Simulating Conformational Changes in Proteins Reveals Molecular Details of Ligand Effects in the β2AR Receptor](papers/EVIW-1DB085E75A381A2B.md) · J Phys Chem B
+- [Comparative evaluation of methods for the prediction of protein-ligand binding sites](papers/EVIW-D85A58477929E230.md) · J Cheminform
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [Computational discovery of SARS-CoV-2 viral entry inhibitory peptides from Androctonus mauretanicus scorpion venom: molecular docking and molecular dynamics simulations](papers/EVIW-6F777AE24892782F.md) · Front Bioinform
+- [DataDTA: a multi-feature and dual-interaction aggregation framework for drug–target binding affinity prediction](papers/EVIW-903FC9F7CF235FD5.md) · Bioinformatics
+- [DDAffinity: predicting the changes in binding affinity of multiple point mutations using protein 3D structure](papers/EVIW-B067DEF24DEA2110.md) · Bioinformatics
+- [De Novo Drug Design Using Transformer-Based Machine Translation and Reinforcement Learning of an Adaptive Monte Carlo Tree Search](papers/EVIW-7490C110E2A6B2C6.md) · Pharmaceuticals (Basel)
+- [Deep learning driven de novo drug design based on gastric proton pump structures](papers/EVIW-1280AD74B138884E.md) · Commun Biol
+- [Docking in the Dark: Insights into Protein-Protein and Protein-Ligand Blind Docking](papers/EVIW-AEE5912A09AF2567.md) · Pharmaceuticals (Basel)
+- [Drug-target binding affinity prediction based on power graph and word2vec](papers/EVIW-677763E479C296BE.md) · BMC Med Genomics
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [EasyDock 1.3: An Automated Pipeline for Molecular Docking](papers/EVIW-761F8F85742C0BFA.md) · J Chem Inf Model
+- [Enhanced antibody-antigen structure prediction from molecular docking using AlphaFold2](papers/EVIW-E8AD4BD2C00BDB32.md) · Sci Rep
+- [Enhancing G‐Quadruplex Binding: Rational Design and Biophysical Evaluation of Dimeric Ligands](papers/EVIW-6AD4B85696657A70.md) · Chemistry
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [Evaluating ligand docking methods for drugging protein-protein interfaces: insights from AlphaFold2 and molecular dynamics refinement](papers/EVIW-B0F5998042EF0F16.md) · Journal of Cheminformatics
+- [Exploring pocket-aware inhibitors of BTK kinase by generative deep learning, molecular docking, and molecular dynamics simulations](papers/EVIW-C79585753A328E55.md) · RSC Adv
+- [Extracellular Peptide-Ligand Dimerization Actuator Receptor Design for Reversible and Spatially Dosed 3D Cell-Material Communication](papers/EVIW-2E395C4AB7FEEF22.md) · ACS Synth Biol
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [FLOWR.ROOT – A flow matching-based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](papers/EVIW-3AE9D036AE8EC1CB.md) · Nat Commun
+- [FLOWR: flow matching for structure-aware de novo, interaction- and fragment-based ligand generation](papers/EVIW-F360206DF136306B.md) · Nat Comput Sci
+- [From Latent Manifolds to Targeted Molecular Probes: An Interpretable, Kinome-Scale Generative Machine Learning Framework for Family-Based Kinase Ligand Design](papers/EVIW-B2066AB438F67363.md) · Biomolecules
+- [G Protein-Coupled Receptor-Ligand Pose and Functional Class Prediction](papers/EVIW-3CDA35EC397C9E5E.md) · Int J Mol Sci
+- [Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model](papers/EVIW-4CF80ABA93015978.md) · J Cheminform
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [Geometric Deep Learning for Structure-Based Ligand Design](papers/EVIW-CE352CFECBC51F9B.md) · ACS Cent Sci
+- [High-resolution cryo-EM of the human CDK-activating kinase for structure-based drug design](papers/EVIW-A6BD2E37B70E9799.md) · Nat Commun
+- [Hybrid Dual-Context Prompted Cross-Attention Framework with Language Model Guidance for Multi-Label Prediction of Human Off-Target Ligand-Protein Interactions](papers/EVIW-B72BFE30F8217623.md) · Int J Mol Sci
+- [Hybrid protein-ligand binding residue prediction with protein language models: does the structure matter?](papers/EVIW-EA13F1D6FE41297E.md) · Bioinformatics
+- [Identification of Novel Extracellular-Signal-Regulated Kinase 2 Inhibitors Through Machine Learning-Driven De Novo Design, Molecular Docking, and Free-Energy Perturbation](papers/EVIW-7C59FBCE9E2F9366.md) · Pharmaceuticals (Basel)
+- [Identification of Potent Acetylcholinesterase Inhibitors as New Candidates for Alzheimer Disease via Virtual Screening, Molecular Docking, Dynamic Simulation, and Molecular Mechanics–Poisson–Boltzmann Surface Area Calculations](papers/EVIW-9F227EF489FEA803.md) · Molecules
+- [Identifying the natural products in the treatment of atherosclerosis by increasing HDL-C level based on bioinformatics analysis, molecular docking, and in vitro experiment](papers/EVIW-716ED39BC8A83E83.md) · J Transl Med
+- [IEV2Mol: Molecular Generative Model Considering Protein-Ligand Interaction Energy Vectors](papers/EVIW-03ED7DB23F4F78B7.md) · J Chem Inf Model
+- [Improving protein-ligand complex generation with force field guidance](papers/EVIW-3FC672A3E4A616F4.md) · J Cheminform
+- [In silico screening of protein-binding peptides with an application to developing peptide inhibitors against antibiotic resistance](papers/EVIW-CFF2D809F391FE3C.md) · PNAS Nexus
+- [Integrating computational methods guided the discovery of phytochemicals as potential Pin1 inhibitors for cancer: pharmacophore modeling, molecular docking, MM-GBSA calculations and molecular dynamics studies](papers/EVIW-E3AE76E68A51977E.md) · Front Chem
+- [Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions](papers/EVIW-B8221048D3E0EDF2.md) · Nat Commun
+- [KcsA-Kv1.x chimeras with complete ligand-binding sites provide improved predictivity for screening selective Kv1.x blockers](papers/EVIW-6421E43AB83FF29B.md) · J Biol Chem
+- [Lessons from Deep Learning Structural Prediction of Multistate Multidomain Proteins—The Case Study of Coiled-Coil NOD-like Receptors](papers/EVIW-362466EDAD859B72.md) · Int J Mol Sci
+- [LigandDiff: de Novo Ligand Design for 3D Transition Metal Complexes with Diffusion Models](papers/EVIW-8F58F11A4939A0DF.md) · J Chem Theory Comput
+- [M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structures](papers/EVIW-9B46DF810E666BD8.md) · BMC Bioinformatics
+- [Machine learning application to predict binding affinity between peptide containing non-canonical amino acids and HLA-A0201](papers/EVIW-1064EC94E290F45D.md) · PLoS One
+- [Machine learning approaches for predicting protein-ligand binding sites from sequence data](papers/EVIW-3398915ED0CEE12D.md) · Front Bioinform
+- [MDF-DTA: A Multi-Dimensional Fusion Approach for Drug-Target Binding Affinity Prediction](papers/EVIW-E18C301976BF7DBA.md) · J Chem Inf Model
+- [Mining and Validation of Novel Umami Peptides in Non-Alcoholic Beer by Integrating Machine Learning Prediction, Molecular Docking, and Sensory Validation, and Their Mult...](papers/EVIW-0C19992621209D05.md) · Foods
+- [Mining for Potent Inhibitors through Artificial Intelligence and Physics: A Unified Methodology for Ligand Based and Structure Based Drug Design](papers/EVIW-7DE1137A015AA401.md) · J Chem Inf Model
+- [MISATO: machine learning dataset of protein-ligand complexes for structure-based drug discovery](papers/EVIW-5313F99B646EE803.md) · Nat Comput Sci
+- [Modeling Protein–Protein and Protein–Ligand Interactions by the ClusPro Team in CASP16](papers/EVIW-A0ED72899D0BF4C7.md) · Proteins
+- [Molecular Docking Analysis of Heparin-Diclofenac Complexes: Insights into Enhanced Cox Enzyme Inhibition for Pain Management](papers/EVIW-E9D0A7FE5A425F5E.md) · Life (Basel)
+- [Molecular embedding-based algorithm selection in protein-ligand docking](papers/EVIW-C523617C641D7770.md) · J Cheminform
+- [Molecular insights into kaempferol derivatives as potential inhibitors for CDK2 in colon cancer: pharmacophore modeling, docking, and dynamic analysis](papers/EVIW-96DE5B12E1C7E4BB.md) · Front Chem
+- [MOLECULE: Molecular-dynamics and Optimized deep Learning for Entropy-regularized Classification and Uncertainty-aware Ligand Evaluation](papers/EVIW-BA2790340B49F580.md) · J Chem Theory Comput
+- [Multi-task bioassay pre-training for protein-ligand binding affinity prediction](papers/EVIW-EC580540DF307D9E.md) · Brief Bioinform
+- [Multimodal learning on heterogeneous subgraphs and LLMs representation for MHC-peptide binding affinity prediction](papers/EVIW-D72122024E05F9F5.md) · BMC Bioinformatics
+- [Multimodal Protein Representation Learning and Target-aware Variational Auto-encoders for Protein-binding Ligand Generation](papers/EVIW-3E703C5F9F927E28.md) · Research Square preprint
+- [MuToN Quantifies Binding Affinity Changes upon Protein Mutations by Geometric Deep Learning](papers/EVIW-BA8CD2D90E270D39.md) · Adv Sci (Weinh)
+- [Normalized Protein-Ligand Distance Likelihood Score for End-to-End Blind Docking and Virtual Screening](papers/EVIW-7C3C8ADEABA829E3.md) · J Chem Inf Model
+- [Optimization of binding affinities in chemical space with generative pre-trained transformer and deep reinforcement learning](papers/EVIW-F61E94423526029D.md) · F1000Res
+- [PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking](papers/EVIW-041FA648F6D77FF2.md) · bioRxiv preprint
+- [PLiSAGE: enhancing protein-ligand interaction prediction with multimodal surface and geometry encoding](papers/EVIW-7B3BB7FC1C77330C.md) · Bioinformatics
+- [Predicting peroxisome proliferator-activated receptor gamma potency of small molecules: a synergistic consensus model and deep learning binding affinity approach powered by Enalos Cloud Platform](papers/EVIW-00CA1038713C40D3.md) · Mol Divers
+- [Preferential CDR masking in paired antibody language models improves binding affinity prediction](papers/EVIW-0BE96BB606351927.md) · Communications AI & Computing
+- [Protein-ligand binding affinity prediction using multi-instance learning with docking structures](papers/EVIW-5C0DA702F696CD1D.md) · Front Pharmacol
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [QuickBind: A Light-Weight And Interpretable Molecular Docking Model](papers/EVIW-527C7FEA245769C5.md) · arXiv preprint
+- [Reliability of AI Methods in Drug Discovery: Evaluation of Boltz-2 for Structure and Binding Affinity Prediction](papers/EVIW-D12CA6E5603A8D3C.md) · J Chem Theory Comput
+- [Sequence-only prediction of binding affinity changes: a robust and interpretable model for antibody engineering](papers/EVIW-A27EE3BD864D2A98.md) · Bioinformatics
+- [Structure prediction of protein-ligand complexes from sequence information with Umol](papers/EVIW-9BE8411A125E7FEF.md) · bioRxiv preprint
+- [Structure-aware deep model for MHC-II peptide binding affinity prediction](papers/EVIW-E9F999EE59819090.md) · BMC Genomics
+- [Structure-based design of a phosphotyrosine-masked covalent ligand targeting the E3 ligase SOCS2](papers/EVIW-A8B798D34F48E25A.md) · Nat Commun
+- [Structure-enhanced deep learning accelerates aptamer selection for small molecule families like steroids](papers/EVIW-89C54A6ECDC07E00.md) · Brief Bioinform
+- [SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction](papers/EVIW-EC9637C020BEE703.md) · bioRxiv preprint
+- [SwissDock 2024: major enhancements for small-molecule docking with Attracting Cavities and AutoDock Vina](papers/EVIW-8C95A970087008AA.md) · Nucleic Acids Res
+- [Systematic Exploration of Small-Molecule Binding via a Large Language Model Trained on Textualized Protein-Ligand Interactions](papers/EVIW-29AA774D6FE17308.md) · Molecules
+- [t-SMILES: a fragment-based molecular representation framework for de novo ligand design](papers/EVIW-DADFA60369AE3EA8.md) · Nat Commun
+- [Towards a Truly General Intermolecular Binding Affinity Calculator for Drug Discovery & Design](papers/EVIW-EF3595BA7CFEACDB.md) · Preprints.org
+- [Towards designing improved cancer immunotherapy targets with a peptide-MHC-I presentation model, HLApollo](papers/EVIW-4E0E5A90C58C00B1.md) · Nature Communications
+- [Towards the accurate modelling of antibody-antigen complexes from sequence using machine learning and information-driven docking](papers/EVIW-1F804F232529DF61.md) · Bioinformatics
+- [Unraveling druggable cancer-driving proteins and targeted drugs using artificial intelligence and multi-omics analyses](papers/EVIW-E7967B111A41F5EB.md) · Scientific Reports
+- [Utility of the Morgan Fingerprint in Structure-Based Virtual Ligand Screening](papers/EVIW-184C215C5D4F8AB2.md) · J Phys Chem B
+- [ZeroGEN: leveraging language models for zero-shot ligand design from protein sequences](papers/EVIW-2B81F9DEB564E4C3.md) · Bioinformatics
+
+### 待 Pi 解析（101）
+
+- [A deep generative model for deciphering cellular dynamics and in silico drug discovery in complex diseases](papers/EVIW-3570B6317B9288B7.md) · Nat Biomed Eng
+- [A dual-branch graph neural network architecture for drug-target binding affinity prediction](papers/EVIW-2BF3EC6B2F092890.md) · Scientific Reports
+- [A general hypergraph learning algorithm for drug multi-task predictions in micro-to-macro biomedical networks](papers/EVIW-F59F52E24538EC4D.md) · PLoS Comput Biol
+- [A Generative Neuro‐Symbolic AI for Protein Sequence Design](papers/EVIW-0B50D08AC6A9EB98.md) · Adv Sci (Weinh)
+- [A hybrid machine learning framework for functional annotation of mitochondrial glutathione transport and metabolism proteins in cancers](papers/EVIW-73E140E69C8EA6E1.md) · BMC Bioinformatics
+- [A hybrid variational autoencoder and WGAN with gradient penalty for tertiary protein structure generation](papers/EVIW-6907C6E55D45B2C1.md) · Scientific Reports
+- [A multi-grained symmetric differential equation model for learning protein-ligand binding dynamics](papers/EVIW-68E7B63A25D649D3.md) · Nat Commun
+- [A non-canonical nucleophile unlocks a new mechanistic pathway in a designed enzyme](papers/EVIW-F464CA2FF7B2C26C.md) · Nat Commun
+- [A paired sequence language model for protein-protein interaction modeling](papers/EVIW-1F44AF237AA8F268.md) · Nat Commun
+- [A rationally designed 18-amino acid peptide with potential as GLP-1 receptor agonist](papers/EVIW-A7375920FC934F72.md) · Front Pharmacol
+- [A sequence-based deep learning framework (PepInter) for protein–peptide interaction representation learning with pretrained protein language models](papers/EVIW-0AE5BB88A44BC105.md) · Communications Chemistry
+- [Accurate prediction of protein function using statistics-informed graph networks](papers/EVIW-E1EEDE0F1E36CDEC.md) · Nat Commun
+- [Accurate prediction of protein–ATP binding sites based on a protein pretrained large language model and a fractional-order convolutional neural network](papers/EVIW-B5871C7812C20042.md) · Scientific Reports
+- [ACP-CapsPred: an explainable computational framework for identification and functional prediction of anticancer peptides based on capsule network](papers/EVIW-9740ACD6DFDD26CD.md) · Brief Bioinform
+- [AgentMol: Multi-Model AI System for Automatic Drug-Target Identification and Molecule Development](papers/EVIW-98520D60907BC088.md) · Methods Protoc
+- [AISMPred: A Machine Learning Approach for Predicting Anti-Inflammatory Small Molecules](papers/EVIW-6A2327D2365F2C90.md) · Pharmaceuticals (Basel)
+- [An electron-density point-cloud framework for robust protein-ligand interaction prediction](papers/EVIW-1F343CF1A0E42087.md) · Nat Commun
+- [Anti-Staphy Peptides Rationally Designed from Cry10Aa Bacterial Protein](papers/EVIW-71426490B42287E5.md) · ACS Omega
+- [APTAnet: an atom-level peptide-TCR interaction affinity prediction model](papers/EVIW-9A52A00B636813BB.md) · Biophys Rep
+- [Artificial Intelligence and Machine Learning Methods to Evaluate Cardiotoxicity following the Adverse Outcome Pathway Frameworks](papers/EVIW-96F3681D49343478.md) · Toxics
+- [Artificial Intelligence-Powered Molecular Docking and Steered Molecular Dynamics for Accurate scFv Selection of Anti-CD30 Chimeric Antigen Receptors](papers/EVIW-EE66E8C995061077.md) · Int J Mol Sci
+- [Assessing protein model quality based on deep graph coupled networks using protein language model](papers/EVIW-4C2016E65967FD05.md) · Brief Bioinform
+- [Automated and modular protein binder design with BinderFlow](papers/EVIW-C02982996FBD3F6A.md) · PLOS Computational Biology
+- [AutoPeptideML: a study on how to build more trustworthy peptide bioactivity predictors](papers/EVIW-BE76B197C5D200BF.md) · Bioinformatics
+- [BBB-PEP-prediction: improved computational model for identification of blood–brain barrier peptides using blending position relative composition specific features and ensemble modeling](papers/EVIW-7F3218A7A0CFFE26.md) · J Cheminform
+- [BertADP: a fine-tuned protein language model for anti-diabetic peptide prediction](papers/EVIW-F9AD04E02887E9BD.md) · BMC Biology
+- [Bond-centric modular design of protein assemblies](papers/EVIW-B7E9430722647682.md) · Nat Mater
+- [CaBind_MCNN: Identifying Potential Calcium Channel Blocker Targets by Predicting Calcium-Binding Sites in Ion Channels and Ion Transporters Using Protein Language Models and Multiscale Feature Extraction](papers/EVIW-6EF69641EF76DBE5.md) · J Chem Inf Model
+- [CircSI-SSL: circRNA-binding site identification based on self-supervised learning](papers/EVIW-886EEFF6D7C82C08.md) · Bioinformatics
+- [Coevolution-Driven Method for Efficiently Simulating Conformational Changes in Proteins Reveals Molecular Details of Ligand Effects in the β2AR Receptor](papers/EVIW-1DB085E75A381A2B.md) · J Phys Chem B
+- [Complementary multi-modality molecular self-supervised learning via non-overlapping masking for property prediction](papers/EVIW-684C37ADF16692C9.md) · Brief Bioinform
+- [Computational scoring and experimental evaluation of enzymes generated by neural networks](papers/EVIW-915050C57D2DE52E.md) · Nat Biotechnol
+- [Deep Learning-Based Protein Half-Life Prediction for Identifying Rate-Limiting Enzymes in Metabolic Pathways to Alleviate Bottleneck Reactions](papers/EVIW-AD2EB1AE7FA48D96.md) · J Microbiol Biotechnol
+- [Deep learning-driven fragment ion series classification enables highly precise and sensitive de novo peptide sequencing](papers/EVIW-A2CA6D8C47557286.md) · Nat Commun
+- [Designing and immunomolecular analysis of a new broad-spectrum multiepitope vaccine against divergent human papillomavirus types](papers/EVIW-C67C00C7729CB4E5.md) · PLoS One
+- [Designing novel peptides with amyloid-β binding and clearance potential using BiLSTM and molecular dynamics](papers/EVIW-FBABEC0DFF6A2BDA.md) · Frontiers in Artificial Intelligence
+- [Developing an Improved Cycle Architecture for AI-Based Generation of New Structures Aimed at Drug Discovery](papers/EVIW-9C2449569FCAEB3C.md) · Molecules
+- [Discovery of a heparan sulfate binding domain in monkeypox virus H3 as an anti-poxviral drug target combining AI and MD simulations](papers/EVIW-630F868D55130F9E.md) · eLife
+- [EasyDock 1.3: An Automated Pipeline for Molecular Docking](papers/EVIW-761F8F85742C0BFA.md) · J Chem Inf Model
+- [Elucidating Novel Targets for Ovarian Cancer Antibody–Drug Conjugate Development: Integrating In Silico Prediction and Surface Plasmon Resonance to Identify Targets with Enhanced Antibody Internalization Capacity](papers/EVIW-F9F1DA4ADCCE8570.md) · Antibodies (Basel)
+- [Enhancing molecular property prediction of transformer models with dual graph representation](papers/EVIW-4C48077F6512FD82.md) · Nat Commun
+- [EnrichRBP: an automated and interpretable computational platform for predicting and analysing RNA-binding protein events](papers/EVIW-68353EB129CB967B.md) · Bioinformatics
+- [EuDockScore: Euclidean graph neural networks for scoring protein-protein interfaces](papers/EVIW-6115D3B8DB0F3420.md) · Bioinformatics
+- [Extracellular Peptide-Ligand Dimerization Actuator Receptor Design for Reversible and Spatially Dosed 3D Cell-Material Communication](papers/EVIW-2E395C4AB7FEEF22.md) · ACS Synth Biol
+- [Fast, accurate ranking of engineered proteins by target-binding propensity using structure modeling](papers/EVIW-340773ED518DC742.md) · Mol Ther
+- [FlowPacker: protein side-chain packing with torsional flow matching](papers/EVIW-D5F73FACD24B56FF.md) · Bioinformatics
+- [From Host-Derived Pressures to the Environmental Anti-Antimicrobial Peptides Resistome: Mechanisms, Reservoirs and Implications for Therapeutic Peptide Design](papers/EVIW-23609632C0117F43.md) · Mar Drugs
+- [FuncFetch: an LLM-assisted workflow enables mining thousands of enzyme-substrate interactions from published manuscripts](papers/EVIW-AFC06331D986E6B0.md) · Bioinformatics
+- [Generation, Characterisation and Identification of Bioactive Peptides from Mesopelagic Fish Protein Hydrolysates Using In Silico and In Vitro Approaches](papers/EVIW-DF49AF593037EBBE.md) · Mar Drugs
+- [High-throughput screening for small-molecule stabilizers of misfolded glucocerebrosidase in Gaucher disease and Parkinson's disease](papers/EVIW-F738FC91BCD3D663.md) · Proc Natl Acad Sci U S A
+- [Hybrid Deep Learning with Protein Language Models and Dual-Path Architecture for Predicting IDP Functions](papers/EVIW-571E77FA9E72F955.md) · bioRxiv preprint
+- [Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes](papers/EVIW-75C84AFE6611C054.md) · Nat Commun
+- [HyperPCM: Robust Task-Conditioned Modeling of Drug-Target Interactions](papers/EVIW-3792DEB4F3929498.md) · J Chem Inf Model
+- [Identification of plant vacuole proteins by using graph neural network and contact maps](papers/EVIW-F784C77038E0FCCF.md) · BMC Bioinformatics
+- [Improving antibody language models with native pairing](papers/EVIW-00430A1EC76AD16D.md) · Patterns (N Y)
+- [Improving protein interaction prediction in GenPPi: a novel interaction sampling approach preserving network topology](papers/EVIW-DF0545692476B7C4.md) · BMC Bioinformatics
+- [In vivo screening for toxicity-modulating drug interactions identifies antagonism that protects against ototoxicity in zebrafish](papers/EVIW-FC6DB7E36A3F815A.md) · Front Pharmacol
+- [Insights into next generation sequencing guided antibody selection strategies](papers/EVIW-D8CC7F2F2F5F073D.md) · Sci Rep
+- [KcsA-Kv1.x chimeras with complete ligand-binding sites provide improved predictivity for screening selective Kv1.x blockers](papers/EVIW-6421E43AB83FF29B.md) · J Biol Chem
+- [Keras/TensorFlow in Drug Design for Immunity Disorders](papers/EVIW-4AA4D88EAE77A3C6.md) · Int J Mol Sci
+- [Lessons from Deep Learning Structural Prediction of Multistate Multidomain Proteins—The Case Study of Coiled-Coil NOD-like Receptors](papers/EVIW-362466EDAD859B72.md) · Int J Mol Sci
+- [Lipoprotein Signal Peptide as Adjuvants: Leveraging Lipobox-Driven TLR2 Activation in Modern Vaccine Design](papers/EVIW-616A71F542DC7BE9.md) · Vaccines (Basel)
+- [M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structures](papers/EVIW-9B46DF810E666BD8.md) · BMC Bioinformatics
+- [Machine learning–driven discovery of antimicrobial peptides against Pseudomonas aeruginosa](papers/EVIW-270F20E09B0FD7FF.md) · Front Pharmacol
+- [MAPLE: interpretable deep learning identifies selective antimicrobial peptides using joint evolutionary–physicochemical analysis](papers/EVIW-E44B76ADFCA574C0.md) · Brief Bioinform
+- [MechFind: a computational framework for de novo prediction of enzyme mechanisms](papers/EVIW-45F28D684740026A.md) · Nature Communications
+- [Molecular insights into kaempferol derivatives as potential inhibitors for CDK2 in colon cancer: pharmacophore modeling, docking, and dynamic analysis](papers/EVIW-96DE5B12E1C7E4BB.md) · Front Chem
+- [MoleMCL: a multi-level contrastive learning framework for molecular pre-training](papers/EVIW-1E03BAE643FFD505.md) · Bioinformatics
+- [MSAT: a FAERS-informed heterogeneous graph neural network for pharmacovigilance prediction of Chinese materia medica–associated adverse drug reactions](papers/EVIW-6EDE5E961DBE531E.md) · Front Pharmacol
+- [Multi-feature enhanced protein language models for accurate protein-RNA binding residue prediction](papers/EVIW-C0E4B8B295CD0E78.md) · Discover Artificial Intelligence
+- [MVSO-PPIS: a structured objective learning model for protein-protein interaction sites prediction via multi-view graph information integration](papers/EVIW-0665AE2922F1C927.md) · Bioinformatics
+- [On the difficulty of validating molecular generative models realistically: a case study on public and proprietary data](papers/EVIW-987975E1F8F992B3.md) · J Cheminform
+- [OrgNet+: towards robust protein stability prediction with convolutional neural networks](papers/EVIW-58D3E8C0E71F5BAB.md) · Bioinformatics
+- [PeptiVerse: A unified platform for therapeutic peptide property prediction](papers/EVIW-A02DA92D045E68B7.md) · Nature Communications
+- [PhosBoost: Improved phosphorylation prediction recall using gradient boosting and protein language models](papers/EVIW-6144C586F0C7E057.md) · Plant Direct
+- [Post-processing enhances protein secondary structure prediction with second order deep learning and embeddings](papers/EVIW-974DF7FD702DC54E.md) · Comput Struct Biotechnol J
+- [Precise Generation of Conformational Ensembles for Intrinsically Disordered Proteins via Fine-tuned Diffusion Models](papers/EVIW-5CE9DC528115448C.md) · bioRxiv preprint
+- [Precision antimicrobials: the next paradigm shift after broad-spectrum therapy](papers/EVIW-D5DF4C6464F9E9D9.md) · Front Microbiol
+- [Predicting the conformational flexibility of antibody and T cell receptor complementarity-determining regions](papers/EVIW-3B2B490A01870886.md) · Nat Mach Intell
+- [Prediction of liquid–liquid phase separation proteins based on protein language model](papers/EVIW-5C0E1B3C27B595A5.md) · Brief Bioinform
+- [Prediction of protein secondary structure by the improved TCN-BiLSTM-MHA model with knowledge distillation](papers/EVIW-CFF211E7FC7B9340.md) · Sci Rep
+- [Protein intrinsically disordered region prediction by combining neural architecture search and multi-objective genetic algorithm](papers/EVIW-971C1D1183A6FAC4.md) · BMC Biol
+- [Protein language models can capture protein quaternary state](papers/EVIW-367AD9D40B92C56F.md) · BMC Bioinformatics
+- [Protein language models uncover carbohydrate-active enzyme function in metagenomics](papers/EVIW-CD412B405D36CFCA.md) · BMC Bioinformatics
+- [ProtSeqGen: a novel deep learning model for protein sequence design](papers/EVIW-618377823AEE766A.md) · BMC Bioinformatics
+- [Quantum-classical generative models for drug design](papers/EVIW-BDC0DD7FAEA44C1D.md) · Quantum Machine Intelligence
+- [QuickBind: A Light-Weight And Interpretable Molecular Docking Model](papers/EVIW-527C7FEA245769C5.md) · arXiv preprint
+- [Rational design of flavivirus E protein vaccine optimizes immunogenicity and mitigates antibody dependent enhancement risk](papers/EVIW-6AE7DC33BBA3D04E.md) · Nat Commun
+- [Rationally seeded computational protein design of ɑ-helical barrels](papers/EVIW-FDA5C6B43CD436AE.md) · Nat Chem Biol
+- [Scaffold-Lab: Critical evaluation and ranking of protein backbone generation methods in a unified framework](papers/EVIW-245CBF630CEB9822.md) · PLoS Comput Biol
+- [Scaling SMILES-based chemical language models for therapeutic peptide engineering](papers/EVIW-F5B7CCA4515BCA48.md) · bioRxiv
+- [Stabilizing Plasmodium falciparum proteins for small molecule drug discovery](papers/EVIW-CFF2E675DCF2E84C.md) · Protein Sci
+- [Structure Prediction and Protein Engineering Yield New Insights into Microcin J25 Precursor Recognition](papers/EVIW-E9A901E4923AAA73.md) · ACS Chem Biol
+- [Structure-enhanced deep learning accelerates aptamer selection for small molecule families like steroids](papers/EVIW-89C54A6ECDC07E00.md) · Brief Bioinform
+- [TCRBinder: Unified pre-trained language model with paired-chain synergy for predicting T-cell receptor binding specificity](papers/EVIW-1B10BF11D52702A4.md) · PLoS Comput Biol
+- [The rise of big data: deep sequencing-driven computational methods are transforming the landscape of synthetic antibody design](papers/EVIW-6854B3739083B0DF.md) · J Biomed Sci
+- [Top-Down Machine Learning of Coarse-Grained Protein Force Fields](papers/EVIW-244699D876EF7DD8.md) · J Chem Theory Comput
+- [Transformer Learning in Sequence‐Based Drug Design Depends on Compound Memorization and Similarity of Sequence‐Compound Pairs](papers/EVIW-F2A47C3216EC7DEB.md) · Mol Inform
+- [Ultrahigh-throughput screening-assisted in vivo directed evolution for enzyme engineering](papers/EVIW-E5DC182A1A2C420F.md) · Biotechnol Biofuels Bioprod
+- [Unveiling Switching Function of Amino Acids in Proteins Using a Machine Learning Approach](papers/EVIW-6E7A213DBFD9F077.md) · J Chem Theory Comput
+- [Vaccinomics-aided next-generation novel multi-epitope-based vaccine engineering against multidrug resistant Shigella Sonnei: Immunoinformatics and chemoinformatics approaches](papers/EVIW-A8301B26D48B6C75.md) · PLoS One
+
+### 扩散/生成（100）
+
+- [3D molecular generative framework for interaction-guided drug design](papers/EVIW-7F3D00C76F88E2D5.md) · Nat Commun
+- [A conditional protein diffusion model generates artificial programmable endonuclease sequences with enhanced activity](papers/EVIW-C01A245FD055519A.md) · Cell Discov
+- [A deep generative model for deciphering cellular dynamics and in silico drug discovery in complex diseases](papers/EVIW-3570B6317B9288B7.md) · Nat Biomed Eng
+- [A Diffusion-Based Framework for Designing Molecules in Flexible Protein Pockets](papers/EVIW-87C7E30CF2A5F5BF.md) · bioRxiv preprint
+- [A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets](papers/EVIW-EECA1B7E57AE69E8.md) · Nat Commun
+- [A dual diffusion model-based representation learning framework for antimicrobial peptides classification](papers/EVIW-584A3279CA37FE46.md) · Bioinformatics
+- [A generative artificial intelligence approach for peptide antibiotic optimization](papers/EVIW-B47A1491CBD2F081.md) · Nat Mach Intell
+- [A generative artificial intelligence framework based on a molecular diffusion model for the design of metal-organic frameworks for carbon capture](papers/EVIW-06EDA5AA4592091B.md) · Commun Chem
+- [A generative explainable model for antimicrobial peptide prediction using bidirectional temporal convolutional neural network](papers/EVIW-FD12D61BC580B2CB.md) · Scientific Reports
+- [A Generative Neuro‐Symbolic AI for Protein Sequence Design](papers/EVIW-0B50D08AC6A9EB98.md) · Adv Sci (Weinh)
+- [A genotype-to-drug diffusion model for generation of tailored anti-cancer small molecules](papers/EVIW-A7B87B84C2DD8D8D.md) · Nature Communications
+- [A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties](papers/BFW-1743CA1AF5D6.md) · PLoS Comput Biol
+- [Accurate Generation of Conformational Ensembles for Intrinsically Disordered Proteins with IDPFold](papers/EVIW-BA3B778AE34FD6B6.md) · Adv Sci (Weinh)
+- [ActivityDiff: a diffusion model with positive and negative activity guidance for de novo drug design](papers/EVIW-473F7478FC95951A.md) · Bioinformatics
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [Advancing generative large language models toward discriminative performance in protein function prediction](papers/EVIW-3352EAE93C4D75CD.md) · Genome Biol
+- [AI-Driven Enzyme Engineering: Emerging Models and Next-Generation Biotechnological Applications](papers/EVIW-2CAD59D7021D3501.md) · Molecules
+- [AlphaFold Meets De Novo Drug Design: Leveraging Structural Protein Information in Multitarget Molecular Generative Models](papers/EVIW-820A87609D2AD16D.md) · J Chem Inf Model
+- [AMP-Diffusion: Integrating Latent Diffusion with Protein Language Models for Antimicrobial Peptide Generation](papers/EVIW-82B2503C91A465CA.md) · bioRxiv preprint
+- [AMPGen: an evolutionary information-reserved and diffusion-driven generative model for de novo design of antimicrobial peptides](papers/EVIW-3B0C00C5C6357749.md) · Communications Biology
+- [An integrative approach to protein sequence design through multiobjective optimization](papers/EVIW-6115205069F1A499.md) · PLoS Comput Biol
+- [Antiviral Peptide-Generative Pre-Trained Transformer (AVP-GPT): A Deep Learning-Powered Model for Antiviral Peptide Design with High-Throughput Discovery and Exceptional Potency](papers/EVIW-2E8B47608015C954.md) · Viruses
+- [Atom-level enzyme active site scaffolding using RFdiffusion2](papers/BFW-677CA1020102.md) · Nature Methods
+- [Automated and modular protein binder design with BinderFlow](papers/EVIW-C02982996FBD3F6A.md) · PLOS Computational Biology
+- [Bridging Generative AI and Diffusion Models With Molecular Simulation to Design Anti-Quorum-Sensing De novo Peptides Targeting LasR of Pseudomonas aeruginosa](papers/EVIW-8B26B6C224750AD8.md) · Probiotics and Antimicrobial Proteins
+- [Co-design protein sequence and structure in discrete space via generative flow](papers/EVIW-E1EB5AD1AEBADA84.md) · Bioinformatics
+- [CoDNet: controlled diffusion network for structure-based drug design](papers/EVIW-47A2C4E6BAECCE23.md) · Bioinform Adv
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [Conditioned Generative Modeling of Molecular Glues: A Realistic AI Approach for Synthesizable Drug-like Molecules](papers/EVIW-A340204028FECB43.md) · Biomolecules
+- [CPL‐Diff: A Diffusion Model for De Novo Design of Functional Peptide Sequences with Fixed Length](papers/EVIW-466228B7D151118B.md) · Adv Sci (Weinh)
+- [Cytochrome P450 Enzyme Design by Constraining the Catalytic Pocket in a Diffusion Model](papers/EVIW-1463F1CB9ABB78D8.md) · Research (Wash D C)
+- [De Novo Antimicrobial Peptide Design with Feedback Generative Adversarial Networks](papers/EVIW-9D1944506B9DAEA2.md) · Int J Mol Sci
+- [De novo designed proteins neutralize lethal snake venom toxins](papers/EVIW-5DAF70ACC4D7F4E9.md) · Nature
+- [Deep learning driven de novo drug design based on gastric proton pump structures](papers/EVIW-1280AD74B138884E.md) · Commun Biol
+- [Deep learning workflow for the inverse design of molecules with specific optoelectronic properties](papers/EVIW-B9DC20CAB83C85CC.md) · Sci Rep
+- [DiffInt: A Diffusion Model for Structure-Based Drug Design with Explicit Hydrogen Bond Interaction Guidance](papers/EVIW-5955756A2B8C2AD9.md) · J Chem Inf Model
+- [DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties](papers/EVIW-5D4BE1237541F61B.md) · bioRxiv preprint
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [Enhancing anticancer peptide discovery: A fusion-centric framework with conditional diffusion for prediction and generation](papers/EVIW-B19C8953D7714BC1.md) · PLoS Comput Biol
+- [Enhancing cross-context generalization in drug perturbation prediction with a multimodal conditional diffusion framework](papers/EVIW-22F27BE7269D0426.md) · Bioinformatics
+- [Equivariant 3D-conditional diffusion model for molecular linker design](papers/EVIW-F0A20EFF2242FD07.md) · Nature Machine Intelligence
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [Equivariant score-based generative diffusion framework for 3D molecules](papers/EVIW-8B626510C8E7C600.md) · BMC Bioinformatics
+- [Evaluating BindCraft for Generative Design of High-Affinity Peptides](papers/EVIW-5F5A18203EF1CB13.md) · ACS Chem Biol
+- [Exploring pocket-aware inhibitors of BTK kinase by generative deep learning, molecular docking, and molecular dynamics simulations](papers/EVIW-C79585753A328E55.md) · RSC Adv
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [FlowPacker: protein side-chain packing with torsional flow matching](papers/EVIW-D5F73FACD24B56FF.md) · Bioinformatics
+- [FLOWR.ROOT – A flow matching-based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](papers/EVIW-3AE9D036AE8EC1CB.md) · Nat Commun
+- [FLOWR: flow matching for structure-aware de novo, interaction- and fragment-based ligand generation](papers/EVIW-F360206DF136306B.md) · Nat Comput Sci
+- [From Latent Manifolds to Targeted Molecular Probes: An Interpretable, Kinome-Scale Generative Machine Learning Framework for Family-Based Kinase Ligand Design](papers/EVIW-B2066AB438F67363.md) · Biomolecules
+- [Generalizable and scalable protein stability prediction with rewired protein generative models](papers/EVIW-2B553C8CDEE458EA.md) · Nature Communications
+- [Generative and predictive neural networks for the design of functional RNA molecules](papers/EVIW-6D3ECDD8A64E1E32.md) · Nature Communications
+- [Generative design of compounds with desired potency from target protein sequences using a multimodal biochemical language model](papers/EVIW-4CF80ABA93015978.md) · J Cheminform
+- [Generative models for protein sequence modeling: recent advances and future directions](papers/EVIW-C230912D29890725.md) · Brief Bioinform
+- [Generative Multiobjective Bayesian Optimization with Scalable Batch Evaluations for Sample-Efficient De Novo Molecular Design](papers/EVIW-8CC9E4F84F9247B1.md) · Ind Eng Chem Res
+- [Geometry-complete diffusion for 3D molecule generation and optimization](papers/EVIW-6AE7A4015DCC251E.md) · Commun Chem
+- [Guided diffusion for molecular generation with interaction prompt](papers/EVIW-CD8D2F4D209CDB2C.md) · Brief Bioinform
+- [Harnessing generative AI for predicting and optimizing antimicrobial peptides against drug-resistant infections](papers/EVIW-7E1473BE5E2241B3.md) · NPJ Antimicrob Resist
+- [HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion](papers/EVIW-3A1ACC8879ECFFC5.md) · Chem Sci
+- [IEV2Mol: Molecular Generative Model Considering Protein-Ligand Interaction Energy Vectors](papers/EVIW-03ED7DB23F4F78B7.md) · J Chem Inf Model
+- [IgPose: a generative data-augmented pipeline for robust immunoglobulin-antigen binding prediction](papers/EVIW-C1FE2E1F2F53218E.md) · Bioinformatics
+- [Illuminating protein space with a programmable generative model](papers/EVIW-6223B4C58A3E1894.md) · Nature
+- [Improving protein-ligand complex generation with force field guidance](papers/EVIW-3FC672A3E4A616F4.md) · J Cheminform
+- [InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments](papers/EVIW-E410089C4FA4C69C.md) · Nature Machine Intelligence
+- [KGDiff: towards explainable target-aware molecule generation with knowledge guidance](papers/EVIW-76C901E60A08C983.md) · Brief Bioinform
+- [LigandDiff: de Novo Ligand Design for 3D Transition Metal Complexes with Diffusion Models](papers/EVIW-8F58F11A4939A0DF.md) · J Chem Theory Comput
+- [Mining for Potent Inhibitors through Artificial Intelligence and Physics: A Unified Methodology for Ligand Based and Structure Based Drug Design](papers/EVIW-7DE1137A015AA401.md) · J Chem Inf Model
+- [Multimodal diffusion for joint design of protein sequence and structure](papers/EVIW-5AE373C130864D82.md) · Protein Sci
+- [Multistate and functional protein design using RoseTTAFold sequence space diffusion](papers/EVIW-1885107C07DD1242.md) · Nature Biotechnology
+- [Nature’s defense against emerging neurodegenerative threats: Dynamic simulation, PCA, DCCM identified potential plant-based antiviral lead targeting borna disease virus nucleoprotein](papers/EVIW-18035DE6B31CBCCE.md) · PLoS One
+- [NIMO: A Natural Product-Inspired Molecular Generative Model Based on Conditional Transformer](papers/EVIW-DDEFC294A4BFD2F3.md) · Molecules
+- [On the difficulty of validating molecular generative models realistically: a case study on public and proprietary data](papers/EVIW-987975E1F8F992B3.md) · J Cheminform
+- [Optimization of binding affinities in chemical space with generative pre-trained transformer and deep reinforcement learning](papers/EVIW-F61E94423526029D.md) · F1000Res
+- [Optimizing drug design by merging generative AI with a physics-based active learning framework](papers/EVIW-50D727060A34458E.md) · Communications Chemistry
+- [p-IgGen: a paired antibody generative language model](papers/EVIW-38FE5D1C96C03B2A.md) · Bioinformatics
+- [PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking](papers/EVIW-041FA648F6D77FF2.md) · bioRxiv preprint
+- [PepINVENT: generative peptide design beyond natural amino acids](papers/EVIW-3E36560C8B5CDCDB.md) · Chem Sci
+- [Peptide-Aware Chemical Language Model Successfully Predicts Membrane Diffusion of Cyclic Peptides](papers/EVIW-8A9A06F1043F02B8.md) · Journal of Chemical Information and Modeling
+- [PI-Mamba: linear-time protein backbone generation via spectrally initialized flow matching](papers/EVIW-02F3D8D5AADFAEE5.md) · Bioinformatics
+- [Pocket Crafter: a 3D generative modeling based workflow for the rapid generation of hit molecules in drug discovery](papers/EVIW-36A749A84CFDA403.md) · Journal of Cheminformatics
+- [PPI-Diff: De Novo Generation of Peptide Binders via Resolution-Aware Geometric Diffusion](papers/EVIW-1E14B1FE6D202679.md) · Biomolecules
+- [Precise Generation of Conformational Ensembles for Intrinsically Disordered Proteins via Fine-tuned Diffusion Models](papers/EVIW-5CE9DC528115448C.md) · bioRxiv preprint
+- [Predicting drug‐perturbed transcriptional responses using multi‐conditional diffusion transformer](papers/EVIW-E395FE01ADC316B7.md) · Quant Biol
+- [PRO-LDM: A Conditional Latent Diffusion Model for Protein Sequence Design and Functional Optimization](papers/EVIW-C3FDA26B02DE8830.md) · Adv Sci (Weinh)
+- [Probabilistic generative transformer language models for generative design of molecules](papers/EVIW-C0C005C3739D6CDB.md) · J Cheminform
+- [ProT-GFDM: A generative fractional diffusion model for protein generation](papers/EVIW-1AEFB724D39999C4.md) · Computational and Structural Biotechnology Journal
+- [Protein A-like Peptide Design Based on Diffusion and ESM2 Models](papers/EVIW-806C0F8BBDF226B8.md) · Molecules
+- [Protein Biomarkers Shared by Multiple Neurodegenerative Diseases Are Calmodulin-Binding Proteins Offering Novel and Potentially Universal Therapeutic Targets](papers/EVIW-6FC92A0D0820C724.md) · J Clin Med
+- [Protein structure generation via folding diffusion](papers/EVIW-872EB564D511B08C.md) · Nat Commun
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [ProT‐Diff: A Modularized and Efficient Strategy for De Novo Generation of Antimicrobial Peptide Sequences by Integrating Protein Language and Diffusion Models](papers/EVIW-C3615774EAE72FC3.md) · Adv Sci (Weinh)
+- [Quantum-classical generative models for drug design](papers/EVIW-BDC0DD7FAEA44C1D.md) · Quantum Machine Intelligence
+- [Reinvent 4: Modern AI-driven generative molecule design](papers/EVIW-A1D7A445A164113B.md) · J Cheminform
+- [RNA-EFM: energy-based flow matching for protein-conditioned RNA sequence-structure co-design](papers/EVIW-F532E27CA97BDB0E.md) · Bioinform Adv
+- [SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction](papers/EVIW-EC9637C020BEE703.md) · bioRxiv preprint
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [Transferable deep generative modeling of intrinsically disordered protein conformations](papers/EVIW-C2860AB1F974666A.md) · PLoS Comput Biol
+- [VeGA-RX and VeGA-SCX: Controllable SMARTS-Guided Generative Transformers for Precision-Driven De Novo Drug Design](papers/EVIW-817614F6D85CF180.md) · J Chem Inf Model
+- [VGAE-MCTS: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search](papers/EVIW-E055FF023C0B29CB.md) · J Chem Inf Model
+- [VirusHound-I: prediction of viral proteins involved in the evasion of host adaptive immune response using the random forest algorithm and generative adversarial network](papers/EVIW-DC23DC882167B02D.md) · Brief Bioinform
+
+### 结构预测（62）
+
+- [3 = 1 + 2: how the divide conquered de novo protein structure prediction and what is next?](papers/EVIW-CE1BFEB1B4EFF5F3.md) · Natl Sci Rev
+- [A Comparative Study of Deep Learning and Classical Modeling Approaches for Protein–Ligand Binding Pose and Affinity Prediction in Coronavirus Main Proteases](papers/EVIW-C32EB93F00BC417D.md) · J Chem Inf Model
+- [A Folding-Docking-Affinity framework for protein-ligand binding affinity prediction](papers/EVIW-B2B46F1438C6AEE1.md) · Communications Chemistry
+- [A new paradigm for applying deep learning to protein-ligand interaction prediction](papers/EVIW-5B1517D884AADDC2.md) · Brief Bioinform
+- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](papers/EVIW-643136E50839D7AA.md) · Nature
+- [Adapting Co-Folding Models for Structure-Based Protein-Protein Docking Through Flow Matching](papers/EVIW-649DEFAB11294A5F.md) · bioRxiv
+- [AI-Driven Enzyme Engineering: Emerging Models and Next-Generation Biotechnological Applications](papers/EVIW-2CAD59D7021D3501.md) · Molecules
+- [AlphaFold Meets De Novo Drug Design: Leveraging Structural Protein Information in Multitarget Molecular Generative Models](papers/EVIW-820A87609D2AD16D.md) · J Chem Inf Model
+- [An electron-density point-cloud framework for robust protein-ligand interaction prediction](papers/EVIW-1F343CF1A0E42087.md) · Nat Commun
+- [AntiFold: improved structure-based antibody design using inverse folding](papers/EVIW-FC4F98D1EFC1712B.md) · Bioinform Adv
+- [Atom-level enzyme active site scaffolding using RFdiffusion2](papers/BFW-677CA1020102.md) · Nature Methods
+- [Automated and modular protein binder design with BinderFlow](papers/EVIW-C02982996FBD3F6A.md) · PLOS Computational Biology
+- [Benchmarking AlphaFold3's protein-protein complex accuracy and machine learning prediction reliability for binding free energy changes upon mutation](papers/EVIW-7B3BA40DB3C17D72.md) · arXiv preprint
+- [Benchmarking antigen-aware inverse folding methods for antibody design](papers/EVIW-A1AD09D7AFFD0BA7.md) · bioRxiv preprint
+- [Benchmarking inverse folding models for antibody CDR sequence design](papers/EVIW-AEAE9AA5539B2E45.md) · PLOS ONE
+- [Bilingual language model for protein sequence and structure](papers/EVIW-50CC17ACB2AEA40C.md) · NAR Genom Bioinform
+- [BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists](papers/EVIW-DCAF3329DD185313.md) · Comput Struct Biotechnol J
+- [BoltzGen: Toward Universal Binder Design](papers/EVIW-EBBC8C147959FE4A.md) · bioRxiv
+- [CLDN18.2 antibody design with protein language models: A deep learning optimization framework](papers/EVIW-BE033C46CCB9A3C9.md) · PLOS Computational Biology
+- [Combining machine learning with structure-based protein design to predict and engineer post-translational modifications of proteins](papers/EVIW-83AD8E36CF545DE1.md) · PLoS Comput Biol
+- [Cyclic peptide structure prediction and design using AlphaFold2](papers/EVIW-0E24408ABDFC740F.md) · Nature Communications
+- [De novo designed proteins neutralize lethal snake venom toxins](papers/EVIW-5DAF70ACC4D7F4E9.md) · Nature
+- [Design of linear and cyclic peptide binders from protein sequence information](papers/EVIW-01477EAB1AD23043.md) · Communications Chemistry
+- [E(3) equivariant graph neural networks for robust and accurate protein-protein interaction site prediction](papers/EVIW-B8BCB4B14D4A9325.md) · PLoS Comput Biol
+- [Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE](papers/EVIW-F561FB87AC7DBE6C.md) · eLife
+- [Enhanced antibody-antigen structure prediction from molecular docking using AlphaFold2](papers/EVIW-E8AD4BD2C00BDB32.md) · Sci Rep
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Evaluating ligand docking methods for drugging protein-protein interfaces: insights from AlphaFold2 and molecular dynamics refinement](papers/EVIW-B0F5998042EF0F16.md) · Journal of Cheminformatics
+- [Evaluating zero‐shot prediction of monomeric protein design success by AlphaFold , ESMFold , and ProteinMPNN](papers/EVIW-2B306696DD6EE567.md) · Protein Sci
+- [Fast, accurate ranking of engineered proteins by target-binding propensity using structure modeling](papers/EVIW-340773ED518DC742.md) · Mol Ther
+- [GATSol, an enhanced predictor of protein solubility through the synergy of 3D structure graph and large language modeling](papers/EVIW-A6F6E39304F1E6FD.md) · BMC Bioinformatics
+- [HFGuidedDesign: de novo design of cyclic peptide binders via structure-guided discrete diffusion](papers/EVIW-3A1ACC8879ECFFC5.md) · Chem Sci
+- [High-throughput prediction of protein conformational distributions with subsampled AlphaFold2](papers/EVIW-EEBA22DD03D0F7F6.md) · Nat Commun
+- [Identification of plant vacuole proteins by using graph neural network and contact maps](papers/EVIW-F784C77038E0FCCF.md) · BMC Bioinformatics
+- [Improving deep learning protein monomer and complex structure prediction using DeepMSA2 with huge metagenomics data](papers/EVIW-FB7086C56CA1FC5B.md) · Nat Methods
+- [Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions](papers/EVIW-B8221048D3E0EDF2.md) · Nat Commun
+- [Machine learning predictor PSPire screens for phase-separating proteins lacking intrinsically disordered regions](papers/EVIW-7D646DB8FA15FE2B.md) · Nat Commun
+- [MPBind: a multitask protein binding site predictor using protein language models and equivariant GNNs](papers/EVIW-8D488E8314E26BBB.md) · Bioinformatics
+- [MULAN: multimodal protein language model for sequence and structure encoding](papers/EVIW-723AD18D0B910730.md) · Bioinform Adv
+- [Multi-Modal Topology-Aware Graph Neural Network for Robust Chemical–Protein Interaction Prediction](papers/EVIW-6911ECFF6567B7FE.md) · Int J Mol Sci
+- [Multimodal pretraining for unsupervised protein representation learning](papers/EVIW-7CE21BAAD11F573D.md) · Biol Methods Protoc
+- [One step forward towards deep-learning protein complex structure prediction by precise multiple sequence alignment construction](papers/EVIW-213FDD6F0C8EC2DA.md) · Clin Transl Med
+- [Peptide binder design with inverse folding and protein structure prediction](papers/EVIW-A1287DC66E85C7EA.md) · Commun Chem
+- [PLiSAGE: enhancing protein-ligand interaction prediction with multimodal surface and geometry encoding](papers/EVIW-7B3BB7FC1C77330C.md) · Bioinformatics
+- [Post-processing enhances protein secondary structure prediction with second order deep learning and embeddings](papers/EVIW-974DF7FD702DC54E.md) · Comput Struct Biotechnol J
+- [PPI-Graphomer: enhanced protein-protein affinity prediction using pretrained and graph transformer models](papers/EVIW-D5826B6BE45CEB6A.md) · BMC Bioinformatics
+- [Protein A-like Peptide Design Based on Diffusion and ESM2 Models](papers/EVIW-806C0F8BBDF226B8.md) · Molecules
+- [Protein language models meet reduced amino acid alphabets](papers/EVIW-6C82FA785A104FF8.md) · Bioinformatics
+- [Protein structure generation via folding diffusion](papers/EVIW-872EB564D511B08C.md) · Nat Commun
+- [Rationally seeded computational protein design of ɑ-helical barrels](papers/EVIW-FDA5C6B43CD436AE.md) · Nat Chem Biol
+- [S-PLM: Structure-Aware Protein Language Model via Contrastive Learning Between Sequence and Structure](papers/EVIW-593480AEBAE04B3E.md) · Adv Sci (Weinh)
+- [Scaffold-Lab: Critical evaluation and ranking of protein backbone generation methods in a unified framework](papers/EVIW-245CBF630CEB9822.md) · PLoS Comput Biol
+- [Sensitive remote homology search by local alignment of small positional embeddings from protein language models](papers/EVIW-FE09597837C23FBA.md) · eLife
+- [Sequence, structure prediction, and epitope analysis of the polymorphic membrane protein family in Chlamydia trachomatis](papers/EVIW-56B801568E1856E2.md) · PLoS One
+- [SpatialPPI: Three-dimensional space protein-protein interaction prediction with AlphaFold Multimer](papers/EVIW-EFFF07329F054B3F.md) · Comput Struct Biotechnol J
+- [Structure Prediction and Protein Engineering Yield New Insights into Microcin J25 Precursor Recognition](papers/EVIW-E9A901E4923AAA73.md) · ACS Chem Biol
+- [Structure prediction of alternative protein conformations](papers/EVIW-2A54D144D5FCB54F.md) · Nat Commun
+- [Structure prediction of protein-ligand complexes from sequence information with Umol](papers/EVIW-9BE8411A125E7FEF.md) · bioRxiv preprint
+- [Structure-aware machine learning strategies for antimicrobial peptide discovery](papers/EVIW-0A19F803228ADC09.md) · Sci Rep
+- [SurfFold: a unified model for protein inverse folding by integrating surface and structural information](papers/EVIW-874EB338BB355D67.md) · Bioinformatics
+- [Towards the accurate modelling of antibody-antigen complexes from sequence using machine learning and information-driven docking](papers/EVIW-1F804F232529DF61.md) · Bioinformatics
+- [Zero-shot prediction of mutation effects with multimodal deep representation learning guides protein engineering](papers/EVIW-352EF67848CF571F.md) · Cell Res
+
+### 背景资料（48）
+
+- [3 = 1 + 2: how the divide conquered de novo protein structure prediction and what is next?](papers/EVIW-CE1BFEB1B4EFF5F3.md) · Natl Sci Rev
+- [Advancing one health vaccination: In silico design and evaluation of a multi-epitope subunit vaccine against Nipah virus for cross-species immunization using immunoinformatics and molecular modeling](papers/EVIW-98A04DE62441A501.md) · PLoS One
+- [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](papers/EVIW-F2D88608FBE5A657.md) · Acc Chem Res
+- [AI-Driven Enzyme Engineering: Emerging Models and Next-Generation Biotechnological Applications](papers/EVIW-2CAD59D7021D3501.md) · Molecules
+- [Alzheimer's Disease: Exploring Pathophysiological Hypotheses and the Role of Machine Learning in Drug Discovery](papers/EVIW-F5EBF91079150275.md) · Int J Mol Sci
+- [Anesthetic drug discovery with computer-aided drug design and machine learning](papers/EVIW-9226012A34043DF0.md) · Anesthesiology and Perioperative Science
+- [Antimicrobial peptides: natural templates for next-generation therapeutics against antimicrobial resistance](papers/EVIW-92B7384043CDFC17.md) · Front Cell Infect Microbiol
+- [Artificial Intelligence and Machine Learning in Pharmacological Research: Bridging the Gap Between Data and Drug Discovery](papers/EVIW-49A2F3C603A14A6A.md) · Cureus
+- [Artificial Intelligence-Driven Discovery and Optimization of Antimicrobial Peptides Targeting ESKAPE Pathogens and Multidrug-Resistant Fungi](papers/EVIW-DB8E78E7468C01B3.md) · Microorganisms
+- [Binding Mechanism of Inhibitors to BRD4 and BRD9 Decoded by Multiple Independent Molecular Dynamics Simulations and Deep Learning](papers/EVIW-5674D35A536949D9.md) · Molecules
+- [Comprehensive Research on Druggable Proteins: From PSSM to Pre-Trained Language Models](papers/EVIW-9BCBB5D287E1A4A6.md) · Int J Mol Sci
+- [Computational and immunoinformatics approaches for designing phytocompound-based drugs and a multi-epitope vaccine targeting FemA, a cell wall protein of Staphylococcus aureus](papers/EVIW-4DB00018EB44F550.md) · PLoS One
+- [Computer-Aided Drug Design and Drug Discovery: A Prospective Analysis](papers/EVIW-30CDB15201FE70BF.md) · Pharmaceuticals (Basel)
+- [Deep learning-driven fragment ion series classification enables highly precise and sensitive de novo peptide sequencing](papers/EVIW-A2CA6D8C47557286.md) · Nat Commun
+- [Docking in the Dark: Insights into Protein-Protein and Protein-Ligand Blind Docking](papers/EVIW-AEE5912A09AF2567.md) · Pharmaceuticals (Basel)
+- [Enhancing G‐Quadruplex Binding: Rational Design and Biophysical Evaluation of Dimeric Ligands](papers/EVIW-6AD4B85696657A70.md) · Chemistry
+- [From Host-Derived Pressures to the Environmental Anti-Antimicrobial Peptides Resistome: Mechanisms, Reservoirs and Implications for Therapeutic Peptide Design](papers/EVIW-23609632C0117F43.md) · Mar Drugs
+- [From intuition to AI: evolution of small molecule representations in drug discovery](papers/EVIW-F7607A4022562C70.md) · Brief Bioinform
+- [Generative models for protein sequence modeling: recent advances and future directions](papers/EVIW-C230912D29890725.md) · Brief Bioinform
+- [Genomic annotation for vaccine target identification and immunoinformatics-guided multi-epitope-based vaccine design against Songling virus through screening its whole genome encoded proteins](papers/EVIW-C72D1DEC3FDA5EA4.md) · Frontiers in Immunology
+- [Harnessing generative AI for predicting and optimizing antimicrobial peptides against drug-resistant infections](papers/EVIW-7E1473BE5E2241B3.md) · NPJ Antimicrob Resist
+- [Identification of Potent Acetylcholinesterase Inhibitors as New Candidates for Alzheimer Disease via Virtual Screening, Molecular Docking, Dynamic Simulation, and Molecular Mechanics–Poisson–Boltzmann Surface Area Calculations](papers/EVIW-9F227EF489FEA803.md) · Molecules
+- [Identifying the natural products in the treatment of atherosclerosis by increasing HDL-C level based on bioinformatics analysis, molecular docking, and in vitro experiment](papers/EVIW-716ED39BC8A83E83.md) · J Transl Med
+- [Integrating computational methods guided the discovery of phytochemicals as potential Pin1 inhibitors for cancer: pharmacophore modeling, molecular docking, MM-GBSA calculations and molecular dynamics studies](papers/EVIW-E3AE76E68A51977E.md) · Front Chem
+- [Key considerations based on pharmacokinetic/pharmacodynamic in the design of antibody-drug conjugates](papers/EVIW-524CF2A3105DAD39.md) · Front Oncol
+- [Large-language models facilitate discovery of the molecular signatures regulating sleep and activity](papers/EVIW-11A654DEA4B441F3.md) · Nat Commun
+- [Lipoprotein Signal Peptide as Adjuvants: Leveraging Lipobox-Driven TLR2 Activation in Modern Vaccine Design](papers/EVIW-616A71F542DC7BE9.md) · Vaccines (Basel)
+- [Machine learning approaches for predicting protein-ligand binding sites from sequence data](papers/EVIW-3398915ED0CEE12D.md) · Front Bioinform
+- [Machine Learning Empowering Drug Discovery: Applications, Opportunities and Challenges](papers/EVIW-A8BABE8EC814634C.md) · Molecules
+- [Nature’s defense against emerging neurodegenerative threats: Dynamic simulation, PCA, DCCM identified potential plant-based antiviral lead targeting borna disease virus nucleoprotein](papers/EVIW-18035DE6B31CBCCE.md) · PLoS One
+- [One step forward towards deep-learning protein complex structure prediction by precise multiple sequence alignment construction](papers/EVIW-213FDD6F0C8EC2DA.md) · Clin Transl Med
+- [Opportunities and Challenges for Machine Learning-Assisted Enzyme Engineering](papers/EVIW-FA0D3E8C8C44A6F0.md) · ACS Cent Sci
+- [PhyloSuite v2: The development of an all-in-one, efficient and visualization-oriented suite for molecular dating analysis and other advanced features](papers/EVIW-ED9B7B2C7CD82350.md) · Imeta
+- [Precision antimicrobials: the next paradigm shift after broad-spectrum therapy](papers/EVIW-D5DF4C6464F9E9D9.md) · Front Microbiol
+- [Predicting Transcription Factor Binding Sites with Deep Learning](papers/EVIW-4DE71E4E5BC22265.md) · Int J Mol Sci
+- [Prompt-to-Pill: Multi-Agent Drug Discovery and Clinical Simulation Pipeline](papers/EVIW-9ED27D0068D38655.md) · Bioinform Adv
+- [Protein Biomarkers Shared by Multiple Neurodegenerative Diseases Are Calmodulin-Binding Proteins Offering Novel and Potentially Universal Therapeutic Targets](papers/EVIW-6FC92A0D0820C724.md) · J Clin Med
+- [Recent advances in computational antimicrobial peptide discovery through big data, modeling, and artificial intelligence and their interplay in ushering the next golden era of drug development](papers/EVIW-427FAE6AD95695BE.md) · Front Bioinform
+- [Sequence, structure prediction, and epitope analysis of the polymorphic membrane protein family in Chlamydia trachomatis](papers/EVIW-56B801568E1856E2.md) · PLoS One
+- [Shining light on drug discovery: optogenetic screening for TopBP1 biomolecular condensate inhibitors](papers/EVIW-37A7A7C4B022A4C8.md) · NAR Cancer
+- [Structure-Based Approaches for Protein-Protein Interaction Prediction Using Machine Learning and Deep Learning](papers/EVIW-45132B2221AB880D.md) · Biomolecules
+- [The promises of large language models for protein design and modeling](papers/EVIW-F8ED02A0B71D4CD5.md) · Front Bioinform
+- [The rise of big data: deep sequencing-driven computational methods are transforming the landscape of synthetic antibody design](papers/EVIW-6854B3739083B0DF.md) · J Biomed Sci
+- [The role of artificial intelligence and machine learning in predicting and combating antimicrobial resistance](papers/EVIW-0E5613C62EC99AB5.md) · Comput Struct Biotechnol J
+- [Towards a Truly General Intermolecular Binding Affinity Calculator for Drug Discovery & Design](papers/EVIW-EF3595BA7CFEACDB.md) · Preprints.org
+- [Transformer Learning in Sequence‐Based Drug Design Depends on Compound Memorization and Similarity of Sequence‐Compound Pairs](papers/EVIW-F2A47C3216EC7DEB.md) · Mol Inform
+- [Utilizing Molecular Dynamics Simulations, Machine Learning, Cryo-EM, and NMR Spectroscopy to Predict and Validate Protein Dynamics](papers/EVIW-A70BA40F241E16C8.md) · Int J Mol Sci
+- [When Protein Structure Embedding Meets Large Language Models](papers/EVIW-3C9A3952CB15CE69.md) · Genes (Basel)
+
+### 图与几何学习（43）
+
+- [A dual-branch graph neural network architecture for drug-target binding affinity prediction](papers/EVIW-2BF3EC6B2F092890.md) · Scientific Reports
+- [A Point Cloud Graph Neural Network for Protein–Ligand Binding Site Prediction](papers/EVIW-58C55EE07E03C38A.md) · Int J Mol Sci
+- [Accurate Predictions of Molecular Properties of Proteins via Graph Neural Networks and Transfer Learning](papers/EVIW-0B512807A6577C16.md) · Journal of Chemical Theory and Computation
+- [An equivariant pretrained transformer for unified 3D molecular representation learning](papers/EVIW-F050E367127F0869.md) · Nat Commun
+- [An interpretable geometric graph neural network for enhancing the generalizability of drug–target interaction prediction](papers/EVIW-A72DAED20A6AA86B.md) · BMC Biology
+- [Bitter peptide prediction using graph neural networks](papers/EVIW-6CFA93D3BCD5F547.md) · J Cheminform
+- [Complex-based Ligand-Binding Proteins Redesign by Equivariant Diffusion-based Generative Models](papers/EVIW-42DB157D2A2CDE0F.md) · bioRxiv preprint
+- [DeepRank-GNN-esm: a graph neural network for scoring protein-protein models using protein language model](papers/EVIW-15405E99B573B3CB.md) · Bioinform Adv
+- [DualPG-DTA: A Large Language Model-Powered Graph Neural Network Framework for Enhanced Drug-Target Affinity Prediction and Discovery of Novel CDK9 Inhibitors Exhibiting In Vivo Anti-Leukemia Activity](papers/EVIW-AFD057452A461D91.md) · Adv Sci (Weinh)
+- [DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model](papers/EVIW-68FC9D351A99282B.md) · Nat Commun
+- [E(3) equivariant graph neural networks for robust and accurate protein-protein interaction site prediction](papers/EVIW-B8BCB4B14D4A9325.md) · PLoS Comput Biol
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Equivariant 3D-conditional diffusion model for molecular linker design](papers/EVIW-F0A20EFF2242FD07.md) · Nature Machine Intelligence
+- [Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning](papers/EVIW-7CF69B95D1E8B3D4.md) · Journal of Cheminformatics
+- [Equivariant score-based generative diffusion framework for 3D molecules](papers/EVIW-8B626510C8E7C600.md) · BMC Bioinformatics
+- [EuDockScore: Euclidean graph neural networks for scoring protein-protein interfaces](papers/EVIW-6115D3B8DB0F3420.md) · Bioinformatics
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [Genome-scale annotation of protein binding sites via language model and geometric deep learning](papers/EVIW-75FC590582DDF68A.md) · eLife
+- [Geometric Deep Learning for Structure-Based Ligand Design](papers/EVIW-CE352CFECBC51F9B.md) · ACS Cent Sci
+- [Geometric deep learning improves generalizability of MHC-bound peptide predictions](papers/EVIW-A3D5B6B8C925B41E.md) · Commun Biol
+- [Graph neural pre-training based drug-target affinity prediction](papers/EVIW-FA386874A4FFEF44.md) · Front Genet
+- [GraphMHC: Neoantigen prediction model applying the graph neural network to molecular structure](papers/EVIW-E76131B3A3B6CCC4.md) · PLoS One
+- [GTE-PPIS: a protein-protein interaction site predictor based on graph transformer and equivariant graph neural network](papers/EVIW-1FCF26C238C374F6.md) · Brief Bioinform
+- [Identification of plant vacuole proteins by using graph neural network and contact maps](papers/EVIW-F784C77038E0FCCF.md) · BMC Bioinformatics
+- [Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction](papers/EVIW-88802DA5D524552E.md) · Nat Commun
+- [Integration of pre-trained protein language models with equivariant graph neural networks for peptide toxicity prediction](papers/EVIW-7EA3F029D887221F.md) · BMC Biology
+- [iProtDNA-SMOTE: Enhancing protein-DNA binding sites prediction through imbalanced graph neural networks](papers/EVIW-C59AE2936DFD7151.md) · PLOS ONE
+- [MPBind: a multitask protein binding site predictor using protein language models and equivariant GNNs](papers/EVIW-8D488E8314E26BBB.md) · Bioinformatics
+- [MSAT: a FAERS-informed heterogeneous graph neural network for pharmacovigilance prediction of Chinese materia medica–associated adverse drug reactions](papers/EVIW-6EDE5E961DBE531E.md) · Front Pharmacol
+- [Multi-Modal Topology-Aware Graph Neural Network for Robust Chemical–Protein Interaction Prediction](papers/EVIW-6911ECFF6567B7FE.md) · Int J Mol Sci
+- [MuToN Quantifies Binding Affinity Changes upon Protein Mutations by Geometric Deep Learning](papers/EVIW-BA8CD2D90E270D39.md) · Adv Sci (Weinh)
+- [PepLM-GNN: A graph neural network framework leveraging pre-trained language models for peptide-protein binding prediction](papers/EVIW-61A5A8AD621289CC.md) · PLoS Comput Biol
+- [PPI-Diff: De Novo Generation of Peptide Binders via Resolution-Aware Geometric Diffusion](papers/EVIW-1E14B1FE6D202679.md) · Biomolecules
+- [Predicting ADMET Properties from Molecule SMILE: A Bottom-Up Approach Using Attention-Based Graph Neural Networks](papers/EVIW-31DF9988F21F0F0B.md) · Pharmaceutics
+- [Prediction of peptide cleavage sites using protein language models and graph neural networks](papers/EVIW-7ED004814B70B027.md) · Scientific Reports
+- [Pretrainable geometric graph neural network for antibody affinity maturation](papers/EVIW-EF1A8384D5AD5106.md) · Nature Communications
+- [Protein language model-embedded geometric graphs power inter-protein contact prediction](papers/EVIW-A67BD0A05AA3B3CE.md) · eLife
+- [ProteinReDiff: Complex-based ligand-binding proteins redesign by equivariant diffusion-based generative models](papers/EVIW-A0ED9A9776557B02.md) · Struct Dyn
+- [SpatialPPIv2: Enhancing protein-protein interaction prediction through graph neural networks with protein language models](papers/EVIW-F0E393D381C5CCE0.md) · Comput Struct Biotechnol J
+- [SPIN-CGNN: Improved fixed backbone protein design with contact map-based graph construction and contact graph neural network](papers/EVIW-B62B9EA1E43384ED.md) · PLoS Comput Biol
+- [Structure-based prediction of protein-nucleic acid binding using graph neural networks](papers/EVIW-778F0D9B754DA725.md) · Biophys Rev
+- [Target-aware 3D molecular generation based on guided equivariant diffusion](papers/EVIW-1F63DC25BF8A2EFB.md) · Nature Communications
+- [Transfer learning with graph neural networks for improved molecular property prediction in the multi-fidelity setting](papers/EVIW-AC7E20846416A28D.md) · Nat Commun
+
+### 有静态审计仓库（35）
+
+- [A hybrid variational autoencoder and WGAN with gradient penalty for tertiary protein structure generation](papers/EVIW-6907C6E55D45B2C1.md) · Scientific Reports
+- [A new paradigm for applying deep learning to protein-ligand interaction prediction](papers/EVIW-5B1517D884AADDC2.md) · Brief Bioinform
+- [A Reinforcement Learning-Guided Genetic Algorithm Integrating Medicinal Chemistry-Inspired Molecular Transformations](papers/EVIW-1B989548047E5BE8.md) · J Chem Inf Model
+- [Accurate and transferable drug-target interaction prediction with DrugLAMP](papers/EVIW-81F2594343B5883B.md) · Bioinformatics
+- [AlphaFold Meets De Novo Drug Design: Leveraging Structural Protein Information in Multitarget Molecular Generative Models](papers/EVIW-820A87609D2AD16D.md) · J Chem Inf Model
+- [Automated and modular protein binder design with BinderFlow](papers/EVIW-C02982996FBD3F6A.md) · PLOS Computational Biology
+- [BoltzGen: Toward Universal Binder Design](papers/EVIW-EBBC8C147959FE4A.md) · bioRxiv
+- [BPFun: a deep learning framework for bioactive peptide function prediction using multi-label strategy by transformer-driven and sequence rich intrinsic information](papers/EVIW-6392FF2B56C99F91.md) · BMC Bioinformatics
+- [Co-design protein sequence and structure in discrete space via generative flow](papers/EVIW-E1EB5AD1AEBADA84.md) · Bioinformatics
+- [CPL‐Diff: A Diffusion Model for De Novo Design of Functional Peptide Sequences with Fixed Length](papers/EVIW-466228B7D151118B.md) · Adv Sci (Weinh)
+- [DDAffinity: predicting the changes in binding affinity of multiple point mutations using protein 3D structure](papers/EVIW-B067DEF24DEA2110.md) · Bioinformatics
+- [Deep Learning for Protein–peptide binding Prediction: Incorporating Sequence, Structural and Language Model Features](papers/EVIW-16CD02A4DB552231.md) · bioRxiv preprint
+- [DeepAVP-TPPred: identification of antiviral peptides using transformed image-based localized descriptors and binary tree growth algorithm](papers/EVIW-512C8F008B03ACB6.md) · Bioinformatics
+- [Democratizing protein language models with parameter-efficient fine-tuning](papers/EVIW-6B4C678CD5B415B8.md) · Proc Natl Acad Sci U S A
+- [E(3) equivariant graph neural networks for robust and accurate protein-protein interaction site prediction](papers/EVIW-B8BCB4B14D4A9325.md) · PLoS Comput Biol
+- [EPIC-TRACE: predicting TCR binding to unseen epitopes using attention and contextualized embeddings](papers/EVIW-B49F02FF5A100753.md) · Bioinformatics
+- [EpiScan: accurate high-throughput mapping of antibody-specific epitopes using sequence information](papers/EVIW-6DB3A28D6A381F14.md) · NPJ Syst Biol Appl
+- [EquiPNAS: improved protein–nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks](papers/EVIW-CC6659275E6EF4B3.md) · Nucleic Acids Research
+- [Expert-guided protein language models enable accurate and blazingly fast fitness prediction](papers/EVIW-DF17577005540B9D.md) · Bioinformatics
+- [FLAb: Benchmarking deep learning methods for antibody fitness prediction](papers/EVIW-E73B8F33B74E7327.md) · bioRxiv preprint
+- [FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction](papers/EVIW-5B0754E0A55357D8.md) · Bioinformatics
+- [IgPose: a generative data-augmented pipeline for robust immunoglobulin-antigen binding prediction](papers/EVIW-C1FE2E1F2F53218E.md) · Bioinformatics
+- [Multimodal pretraining for unsupervised protein representation learning](papers/EVIW-7CE21BAAD11F573D.md) · Biol Methods Protoc
+- [Pair-EGRET: enhancing the prediction of protein-protein interaction sites through graph attention networks and protein language models](papers/EVIW-2ED551432A25CE7B.md) · Bioinformatics
+- [PepCNN deep learning tool for predicting peptide binding residues in proteins using sequence, structural, and language model features](papers/EVIW-932468299F5C923F.md) · Sci Rep
+- [PGAT-ABPp: harnessing protein language models and graph attention networks for antibacterial peptide identification with remarkable accuracy](papers/EVIW-E288C151E5D5BCAF.md) · Bioinformatics
+- [PROSTATA: a framework for protein stability assessment using transformers](papers/EVIW-DE65F63CDC81659C.md) · Bioinformatics
+- [ProteinDJ: A high-performance and modular protein design pipeline](papers/BFW-18482A721FC0.md) · Protein Sci
+- [PyAMPA: a high-throughput prediction and optimization tool for antimicrobial peptides](papers/EVIW-CD77471719D184D7.md) · mSystems
+- [Reinvent 4: Modern AI-driven generative molecule design](papers/EVIW-A1D7A445A164113B.md) · J Cheminform
+- [RNA-EFM: energy-based flow matching for protein-conditioned RNA sequence-structure co-design](papers/EVIW-F532E27CA97BDB0E.md) · Bioinform Adv
+- [ROSes-FINDER: a multi-task deep learning framework for accurate prediction of microorganism reactive oxygen species scavenging enzymes](papers/EVIW-F0B134F58B588610.md) · Front Microbiol
+- [S-PLM: Structure-Aware Protein Language Model via Contrastive Learning Between Sequence and Structure](papers/EVIW-593480AEBAE04B3E.md) · Adv Sci (Weinh)
+- [Structure prediction of protein-ligand complexes from sequence information with Umol](papers/EVIW-9BE8411A125E7FEF.md) · bioRxiv preprint
+- [TemStaPro: protein thermostability prediction using sequence representations from protein language models](papers/EVIW-331087A1C5C59223.md) · Bioinformatics
+
+### 蛋白质设计（19）
+
+- [An integrative approach to protein sequence design through multiobjective optimization](papers/EVIW-6115205069F1A499.md) · PLoS Comput Biol
+- [AntiFold: improved structure-based antibody design using inverse folding](papers/EVIW-FC4F98D1EFC1712B.md) · Bioinform Adv
+- [Benchmarking antigen-aware inverse folding methods for antibody design](papers/EVIW-A1AD09D7AFFD0BA7.md) · bioRxiv preprint
+- [Benchmarking inverse folding models for antibody CDR sequence design](papers/EVIW-AEAE9AA5539B2E45.md) · PLOS ONE
+- [BioPipelines: Accessible Computational Protein and Ligand Design for Chemical Biologists](papers/EVIW-DCAF3329DD185313.md) · Comput Struct Biotechnol J
+- [Combining machine learning with structure-based protein design to predict and engineer post-translational modifications of proteins](papers/EVIW-83AD8E36CF545DE1.md) · PLoS Comput Biol
+- [Evaluating zero‐shot prediction of monomeric protein design success by AlphaFold , ESMFold , and ProteinMPNN](papers/EVIW-2B306696DD6EE567.md) · Protein Sci
+- [Graphormer supervised de novo protein design method and function validation](papers/EVIW-AEF2C8AA75D363A6.md) · Brief Bioinform
+- [Multistate and functional protein design using RoseTTAFold sequence space diffusion](papers/EVIW-1885107C07DD1242.md) · Nature Biotechnology
+- [Peptide binder design with inverse folding and protein structure prediction](papers/EVIW-A1287DC66E85C7EA.md) · Commun Chem
+- [ProT-GFDM: A generative fractional diffusion model for protein generation](papers/EVIW-1AEFB724D39999C4.md) · Computational and Structural Biotechnology Journal
+- [Protein design using structure-based residue preferences](papers/EVIW-73A3EA2A0A3BFC91.md) · Nat Commun
+- [ProteinDJ: A high-performance and modular protein design pipeline](papers/BFW-18482A721FC0.md) · Protein Sci
+- [Rationally seeded computational protein design of ɑ-helical barrels](papers/EVIW-FDA5C6B43CD436AE.md) · Nat Chem Biol
+- [Simultaneous enhancement of multiple functional properties using evolution-informed protein design](papers/EVIW-203F936780CD552A.md) · Nat Commun
+- [SPIN-CGNN: Improved fixed backbone protein design with contact map-based graph construction and contact graph neural network](papers/EVIW-B62B9EA1E43384ED.md) · PLoS Comput Biol
+- [SurfFold: a unified model for protein inverse folding by integrating surface and structural information](papers/EVIW-874EB338BB355D67.md) · Bioinformatics
+- [The promises of large language models for protein design and modeling](papers/EVIW-F8ED02A0B71D4CD5.md) · Front Bioinform
+- [Tpgen: a language model for stable protein design with a specific topology structure](papers/EVIW-B4DD900E446E25B9.md) · BMC Bioinformatics
