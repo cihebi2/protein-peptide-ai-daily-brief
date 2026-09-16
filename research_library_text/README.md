@@ -22,3 +22,9 @@
 2. 仓库仅做静态审计，未执行、未训练、未复现；静态路径不证明代码可运行。
 3. 缺少或不明确许可证的仓库/资产不可直接复用。
 4. 公开文本中不包含任何受限全文、私有材料或可执行源码。
+
+## 2026-09-16 增量：mass_review_20260916
+
+- 新增 [479 篇论文精读卡片](mass_review_20260916/PAPERS_INDEX.md)（1852 张带页码创新卡）与 [109 个仓库审计卡片](mass_review_20260916/REPOSITORIES_INDEX.md)。
+- 新增 [课题方向综合报告](mass_review_20260916/reports/topic-directions-report.md)（六个候选课题方向）与[质量审查报告](mass_review_20260916/reports/quality-audit-report.md)。
+- 批次说明与导出规则见 [EXPORT_MANIFEST](mass_review_20260916/EXPORT_MANIFEST.md)。

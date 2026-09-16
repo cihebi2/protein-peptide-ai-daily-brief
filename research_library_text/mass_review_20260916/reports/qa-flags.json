@@ -1,0 +1,939 @@
+{
+ "papers_flagged": [
+  {
+   "doi": "10.1038/s41467-023-41274-x",
+   "page": 3,
+   "flag": "page_off_or_paraphrase",
+   "quote": "the Gaussian process Bayesian optimization machine learning paradigm for developing bespoke coarse-g",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1038/s41392-024-01800-9",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "most studies on non-cullin substrates involves the use of over-expression system, making it controve",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1038/s41392-023-01576-4",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "FRCs can be further classified into functionally distinct subtypes localized to specific sites withi",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1186/s12935-024-03295-4",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "therapeutic aptamers, aptamer-drug conjugates (AptDC), aptamer-functionalized nanoparticles, and apt",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1038/s41467-023-42374-4",
+   "page": 3,
+   "flag": "paraphrase",
+   "quote": "at high KCl concentrations (500 mM) preformed condensates dissolved",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1038/s41467-024-50426-6",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "we uncover the high-order gene module formed by ErbB family and tumor factors NRG1, PPM1A and DLG2",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1093/nargab/lqae094",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "combining geometric vector perceptron graph neural networks and variant transformer decoder layers f",
+   "shard": "wave1-shard-00"
+  },
+  {
+   "doi": "10.1038/s41392-024-01823-2",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "Discovery and exploration stage (1847-1962) ... Innovation and development stage (2005-)",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.1093/nar/gkae1082",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "more than 5000 new InterPro entries have been created ... annotations for over 200 million sequences",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.1186/s12864-023-09664-z",
+   "page": 6,
+   "flag": "page_off_or_paraphrase",
+   "quote": "combines CPCProt and MLM models for protein embedding",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.1186/s40364-023-00534-0",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "their specific T cells can escape negative selection in thymus and are therefore abundant in tumor p",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.1093/nar/gkad1131",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "an innovative meta-model, hybridDBRpred, that uses deep transformer network to combine predictions g",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.3389/fimmu.2024.1293706",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "different predictors are best at predicting different alleles, which can guide the use of certain pr",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.3389/fcimb.2024.1453529",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "kaempferol exhibited the lowest binding energy, indicating a highly stable interaction with TP53",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.1038/s41467-024-52293-7",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "a notable emphasis on various specific DBDs such as Homeobox and Fork-head",
+   "shard": "wave1-shard-01"
+  },
+  {
+   "doi": "10.1093/nar/gkad1004",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "a Natural Product likeness score, updated flags for Natural Products, a new flag for Chemical Probes",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.1038/s44320-023-00005-6",
+   "page": 4,
+   "flag": "page_off_or_paraphrase",
+   "quote": "we obtained confident structural models for 21 motif classes",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.1093/nar/gkae1091",
+   "page": 3,
+   "flag": "page_off_or_paraphrase",
+   "quote": "query results organized by redundancy-reduced Groups",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.1002/advs.202401793",
+   "page": 1,
+   "flag": "ungrounded",
+   "quote": "two independent cellular targets, disrupting bacterial membrane integrity and restraining the activi",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.1002/advs.202401793",
+   "page": 4,
+   "flag": "paraphrase",
+   "quote": "SR25 at 2× MIC completely eradicated persisters, whereas colistin at 4× MIC had little effect",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.1002/advs.202401793",
+   "page": 1,
+   "flag": "ungrounded",
+   "quote": "the SR25-incorporated hydrogel exhibits high efficacy against mixed infections of Escherichia coli a",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.1002/advs.202401793",
+   "page": 4,
+   "flag": "paraphrase",
+   "quote": "we performed transcriptomic and metabolomic analyses of E. coli exposed to SR25",
+   "shard": "wave1-shard-02"
+  },
+  {
+   "doi": "10.3389/fmicb.2023.1236368",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "the main bioinformatics databases contains tens of millions of protease genes without functional ver",
+   "shard": "wave1-shard-03"
+  },
+  {
+   "doi": "10.1038/s41392-024-01952-8",
+   "page": 27,
+   "flag": "paraphrase",
+   "quote": "TolDCs pulsed with proinsulin peptide C19-A3 ... Safe and well tolerated",
+   "shard": "wave1-shard-03"
+  },
+  {
+   "doi": "10.1093/nsr/nwae339",
+   "page": 3,
+   "flag": "paraphrase",
+   "quote": "their effectiveness in large-scale virtual screening remains unproven",
+   "shard": "wave1-shard-03"
+  },
+  {
+   "doi": "10.1186/s12974-023-02914-7",
+   "page": 3,
+   "flag": "page_off_or_paraphrase",
+   "quote": "including a sex-dependent response to A-beta",
+   "shard": "wave1-shard-03"
+  },
+  {
+   "doi": "10.1093/gigascience/giae093",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "incorporates a domain discriminator conditioned on both learnable representations and predicted prob",
+   "shard": "wave1-shard-03"
+  },
+  {
+   "doi": "10.1093/gigascience/giae093",
+   "page": 3,
+   "flag": "paraphrase",
+   "quote": "The transformer first generates meta-node embeddings to interact with other residues, followed by ag",
+   "shard": "wave1-shard-03"
+  },
+  {
+   "doi": "10.3390/ijms251910821",
+   "page": 2,
+   "flag": "page_off_or_paraphrase",
+   "quote": "some public databases contain more synthetic than natural AMPs",
+   "shard": "wave1-shard-04"
+  },
+  {
+   "doi": "10.1021/acs.jctc.3c00814",
+   "page": 3,
+   "flag": "paraphrase",
+   "quote": "This beta-score reflects the maximum theoretical docking score of the beta-cluster",
+   "shard": "wave1-shard-04"
+  },
+  {
+   "doi": "10.1126/sciadv.adn4397",
+   "page": 3,
+   "flag": "page_off_or_paraphrase",
+   "quote": "yields good agreement with terahertz vibrational spectroscopy for large-scale protein-water fluctuat",
+   "shard": "wave1-shard-04"
+  },
+  {
+   "doi": "10.1038/s41467-023-42395-z",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "reprogram E3s to cooperatively bind an enzyme (PPIA), a transcription factor (TEAD4), and a transcri",
+   "shard": "wave1-shard-04"
+  },
+  {
+   "doi": "10.1186/s13059-025-03886-y",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "The model is available at GitHub (https://github.com/ABiLiLab/ENGINE) and Zenodo",
+   "shard": "wave1-shard-04"
+  },
+  {
+   "doi": "10.3389/fmolb.2024.1383453",
+   "page": 13,
+   "flag": "paraphrase",
+   "quote": "restrain the nucleation step and inhibiting fibril elongation",
+   "shard": "wave1-shard-05"
+  },
+  {
+   "doi": "10.1038/s41746-024-01043-6",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "conducting extensive sampling through experimental methods is impractical",
+   "shard": "wave1-shard-05"
+  },
+  {
+   "doi": "10.1021/acs.jcim.4c00976",
+   "page": 4,
+   "flag": "page_off_or_paraphrase",
+   "quote": "some of AF3’s complex structures have large errors, which were not captured in its ipTM performance ",
+   "shard": "wave1-shard-05"
+  },
+  {
+   "doi": "10.1021/jacs.3c10941",
+   "page": 5,
+   "flag": "paraphrase",
+   "quote": "The designs displayed improved catalytic efficiencies (kcat/Km) compared to TEVd, with up to 26-fold",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1002/advs.202304305",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "a Blank-filling Language Model for Materials (BLMM) CrystalTransformer is proposed... demonstrated u",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1002/advs.202304305",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "as high as 89.7% charge neutrality and 84.8% balanced electronegativity, which are more than four an",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1002/advs.202304305",
+   "page": 3,
+   "flag": "paraphrase",
+   "quote": "This integration of composition generation with structure prediction represents a significant advanc",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1038/s42003-023-05524-4",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "deep-learning of single-cell specific morphological phenotypes directly associated with antimicrobia",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1038/s42003-023-05524-4",
+   "page": 4,
+   "flag": "page_off_or_paraphrase",
+   "quote": "a Mask-Region based Convolutional Neural Network (RCNN) model... a DenseNet121 classifier classifies",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1002/advs.202405404",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "an MD dataset containing 3,218 different protein-ligand complexes is curated, and Dynaformer, a grap",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1002/advs.202405404",
+   "page": 3,
+   "flag": "paraphrase",
+   "quote": "the stabilities of ligands were roughly inversely correlated with binding affinities",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.1002/advs.202405404",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "the model exhibits state-of-the-art scoring and ranking power on the CASF-2016 benchmark... revealin",
+   "shard": "wave1-shard-06"
+  },
+  {
+   "doi": "10.3390/ijms25031391",
+   "page": 20,
+   "flag": "paraphrase",
+   "quote": "alpha-helix and beta-sheet structures are favourable for antimicrobial activity. The cationic nature",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1126/sciadv.adi6492",
+   "page": 1,
+   "flag": "ungrounded",
+   "quote": "a universal semisolid extrusion-based three-dimensional printing technology to fabricate an epifluid",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1126/sciadv.adi6492",
+   "page": 1,
+   "flag": "ungrounded",
+   "quote": "coupling the information collected from the e3-skin with machine learning, we were able to predict a",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1126/sciadv.adi6492",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "a minimum average line width of 160 um and a line gap down to 10 um",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1126/sciadv.adi6492",
+   "page": 8,
+   "flag": "paraphrase",
+   "quote": "with an accuracy of 90.2 and 86.6%, respectively",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1002/advs.202306724",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "uses the original non-finetuned Llama-2-13-chat model to process and clean the text content even fur",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1038/s41467-024-50235-x",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "degrade proteins localized to various subcellular compartments including the mitochondria, nucleus, ",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.1038/s41467-025-55987-8",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "In three rounds of wet-lab experimentation, we improve the yield of a desired product... from 12% to",
+   "shard": "wave1-shard-08"
+  },
+  {
+   "doi": "10.3389/fphar.2024.1444781",
+   "page": 16,
+   "flag": "paraphrase",
+   "quote": "there is an urgent need to develop effective inhibitors for class B beta-lactamases (metallo-beta-la",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1038/s41594-023-01148-8",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "glycine-serine (GS) repeats for benchmarking, because they lack hydrophobicity, charge and aromatici",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.3390/ijms252313121",
+   "page": 15,
+   "flag": "paraphrase",
+   "quote": "The design of peptidomimetics and macrocycles that can achieve oral bioavailability despite violatin",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1039/d4sc03921a",
+   "page": 30,
+   "flag": "paraphrase",
+   "quote": "the GA evolves it to a narrower distribution with a peak at 5554 m2 g-1 after only three generations",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.3389/fimmu.2024.1463931",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "we discuss the importance of data selection, feature design, and algorithm choice in determining the",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1002/adhm.202401674",
+   "page": 6,
+   "flag": "page_off_or_paraphrase",
+   "quote": "Illustrations of common fabrication techniques for bioresorbable polymers and composites",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1002/adhm.202401674",
+   "page": 18,
+   "flag": "paraphrase",
+   "quote": "in vitro models to study the tissue micro-environments and bone disease... exploited in drug screeni",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1038/s41467-023-44333-5",
+   "page": 1,
+   "flag": "page_off_or_paraphrase",
+   "quote": "changes in epistasis expose network rewiring events",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1016/j.mcpro.2024.100887",
+   "page": 2,
+   "flag": "page_off_or_paraphrase",
+   "quote": "affinity purification, proximity labeling, cross-linking, and co-fractionation mass spectrometry (MS",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.1101/2024.03.15.585128",
+   "page": 7,
+   "flag": "paraphrase",
+   "quote": "identifies known interacting positions in GB1's dynamic beta1-beta2 loop region",
+   "shard": "wave1-shard-09"
+  },
+  {
+   "doi": "10.63001/tbs.2023.v18.i03.pp233-245",
+   "page": 6,
+   "flag": "ungrounded",
+   "quote": "R(x) = w g(m) − w h(t) + ... − w Ω(σ(x))",
+   "shard": "wave2-shard-00"
+  },
+  {
+   "doi": "10.64898/2026.06.13.732058",
+   "page": 2,
+   "flag": "page_off_or_paraphrase",
+   "quote": "a design with KD = 0.132 nM ... a 2.8-fold improvement over the competition winner",
+   "shard": "wave2-shard-00"
+  },
+  {
+   "doi": "10.1101/2024.12.19.629497",
+   "page": 30,
+   "flag": "page_off_or_paraphrase",
+   "quote": "T-ALPHA achieves an RMSE of 0.969, significantly outperforming all other models",
+   "shard": "wave2-shard-00"
+  },
+  {
+   "doi": "10.1101/2025.08.05.668775",
+   "page": 5,
+   "flag": "paraphrase",
+   "quote": "offline active learning using a DMS benchmark dataset and online active learning that includes mutan",
+   "shard": "wave2-shard-00"
+  },
+  {
+   "doi": "10.64898/2026.05.23.727225",
+   "page": 9,
+   "flag": "paraphrase",
+   "quote": "3D MGAE pretrained graph data fusion along with 1D sequence data LORA finetuned on ESM-2",
+   "shard": "wave2-shard-01"
+  },
+  {
+   "doi": "10.1101/2025.09.24.678312",
+   "page": 4,
+   "flag": "paraphrase",
+   "quote": "screening 10 billion compounds in 0.23 years on a single CPU core, compared to 3,000 years by dockin",
+   "shard": "wave2-shard-01"
+  },
+  {
+   "doi": "10.64898/2026.07.11.737913",
+   "page": 8,
+   "flag": "page_off_or_paraphrase",
+   "quote": "PFM generates molecules with... state-of-the-art (SOTA) binding affinities... achieving an Avg. of -",
+   "shard": "wave2-shard-02"
+  },
+  {
+   "doi": "10.64898/2026.02.06.704305",
+   "page": 3,
+   "flag": "page_off_or_paraphrase",
+   "quote": "We curate large-scale ligand–protein datasets (>17M ligand-protein pairs) covering different data re",
+   "shard": "wave2-shard-02"
+  },
+  {
+   "doi": "10.64898/2026.08.08.743505",
+   "page": 2,
+   "flag": "paraphrase",
+   "quote": "uses BRICS drug fragments and Pfam protein domains as basic interaction units",
+   "shard": "wave2-shard-03"
+  },
+  {
+   "doi": "10.64898/2026.01.17.700115",
+   "page": 5,
+   "flag": "paraphrase",
+   "quote": "It can in principle account for entropic contributions",
+   "shard": "wave2-shard-03"
+  },
+  {
+   "doi": "10.64898/2026.01.17.700115",
+   "page": 6,
+   "flag": "paraphrase",
+   "quote": "a model's capacity to generalize can be greatly overestimated if data leakage ... is not explicitly ",
+   "shard": "wave2-shard-03"
+  },
+  {
+   "doi": "10.1101/2025.06.13.659451",
+   "page": 8,
+   "flag": "page_off_or_paraphrase",
+   "quote": "we assess whether the SELFIES strings can be converted into valid proteins, and categorize their ami",
+   "shard": "wave2-shard-03"
+  },
+  {
+   "doi": "10.1101/2024.03.14.584934",
+   "page": 5,
+   "flag": "page_off_or_paraphrase",
+   "quote": "design several de novo peptide binders to engage Plasmodium falciparum erythrocyte membrane protein ",
+   "shard": "wave2-shard-04"
+  },
+  {
+   "doi": "10.64898/2026.02.26.708362",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "Integrating over 3 million protein pockets and 5 million molecules... dual E(3)-equivariant graph Tr",
+   "shard": "wave2-shard-04"
+  },
+  {
+   "doi": "10.64898/2026.06.09.730151",
+   "page": 1,
+   "flag": "paraphrase",
+   "quote": "Boltzmann ceiling analysis shows 45.9% of mutations are near-neutral... bounding theoretical maximum",
+   "shard": "wave2-shard-04"
+  }
+ ],
+ "repo_paths_flagged": [
+  {
+   "repo": "bz99bz/m-3",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "Dataset/readme.md（大数据集经 Google Drive/HuggingFace/百度云 下载）"
+  },
+  {
+   "repo": "tyang816/protrem",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "script/get_sav.py"
+  },
+  {
+   "repo": "0answer0/slerpflow",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "run_slerp 系列重建/编辑脚本"
+  },
+  {
+   "repo": "2760613195/km_unet",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "outputs/{busi"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "performance_evaluation.ipynb"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "performance_evaluation.ipynb"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "task1_baselines/results_summary"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "task2_baselines/results_summary"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "field": "docs",
+   "flag": "path_not_on_disk",
+   "path": "README.md"
+  },
+  {
+   "repo": "wanglabhku/msf-cpmp",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "src/machine_learning/svm.py"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "original_kqa.py / original_oqa.py / original_tqa.py"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "rewrite_kqa.py / rewrite_oqa.py / rewrite_tqa.py"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "generate_dpo_kqa.py / generate_dpo_oqa.py / generate_dpo_tqa.py"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "test_kqa.py / test_oqa.py / test_tqa.py"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "datasets/OQA/oasst1_{train"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "datasets/TruthfulQA/finetune_{info"
+  },
+  {
+   "repo": "56kd/mulitmodaldepressiondetection",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "audio_it_predictions.txt / text_rt_predictions.txt 等 4 份预测输出"
+  },
+  {
+   "repo": "abdelazizhussein/mw-inner-dm-profile",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "各 notebook 直接加载同目录 .npy 数组"
+  },
+  {
+   "repo": "aaandy-zhu/tablevlm",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "evaluation/eval.sh"
+  },
+  {
+   "repo": "aaandy-zhu/tablevlm",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "TableGLS/src/eval_mmtab_vllm_tablegls_stage1-3.py"
+  },
+  {
+   "repo": "cq-zhang-2016/speclig",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "scripts/metrics/peptide"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "stab_ESM-IF.ipynb"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "paper_SI/dG_pred_SI.ipynb"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "paper_SI/exp_scores"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "paper_SI/dssp_pred"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "paper_SI/dG_pred_SI.ipynb"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "paper_SI/tsuboyama2023"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "paper_SI/maxwell2005"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "field": "docs",
+   "flag": "path_not_on_disk",
+   "path": "README.md"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "inference.py"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "pretrain_masking.py"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "trainer.py"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "data/eval"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "data/pretrained"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "data/further_training"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "splitters.py"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "data/eval/statistics.py"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "configs/test.yaml"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "configs/bbbp.json"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "configs/esol.json"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "docs",
+   "flag": "path_not_on_disk",
+   "path": "README.md"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "docs",
+   "flag": "path_not_on_disk",
+   "path": "inference/README.md"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "field": "docs",
+   "flag": "path_not_on_disk",
+   "path": "environment.yaml"
+  },
+  {
+   "repo": "borgwardtlab/pst",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "experiments/finetune/finetune_gearnet.py"
+  },
+  {
+   "repo": "borgwardtlab/pst",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "experiments/finetune"
+  },
+  {
+   "repo": "shphoebus/druglm",
+   "field": "data_loaders",
+   "flag": "path_not_on_disk",
+   "path": "LM_finetune/finetune_bge|e5|gte/runner.py+trainer.py"
+  },
+  {
+   "repo": "wwzll123/esm-nbr",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "ESM-NBR-standalone.zip 内 prediction.py"
+  },
+  {
+   "repo": "wwzll123/esm-nbr",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "dataset/ 内置测试集"
+  },
+  {
+   "repo": "wwzll123/esm-nbr",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "suppl-ESM-NBR.pdf"
+  },
+  {
+   "repo": "xiaolin-yang-s/gasi-dta",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "Davis/KIBA 基准交叉验证与训练测试"
+  },
+  {
+   "repo": "1anj/deepmolm",
+   "field": "entry_points",
+   "flag": "path_not_on_disk",
+   "path": "scripts/run_stage2_finetune_specialist_pubchem_prop.sh"
+  },
+  {
+   "repo": "95ly/cmcl-ddi",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "train.py 内含 roc_auc/average_precision/f1 等评估逻辑"
+  },
+  {
+   "repo": "abhi1kumar/seabird",
+   "field": "benchmarks_evals",
+   "flag": "path_not_on_disk",
+   "path": "KITTI-360 / nuScenes 榜单评测"
+  }
+ ],
+ "license_flags": [
+  {
+   "repo": "yds-pharmatech/fksfold-boltz",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "mit（readme 声明；仓库内无独立 license 文件）"
+  },
+  {
+   "repo": "a-evo-lab/a-evolve",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "mit（readme 徽章声明；仓库根未见 license 文件）"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "mit"
+  },
+  {
+   "repo": "minkaixu/alidiff",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "mit"
+  },
+  {
+   "repo": "rafalkarczewski/simplesbdd",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "none（顶层无 license；仅 moflow/ 子目录带 license.md）"
+  },
+  {
+   "repo": "3244we/question-rewriter",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "none（顶层无 license；仅 direct-preference-optimization/ 子目录带原 dpo 仓库许可）"
+  },
+  {
+   "repo": "kull-centre/_2024_cagiada_stability",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "apache-2.0"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "apache-2.0"
+  },
+  {
+   "repo": "3biocompbio/abagym",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "自定义非商用（readme 声明 non-commercial use only，无标准 license 文件）"
+  },
+  {
+   "repo": "bunnybeibei/gexmolgen",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "none（根目录无 license；hgraph/ 子目录携带上游 hiervae 的 mit）"
+  },
+  {
+   "repo": "aalto-quml/pipe",
+   "flag": "license_recorded_but_no_file_maybe_readme_declared",
+   "recorded": "none（顶层无 license；上游 rephine/spe 各自的许可需分别查看）"
+  }
+ ],
+ "summary": {
+  "papers_reviewed": 479,
+  "cards_total": 1852,
+  "cards_verified_exact_or_fuzzy": 1774,
+  "cards_flagged": 78,
+  "cards_likely_ungrounded": 5,
+  "repos_audited": 109,
+  "repo_path_entries": 1287,
+  "repo_paths_verified": 1234,
+  "repo_paths_flagged": 53,
+  "license_flags": 11
+ }
+}
