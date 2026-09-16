@@ -101,3 +101,17 @@
 > 许可证缺失或不明确：不要将其中代码、数据或模型作为可直接复用资源。
 
 > 发布边界：路径和摘要来自 commit 固定的静态盘点，不代表代码可运行、训练可复现或许可证兼容。
+
+## 2026-09-16 复审补充（mass-review 批次）
+
+- **复用度（复审）：** high —— 完整 LoRA 微调+合并+Gradio 推理+评测脚本链，训练数据集(MolOpt-Instructions)与模型权重(DrugAssist-7B)均在 HuggingFace 公开，开箱可跑
+- **许可证（复审）：** none
+- **能力（复审）：** training_pipeline、inference、benchmark
+
+**课题关联：**
+
+- C007
+
+**与论文/课题的组合方式：**
+
+- 可将其指令微调范式迁移到 AMP/肽条件优化：用自建肽属性指令集替换 MolOpt-Instructions，复用 run_sft_lora 与 evaluate 脚本快速搭建 LLM 肽优化基线，与扩散/生成模型对比。

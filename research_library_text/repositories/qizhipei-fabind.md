@@ -30,3 +30,21 @@
 - 训练/验证/测试原始数据是否完全未随仓库冻结，还是仅未出现在 tracked inventory 中。
 
 > 发布边界：路径和摘要来自 commit 固定的静态盘点，不代表代码可运行、训练可复现或许可证兼容。
+
+## 2026-09-16 复审补充（mass-review 批次）
+
+- **复用度（复审）：** high —— 训练+推理+测试代码齐全，权重（HuggingFace）与预处理数据（Zenodo）均公开可下载，含推理示例与数据划分
+- **许可证（复审）：** MIT
+- **能力（复审）：** training_pipeline、inference、benchmark、data_loader
+
+**课题关联：**
+
+- C016
+- C008
+- C010
+
+**与论文/课题的组合方式：**
+
+- 作为 C016 docking 课题的快速强基线引擎（端到端秒级对接）
+- FABind+ 的 confidence 回归头与 train_confidence.py 可用于 C010 校准弃权课题（姿态置信度→选择性预测）
+- 在 PDBBind 基准上的标准化评测流程可用于 C008 基准校准对比

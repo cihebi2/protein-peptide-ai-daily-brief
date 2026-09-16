@@ -1,6 +1,9 @@
 # 论文索引
 
-共 627 篇公开可发布的派生论文摘要。
+
+共 1106 篇：2026-09-06 基础语料 627 篇 + 2026-09-16 mass-review 批次 479 篇（两批 DOI 零重叠）。
+
+## 基础语料（2026-09-06，627 篇）
 
 ## 按标签浏览
 
@@ -2694,3 +2697,486 @@
 - [SurfFold: a unified model for protein inverse folding by integrating surface and structural information](papers/EVIW-874EB338BB355D67.md) · Bioinformatics
 - [The promises of large language models for protein design and modeling](papers/EVIW-F8ED02A0B71D4CD5.md) · Front Bioinform
 - [Tpgen: a language model for stable protein design with a specific topology structure](papers/EVIW-B4DD900E446E25B9.md) · BMC Bioinformatics
+
+
+## mass-review 批次（2026-09-16，479 篇）
+
+- [10.1101/2024.12.19.629497](papers/10.1101_2024.12.19.629497.md) —— T-ALPHA: A Hierarchical Transformer-Based Deep Neural Network for Protein-Ligand
+- [10.63001/tbs.2023.v18.i03.pp233-245](papers/10.63001_tbs.2023.v18.i03.pp233-245.md) —— Generative Diffusion–Reinforcement Framework with Protein Language Model Conditi
+- [10.1093/gigascience/giae093](papers/10.1093_gigascience_giae093.md) —— Learning a generalized graph transformer for protein function prediction in diss
+- [10.11648/j.cbb.20261401.14](papers/10.11648_j.cbb.20261401.14.md) —— Integrated Machine Learning-based Toxicity Prediction with Molecular Docking for
+- [10.1038/s41598-026-35102-7](papers/10.1038_s41598-026-35102-7.md) —— A physics-informed graph neural network to approximate docking-based binding aff
+- [10.1101/2023.12.04.569776](papers/10.1101_2023.12.04.569776.md) —— Improving generalizability for MHC-I binding peptide predictions through geometr
+- [10.1093/bioinformatics/btae031](papers/10.1093_bioinformatics_btae031.md) —— Insights into the inner workings of transformer models for protein function pred
+- [10.64898/2026.05.23.727225](papers/10.64898_2026.05.23.727225.md) —— GraphTox: A Semi-Supervised Pre-Trained Framework for Peptide Toxicity Predictio
+- [10.26565/2220-637x-2025-44-06](papers/10.26565_2220-637x-2025-44-06.md) —— Studying Ligand-Protein Interactions in the Era of Artificial Intelligence: Benc
+- [10.64898/2026.01.20.700468](papers/10.64898_2026.01.20.700468.md) —— AMPBAN: A Deep Learning Framework Integrating Protein Sequence and Structural Fe
+- [10.1101/2023.09.25.559190](papers/10.1101_2023.09.25.559190.md) —— Generative Diffusion Models for Antibody Design, Docking, and Optimization
+- [10.1093/bioinformatics/btae571](papers/10.1093_bioinformatics_btae571.md) —— TAWFN: a deep learning framework for protein function prediction
+- [10.1101/2023.12.08.570889](papers/10.1101_2023.12.08.570889.md) —— IgDesign: In vitro validated antibody design against multiple therapeutic antige
+- [10.1101/2025.04.28.650973](papers/10.1101_2025.04.28.650973.md) —— Fast and Accurate Peptide–MHC Structure Prediction via an Equivariant Diffusion 
+- [10.1016/j.csbj.2025.04.002](papers/10.1016_j.csbj.2025.04.002.md) —— ToxDL 2.0: Protein toxicity prediction using a pretrained language model and gra
+- [10.1101/2025.07.16.665042](papers/10.1101_2025.07.16.665042.md) —— De novo design of functionally diverse and druggable antimicrobial peptides by d
+- [10.1021/acs.iecr.4c00401](papers/10.1021_acs.iecr.4c00401.md) —— Surfactant-Specific AI-Driven Molecular Design: Integrating Generative Models, P
+- [10.1101/2025.07.31.667780](papers/10.1101_2025.07.31.667780.md) —— Design of peptides with non-canonical amino acids using flow matching
+- [10.3389/fcimb.2024.1453529](papers/10.3389_fcimb.2024.1453529.md) —— Combining network pharmacology, machine learning, molecular docking and molecula
+- [10.1101/2024.02.10.579791](papers/10.1101_2024.02.10.579791.md) —— Proteus: Exploring Protein Structure Generation for Enhanced Designability and E
+- [10.1038/s42003-023-05610-7](papers/10.1038_s42003-023-05610-7.md) —— Multi-domain and complex protein structure prediction using inter-domain interac
+- [10.1101/2025.05.19.654846](papers/10.1101_2025.05.19.654846.md) —— RareFold: Structure prediction and design of proteins with noncanonical amino ac
+- [10.1101/2023.10.09.561603](papers/10.1101_2023.10.09.561603.md) —— Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom
+- [10.1101/2023.11.28.568945](papers/10.1101_2023.11.28.568945.md) —— Protein Design by Directed Evolution Guided by Large Language Models
+- [10.1093/nargab/lqae094](papers/10.1093_nargab_lqae094.md) —— PANDA-3D: protein function prediction based on AlphaFold models
+- [10.1093/bioinformatics/btad712](papers/10.1093_bioinformatics_btad712.md) —— DeepFold: enhancing protein structure prediction through optimized loss function
+- [10.1101/2025.03.09.642277](papers/10.1101_2025.03.09.642277.md) —— Benchmarking AlphaFold3-like Methods for Protein-Peptide Complex Prediction
+- [10.1101/2023.09.11.556673](papers/10.1101_2023.09.11.556673.md) —— Protein generation with evolutionary diffusion: sequence is all you need
+- [10.51847/yya2shcyj9](papers/10.51847_yya2shcyj9.md) —— Co-Designing Proteins, Ligands, Binding Interfaces, and Molecular Assemblies thr
+- [10.64898/2026.03.22.713519](papers/10.64898_2026.03.22.713519.md) —— AI-guided design of candidate BMPR1A-binding peptides for cartilage regeneration
+- [10.1371/journal.pone.0295805](papers/10.1371_journal.pone.0295805.md) —— A comprehensive framework for advanced protein classification and function predi
+- [10.1101/2024.03.26.586756](papers/10.1101_2024.03.26.586756.md) —— Simple computational methods can outperform deep learning in designing diverse, 
+- [10.1101/2023.12.06.570473](papers/10.1101_2023.12.06.570473.md) —— ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric
+- [10.64898/2026.01.05.697819](papers/10.64898_2026.01.05.697819.md) —— Protein Language Models and Structure-Based Machine Learning for Prediction of A
+- [10.1101/2023.11.06.565922](papers/10.1101_2023.11.06.565922.md) —— Sample-efficient Antibody Design through Protein Language Model for Risk-aware B
+- [10.1101/2023.12.10.570461](papers/10.1101_2023.12.10.570461.md) —— DSMBind: SE(3) denoising score matching for unsupervised binding energy predicti
+- [10.64898/2026.08.08.743505](papers/10.64898_2026.08.08.743505.md) —— DQHTFI: Dynamic-Query Hypergraph Transformer for Fine-Grained Drug–Target Intera
+- [10.64898/2026.08.24.746660](papers/10.64898_2026.08.24.746660.md) —— A multimodal representation learning platform for accurate molecular ADMET predi
+- [10.1186/s12859-024-05714-9](papers/10.1186_s12859-024-05714-9.md) —— StackDPP: a stacking ensemble based DNA-binding protein prediction model
+- [10.1101/2024.04.01.587572](papers/10.1101_2024.04.01.587572.md) —— PROTGOAT: Improved automated protein function predictions using Protein Language
+- [10.1063/5.0176000](papers/10.1063_5.0176000.md) —— Prediction of stability constants of metal–ligand complexes by machine learning 
+- [10.1101/2023.12.15.571823](papers/10.1101_2023.12.15.571823.md) —— Structure-conditioned masked language models for protein sequence design general
+- [10.1186/s13059-025-03886-y](papers/10.1186_s13059-025-03886-y.md) —— A scalable equivariant graph network framework for precise protein function pred
+- [10.64898/2026.04.10.717613](papers/10.64898_2026.04.10.717613.md) —— Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Desig
+- [10.1101/2025.05.10.653107](papers/10.1101_2025.05.10.653107.md) —— MedSAGE: Bridging Generative AI and Medicinal Chemistry for Structure-Based Desi
+- [10.1038/s41467-024-52293-7](papers/10.1038_s41467-024-52293-7.md) —— Improving prediction performance of general protein language model by domain-ada
+- [10.3389/fimmu.2024.1335446](papers/10.3389_fimmu.2024.1335446.md) —— Highly heterogenous humoral immune response in Lyme disease patients revealed by
+- [10.3389/fphar.2024.1369403](papers/10.3389_fphar.2024.1369403.md) —— MASMDDI: multi-layer adaptive soft-mask graph neural network for drug-drug inter
+- [10.64898/2026.01.20.700530](papers/10.64898_2026.01.20.700530.md) —— ARID-sf: A physics-informed Deep Learning scoring function to improve Antibody-A
+- [10.64898/2026.03.21.713424](papers/10.64898_2026.03.21.713424.md) —— Generative Deep Learning and Molecular Dynamics Reveal Design Principles for Amy
+- [10.66163/jokohtu.1889565](papers/10.66163_jokohtu.1889565.md) —— MindNexQua: An Autonomous Generative AI Framework for De Novo Drug Design and In
+- [10.1101/2025.04.12.648497](papers/10.1101_2025.04.12.648497.md) —— Whole-genome prediction of bacterial pathogenic capacity on novel bacteria using
+- [10.1038/s41598-023-49003-6](papers/10.1038_s41598-023-49003-6.md) —— Molecular data representation based on gene embeddings for cancer drug response 
+- [10.1101/2025.07.23.666285](papers/10.1101_2025.07.23.666285.md) —— Generative Design of High-Affinity Peptides Using BindCraft
+- [10.1101/2024.01.02.573846](papers/10.1101_2024.01.02.573846.md) —— De novo multi-mechanism antimicrobial peptide design via multimodal deep learnin
+- [10.1371/journal.pone.0304798](papers/10.1371_journal.pone.0304798.md) —— Deep graph contrastive learning model for drug-drug interaction prediction
+- [10.1186/s12859-025-06081-9](papers/10.1186_s12859-025-06081-9.md) —— Comparative Assessment of Protein Large Language Models for Enzyme Commission Nu
+- [10.1101/2025.09.23.678079](papers/10.1101_2025.09.23.678079.md) —— Pocket-based molecule generation with an SE(3)-equivariant language model leads 
+- [10.5281/zenodo.20000888](papers/10.5281_zenodo.20000888.md) —— AI-Based Platform for Drug-Pathogen Molecular Interaction Analysis: A Full-Stack
+- [10.1101/2024.03.01.582176](papers/10.1101_2024.03.01.582176.md) —— Novel antibody language model accelerates IgG screening and design for broad-spe
+- [10.1101/2024.03.14.584934](papers/10.1101_2024.03.14.584934.md) —— A Hybrid Diffusion Model for Stable, Affinity-Driven, Receptor-Aware Peptide Gen
+- [10.64898/2026.06.09.730151](papers/10.64898_2026.06.09.730151.md) —— Multi-Scale Machine Learning for Antibody-Antigen Binding Affinity Prediction Us
+- [10.1101/2025.06.04.657800](papers/10.1101_2025.06.04.657800.md) —— Advancing Ligand Binding Affinity Prediction with Cartesian Tensor-Based Deep Le
+- [10.1101/2025.09.01.673427](papers/10.1101_2025.09.01.673427.md) —— PepCCD: A Contrastive Conditioned Diffusion Framework for Target-Specific Peptid
+- [10.1172/jci185430](papers/10.1172_jci185430.md) —— Antimicrobial peptide developed with machine learning sequence optimization targ
+- [10.1101/2025.06.21.660895](papers/10.1101_2025.06.21.660895.md) —— Protein Language Model Based Structure-guided Antibody Screening for Disordered 
+- [10.64898/2026.06.13.732058](papers/10.64898_2026.06.13.732058.md) —— ProtAff: Protein Binding Affinity Prediction via LoRA-Finetuned ESM-2
+- [10.1101/2025.06.30.662407](papers/10.1101_2025.06.30.662407.md) —— Uncertainty-Aware Discrete Diffusion Improves Protein Design
+- [10.64898/2026.07.11.737913](papers/10.64898_2026.07.11.737913.md) —— PFM: perturbed flow matching for structure-based drug design
+- [10.64898/2026.06.07.730716](papers/10.64898_2026.06.07.730716.md) —— Combinatorial docking and molecular generation to navigate over 100-billion mole
+- [10.64898/2026.01.17.700115](papers/10.64898_2026.01.17.700115.md) —— SE3Bind: SE(3)-equivariant model for antibody-antigen binding affinity predictio
+- [10.1093/bioinformatics/btae655](papers/10.1093_bioinformatics_btae655.md) —— InterLabelGO+: unraveling label correlations in protein function prediction
+- [10.1101/2023.09.17.558145](papers/10.1101_2023.09.17.558145.md) —— PSICHIC: physicochemical graph neural network for learning protein-ligand intera
+- [10.1186/s13073-025-01450-8](papers/10.1186_s13073-025-01450-8.md) —— Predicting MHC-I ligands across alleles and species: how far can we go?
+- [10.3389/fphar.2025.1589788](papers/10.3389_fphar.2025.1589788.md) —— Improving drug-drug interaction prediction via in-context learning and judging w
+- [10.64898/2026.01.12.699173](papers/10.64898_2026.01.12.699173.md) —— Protein-peptide Interaction Representation Learning with Pretrained Language Mod
+- [10.1101/2024.03.18.585651](papers/10.1101_2024.03.18.585651.md) —— All-atom protein sequence design based on geometric deep learning
+- [10.1101/2025.07.09.657250](papers/10.1101_2025.07.09.657250.md) —— DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by In
+- [10.3390/ma17020319](papers/10.3390_ma17020319.md) —— Polymersomes as the Next Attractive Generation of Drug Delivery Systems: Definit
+- [10.1016/j.jconrel.2024.06.045](papers/10.1016_j.jconrel.2024.06.045.md) —— Machine learning in drug delivery
+- [10.1101/2025.10.20.683353](papers/10.1101_2025.10.20.683353.md) —— ANUBI: A Platform for Affinity Optimization of Proteins and Peptides in Drug Des
+- [10.1101/2025.08.05.668775](papers/10.1101_2025.08.05.668775.md) —— ALLM-Ab: Active Learning-Driven Antibody Optimization Using Fine-tuned Protein L
+- [10.64898/2026.03.14.711748](papers/10.64898_2026.03.14.711748.md) —— Single-Pass Discrete Diffusion Predicts High-Affinity Peptide Binders at >1,000 
+- [10.1101/2023.10.01.560349](papers/10.1101_2023.10.01.560349.md) —— SaProt: Protein Language Modeling with Structure-aware Vocabulary
+- [10.1101/2025.09.24.678312](papers/10.1101_2025.09.24.678312.md) —— Small Molecule Approach to RNA Targeting Binder Discovery (SMARTBind) Using Deep
+- [10.1101/2025.11.06.687093](papers/10.1101_2025.11.06.687093.md) —— SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligand Design
+- [10.1101/2023.10.17.562827](papers/10.1101_2023.10.17.562827.md) —— De novo generation of antibody CDRH3 with a pre-trained generative large languag
+- [10.1101/2024.02.09.579590](papers/10.1101_2024.02.09.579590.md) —— Prediction of protein-carbohydrate binding sites from protein primary sequence
+- [10.1101/2025.07.28.667130](papers/10.1101_2025.07.28.667130.md) —— MSF-CPMP: A Novel Multi-Source Feature Fusion Model for Cyclic Peptide Membrane 
+- [10.1101/2023.12.20.572602](papers/10.1101_2023.12.20.572602.md) —— De novo design of diverse small molecule binders and sensors using Shape Complem
+- [10.51847/x5pk88ln9y](papers/10.51847_x5pk88ln9y.md) —— Diffusion Models for Macrocyclic Peptide Design Using Stability, Permeability, a
+- [10.64898/2026.02.26.708362](papers/10.64898_2026.02.26.708362.md) —— MolX: A Geometric Foundation Model for Protein-Ligand Modelling
+- [10.1101/2023.12.31.573750](papers/10.1101_2023.12.31.573750.md) —— Peptide generative design with weakly order-dependent autoregressive language mo
+- [10.3390/ijms242115656](papers/10.3390_ijms242115656.md) —— Effective Local and Secondary Protein Structure Prediction by Combining a Neural
+- [10.1101/2023.11.22.568230](papers/10.1101_2023.11.22.568230.md) —— Guiding diffusion models for antibody sequence and structure co-design with deve
+- [10.3389/fcvm.2024.1286620](papers/10.3389_fcvm.2024.1286620.md) —— Exploring the effects of calycosin on anthracycline-induced cardiotoxicity: a ne
+- [10.64898/2026.02.09.704773](papers/10.64898_2026.02.09.704773.md) —— A Systematic Benchmark for Peptide Property Prediction
+- [10.1101/2023.10.03.560728](papers/10.1101_2023.10.03.560728.md) —— Sequence-based Protein-Protein Interaction Prediction Using Multi-kernel Deep Co
+- [10.1101/2025.09.26.678877](papers/10.1101_2025.09.26.678877.md) —— mBER: Controllable de novo antibody design with million-scale experimental scree
+- [10.25163/angiotherapy.8109996](papers/10.25163_angiotherapy.8109996.md) —— De Novo Molecular Generation Augmentation for Drug Discovery Using Deep Learning
+- [10.1101/2025.05.13.653702](papers/10.1101_2025.05.13.653702.md) —— AI-Guided Discovery of LDHA Inhibitors Targeting Cancer Metabolism Using Machine
+- [10.64898/2025.12.19.695431](papers/10.64898_2025.12.19.695431.md) —— ProFam: Open-Source Protein Family Language Modelling for Fitness Prediction and
+- [10.1038/s42256-023-00721-6](papers/10.1038_s42256-023-00721-6.md) —— A method for multiple-sequence-alignment-free protein structure prediction using
+- [10.1126/science.ado9336](papers/10.1126_science.ado9336.md) —— Sequence modeling and design from molecular to genome scale with Evo
+- [10.64898/2026.04.18.716776](papers/10.64898_2026.04.18.716776.md) —— sdAbs-LLM: Generative Large Language Models For de novo Antibody Design and Agen
+- [10.64898/2026.07.09.736951](papers/10.64898_2026.07.09.736951.md) —— Hybrid quantum-classical de novo design of MHC-binding peptides
+- [10.64388/irev10i2-1722326](papers/10.64388_irev10i2-1722326.md) —— A Computational Framework for Erythropoietin Protein Synthesis and Optimization:
+- [10.1101/2025.07.10.664242](papers/10.1101_2025.07.10.664242.md) —— Metalorian: De Novo Generation of Heavy Metal-Binding Peptides with Classifier-G
+- [10.1101/2025.04.10.648084](papers/10.1101_2025.04.10.648084.md) —— A Benchmarking Platform for Assessing Protein Language Models on Function-relate
+- [10.1101/2023.09.13.557505](papers/10.1101_2023.09.13.557505.md) —— Improving antibody affinity using laboratory data with language model guided des
+- [10.64898/2026.07.30.741752](papers/10.64898_2026.07.30.741752.md) —— MHChron: diversity-balanced dataset design for robust peptide–MHC binding predic
+- [10.1101/2023.09.13.557595](papers/10.1101_2023.09.13.557595.md) —— MocFormer: A Two-Stage Pre-training-Driven Transformer for Drug-Target Interacti
+- [10.1007/s11704-024-31063-0](papers/10.1007_s11704-024-31063-0.md) —— Application of machine learning in drug side effect prediction: databases, metho
+- [10.1093/bib/bbae349](papers/10.1093_bib_bbae349.md) —— A large-scale assessment of sequence database search tools for homology-based pr
+- [10.1101/2025.03.03.640802](papers/10.1101_2025.03.03.640802.md) —— Machine learning for optimal growth temperature prediction of prokaryotes using 
+- [10.1101/2023.10.18.562845](papers/10.1101_2023.10.18.562845.md) —— De novo generation of T-cell receptors with desired epitope-binding property by 
+- [10.1101/2024.09.10.612367](papers/10.1101_2024.09.10.612367.md) —— Prediction of Protein Half-lives from Amino Acid Sequences by Protein Language M
+- [10.1186/s12859-025-06059-7](papers/10.1186_s12859-025-06059-7.md) —— SEGT-GO: a graph transformer method based on PPI serialization and explanatory a
+- [10.48084/etasr.6855](papers/10.48084_etasr.6855.md) —— Transformer Encoder with Protein Language Model for Protein Secondary Structure 
+- [10.1038/s42003-023-05476-9](papers/10.1038_s42003-023-05476-9.md) —— Domain-PFP allows protein function prediction using function-aware domain embedd
+- [10.1101/2025.05.02.651993](papers/10.1101_2025.05.02.651993.md) —— Functional alignment of protein language models via reinforcement learning
+- [10.1002/prot.26614](papers/10.1002_prot.26614.md) —— Challenges in bridging the gap between protein structure prediction and function
+- [10.3390/life14020233](papers/10.3390_life14020233.md) —— Integrating Artificial Intelligence for Drug Discovery in the Context of Revolut
+- [10.34133/research.1149](papers/10.34133_research.1149.md) —— Antimicrobial Peptides as Cross-Seeding Modulators at the Neurodegenerative–Infe
+- [10.64898/2026.03.17.712483](papers/10.64898_2026.03.17.712483.md) —— ST-PARM: Pareto-Complete Inference-Time Alignment for Multi-Objective Protein De
+- [10.64898/2026.06.10.731501](papers/10.64898_2026.06.10.731501.md) —— Generative Drug Design in a Loop with dtSFM
+- [10.1101/2025.05.03.651455](papers/10.1101_2025.05.03.651455.md) —— FKSFold: Improving AlphaFold3-Type Predictions of Molecular Glue–Induced Ternary
+- [10.64898/2026.01.23.701298](papers/10.64898_2026.01.23.701298.md) —— ProChoreo: de novo Binder Design from Conformational Ensembles with Generative D
+- [10.64898/2026.02.06.704305](papers/10.64898_2026.02.06.704305.md) —— Generalise or Memorise? Benchmarking Ligand-Conditioned Protein Generation from 
+- [10.1101/2025.10.16.682644](papers/10.1101_2025.10.16.682644.md) —— peleke-1: A Suite of Protein Language Models Fine-Tuned for Targeted Antibody Se
+- [10.1101/2025.06.13.659451](papers/10.1101_2025.06.13.659451.md) —— All-Atom Protein Sequence Design using Discrete Diffusion Models
+- [10.64898/2026.01.28.702257](papers/10.64898_2026.01.28.702257.md) —— Seq2Pocket: Augmenting protein language models for spatially consistent binding 
+- [10.1101/2025.05.06.652551](papers/10.1101_2025.05.06.652551.md) —— GeoFlow-V2: A Unified Atomic Diffusion Model for Protein Structure Prediction an
+- [10.1093/bib/bbag277](papers/10.1093_bib_bbag277.md) —— InversePep: Diffusion-driven structure-based inverse folding for functional pept
+- [10.1038/s41467-023-41274-x](papers/10.1038_s41467-023-41274-x.md) —— Phase separation of protein mixtures is driven by the interplay of homotypic and
+- [10.1186/s12943-023-01899-4](papers/10.1186_s12943-023-01899-4.md) —— Targeting MHC-I molecules for cancer: function, mechanism, and therapeutic prosp
+- [10.1038/s41392-024-01800-9](papers/10.1038_s41392-024-01800-9.md) —— Protein neddylation and its role in health and diseases
+- [10.1038/s41392-023-01576-4](papers/10.1038_s41392-023-01576-4.md) —— Lymph node metastasis in cancer progression: molecular mechanisms, clinical sign
+- [10.3390/ph16111615](papers/10.3390_ph16111615.md) —— Origin of Antibiotics and Antibiotic Resistance, and Their Impacts on Drug Devel
+- [10.1093/nar/gkad1011](papers/10.1093_nar_gkad1011.md) —— AlphaFold Protein Structure Database in 2024: providing structure coverage for o
+- [10.1038/s41420-023-01792-5](papers/10.1038_s41420-023-01792-5.md) —— Cardiac cell senescence: molecular mechanisms, key proteins and therapeutic targ
+- [10.1186/s12935-024-03295-4](papers/10.1186_s12935-024-03295-4.md) —— Aptamers as an approach to targeted cancer therapy
+- [10.1007/s12551-024-01188-4](papers/10.1007_s12551-024-01188-4.md) —— An overview on glycation: molecular mechanisms, impact on proteins, pathogenesis
+- [10.1111/cns.14818](papers/10.1111_cns.14818.md) —— GSK3: A potential target and pending issues for treatment of Alzheimer's disease
+- [10.1038/s41392-024-01888-z](papers/10.1038_s41392-024-01888-z.md) —— Cell–cell communication: new insights and clinical implications
+- [10.1021/acs.jcim.3c00667](papers/10.1021_acs.jcim.3c00667.md) —— SILVR: Guided Diffusion for Molecule Generation
+- [10.3390/pharmaceutics16020240](papers/10.3390_pharmaceutics16020240.md) —— Peptide-Mediated Nanocarriers for Targeted Drug Delivery: Developments and Strat
+- [10.1039/d4na00086b](papers/10.1039_d4na00086b.md) —— Cutting-edge approaches for targeted drug delivery in breast cancer: beyond conv
+- [10.1038/s41467-024-50698-y](papers/10.1038_s41467-024-50698-y.md) —— Machine learning-guided co-optimization of fitness and diversity facilitates com
+- [10.1016/j.cell.2024.08.017](papers/10.1016_j.cell.2024.08.017.md) —— Targeting Ras-, Rho-, and Rab-family GTPases via a conserved cryptic pocket
+- [10.3390/biomedicines12122750](papers/10.3390_biomedicines12122750.md) —— Revolutionizing Personalized Medicine: Synergy with Multi-Omics Data Generation,
+- [10.1021/acs.est.4c08298](papers/10.1021_acs.est.4c08298.md) —— Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials
+- [10.1038/s41467-023-41237-2](papers/10.1038_s41467-023-41237-2.md) —— Evolutionary selection of proteins with two folds
+- [10.1038/s41467-023-42374-4](papers/10.1038_s41467-023-42374-4.md) —— Targeting nucleic acid phase transitions as a mechanism of action for antimicrob
+- [10.3389/fphar.2023.1328950](papers/10.3389_fphar.2023.1328950.md) —— Snakebite drug discovery: high-throughput screening to identify novel snake veno
+- [10.1038/s41467-024-46571-7](papers/10.1038_s41467-024-46571-7.md) —— Bacteria can compensate the fitness costs of amplified resistance genes via a by
+- [10.1186/s13321-024-00861-w](papers/10.1186_s13321-024-00861-w.md) —— MolScore: a scoring, evaluation and benchmarking framework for generative models
+- [10.1038/s41467-024-50426-6](papers/10.1038_s41467-024-50426-6.md) —— CGMega: explainable graph neural network framework with attention mechanisms for
+- [10.1038/s41467-024-52871-9](papers/10.1038_s41467-024-52871-9.md) —— Design of a Cereblon construct for crystallographic and biophysical studies of p
+- [10.1038/s41594-024-01354-y](papers/10.1038_s41594-024-01354-y.md) —— VCP/p97-associated proteins are binders and debranching enzymes of K48–K63-branc
+- [10.1038/s41421-023-00635-y](papers/10.1038_s41421-023-00635-y.md) —— Designed allosteric protein logic
+- [10.1038/s41467-024-47519-7](papers/10.1038_s41467-024-47519-7.md) —— Synthetic intrinsically disordered protein fusion tags that enhance protein solu
+- [10.1002/mas.21887](papers/10.1002_mas.21887.md) —— Mapping protein–protein interactions by mass spectrometry
+- [10.3390/microorganisms13010156](papers/10.3390_microorganisms13010156.md) —— Aquatic Invertebrate Antimicrobial Peptides in the Fight Against Aquaculture Pat
+- [10.1038/s43588-025-00777-x](papers/10.1038_s43588-025-00777-x.md) —— Rapid traversal of vast chemical space using machine learning-guided docking scr
+- [10.1186/s43556-025-00321-3](papers/10.1186_s43556-025-00321-3.md) —— Cholesterol metabolism: molecular mechanisms, biological functions, diseases, an
+- [10.1007/s00248-023-02313-8](papers/10.1007_s00248-023-02313-8.md) —— Perspectives in Searching Antimicrobial Peptides (AMPs) Produced by the Microbio
+- [10.1038/s41467-024-46794-8](papers/10.1038_s41467-024-46794-8.md) —— Pathogenic mutations of human phosphorylation sites affect protein–protein inter
+- [10.3390/antibiotics14010057](papers/10.3390_antibiotics14010057.md) —— Harnessing Non-Antibiotic Strategies to Counter Multidrug-Resistant Clinical Pat
+- [10.1038/s41392-023-01561-x](papers/10.1038_s41392-023-01561-x.md) —— Circular RNA vaccine in disease prevention and treatment
+- [10.1038/s41467-023-44237-4](papers/10.1038_s41467-023-44237-4.md) —— DCAF1-based PROTACs with activity against clinically validated targets overcomin
+- [10.1186/s12951-024-02511-7](papers/10.1186_s12951-024-02511-7.md) —— Brain-targeted drug delivery - nanovesicles directed to specific brain cells by 
+- [10.3389/fpls.2023.1241736](papers/10.3389_fpls.2023.1241736.md) —— Impacts of salinity stress on crop plants: improving salt tolerance through gene
+- [10.1093/bib/bbad425](papers/10.1093_bib_bbad425.md) —— FireProt 2.0: web-based platform for the fully automated design of thermostable 
+- [10.1093/nar/gkad960](papers/10.1093_nar_gkad960.md) —— WikiPathways 2024: next generation pathway database
+- [10.3389/fimmu.2024.1322712](papers/10.3389_fimmu.2024.1322712.md) —— DiscoTope-3.0: improved B-cell epitope prediction using inverse folding latent r
+- [10.1021/jacs.3c14486](papers/10.1021_jacs.3c14486.md) —— Discovering High Entropy Alloy Electrocatalysts in Vast Composition Spaces with 
+- [10.3390/ijms25094870](papers/10.3390_ijms25094870.md) —— Antimicrobial Peptides towards Clinical Application—A Long History to Be Conclud
+- [10.1186/s43556-024-00188-w](papers/10.1186_s43556-024-00188-w.md) —— Multiple myeloma: signaling pathways and targeted therapy
+- [10.1038/s41587-023-02018-w](papers/10.1038_s41587-023-02018-w.md) —— A monomeric StayGold fluorescent protein
+- [10.1021/acs.chemrestox.3c00032](papers/10.1021_acs.chemrestox.3c00032.md) —— Equivariant Graph Neural Networks for Toxicity Prediction
+- [10.3389/fmicb.2024.1343572](papers/10.3389_fmicb.2024.1343572.md) —— A comprehensive overview of microbiome data in the light of machine learning app
+- [10.1038/s41392-024-01823-2](papers/10.1038_s41392-024-01823-2.md) —— Tumor biomarkers for diagnosis, prognosis and targeted therapy
+- [10.1038/s41467-024-50620-6](papers/10.1038_s41467-024-50620-6.md) —— A Euclidean transformer for fast and stable machine learned force fields
+- [10.1038/s41592-024-02464-7](papers/10.1038_s41592-024-02464-7.md) —— Restoring protein glycosylation with GlycoShape
+- [10.1093/nar/gkae1082](papers/10.1093_nar_gkae1082.md) —— InterPro: the protein sequence classification resource in 2025
+- [10.3390/pharmaceutics17010136](papers/10.3390_pharmaceutics17010136.md) —— Nanosuspension Innovations: Expanding Horizons in Drug Delivery Techniques
+- [10.1186/s12864-023-09664-z](papers/10.1186_s12864-023-09664-z.md) —— Drug-target binding affinity prediction using message passing neural network and
+- [10.1186/s40364-023-00534-0](papers/10.1186_s40364-023-00534-0.md) —— Neoantigen-targeted TCR-engineered T cell immunotherapy: current advances and ch
+- [10.3390/polym16020254](papers/10.3390_polym16020254.md) —— Polymeric Binder Design for Sustainable Lithium-Ion Battery Chemistry
+- [10.1038/s41467-024-46408-3](papers/10.1038_s41467-024-46408-3.md) —— Immunopeptidomics-based identification of naturally presented non-canonical circ
+- [10.1038/s41467-024-48312-2](papers/10.1038_s41467-024-48312-2.md) —— Two noncompeting human neutralizing antibodies targeting MPXV B6 show protective
+- [10.1038/s41467-024-50437-3](papers/10.1038_s41467-024-50437-3.md) —— Pan-serotype dengue virus inhibitor JNJ-A07 targets NS4A-2K-NS4B interaction wit
+- [10.1093/bib/bbae548](papers/10.1093_bib_bbae548.md) —— Progress and opportunities of foundation models in bioinformatics
+- [10.3389/fimmu.2023.1188831](papers/10.3389_fimmu.2023.1188831.md) —— Chimeric RNAs reveal putative neoantigen peptides for developing tumor vaccines 
+- [10.1093/nar/gkad1131](papers/10.1093_nar_gkad1131.md) —— HybridDBRpred: improved sequence-based prediction of DNA-binding amino acids usi
+- [10.1007/s00253-024-13134-1](papers/10.1007_s00253-024-13134-1.md) —— New-generation biofilm effective antimicrobial peptides and a real-time anti-bio
+- [10.3390/ijms252212368](papers/10.3390_ijms252212368.md) —— Convergence of Nanotechnology and Machine Learning: The State of the Art, Challe
+- [10.3390/ph18010127](papers/10.3390_ph18010127.md) —— Recent Advances in Peptide-Loaded PLGA Nanocarriers for Drug Delivery and Regene
+- [10.1016/j.cell.2024.11.015](papers/10.1016_j.cell.2024.11.015.md) —— How to build the virtual cell with artificial intelligence: Priorities and oppor
+- [10.1038/s42256-025-01124-5](papers/10.1038_s42256-025-01124-5.md) —— Resolving data bias improves generalization in binding affinity prediction
+- [10.1038/s41559-023-02224-4](papers/10.1038_s41559-023-02224-4.md) —— Selection of a de novo gene that can promote survival of Escherichia coli by mod
+- [10.3389/fimmu.2024.1293706](papers/10.3389_fimmu.2024.1293706.md) —— MHCII-peptide presentation: an assessment of the state-of-the-art prediction met
+- [10.1021/acs.jmedchem.4c02010](papers/10.1021_acs.jmedchem.4c02010.md) —— A Target Class Ligandability Evaluation of WD40 Repeat-Containing Proteins
+- [10.1038/s41392-023-01588-0](papers/10.1038_s41392-023-01588-0.md) —— Microglia in neurodegenerative diseases: mechanism and potential therapeutic tar
+- [10.1093/nar/gkad1004](papers/10.1093_nar_gkad1004.md) —— The ChEMBL Database in 2023: a drug discovery platform spanning multiple bioacti
+- [10.1038/s41392-024-01856-7](papers/10.1038_s41392-024-01856-7.md) —— Exploring treatment options in cancer: tumor treatment strategies
+- [10.1038/s41586-023-06622-3](papers/10.1038_s41586-023-06622-3.md) —— Uncovering new families and folds in the natural protein universe
+- [10.1038/s41467-023-43597-1](papers/10.1038_s41467-023-43597-1.md) —— ZeroBind: a protein-specific zero-shot predictor with subgraph matching for drug
+- [10.1021/acs.jcim.3c01250](papers/10.1021_acs.jcim.3c01250.md) —— Chemprop: A Machine Learning Package for Chemical Property Prediction
+- [10.1038/s44320-023-00005-6](papers/10.1038_s44320-023-00005-6.md) —— Systematic discovery of protein interaction interfaces using AlphaFold and exper
+- [10.3390/biom14030320](papers/10.3390_biom14030320.md) —— LL-37: Structures, Antimicrobial Activity, and Influence on Amyloid-Related Dise
+- [10.1038/s41467-024-47839-8](papers/10.1038_s41467-024-47839-8.md) —— High-confidence 3D template matching for cryo-electron tomography
+- [10.3390/ijms25137124](papers/10.3390_ijms25137124.md) —— Binding Affinity Determination in Drug Design: Insights from Lock and Key, Induc
+- [10.3390/microorganisms12091920](papers/10.3390_microorganisms12091920.md) —— An Overview of the Recent Advances in Antimicrobial Resistance
+- [10.1038/s41467-023-42342-y](papers/10.1038_s41467-023-42342-y.md) —— N-terminal acetylation shields proteins from degradation and promotes age-depend
+- [10.1038/s41467-024-45634-z](papers/10.1038_s41467-024-45634-z.md) —— Mirror-image ligand discovery enabled by single-shot fast-flow synthesis of D-pr
+- [10.1038/s41467-024-48837-6](papers/10.1038_s41467-024-48837-6.md) —— Structure prediction of protein-ligand complexes from sequence information with 
+- [10.1093/bioadv/vbae099](papers/10.1093_bioadv_vbae099.md) —— Current and future directions in network biology
+- [10.1093/nsr/nwae348](papers/10.1093_nsr_nwae348.md) —— Opportunities and challenges of diffusion models for generative AI
+- [10.1093/nar/gkae1091](papers/10.1093_nar_gkae1091.md) —— Updated resources for exploring experimentally-determined PDB structures and Com
+- [10.3389/fimmu.2025.1540192](papers/10.3389_fimmu.2025.1540192.md) —— Applications of cell penetrating peptide-based drug delivery system in immunothe
+- [10.1038/s41467-023-41646-3](papers/10.1038_s41467-023-41646-3.md) —— An inverse agonist of orphan receptor GPR61 acts by a G protein-competitive allo
+- [10.1038/s41467-023-42632-5](papers/10.1038_s41467-023-42632-5.md) —— A simple method for developing lysine targeted covalent protein reagents
+- [10.1038/s41598-024-53048-6](papers/10.1038_s41598-024-53048-6.md) —— Immunoinformatics, molecular docking and dynamics simulation approaches unveil a
+- [10.1038/s41598-024-57247-z](papers/10.1038_s41598-024-57247-z.md) —— De novo antioxidant peptide design via machine learning and DFT studies
+- [10.1016/j.heliyon.2024.e31958](papers/10.1016_j.heliyon.2024.e31958.md) —— Recent advances in the development of antimicrobial peptides against ESKAPE path
+- [10.1002/advs.202401793](papers/10.1002_advs.202401793.md) —— Dual-Mechanism Peptide SR25 has Broad Antimicrobial Activity and Potential Appli
+- [10.3389/fcimb.2024.1482186](papers/10.3389_fcimb.2024.1482186.md) —— Artificial intelligence in predicting pathogenic microorganisms' antimicrobial r
+- [10.1021/acs.jctc.3c00641](papers/10.1021_acs.jctc.3c00641.md) —— Perspectives on Ligand/Protein Binding Kinetics Simulations: Force Fields, Machi
+- [10.3390/biom14010072](papers/10.3390_biom14010072.md) —— Fingerprinting Interactions between Proteins and Ligands for Facilitating Machin
+- [10.1038/s41598-024-61189-x](papers/10.1038_s41598-024-61189-x.md) —— Uncertainty quantification in multivariable regression for material property pre
+- [10.1111/imr.13381](papers/10.1111_imr.13381.md) —— Single domain antibody: Development and application in biotechnology and biophar
+- [10.1038/s42004-025-01428-y](papers/10.1038_s42004-025-01428-y.md) —— Narrowing the gap between machine learning scoring functions and free energy per
+- [10.1038/s41557-025-01874-0](papers/10.1038_s41557-025-01874-0.md) —— Navigating protein landscapes with a machine-learned transferable coarse-grained
+- [10.1186/s43014-025-00326-z](papers/10.1186_s43014-025-00326-z.md) —— How to assess antioxidant activity? Advances, limitations, and applications of i
+- [10.1093/bib/bbad462](papers/10.1093_bib_bbad462.md) —— GAABind: a geometry-aware attention-based network for accurate protein-ligand bi
+- [10.1093/bioinformatics/btae278](papers/10.1093_bioinformatics_btae278.md) —— For antibody sequence generative modeling, mixture models may be all you need
+- [10.1002/2211-5463.13855](papers/10.1002_2211-5463.13855.md) —— Structure-based computational design of antibody mimetics: challenges and perspe
+- [10.3389/fmicb.2023.1236368](papers/10.3389_fmicb.2023.1236368.md) —— Microbial proteases and their applications
+- [10.1038/s41467-023-43720-2](papers/10.1038_s41467-023-43720-2.md) —— Enhancing geometric representations for molecules with equivariant vector-scalar
+- [10.1038/s41467-024-49731-x](papers/10.1038_s41467-024-49731-x.md) —— Sequence-to-sequence translation from mass spectra to peptides with a transforme
+- [10.1038/s41467-023-42415-y](papers/10.1038_s41467-023-42415-y.md) —— Machine learning-enabled constrained multi-objective design of architected mater
+- [10.1038/s41586-023-06735-9](papers/10.1038_s41586-023-06735-9.md) —— Scaling deep learning for materials discovery
+- [10.1038/s41467-023-44288-7](papers/10.1038_s41467-023-44288-7.md) —— From interaction networks to interfaces, scanning intrinsically disordered regio
+- [10.1039/d3sc04185a](papers/10.1039_d3sc04185a.md) —— PoseBusters: AI-based docking methods fail to generate physically valid poses or
+- [10.1038/s42004-024-01154-x](papers/10.1038_s42004-024-01154-x.md) —— The reaction mechanism of the Ideonella sakaiensis PETase enzyme
+- [10.1038/s41467-024-49098-z](papers/10.1038_s41467-024-49098-z.md) —— Engineering natural microbiomes toward enhanced bioremediation by microbiome mod
+- [10.3390/microorganisms12071259](papers/10.3390_microorganisms12071259.md) —— Molecular Mechanisms of Bacterial Resistance to Antimicrobial Peptides in the Mo
+- [10.1038/s41392-024-01952-8](papers/10.1038_s41392-024-01952-8.md) —— Evolving understanding of autoimmune mechanisms and new therapeutic strategies o
+- [10.1007/s10096-023-04677-8](papers/10.1007_s10096-023-04677-8.md) —— Co-regulation of biofilm formation and antimicrobial resistance in Acinetobacter
+- [10.1038/s41467-024-45630-3](papers/10.1038_s41467-024-45630-3.md) —— Understanding activity-stability tradeoffs in biocatalysts by enzyme proximity s
+- [10.1016/j.csbj.2024.05.024](papers/10.1016_j.csbj.2024.05.024.md) —— Addressing docking pose selection with structure-based deep learning: Recent adv
+- [10.1038/s41557-024-01546-5](papers/10.1038_s41557-024-01546-5.md) —— Sequential closed-loop Bayesian optimization as a guide for organic molecular me
+- [10.3390/bioengineering11111143](papers/10.3390_bioengineering11111143.md) —— Artificial Intelligence and/or Machine Learning Algorithms in Microalgae Bioproc
+- [10.1093/nar/gkae1075](papers/10.1093_nar_gkae1075.md) —— BindingDB in 2024: a FAIR knowledgebase of protein-small molecule binding data
+- [10.1186/s12929-024-01110-w](papers/10.1186_s12929-024-01110-w.md) —— Unlocking precision medicine: clinical applications of integrating health record
+- [10.3389/fimmu.2023.1259612](papers/10.3389_fimmu.2023.1259612.md) —— Vaccinomics-based next-generation multi-epitope chimeric vaccine models predicti
+- [10.1038/s41467-023-43272-5](papers/10.1038_s41467-023-43272-5.md) —— An inorganic mineral-based protocell with prebiotic radiation fitness
+- [10.1038/s41467-024-45431-8](papers/10.1038_s41467-024-45431-8.md) —— SQM2.20: Semiempirical quantum-mechanical scoring function yields DFT-quality pr
+- [10.1093/bioadv/vbae033](papers/10.1093_bioadv_vbae033.md) —— nanoBERT: a deep learning model for gene agnostic navigation of the nanobody mut
+- [10.1002/adma.202308912](papers/10.1002_adma.202308912.md) —— Expanding the Horizons of Machine Learning in Nanomaterials to Chiral Nanostruct
+- [10.1093/bib/bbae414](papers/10.1093_bib_bbae414.md) —— HTINet2: herb–target prediction via knowledge graph embedding and residual-like 
+- [10.1093/nsr/nwae339](papers/10.1093_nsr_nwae339.md) —— Revolutionizing biomolecular structure determination with artificial intelligenc
+- [10.1186/s12974-023-02914-7](papers/10.1186_s12974-023-02914-7.md) —— Insulin-degrading enzyme (IDE) as a modulator of microglial phenotypes in the co
+- [10.3390/antibiotics13020168](papers/10.3390_antibiotics13020168.md) —— AntiBP3: A Method for Predicting Antibacterial Peptides against Gram-Positive/Ne
+- [10.1038/s41467-024-48027-4](papers/10.1038_s41467-024-48027-4.md) —— Multimodal binding and inhibition of bacterial ribosomes by the antimicrobial pe
+- [10.1021/acssynbio.4c00624](papers/10.1021_acssynbio.4c00624.md) —— GRACE: Generative Redesign in Artificial Computational Enzymology
+- [10.1021/acsinfecdis.4c00702](papers/10.1021_acsinfecdis.4c00702.md) —— Advantages and Challenges of Using Antimicrobial Peptides in Synergism with Anti
+- [10.3389/fsysb.2024.1407994](papers/10.3389_fsysb.2024.1407994.md) —— The rise of scientific machine learning: a perspective on combining mechanistic 
+- [10.1038/s41746-025-02240-7](papers/10.1038_s41746-025-02240-7.md) —— The structure-preserving spectral graph neural network for dual kinase inhibitor
+- [10.1038/s43588-023-00529-9](papers/10.1038_s43588-023-00529-9.md) —— Computing the relative binding affinity of ligands based on a pairwise binding c
+- [10.1038/s41431-023-01521-7](papers/10.1038_s41431-023-01521-7.md) —— Genome, HLA and polygenic risk score analyses for prevalent and persistent cervi
+- [10.1021/acsomega.4c10040](papers/10.1021_acsomega.4c10040.md) —— A Review on Perception of Binding Kinetics in Affinity Biosensors: Challenges an
+- [10.1021/acscatal.3c02922](papers/10.1021_acscatal.3c02922.md) —— Assessment of Four Engineered PET Degrading Enzymes Considering Large-Scale Indu
+- [10.1038/s41586-023-06873-0](papers/10.1038_s41586-023-06873-0.md) —— A novel antibiotic class targeting the lipopolysaccharide transporter
+- [10.1038/s41392-024-02004-x](papers/10.1038_s41392-024-02004-x.md) —— Targeted protein degradation: advances in drug discovery and clinical practice
+- [10.1021/jacs.3c05273](papers/10.1021_jacs.3c05273.md) —— Optimized Red-Absorbing Dyes for Imaging and Sensing
+- [10.1038/s41392-023-01674-3](papers/10.1038_s41392-023-01674-3.md) —— Therapeutic cancer vaccines: advancements, challenges and prospects
+- [10.1038/s41541-023-00795-8](papers/10.1038_s41541-023-00795-8.md) —— Development and use of machine learning algorithms in vaccine target selection
+- [10.1038/s41467-024-46223-w](papers/10.1038_s41467-024-46223-w.md) —— Sequence-dependent material properties of biomolecular condensates and their rel
+- [10.1021/acs.chemrev.3c00615](papers/10.1021_acs.chemrev.3c00615.md) —— Molecular Crowding: The History and Development of a Scientific Paradigm
+- [10.1186/s13045-024-01558-1](papers/10.1186_s13045-024-01558-1.md) —— Targeting FGFR for cancer therapy
+- [10.1186/s12911-024-02600-5](papers/10.1186_s12911-024-02600-5.md) —— Transformer models in biomedicine
+- [10.3390/ijms251910821](papers/10.3390_ijms251910821.md) —— Enhancing Antimicrobial Peptide Activity through Modifications of Charge, Hydrop
+- [10.1021/acs.jctc.3c00814](papers/10.1021_acs.jctc.3c00814.md) —— Integrated Molecular Modeling and Machine Learning for Drug Design
+- [10.1038/s41592-024-02174-0](papers/10.1038_s41592-024-02174-0.md) —— CombFold: predicting structures of large protein assemblies using a combinatoria
+- [10.3390/antibiotics13060502](papers/10.3390_antibiotics13060502.md) —— Implications of Artificial Intelligence in Addressing Antimicrobial Resistance: 
+- [10.1007/s00018-024-05286-0](papers/10.1007_s00018-024-05286-0.md) —— Redox regulation of UPR signalling and mitochondrial ER contact sites
+- [10.1101/2024.11.19.624167](papers/10.1101_2024.11.19.624167.md) —— Boltz-1 Democratizing Biomolecular Interaction Modeling
+- [10.1093/nar/gkae1011](papers/10.1093_nar_gkae1011.md) —— The PRIDE database at 20 years: 2025 update
+- [10.1126/sciadv.adn4397](papers/10.1126_sciadv.adn4397.md) —— Biomolecular dynamics with machine-learned quantum-mechanical force fields train
+- [10.1038/s42003-023-05379-9](papers/10.1038_s42003-023-05379-9.md) —— Metabolomics and machine learning technique revealed that germination enhances t
+- [10.3390/cancers15235632](papers/10.3390_cancers15235632.md) —— Targeting Proteasomes and the MHC Class I Antigen Presentation Machinery to Trea
+- [10.1186/s12859-024-05698-6](papers/10.1186_s12859-024-05698-6.md) —— Drug–target affinity prediction with extended graph learning-convolutional netwo
+- [10.3390/antibiotics13040343](papers/10.3390_antibiotics13040343.md) —— A Comprehensive Review of Recent Research into the Effects of Antimicrobial Pept
+- [10.1021/acs.jcim.3c02070](papers/10.1021_acs.jcim.3c02070.md) —— Application of Transformers in Cheminformatics
+- [10.1093/bioinformatics/btae518](papers/10.1093_bioinformatics_btae518.md) —— scDiffusion: conditional generation of high-quality single-cell data using diffu
+- [10.1038/s41467-024-54265-3](papers/10.1038_s41467-024-54265-3.md) —— Rational strategies for improving the efficiency of design and discovery of nano
+- [10.1038/s41467-023-42395-z](papers/10.1038_s41467-023-42395-z.md) —— Recognition and reprogramming of E3 ubiquitin ligase surfaces by α-helical pepti
+- [10.3389/fphar.2024.1329011](papers/10.3389_fphar.2024.1329011.md) —— A journey into the regulatory secrets of the de novo purine nucleotide biosynthe
+- [10.1038/s41467-024-48198-0](papers/10.1038_s41467-024-48198-0.md) —— Designing meaningful continuous representations of T cell receptor sequences wit
+- [10.3390/jox14040101](papers/10.3390_jox14040101.md) —— Overview of Computational Toxicology Methods Applied in Drug and Green Chemical 
+- [10.1038/s42256-024-00971-y](papers/10.1038_s42256-024-00971-y.md) —— Deep learning enhances the prediction of HLA class I-presented CD8+ T cell epito
+- [10.1007/s12602-025-10573-8](papers/10.1007_s12602-025-10573-8.md) —— Harnessing the Microbiome: CRISPR-Based Gene Editing and Antimicrobial Peptides 
+- [10.1038/s41579-024-01045-x](papers/10.1038_s41579-024-01045-x.md) —— Bacteriocin diversity, function, discovery and application as antimicrobials
+- [10.1371/journal.pone.0296676](papers/10.1371_journal.pone.0296676.md) —— Improving structure-based protein-ligand affinity prediction by graph representa
+- [10.3389/fmicb.2024.1425952](papers/10.3389_fmicb.2024.1425952.md) —— Editorial: Antimicrobial peptides and their druggability, bio-safety, stability,
+- [10.1002/smo.20230012](papers/10.1002_smo.20230012.md) —— Machine learning methods for developments of binding kinetic models in predictin
+- [10.3390/molecules28207165](papers/10.3390_molecules28207165.md) —— Peptides as Therapeutic Agents: Challenges and Opportunities in the Green Transi
+- [10.1186/s40779-024-00510-1](papers/10.1186_s40779-024-00510-1.md) —— Antimicrobial resistance crisis: could artificial intelligence be the solution?
+- [10.1038/s41551-024-01214-6](papers/10.1038_s41551-024-01214-6.md) —— Antibody-displaying extracellular vesicles for targeted cancer therapy
+- [10.1073/pnas.2304302120](papers/10.1073_pnas.2304302120.md) —— Systematic identification of conditionally folded intrinsically disordered regio
+- [10.1038/s41392-023-01705-z](papers/10.1038_s41392-023-01705-z.md) —— Targeting the RAS/RAF/MAPK pathway for cancer therapy: from mechanism to clinica
+- [10.1186/s12934-024-02299-z](papers/10.1186_s12934-024-02299-z.md) —— Engineering strategies for enhanced heterologous protein production by Saccharom
+- [10.1021/acsomega.3c05913](papers/10.1021_acsomega.3c05913.md) —— Machine Learning and Deep Learning in Synthetic Biology: Key Architectures, Appl
+- [10.1038/s41467-024-47461-8](papers/10.1038_s41467-024-47461-8.md) —— Deep learning predictions of TCR-epitope interactions reveal epitope-specific ch
+- [10.3389/fmolb.2024.1383453](papers/10.3389_fmolb.2024.1383453.md) —— Protein aggregation and therapeutic strategies in SOD1- and TDP-43- linked ALS
+- [10.1038/s41551-024-01201-x](papers/10.1038_s41551-024-01201-x.md) —— Deep-learning-enabled antibiotic discovery through molecular de-extinction
+- [10.1016/j.csbj.2024.09.031](papers/10.1016_j.csbj.2024.09.031.md) —— Large language models and their applications in bioinformatics
+- [10.3390/ph16121649](papers/10.3390_ph16121649.md) —— Revolutionizing Drug Targeting Strategies: Integrating Artificial Intelligence a
+- [10.1038/s41746-024-01043-6](papers/10.1038_s41746-024-01043-6.md) —— Informing immunotherapy with multi-omics driven machine learning
+- [10.1093/nar/gkae328](papers/10.1093_nar_gkae328.md) —— Deep learning for the PSIPRED Protein Analysis Workbench
+- [10.1021/acs.jcim.4c00976](papers/10.1021_acs.jcim.4c00976.md) —— Evaluation of AlphaFold 3’s Protein–Protein Complexes for Predicting Binding Fre
+- [10.1038/s41392-024-02036-3](papers/10.1038_s41392-024-02036-3.md) —— New insights into protein–protein interaction modulators in drug discovery and t
+- [10.1038/s44259-023-00016-1](papers/10.1038_s44259-023-00016-1.md) —— Tackling the outer membrane: facilitating compound entry into Gram-negative bact
+- [10.3390/antiox14020200](papers/10.3390_antiox14020200.md) —— Antimicrobial Potential of Polyphenols: Mechanisms of Action and Microbial Respo
+- [10.1093/nargab/lqad087](papers/10.1093_nargab_lqad087.md) —— Superior protein thermophilicity prediction with protein language model embeddin
+- [10.1186/s13321-023-00795-9](papers/10.1186_s13321-023-00795-9.md) —— Structure-based, deep-learning models for protein-ligand binding affinity predic
+- [10.1038/s41467-024-46130-0](papers/10.1038_s41467-024-46130-0.md) —— A co-assembly platform engaging macrophage scavenger receptor A for lysosome-tar
+- [10.1093/bioinformatics/btae196](papers/10.1093_bioinformatics_btae196.md) —— Effect of tokenization on transformers for biological sequences
+- [10.1038/s42004-024-01220-4](papers/10.1038_s42004-024-01220-4.md) —— The Goldilocks paradigm: comparing classical machine learning, large language mo
+- [10.1016/j.mec.2024.e00248](papers/10.1016_j.mec.2024.e00248.md) —— PEZy-miner: An artificial intelligence driven approach for the discovery of plas
+- [10.1038/s41598-024-59842-6](papers/10.1038_s41598-024-59842-6.md) —— Photocatalytic degradation of antibiotics and antimicrobial and anticancer activ
+- [10.1038/s41598-023-46382-8](papers/10.1038_s41598-023-46382-8.md) —— A universal framework for accurate and efficient geometric deep learning of mole
+- [10.1038/s41586-024-07206-5](papers/10.1038_s41586-024-07206-5.md) —— Compensatory evolution in NusG improves fitness of drug-resistant M. tuberculosi
+- [10.1186/s13017-024-00551-w](papers/10.1186_s13017-024-00551-w.md) —— Management of intra-abdominal infections: recommendations by the Italian council
+- [10.3390/molecules29245864](papers/10.3390_molecules29245864.md) —— Proline-Rich Antimicrobial Peptides from Invertebrates
+- [10.3390/biomedicines13020299](papers/10.3390_biomedicines13020299.md) —— Anti-Drug Antibody Response to Therapeutic Antibodies and Potential Mitigation S
+- [10.3389/fimmu.2025.1603018](papers/10.3389_fimmu.2025.1603018.md) —— Curcumin, an active component of turmeric: biological activities, nutritional as
+- [10.1093/bib/bbad310](papers/10.1093_bib_bbad310.md) —— MpbPPI: a multi-task pre-training-based equivariant approach for the prediction 
+- [10.1038/s41541-023-00788-7](papers/10.1038_s41541-023-00788-7.md) —— The dengue-specific immune response and antibody identification with machine lea
+- [10.1093/bioinformatics/btae269](papers/10.1093_bioinformatics_btae269.md) —— MEG-PPIS: a fast protein–protein interaction site prediction method based on mul
+- [10.1038/s41392-023-01642-x](papers/10.1038_s41392-023-01642-x.md) —— Smart nanoparticles for cancer therapy
+- [10.1002/cam4.6800](papers/10.1002_cam4.6800.md) —— RGD peptide in cancer targeting: Benefits, challenges, solutions, and possible i
+- [10.1093/bioinformatics/btae075](papers/10.1093_bioinformatics_btae075.md) —— GeneGPT: augmenting large language models with domain tools for improved access 
+- [10.1007/s40520-023-02552-2](papers/10.1007_s40520-023-02552-2.md) —— A comprehensive review of machine learning algorithms and their application in g
+- [10.1038/s41586-023-06792-0](papers/10.1038_s41586-023-06792-0.md) —— Autonomous chemical research with large language models
+- [10.1021/jacs.3c10941](papers/10.1021_jacs.3c10941.md) —— Improving Protein Expression, Stability, and Function with ProteinMPNN
+- [10.1186/s12859-024-05726-5](papers/10.1186_s12859-024-05726-5.md) —— Deepstacked-AVPs: predicting antiviral peptides using tri-segment evolutionary p
+- [10.1038/s41467-024-46753-3](papers/10.1038_s41467-024-46753-3.md) —— Materials design for hypersonics
+- [10.1021/acsmeasuresciau.3c00060](papers/10.1021_acsmeasuresciau.3c00060.md) —— Recent Developments in Machine Learning for Mass Spectrometry
+- [10.3390/foods13152448](papers/10.3390_foods13152448.md) —— Antimicrobial Resistance in Aquaculture: Risk Mitigation within the One Health C
+- [10.1186/s12943-023-01844-5](papers/10.1186_s12943-023-01844-5.md) —— The screening, identification, design and clinical application of tumor-specific
+- [10.1038/s41467-023-44525-z](papers/10.1038_s41467-023-44525-z.md) —— Active machine learning model for the dynamic simulation and growth mechanisms o
+- [10.1002/anie.202309305](papers/10.1002_anie.202309305.md) —— Engineering Enzymes for Environmental Sustainability
+- [10.1371/journal.pcbi.1012229](papers/10.1371_journal.pcbi.1012229.md) —— MTMol-GPT: De novo multi-target molecular generation with transformer-based gene
+- [10.1038/s41392-024-01947-5](papers/10.1038_s41392-024-01947-5.md) —— Tertiary lymphoid structures in diseases: immune mechanisms and therapeutic adva
+- [10.1038/s41467-024-54639-7](papers/10.1038_s41467-024-54639-7.md) —— Crystal structure generation with autoregressive large language modeling
+- [10.1038/s44259-024-00033-8](papers/10.1038_s44259-024-00033-8.md) —— Limitations of current techniques in clinical antimicrobial resistance diagnosis
+- [10.3390/biology14020165](papers/10.3390_biology14020165.md) —— Biofilm Resilience: Molecular Mechanisms Driving Antibiotic Resistance in Clinic
+- [10.1186/s13321-023-00752-6](papers/10.1186_s13321-023-00752-6.md) —— Prediction of organic compound aqueous solubility using machine learning: a comp
+- [10.1038/s42003-023-05744-8](papers/10.1038_s42003-023-05744-8.md) —— Contextualising the developability risk of antibodies with lambda light chains u
+- [10.3390/v16020184](papers/10.3390_v16020184.md) —— Evolution of the SARS-CoV-2 Omicron Variants: Genetic Impact on Viral Fitness
+- [10.1186/s12864-024-10258-6](papers/10.1186_s12864-024-10258-6.md) —— Machine learning assists prediction of genes responsible for plant specialized m
+- [10.1038/s41467-024-49739-3](papers/10.1038_s41467-024-49739-3.md) —— Alkylamine-tethered molecules recruit FBXO22 for targeted protein degradation
+- [10.1002/advs.202304305](papers/10.1002_advs.202304305.md) —— Crystal Composition Transformer: Self-Learning Neural Language Model for Generat
+- [10.3389/fimmu.2024.1357217](papers/10.3389_fimmu.2024.1357217.md) —— Personalized cancer vaccine design using AI-powered technologies
+- [10.1038/s42003-023-05524-4](papers/10.1038_s42003-023-05524-4.md) —— Deep learning and single-cell phenotyping for rapid antimicrobial susceptibility
+- [10.1186/s13321-024-00832-1](papers/10.1186_s13321-024-00832-1.md) —— Comprehensive machine learning boosts structure-based virtual screening for PARP
+- [10.1016/j.csbj.2024.05.035](papers/10.1016_j.csbj.2024.05.035.md) —— Interpretable molecular encodings and representations for machine learning tasks
+- [10.1093/bioinformatics/btae708](papers/10.1093_bioinformatics_btae708.md) —— TPepPro: a deep learning model for predicting peptide–protein interactions
+- [10.3390/ph18020217](papers/10.3390_ph18020217.md) —— Computational Modeling of Pharmaceuticals with an Emphasis on Crossing the Blood
+- [10.1021/jacs.5c09558](papers/10.1021_jacs.5c09558.md) —— Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Fo
+- [10.1021/acs.jcim.3c01239](papers/10.1021_acs.jcim.3c01239.md) —— Machine Learning-Boosted Docking Enables the Efficient Structure-Based Virtual S
+- [10.1039/d3sc05534e](papers/10.1039_d3sc05534e.md) —— The pursuit of accurate predictive models of the bioactivity of small molecules
+- [10.1002/advs.202405404](papers/10.1002_advs.202405404.md) —— From Static to Dynamic Structures: Improving Binding Affinity Prediction with Gr
+- [10.1038/s41392-023-01647-6](papers/10.1038_s41392-023-01647-6.md) —— Bromodomain and extraterminal (BET) proteins: biological functions, diseases and
+- [10.1038/s41586-023-06953-1](papers/10.1038_s41586-023-06953-1.md) —— De novo design of high-affinity binders of bioactive helical peptides
+- [10.3390/ma16175927](papers/10.3390_ma16175927.md) —— Unleashing the Power of Artificial Intelligence in Materials Design
+- [10.1038/s41467-023-43118-0](papers/10.1038_s41467-023-43118-0.md) —— Data-driven discovery of electrocatalysts for CO2 reduction using active motifs-
+- [10.1021/acsnano.3c05261](papers/10.1021_acsnano.3c05261.md) —— Biomimetic Grapefruit-Derived Extracellular Vesicles for Safe and Targeted Deliv
+- [10.1038/s41392-024-01734-2](papers/10.1038_s41392-024-01734-2.md) —— Alternative splicing and related RNA binding proteins in human health and diseas
+- [10.1038/s44286-023-00002-4](papers/10.1038_s44286-023-00002-4.md) —— Self-driving laboratories to autonomously navigate the protein fitness landscape
+- [10.1038/s41524-023-01104-6](papers/10.1038_s41524-023-01104-6.md) —— Hyperactive learning for data-driven interatomic potentials
+- [10.1038/s41598-024-65438-x](papers/10.1038_s41598-024-65438-x.md) —— AI nutrition recommendation using a deep generative model and ChatGPT
+- [10.1038/s41598-024-55483-x](papers/10.1038_s41598-024-55483-x.md) —— Advanced hybrid LSTM-transformer architecture for real-time multi-task predictio
+- [10.1186/s13321-023-00742-8](papers/10.1186_s13321-023-00742-8.md) —— Integrating synthetic accessibility with AI-based generative drug design
+- [10.1038/s41598-023-50834-6](papers/10.1038_s41598-023-50834-6.md) —— MedGAN: optimized generative adversarial network with graph convolutional networ
+- [10.1038/s41467-024-46901-9](papers/10.1038_s41467-024-46901-9.md) —— Precise prediction of phase-separation key residues by machine learning
+- [10.1038/s42003-024-06465-2](papers/10.1038_s42003-024-06465-2.md) —— A foundational large language model for edible plant genomes
+- [10.1038/s41592-024-02372-w](papers/10.1038_s41592-024-02372-w.md) —— Geometric deep learning of protein–DNA binding specificity
+- [10.1038/s41392-024-02039-0](papers/10.1038_s41392-024-02039-0.md) —— Epigenetics-targeted drugs: current paradigms and future challenges
+- [10.1016/j.jbc.2024.108015](papers/10.1016_j.jbc.2024.108015.md) —— mRNA vaccine sequence and structure design and optimization: Advances and challe
+- [10.3390/gels11020123](papers/10.3390_gels11020123.md) —— Advancements in Wound Dressing Materials: Highlighting Recent Progress in Hydrog
+- [10.1038/s41598-023-45269-y](papers/10.1038_s41598-023-45269-y.md) —— Binding affinity predictions with hybrid quantum-classical convolutional neural 
+- [10.3390/polym16010115](papers/10.3390_polym16010115.md) —— Estimation and Prediction of the Polymers' Physical Characteristics Using the Ma
+- [10.3389/fphar.2024.1347750](papers/10.3389_fphar.2024.1347750.md) —— Combating antimicrobial resistance: the silent war
+- [10.1371/journal.ppat.1012143](papers/10.1371_journal.ppat.1012143.md) —— Microbial extracellular vesicles contribute to antimicrobial resistance
+- [10.1021/acs.jcim.3c02031](papers/10.1021_acs.jcim.3c02031.md) —— Enhancing Protein–Ligand Binding Affinity Predictions Using Neural Network Poten
+- [10.3390/molecules29184361](papers/10.3390_molecules29184361.md) —— Metal-Based Drug–DNA Interactions and Analytical Determination Methods
+- [10.3390/pharmaceutics16111486](papers/10.3390_pharmaceutics16111486.md) —— Recent Advances in Peptide Drug Discovery: Novel Strategies and Targeted Protein
+- [10.3389/fmicb.2023.1305848](papers/10.3389_fmicb.2023.1305848.md) —— Inteins—mechanism of protein splicing, emerging regulatory roles, and applicatio
+- [10.1021/acs.jcim.3c01208](papers/10.1021_acs.jcim.3c01208.md) —— From Proteins to Ligands: Decoding Deep Learning Methods for Binding Affinity Pr
+- [10.1093/bioinformatics/btae259](papers/10.1093_bioinformatics_btae259.md) —— RiboDiffusion: tertiary structure-based RNA inverse folding with generative diff
+- [10.1002/imt2.244](papers/10.1002_imt2.244.md) —— Bioprospecting of culturable marine biofilm bacteria for novel antimicrobial pep
+- [10.1038/s41592-024-02559-1](papers/10.1038_s41592-024-02559-1.md) —— Challenging the Astral mass analyzer to quantify up to 5,300 proteins per single
+- [10.1021/acs.jcim.5c01203](papers/10.1021_acs.jcim.5c01203.md) —— In Search of Beautiful Molecules: A Perspective on Generative Modeling for Drug 
+- [10.3390/ijms241814053](papers/10.3390_ijms241814053.md) —— Antifungal Efficacy of Antimicrobial Peptide Octominin II against Candida albica
+- [10.1016/j.crfs.2024.100710](papers/10.1016_j.crfs.2024.100710.md) —— Free fatty acid receptors beyond fatty acids: A computational journey to explore
+- [10.1016/j.molcel.2024.08.010](papers/10.1016_j.molcel.2024.08.010.md) —— Integrated multi-omics analysis of zinc-finger proteins uncovers roles in RNA re
+- [10.1038/s41467-023-42943-7](papers/10.1038_s41467-023-42943-7.md) —— Accessible hotspots for single-protein SERS in DNA-origami assembled gold nanoro
+- [10.3390/ijms25031391](papers/10.3390_ijms25031391.md) —— Exploring the Potential of Bioactive Peptides: From Natural Sources to Therapeut
+- [10.1126/sciadv.adi6492](papers/10.1126_sciadv.adi6492.md) —— 3D-printed epifluidic electronic skin for machine learning-powered multimodal he
+- [10.1007/s40820-023-01224-0](papers/10.1007_s40820-023-01224-0.md) —— Deep Insight of Design, Mechanism, and Cancer Theranostic Strategy of Nanozymes
+- [10.1038/s41392-023-01668-1](papers/10.1038_s41392-023-01668-1.md) —— Multifunctional nanoparticle-mediated combining therapy for human diseases
+- [10.1016/j.celrep.2023.113173](papers/10.1016_j.celrep.2023.113173.md) —— Rules and mechanisms governing G protein coupling selectivity of GPCRs
+- [10.1002/advs.202306724](papers/10.1002_advs.202306724.md) —— BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biologi
+- [10.1038/s41392-024-01809-0](papers/10.1038_s41392-024-01809-0.md) —— Induced pluripotent stem cells (iPSCs): molecular mechanisms of induction and ap
+- [10.1126/science.adk4422](papers/10.1126_science.adk4422.md) —— Continuous evolution of compact protein degradation tags regulated by selective 
+- [10.3390/antibiotics13080746](papers/10.3390_antibiotics13080746.md) —— Plant-Derived Antimicrobials and Their Crucial Role in Combating Antimicrobial R
+- [10.3390/molecules28186438](papers/10.3390_molecules28186438.md) —— Therapeutic Antibodies in Medicine
+- [10.1016/j.devcel.2023.11.004](papers/10.1016_j.devcel.2023.11.004.md) —— Shaping the brain: The emergence of cortical structure and folding
+- [10.1038/s41467-024-47070-5](papers/10.1038_s41467-024-47070-5.md) —— An integrated high-throughput robotic platform and active learning approach for 
+- [10.1038/s41467-024-50235-x](papers/10.1038_s41467-024-50235-x.md) —— Lipid-mediated intracellular delivery of recombinant bioPROTACs for the rapid de
+- [10.1038/s41586-024-07966-0](papers/10.1038_s41586-024-07966-0.md) —— The genetic architecture of protein stability
+- [10.3390/foods13233846](papers/10.3390_foods13233846.md) —— Enzyme Engineering: Performance Optimization, Novel Sources, and Applications in
+- [10.1038/s41467-025-55987-8](papers/10.1038_s41467-025-55987-8.md) —— Active learning-assisted directed evolution
+- [10.1126/science.ado7082](papers/10.1126_science.ado7082.md) —— Brainwide silencing of prion protein by AAV-mediated delivery of an engineered c
+- [10.1186/s13321-023-00769-x](papers/10.1186_s13321-023-00769-x.md) —— DeepDelta: predicting ADMET improvements of molecular derivatives with deep lear
+- [10.1038/s41467-023-43346-4](papers/10.1038_s41467-023-43346-4.md) —— Design-rules for stapled peptides with in vivo activity and their application to
+- [10.1021/acs.jcim.3c01834](papers/10.1021_acs.jcim.3c01834.md) —— Insights into Drug Cardiotoxicity from Biological and Chemical Data: The First P
+- [10.1038/s41586-024-07385-1](papers/10.1038_s41586-024-07385-1.md) —— Computationally restoring the potency of a clinical antibody against Omicron
+- [10.1093/nar/gkae407](papers/10.1093_nar_gkae407.md) —— Next-generation IEDB tools: a platform for epitope prediction and analysis
+- [10.1371/journal.pone.0310814](papers/10.1371_journal.pone.0310814.md) —— GenerRNA: A generative pre-trained language model for de novo RNA design
+- [10.1093/nsr/nwae343](papers/10.1093_nsr_nwae343.md) —— Artificial intelligence-guided strategies for next-generation biological sequenc
+- [10.1093/bib/bbad401](papers/10.1093_bib_bbad401.md) —— Evidential deep learning for trustworthy prediction of enzyme commission number
+- [10.1038/s41598-024-58877-z](papers/10.1038_s41598-024-58877-z.md) —— Network pharmacology combined with molecular docking and experimental verificati
+- [10.1093/bib/bbae480](papers/10.1093_bib_bbae480.md) —— Protein language models are performant in structure-free virtual screening
+- [10.3390/pharmaceutics16121542](papers/10.3390_pharmaceutics16121542.md) —— Antimicrobial Peptides: A Promising Solution to the Rising Threat of Antibiotic 
+- [10.1038/s41586-025-08628-5](papers/10.1038_s41586-025-08628-5.md) —— A generative model for inorganic materials design
+- [10.3390/ph18091271](papers/10.3390_ph18091271.md) —— Artificial Intelligence in Small-Molecule Drug Discovery: A Critical Review of M
+- [10.3390/ph16091281](papers/10.3390_ph16091281.md) —— An Update on the Therapeutic Potential of Antimicrobial Peptides against Acineto
+- [10.3390/ph17030382](papers/10.3390_ph17030382.md) —— Absorption Distribution Metabolism Excretion and Toxicity Property Prediction Ut
+- [10.3390/molecules30010128](papers/10.3390_molecules30010128.md) —— The Role and Mechanisms of Antimicrobial Peptides in Overcoming Multidrug-Resist
+- [10.1021/acs.jpclett.3c02398](papers/10.1021_acs.jpclett.3c02398.md) —— PeptideBERT: A Language Model Based on Transformers for Peptide Property Predict
+- [10.1186/s13024-023-00651-2](papers/10.1186_s13024-023-00651-2.md) —— Misfolded protein oligomers: mechanisms of formation, cytotoxic effects, and pha
+- [10.1038/s41467-023-41303-9](papers/10.1038_s41467-023-41303-9.md) —— Integrating end-to-end learning with deep geometrical potentials for ab initio R
+- [10.1038/s41467-023-42068-x](papers/10.1038_s41467-023-42068-x.md) —— Unifying the design space and optimizing linear and nonlinear truss metamaterial
+- [10.1038/s41467-023-44646-5](papers/10.1038_s41467-023-44646-5.md) —— Surface hydrophobization of hydrogels via interface dynamics-induced network rec
+- [10.1038/s41598-024-54375-4](papers/10.1038_s41598-024-54375-4.md) —— Investigation on explainable machine learning models to predict chronic kidney d
+- [10.1038/s41467-024-46490-7](papers/10.1038_s41467-024-46490-7.md) —— Distinct evolution of SARS-CoV-2 Omicron XBB and BA.2.86/JN.1 lineages combining
+- [10.1038/s41467-024-47120-y](papers/10.1038_s41467-024-47120-y.md) —— De novo generation of multi-target compounds using deep generative chemistry
+- [10.1093/bioinformatics/btae370](papers/10.1093_bioinformatics_btae370.md) —— RCSB protein Data Bank: exploring protein 3D similarities via comprehensive stru
+- [10.3389/fphar.2024.1444781](papers/10.3389_fphar.2024.1444781.md) —— Mechanism of antibacterial resistance, strategies and next-generation antimicrob
+- [10.1021/acscatal.3c02575](papers/10.1021_acscatal.3c02575.md) —— Advancing Enzyme's Stability and Catalytic Efficiency through Synergy of Force-F
+- [10.1038/s41594-023-01148-8](papers/10.1038_s41594-023-01148-8.md) —— Structural biases in disordered proteins are prevalent in the cell
+- [10.1038/s41467-024-46574-4](papers/10.1038_s41467-024-46574-4.md) —— Automated in vivo enzyme engineering accelerates biocatalyst optimization
+- [10.1038/s41467-024-50469-9](papers/10.1038_s41467-024-50469-9.md) —— Chemical language modeling with structured state space sequence models
+- [10.3390/molecules29204914](papers/10.3390_molecules29204914.md) —— Antimicrobial Properties and Therapeutic Potential of Bioactive Compounds in Nig
+- [10.3390/ijms252313121](papers/10.3390_ijms252313121.md) —— Overcoming Challenges in Small-Molecule Drug Bioavailability: A Review of Key Fa
+- [10.1039/d4sc03921a](papers/10.1039_d4sc03921a.md) —— A review of large language models and autonomous agents in chemistry
+- [10.1093/nsr/nwaf028](papers/10.1093_nsr_nwaf028.md) —— Foundation models in bioinformatics
+- [10.3389/fmicb.2023.1270245](papers/10.3389_fmicb.2023.1270245.md) —— Microbial synthesis of titanium dioxide nanoparticles and their importance in wa
+- [10.1038/s41594-023-01120-6](papers/10.1038_s41594-023-01120-6.md) —— EMC rectifies the topology of multipass membrane proteins
+- [10.1038/s41467-024-46380-y](papers/10.1038_s41467-024-46380-y.md) —— Thunder-DDA-PASEF enables high-coverage immunopeptidomics and is boosted by MS2R
+- [10.3389/fimmu.2024.1399438](papers/10.3389_fimmu.2024.1399438.md) —— Prospects for the computational humanization of antibodies and nanobodies
+- [10.1038/s41467-024-50215-1](papers/10.1038_s41467-024-50215-1.md) —— Active learning streamlines development of high performance catalysts for higher
+- [10.3389/fimmu.2024.1463931](papers/10.3389_fimmu.2024.1463931.md) —— Integrating machine learning to advance epitope mapping
+- [10.1002/adhm.202401674](papers/10.1002_adhm.202401674.md) —— Engineering of Bioresorbable Polymers for Tissue Engineering and Drug Delivery A
+- [10.1038/s41467-023-44333-5](papers/10.1038_s41467-023-44333-5.md) —— Pervasive epistasis exposes intramolecular networks in adaptive enzyme evolution
+- [10.1093/bib/bbae166](papers/10.1093_bib_bbae166.md) —— RmsdXNA: RMSD prediction of nucleic acid-ligand docking poses using machine-lear
+- [10.1128/mbio.01393-24](papers/10.1128_mbio.01393-24.md) —— Phage-antibiotic synergy suppresses resistance emergence of Klebsiella pneumonia
+- [10.1016/j.mcpro.2024.100887](papers/10.1016_j.mcpro.2024.100887.md) —— Recent Advances in Mass Spectrometry-Based Protein Interactome Studies
+- [10.1038/s41587-024-02248-6](papers/10.1038_s41587-024-02248-6.md) —— High-throughput discovery of MHC class I- and II-restricted T cell epitopes usin
+- [10.1038/s44296-024-00009-9](papers/10.1038_s44296-024-00009-9.md) —— Machine learning for sustainable organic waste treatment: a critical review
+- [10.1038/s42003-023-05254-7](papers/10.1038_s42003-023-05254-7.md) —— Molecular hybridization strategy for tuning bioactive peptide function
+- [10.1101/2024.03.15.585128](papers/10.1101_2024.03.15.585128.md) —— Biophysics-based protein language models for protein engineering
+- [10.1126/science.add8468](papers/10.1126_science.add8468.md) —— A synthetic protein-level neural network in mammalian cells

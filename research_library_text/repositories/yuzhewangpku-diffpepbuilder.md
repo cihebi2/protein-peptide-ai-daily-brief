@@ -114,3 +114,19 @@
 - `experiments/run_inference.py` 存在于清单中，但静态 inventory 未单列 inference 子系统，完整推理边界仍有不确定性。
 
 > 发布边界：路径和摘要来自 commit 固定的静态盘点，不代表代码可运行、训练可复现或许可证兼容。
+
+## 2026-09-16 复审补充（mass-review 批次）
+
+- **复用度（复审）：** high —— 训练/推理/后处理/docking 全流程代码完整且有 Colab demo，PepPC/PepPC-F 数据集 CSV 内置、原始数据与模型权重在 Zenodo 公开；需自行下载权重并安装 PyRosetta 做后处理
+- **许可证（复审）：** MIT
+- **能力（复审）：** data_loader、training_pipeline、inference、benchmark、protocol、visualization
+
+**课题关联：**
+
+- C004
+- C007
+- C016
+
+**与论文/课题的组合方式：**
+
+- C004 binder/PPI 课题的核心生成引擎：给定靶点热点生成肽 binder 并用其 docking 模块验证；DiffPepDock 可与 HADDOCK3 互为肽对接基线（C016）；PepPC 数据集可支撑条件生成（C007）的训练与评估。
