@@ -1,0 +1,533 @@
+{
+ "papers": {
+  "new_reviewed": 594,
+  "previous_reviewed": 628,
+  "total": 1222,
+  "innovation_cards": 2389,
+  "reusable_assets": 832,
+  "combination_hooks": 2369,
+  "by_scope": {
+   "not_in_manifest": 345,
+   "review_queue": 35,
+   "accepted_core_high_quality": 214
+  }
+ },
+ "repos": {
+  "new_audited": 109,
+  "new_skipped": 21,
+  "high_reusability": 57,
+  "previous_audited": 200,
+  "total": 309
+ },
+ "lane_support_papers": {
+  "C16": 176,
+  "C04": 161,
+  "C08": 154,
+  "C03": 143,
+  "C00": 125,
+  "C01": 115,
+  "C05": 109,
+  "X06": 101,
+  "C02": 92,
+  "C07": 75,
+  "C13": 32,
+  "C11": 25,
+  "X05": 20,
+  "X07": 19,
+  "X01": 18,
+  "X02": 18,
+  "X03": 14,
+  "C10": 13,
+  "X09": 13,
+  "X04": 13,
+  "X08": 11,
+  "C12": 10,
+  "C09": 8,
+  "X10": 6,
+  "X12": 6,
+  "X13": 4,
+  "X11": 4,
+  "X15": 4,
+  "C15": 4,
+  "X14": 3,
+  "X16": 2,
+  "X17": 2,
+  "X18": 1,
+  "C06": 1,
+  "C14": 1
+ },
+ "lane_support_hooks": {
+  "C00": 1187,
+  "C01": 603,
+  "X06": 50,
+  "C03": 20,
+  "C16": 13,
+  "C07": 8,
+  "C04": 6,
+  "C30": 4,
+  "C02": 4,
+  "C42": 3,
+  "C50": 3,
+  "C34": 2,
+  "C12": 2,
+  "C90": 2,
+  "C20": 2,
+  "C13": 2,
+  "C81": 1,
+  "C63": 1,
+  "X50": 1,
+  "X01": 1,
+  "C08": 1
+ },
+ "lane_support_repos": {
+  "C00": 141,
+  "C01": 60,
+  "C16": 9
+ },
+ "assets_by_kind": {
+  "protocol": 256,
+  "code": 182,
+  "dataset": 160,
+  "benchmark": 123,
+  "model": 111
+ },
+ "top_cross_lane_papers": [
+  {
+   "doi": "10.1101/2025.11.06.687093",
+   "lanes": 5,
+   "hooks": 6,
+   "title": "SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligan"
+  },
+  {
+   "doi": "10.48550/arxiv.2405.20313",
+   "lanes": 5,
+   "hooks": 4,
+   "title": "Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbon"
+  },
+  {
+   "doi": "10.64898/2026.06.10.731501",
+   "lanes": 4,
+   "hooks": 6,
+   "title": "Generative Drug Design in a Loop with dtSFM"
+  },
+  {
+   "doi": "10.64898/2026.03.14.711748",
+   "lanes": 4,
+   "hooks": 6,
+   "title": "Single-Pass Discrete Diffusion Predicts High-Affinity Peptide Binders "
+  },
+  {
+   "doi": "10.34133/research.1149",
+   "lanes": 4,
+   "hooks": 6,
+   "title": "Antimicrobial Peptides as Cross-Seeding Modulators at the Neurodegener"
+  },
+  {
+   "doi": "10.1101/2025.07.10.664242",
+   "lanes": 4,
+   "hooks": 6,
+   "title": "Metalorian: De Novo Generation of Heavy Metal-Binding Peptides with Cl"
+  },
+  {
+   "doi": "10.1101/2024.01.02.573846",
+   "lanes": 4,
+   "hooks": 6,
+   "title": "De novo multi-mechanism antimicrobial peptide design via multimodal de"
+  },
+  {
+   "doi": "10.64898/2026.06.07.730716",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Combinatorial docking and molecular generation to navigate over 100-bi"
+  },
+  {
+   "doi": "10.64898/2026.04.10.717613",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Protenix-v2: Broadening the Reach of Structure Prediction and Biomolec"
+  },
+  {
+   "doi": "10.64898/2026.03.17.712483",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "ST-PARM: Pareto-Complete Inference-Time Alignment for Multi-Objective "
+  },
+  {
+   "doi": "10.64898/2026.02.06.704305",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Generalise or Memorise? Benchmarking Ligand-Conditioned Protein Genera"
+  },
+  {
+   "doi": "10.64898/2026.01.23.701298",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "ProChoreo: de novo Binder Design from Conformational Ensembles with Ge"
+  },
+  {
+   "doi": "10.51847/yya2shcyj9",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Co-Designing Proteins, Ligands, Binding Interfaces, and Molecular Asse"
+  },
+  {
+   "doi": "10.1101/2025.09.01.673427",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "PepCCD: A Contrastive Conditioned Diffusion Framework for Target-Speci"
+  },
+  {
+   "doi": "10.1101/2025.07.31.667780",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Design of peptides with non-canonical amino acids using flow matching"
+  },
+  {
+   "doi": "10.1101/2025.07.16.665042",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "De novo design of functionally diverse and druggable antimicrobial pep"
+  },
+  {
+   "doi": "10.1101/2025.05.19.654846",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "RareFold: Structure prediction and design of proteins with noncanonica"
+  },
+  {
+   "doi": "10.1101/2025.04.12.648497",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Whole-genome prediction of bacterial pathogenic capacity on novel bact"
+  },
+  {
+   "doi": "10.1101/2024.03.01.582176",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Novel antibody language model accelerates IgG screening and design for"
+  },
+  {
+   "doi": "10.1101/2023.12.10.570461",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "DSMBind: SE(3) denoising score matching for unsupervised binding energ"
+  },
+  {
+   "doi": "10.1093/bib/bbae644",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "TG-CDDPM: text-guided antimicrobial peptides generation based on condi"
+  },
+  {
+   "doi": "10.1038/s41598-024-57247-z",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "De novo antioxidant peptide design via machine learning and DFT studie"
+  },
+  {
+   "doi": "10.1038/s41586-023-06953-1",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "De novo design of high-affinity binders of bioactive helical peptides"
+  },
+  {
+   "doi": "10.1038/s41467-023-44288-7",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "From interaction networks to interfaces, scanning intrinsically disord"
+  },
+  {
+   "doi": "10.1021/acssynbio.4c00624",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "GRACE: Generative Redesign in Artificial Computational Enzymology"
+  }
+ ],
+ "high_reusability_repos": [
+  {
+   "repo": "bytedance/decompdiff",
+   "url": "https://github.com/bytedance/decompdiff",
+   "reason": "训练/采样/评测三段式完整管线，CrossDocked 处理数据集与训练 checkpoint 均提供 Google Drive 下载；依赖较重（rdkit/openbabel/vina）但均可安装；注意 CC BY-NC 4.0 非商用许"
+  },
+  {
+   "repo": "dunni3/flowmol",
+   "url": "https://github.com/dunni3/flowmol",
+   "reason": "MIT 许可，预训练权重运行时自动下载，test.py 一条命令采样+计算论文全套指标；QM9/GEOM 原始数据需自行下载但处理脚本齐全"
+  },
+  {
+   "repo": "idruglab/adcnet",
+   "url": "https://github.com/idruglab/adcnet",
+   "reason": "训练权重（.h5）与 ESM-2 嵌入 pkl、data.xlsx 数据全部内嵌仓库，class.py/inference.py 可直接复现；缺点是无 LICENSE、TensorFlow 2.3 旧环境、代码组织扁平"
+  },
+  {
+   "repo": "lynk-101-li/catif-rl",
+   "url": "https://github.com/lynk-101-li/catif-rl",
+   "reason": "编号脚本化的四阶段完整管线（数据构建→监督→GDC→GRPO），含冒烟测试 CI、复现文档、case study 与预训练权重下载说明；数据集与权重需按 README 下载"
+  },
+  {
+   "repo": "oxpig/antifold",
+   "url": "https://github.com/oxpig/antifold",
+   "reason": "pip 可安装、单 PDB 即可推理、模型权重有稳定下载链接、内嵌示例数据与 Colab；训练微调代码未含（仅推理），但作为抗体序列设计工具开箱可用"
+  },
+  {
+   "repo": "xl-s224/aamfm",
+   "url": "https://github.com/xl-s224/aamfm",
+   "reason": "三阶段训练+生成+评测脚本齐全，checkpoint 托管在 HuggingFace，RAbD 评测集与参考 PDB 内嵌仓库；需外部 GearNet 特征文件与 US-align 可执行文件"
+  },
+  {
+   "repo": "bz99bz/m-3",
+   "url": "https://github.com/bz99bz/m-3",
+   "reason": "MPP/ 目录本地即含 10 个多模态性质预测 CSV（含 Tox21/ClinTox/Sider 毒性端点），完整 2000 万分子数据集有全量下载链接"
+  },
+  {
+   "repo": "edapinenut/cbgbench",
+   "url": "https://github.com/edapinenut/cbgbench",
+   "reason": "数据（CrossDocked2020 处理版 GDrive）、预训练权重、训练/采样/四类评测脚本与 docking 工具链（vina/plip）齐备，environment.yml 可复现环境"
+  },
+  {
+   "repo": "lzlinn801/spgo",
+   "url": "https://github.com/lzlinn801/spgo",
+   "reason": "本地含训练 FASTA、权重有 GDrive 链接、训练+生成脚本齐全；扣分项：无 LICENSE、仓库极简、SignalP6 需外部获取"
+  },
+  {
+   "repo": "pkuliujl/geoevobuilder",
+   "url": "https://github.com/pkuliujl/geoevobuilder",
+   "reason": "单命令推理（uv pip install -e . + 下载 Se.pt）即可运行，示例 PDB/MSA 齐备，零 shot 无需训练"
+  },
+  {
+   "repo": "zongmingchua/cafa5",
+   "url": "https://github.com/zongmingchua/cafa5",
+   "reason": "pip 安装 + Kaggle 数据（含预计算嵌入，可跳过嵌入再生）+ CLI 三命令完整训练预测合并流程，含 pytest 测试与详尽文档"
+  },
+  {
+   "repo": "a-brassard/acorn",
+   "url": "https://github.com/a-brassard/acorn",
+   "reason": "数据本体完整随仓库分发（jsonl 每行含题目/选项/解释/聚合与个体评分），MIT 许可，HF 有镜像，零依赖即可加载"
+  },
+  {
+   "repo": "aaronhuang-778/billm",
+   "url": "https://github.com/aaronhuang-778/billm",
+   "reason": "单条命令即可对 HF 开源 LLM 完成 1-bit 量化与 ppl 评测（模型与校准数据均自动拉取），依赖极简（4 个包）"
+  },
+  {
+   "repo": "attilaimre99/graphcpp",
+   "url": "https://github.com/attilaimre99/graphcpp",
+   "reason": "完整训练/交叉验证/预测管线，独立测试集 CSV 与训练 checkpoint 均内置，含 environment.yml 与 Dockerfile，开箱可复现；但仓库无 LICENSE 文件"
+  },
+  {
+   "repo": "cataai/posex",
+   "url": "https://github.com/cataai/posex",
+   "reason": "完整七步评测管线 + HF 数据集一键下载说明 + 约20个 docking 工具的独立环境文件，开箱可跑出与 leaderboard 可比的结果"
+  },
+  {
+   "repo": "jiayili11/multi-amp",
+   "url": "https://github.com/jiayili11/multi-amp",
+   "reason": "训练/预测/设计三入口齐全，权重与数据托管于 HF 且目录结构说明明确；缺点是无 LICENSE、代码为扁平单层脚本"
+  },
+  {
+   "repo": "profluent-internships/mmdiff",
+   "url": "https://github.com/profluent-internships/mmdiff",
+   "reason": "训练/采样/评测完整闭环 + Zenodo 预训练检查点 + 数据构建 notebook；需自编译 US-align/qTMclust 与 RF2NA 环境用于评测"
+  },
+  {
+   "repo": "wan-mlab/samp",
+   "url": "https://github.com/wan-mlab/samp",
+   "reason": "训练与独立测试数据全部内置，Tutorial notebook 可直接跑通轻量模型，依赖极少；缺点是无 LICENSE、文档欠完整（目录导航 under construction）"
+  },
+  {
+   "repo": "yds-pharmatech/fksfold-boltz",
+   "url": "https://github.com/yds-pharmatech/fksfold-boltz",
+   "reason": "可 pip 安装（pip install -e .[cuda]）、Pythonic 与 CLI 双入口、输入样例与评测脚本齐全、Boltz 权重自动下载，推理开箱可跑；训练数据需按 scripts/process 自备"
+  },
+  {
+   "repo": "azamanos/hydraprot",
+   "url": "https://github.com/azamanos/hydraprot",
+   "reason": "训练/推理/评测完整管线齐全，conda 环境 yml 提供，权重与数据集在 Zenodo 有明确 DOI 下载，参数化配置清晰"
+  },
+  {
+   "repo": "cddlab/boltz_restr",
+   "url": "https://github.com/cddlab/boltz_restr",
+   "reason": "开箱可跑：无需重训、复用官方 Boltz 权重、提供 Colab notebook 与丰富 YAML 示例，安装（uv）与文档完整"
+  },
+  {
+   "repo": "gnina/omtra",
+   "url": "https://github.com/gnina/omtra",
+   "reason": "完整 CLI（omtra 命令）+ Docker + build 脚本 + PLINDER/CrossDocked 数据 pipeline + 权重下载说明 + 复现文档与 webapp，工程化程度高"
+  },
+  {
+   "repo": "jsunn-y/care",
+   "url": "https://github.com/jsunn-y/care",
+   "reason": "数据集+划分+基线排名结果齐全（Zenodo 双链接），评测协议完整可复现；注意：本地克隆工作树为空（checkout 损坏），内容完好保存在 git 对象中，使用前需重新 checkout"
+  },
+  {
+   "repo": "qizhipei/fabind",
+   "url": "https://github.com/qizhipei/fabind",
+   "reason": "训练+推理+测试代码齐全，权重（HuggingFace）与预处理数据（Zenodo）均公开可下载，含推理示例与数据划分"
+  },
+  {
+   "repo": "yds-pharmatech/fksfold-chai",
+   "url": "https://github.com/yds-pharmatech/fksfold-chai",
+   "reason": "pip 可装、CLI 与 Pythonic 推理兼容 Chai-1（权重自动下载）、FK 引导模块（chai_lab_extension/steering）与可视化/轨迹导出示例齐全；属早期研究版本"
+  },
+  {
+   "repo": "0xd009/fari",
+   "url": "https://github.com/0xd009/fari",
+   "reason": "预训练权重直接打包在仓库内（--name fari_default 即可评测），训练/评测脚本与数据准备说明完整"
+  },
+  {
+   "repo": "a1678019300/pbip",
+   "url": "https://github.com/a1678019300/pbip",
+   "reason": "训练/测试 CSV 划分随仓库内嵌，模型权重与 UniRep 特征经 Google Drive 提供，环境 yaml 与运行说明完整；缺 license"
+  },
+  {
+   "repo": "abbey4799/cello",
+   "url": "https://github.com/abbey4799/cello",
+   "reason": "评测数据、打分器、模型结果全部内嵌仓库，eval/score 脚本一键运行（仅需自备被评模型 API）"
+  },
+  {
+   "repo": "goldriver0/libre",
+   "url": "https://github.com/goldriver0/libre",
+   "reason": "训练/评测/推理脚本、已训练权重（model.pt）和示例数据齐备，管线开箱可跑；仅需自行生成 ESM 嵌入（脚本已提供）。小瑕疵：README 提到的顶层 run.py 未见、无 LICENSE、根目录残留 __pycache__"
+  },
+  {
+   "repo": "n-mourdou/admetrix",
+   "url": "https://github.com/n-mourdou/admetrix",
+   "reason": "完整多目标生成管线：附带 REINVENT 预训练先验（reinvent.prior）、GuacaMol 训练 SMILES、多 seed 生成结果、骨架跳跃数据与评测模块；但需另装增强版 REINVENT4 fork 与 ADMET AI"
+  },
+  {
+   "repo": "biochunan/asep-dataset",
+   "url": "https://github.com/biochunan/asep-dataset",
+   "reason": "完整管线：数据集有 Zenodo DOI 可一键下载，附带 devcontainer/conda 环境、训练与多基线评测脚本及汇总指标；开箱可复现基准"
+  },
+  {
+   "repo": "chq1155/rl-plm",
+   "url": "https://github.com/chq1155/rl-plm",
+   "reason": "三条任务管线代码完整（训练/生成/评测/分析），数据与 checkpoint 有官方 Google Drive 发布且带 SHA256 校验清单，任务级 README 齐全"
+  },
+  {
+   "repo": "gregory-kyro/t-alpha",
+   "url": "https://github.com/gregory-kyro/t-alpha",
+   "reason": "训练/推理/MC-Dropout 微调脚本齐全，预训练权重与测试集有 Zenodo 官方下载，还有 Colab notebook 可直接运行推理"
+  },
+  {
+   "repo": "juewangthu/clape-smb",
+   "url": "https://github.com/juewangthu/clape-smb",
+   "reason": "仓库直接内置训练数据（txt 序列+标签）与全部 ckpt 权重（多种子+k 折），inference.py 可对任意蛋白序列 txt 直接预测，开箱可跑"
+  },
+  {
+   "repo": "westlake-repl/saprot",
+   "url": "https://github.com/westlake-repl/saprot",
+   "reason": "全任务微调/评测框架代码完整（Hydra config 齐全），预训练权重（35M/650M/1.3B）在 HuggingFace 公开，且曾登顶 ProteinGym 公共榜单，是可直接复用的成熟基建"
+  },
+  {
+   "repo": "yongchand/reliable-ba",
+   "url": "https://github.com/yongchand/reliable-ba",
+   "reason": "train→infer→analyze 全管线完整，附带小样本示例数据集与一键 demo 脚本，训练/验证/测试 CSV 内置；只需自备引擎打分与嵌入即可扩展"
+  },
+  {
+   "repo": "blazerye/drugassist",
+   "url": "https://github.com/blazerye/drugassist",
+   "reason": "完整 LoRA 微调+合并+Gradio 推理+评测脚本链，训练数据集(MolOpt-Instructions)与模型权重(DrugAssist-7B)均在 HuggingFace 公开，开箱可跑"
+  },
+  {
+   "repo": "haddocking/haddock3",
+   "url": "https://github.com/haddocking/haddock3",
+   "reason": "成熟维护的 pip 可安装软件（Apache-2.0），配置文件驱动全流程，examples 内含蛋白-肽/蛋白-蛋白等 15+ 场景的完整示例数据与配置，端到端测试齐全，开箱可跑"
+  },
+  {
+   "repo": "kewei2023/ampcliff-generation",
+   "url": "https://github.com/kewei2023/ampcliff-generation",
+   "reason": "cliff 生成管线完整（生成+划分+相似度矩阵归一化），且仓库自带 GRAMPA S.aureus 数据与 BLOSUM62/Tanimoto 矩阵，conda 环境文件齐备，数据在本地即可复跑"
+  },
+  {
+   "repo": "nanjunchen37/tp_lmmsg",
+   "url": "https://github.com/nanjunchen37/tp_lmmsg",
+   "reason": "训练/交叉验证/测试全管线 + 七个 AMP 数据集划分 + 训练好的 .pth 权重均在仓库内；但完整特征生成需另装 psiblast/hhsuite/nrdb90 等外部工具且环境较老（Python3.7+TF1.14），推理可直接用权"
+  },
+  {
+   "repo": "yuzhewangpku/diffpepbuilder",
+   "url": "https://github.com/yuzhewangpku/diffpepbuilder",
+   "reason": "训练/推理/后处理/docking 全流程代码完整且有 Colab demo，PepPC/PepPC-F 数据集 CSV 内置、原始数据与模型权重在 Zenodo 公开；需自行下载权重并安装 PyRosetta 做后处理"
+  },
+  {
+   "repo": "bleach366/p2dflow",
+   "url": "https://github.com/bleach366/p2dflow",
+   "reason": "完整管线（数据处理/训练/推理/评测），提供预训练权重（Google Drive/HuggingFace）与预处理数据集（ATLAS selected_dataset）下载链接，conda 环境文件齐全，开箱可跑推理。"
+  },
+  {
+   "repo": "cq-zhang-2016/speclig",
+   "url": "https://github.com/cq-zhang-2016/speclig",
+   "reason": "训练/推理/评测全流程代码完整，提供训练好的 checkpoint 下载（清华云盘），conda 环境文件齐全；数据集需按 datasets/README.md 下载（LNR、CrossDocked2020），推理开箱可跑。"
+  },
+  {
+   "repo": "neusymlab/diffgap",
+   "url": "https://github.com/neusymlab/diffgap",
+   "reason": "训练/采样/评测全流程脚本与 pipeline 包装齐全，checkpoint 与评测元数据在 HuggingFace 发布；数据按 TargetDiff 流程自备（CrossDocked/PDBbind 需下载），conda 环境文件齐全"
+  },
+  {
+   "repo": "willhua127/genzyme",
+   "url": "https://github.com/willhua127/genzyme",
+   "reason": "训练/推理/复现脚本齐全，checkpoint 在 Google Drive 提供，改动 SMILES 即可定制设计任务；但依赖 ESM3 访问权限与较重的依赖栈（UniCore/OpenMM）。"
+  },
+  {
+   "repo": "zhangruochi/pepland",
+   "url": "https://github.com/zhangruochi/pepland",
+   "reason": "预训练探针 checkpoint 随仓库内置，推理脚本+配置齐全，评测数据集（结合/CPP/溶解）全部随仓发布；注意本地克隆工作树为空（内容在 git 对象中，需 git checkout 恢复）。"
+  },
+  {
+   "repo": "3biocompbio/abagym",
+   "url": "https://github.com/3biocompbio/abagym",
+   "reason": "纯数据资产但完整开箱：全部突变 CSV、元数据与复合物 PDB 结构随仓发布，含 MinMax/RankQuartile 归一化分数列，可直接用于训练与评测，无需运行任何管线。"
+  },
+  {
+   "repo": "borgwardtlab/pst",
+   "url": "https://github.com/borgwardtlab/pst",
+   "reason": "训练/微调/表示提取管线完整，预训练权重可下载，下游任务数据由 torchdrug/proteinshake 拉取，配置化(Hydra)工程规范"
+  },
+  {
+   "repo": "kurisu92725/pfm",
+   "url": "https://github.com/kurisu92725/pfm",
+   "reason": "训练/采样/评测全管线齐全，.pth 权重直接内置仓库，预处理数据有 Google Drive 下载链接，评测含 Vina docking"
+  },
+  {
+   "repo": "shphoebus/druglm",
+   "url": "https://github.com/shphoebus/druglm",
+   "reason": "一键下载预计算 embedding 与基准数据，多架构 DTI 基线齐全，命令行统一入口，CSV 划分文件内置"
+  },
+  {
+   "repo": "3biocompbio/rsalor",
+   "url": "https://github.com/3biocompbio/rsalor",
+   "reason": "pip 可装的成熟工具包，附 Colab notebook、CLI、Python API 与示例数据，开箱即用"
+  },
+  {
+   "repo": "dsimb/arid-sf",
+   "url": "https://github.com/dsimb/arid-sf",
+   "reason": "开箱可跑的完整打分管线：预训练权重内置、示例数据、conda 安装说明、HADDOCK3 对接格式转换脚本齐全，MIT 许可"
+  },
+  {
+   "repo": "hysonlab/directed_evolution",
+   "url": "https://github.com/hysonlab/directed_evolution",
+   "reason": "训练+推理完整管线、pip 安装、8 个预处理的 DMS 适应度数据集直接内置，README 参数说明详细；仅 oracle 权重需自行训练（数据齐全可复现）"
+  },
+  {
+   "repo": "oxpig/ablang2",
+   "url": "https://github.com/oxpig/ablang2",
+   "reason": "pip install ablang2 即装即用，权重自动下载，官方 notebook 覆盖序列恢复/嵌入/打分用法；定位是开箱可用的推理组件（非训练管线）"
+  },
+  {
+   "repo": "sirius777coder/gpdl",
+   "url": "https://github.com/sirius777coder/gpdl",
+   "reason": "三步设计管线完整（example.sh 参数详解）、内置 inpainting 权重、标准 motif-scaffolding 基准集与 benchmark notebook、免依赖 Colab；环境依赖 ESMFold/openfold "
+  },
+  {
+   "repo": "xiaolin-yang-s/gasi-dta",
+   "url": "https://github.com/xiaolin-yang-s/gasi-dta",
+   "reason": "训练+测试管线完整、Davis/KIBA 基准数据随仓库内置、README 给出全部运行命令；无 LICENSE 与预训练权重，但按命令可完整复现"
+  },
+  {
+   "repo": "zjufanlab/msformer",
+   "url": "https://github.com/zjufanlab/msformer",
+   "reason": "微调评测脚本 + 教程 notebook + 12 个内置 TDC 数据集 + 预训练权重 GDrive 链接 + 数据集版本表（COCONUT/MoleculeNet/TDC 0.4.1）齐全，可复现性强；仅缺 LICENSE"
+  }
+ ]
+}

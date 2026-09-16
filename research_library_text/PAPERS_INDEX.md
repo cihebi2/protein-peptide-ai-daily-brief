@@ -1,7 +1,7 @@
 # 论文索引
 
 
-共 1106 篇：2026-09-06 基础语料 627 篇 + 2026-09-16 mass-review 批次 479 篇（两批 DOI 零重叠）。
+共 1221 篇：2026-09-06 基础语料 627 篇 + 2026-09-16 mass-review 批次 594 篇（wave1/2 479 + wave3 多源补下 115；各批 DOI 零重叠）。
 
 ## 基础语料（2026-09-06，627 篇）
 
@@ -3180,3 +3180,121 @@
 - [10.1038/s42003-023-05254-7](papers/10.1038_s42003-023-05254-7.md) —— Molecular hybridization strategy for tuning bioactive peptide function
 - [10.1101/2024.03.15.585128](papers/10.1101_2024.03.15.585128.md) —— Biophysics-based protein language models for protein engineering
 - [10.1126/science.add8468](papers/10.1126_science.add8468.md) —— A synthetic protein-level neural network in mammalian cells
+
+### wave3 多源补下批次（2026-09-16 第二轮，115 篇）
+
+- [10.48550/arxiv.2309.17296](papers/10.48550_arxiv.2309.17296.md) —— Navigating the Design Space of Equivariant Diffusion-Based Generative Models for
+- [10.1093/bioinformatics/btae618](papers/10.1093_bioinformatics_btae618.md) —— Addressing the antibody germline bias and its effect on language models for impr
+- [10.48550/arxiv.2402.13040](papers/10.48550_arxiv.2402.13040.md) —— Text-Guided Molecule Generation with Diffusion Language Model
+- [10.48550/arxiv.2407.04424](papers/10.48550_arxiv.2407.04424.md) —— Benchmarking structure-based three-dimensional molecular generative models using
+- [10.1101/2025.04.12.648527](papers/10.1101_2025.04.12.648527.md) —— MPBind: Multitask Protein Binding Site Prediction by Protein Language Models and
+- [10.48550/arxiv.2310.05764](papers/10.48550_arxiv.2310.05764.md) —— Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Sit
+- [10.1101/2024.01.08.574635](papers/10.1101_2024.01.08.574635.md) —— Target-aware Molecule Generation for Drug Design Using a Chemical Language Model
+- [10.48550/arxiv.2403.03726](papers/10.48550_arxiv.2403.03726.md) —— Diffusion on language model encodings for protein sequence generation
+- [10.1016/j.ailsci.2025.100148](papers/10.1016_j.ailsci.2025.100148.md) —— SynthFormer: Equivariant pharmacophore-based generation of synthesizable molecul
+- [10.1039/d3sc06803j](papers/10.1039_d3sc06803j.md) —— DiffBindFR: an SE(3) equivariant network for flexible protein–ligand docking
+- [10.48550/arxiv.2403.07902](papers/10.48550_arxiv.2403.07902.md) —— DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Des
+- [10.48550/arxiv.2310.06367](papers/10.48550_arxiv.2310.06367.md) —— DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Scree
+- [10.48550/arxiv.2402.18583](papers/10.48550_arxiv.2402.18583.md) —— Binding-Adaptive Diffusion Models for Structure-Based Drug Design
+- [10.48550/arxiv.2410.19222](papers/10.48550_arxiv.2410.19222.md) —— Peptide-GPT: Generative Design of Peptides using Generative Pre-trained Transfor
+- [10.1145/3770855.381896](papers/10.1145_3770855.381896.md) —— Trustworthy Protein-Ligand Binding Affinity Prediction via Reliability-Aware Mul
+- [10.1101/2023.12.07.570727](papers/10.1101_2023.12.07.570727.md) —— ProteinGym: Large-Scale Benchmarks for Protein Design and Fitness Prediction
+- [10.48550/arxiv.2407.18184](papers/10.48550_arxiv.2407.18184.md) —— AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Predictio
+- [10.1101/2023.12.19.572475](papers/10.1101_2023.12.19.572475.md) —— Inverse folding of protein complexes with a structure-informed language model en
+- [10.1093/bib/bbae359](papers/10.1093_bib_bbae359.md) —— TUnA: an uncertainty-aware transformer model for sequence-based protein–protein 
+- [10.48550/arxiv.2406.03403](papers/10.48550_arxiv.2406.03403.md) —— Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?
+- [10.48550/arxiv.2406.02610](papers/10.48550_arxiv.2406.02610.md) —— MoFormer: Multi-objective Antimicrobial Peptide Generation Based on Conditional 
+- [10.48550/arxiv.2411.02596](papers/10.48550_arxiv.2411.02596.md) —— Persistent Directed Flag Laplacian (PDFL)-Based Machine Learning for Protein-Lig
+- [10.48550/arxiv.2409.12080](papers/10.48550_arxiv.2409.12080.md) —— Design of Ligand-Binding Proteins with Atomic Flow Matching
+- [10.1093/bib/bbae644](papers/10.1093_bib_bbae644.md) —— TG-CDDPM: text-guided antimicrobial peptides generation based on conditional den
+- [10.48550/arxiv.2402.18567](papers/10.48550_arxiv.2402.18567.md) —— Diffusion Language Models Are Versatile Protein Learners
+- [10.48550/arxiv.2403.20261](papers/10.48550_arxiv.2403.20261.md) —— FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose
+- [10.48550/arxiv.2504.04654](papers/10.48550_arxiv.2504.04654.md) —— EquiCPI: SE(3)-Equivariant Geometric Deep Learning for Structure-Aware Predictio
+- [10.1039/d4sc03523b](papers/10.1039_d4sc03523b.md) —— PILOT: equivariant diffusion for pocket-conditioned de novo ligand generation wi
+- [10.48550/arxiv.2407.11942](papers/10.48550_arxiv.2407.11942.md) —— Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design
+- [10.48550/arxiv.2310.19513](papers/10.48550_arxiv.2310.19513.md) —— Inverse folding for antibody sequence design using deep learning
+- [10.48550/arxiv.2410.21127](papers/10.48550_arxiv.2410.21127.md) —— Retrieval-Enhanced Mutation Mastery: Augmenting Zero-Shot Prediction of Protein 
+- [10.48550/arxiv.2405.03370](papers/10.48550_arxiv.2405.03370.md) —— AntiFold: Improved antibody structure-based design using inverse folding
+- [10.1093/bib/bbaf228](papers/10.1093_bib_bbaf228.md) —— ADCNet: a unified framework for predicting the activity of antibody-drug conjuga
+- [10.1016/j.patter.2024.100947](papers/10.1016_j.patter.2024.100947.md) —— Enhancing molecular design efficiency: Uniting language models and generative ne
+- [10.48550/arxiv.2310.04017](papers/10.48550_arxiv.2310.04017.md) —— PGraphDTA: Improving Drug Target Interaction Prediction using Protein Language M
+- [10.48550/arxiv.2404.09738](papers/10.48550_arxiv.2404.09738.md) —— AMPCliff: quantitative definition and benchmarking of activity cliffs in antimic
+- [10.48550/arxiv.2504.10983](papers/10.48550_arxiv.2504.10983.md) —— ProtFlow: Fast Protein Sequence Design via Flow Matching on Compressed Protein L
+- [10.48550/arxiv.2408.09730](papers/10.48550_arxiv.2408.09730.md) —— Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug D
+- [10.1109/tnnls.2026.3725736](papers/10.1109_tnnls.2026.3725736.md) —— Dockformer: A Transformer-Based Molecular Docking Paradigm for Large-Scale Virtu
+- [10.26434/chemrxiv-2025-3x5nq-v3](papers/10.26434_chemrxiv-2025-3x5nq-v3.md) —— ADMETrix: ADMET-Driven De Novo Molecular Generation
+- [10.48550/arxiv.2502.09571](papers/10.48550_arxiv.2502.09571.md) —— DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra
+- [10.48550/arxiv.2402.17156](papers/10.48550_arxiv.2402.17156.md) —— TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation
+- [10.48550/arxiv.2312.00842](papers/10.48550_arxiv.2312.00842.md) —— ESM-NBR: fast and accurate nucleic acid-binding residue prediction via protein l
+- [10.48550/arxiv.2406.07266](papers/10.48550_arxiv.2406.07266.md) —— SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivar
+- [10.1101/2025.04.19.649272](papers/10.1101_2025.04.19.649272.md) —— ProtHGT: Heterogeneous Graph Transformers for Automated Protein Function Predict
+- [10.48550/arxiv.2403.04187](papers/10.48550_arxiv.2403.04187.md) —— Preference optimization of protein language models as a multi-objective binder d
+- [10.48550/arxiv.2402.11459](papers/10.48550_arxiv.2402.11459.md) —— Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge
+- [10.1101/2025.04.17.648362](papers/10.1101_2025.04.17.648362.md) —— Crowdsourced Protein Design: Lessons From the Adaptyv EGFR Binder Competition
+- [10.48550/arxiv.2412.12979](papers/10.48550_arxiv.2412.12979.md) —— Reinforcement Learning Guides Generative Protein Language Models
+- [10.48550/arxiv.2401.06151](papers/10.48550_arxiv.2401.06151.md) —— Towards Joint Sequence-Structure Generation of Nucleic Acid and Protein Complexe
+- [10.48550/arxiv.2412.08649](papers/10.48550_arxiv.2412.08649.md) —— Multi-modal Representation Learning Enables Accurate Protein Function Prediction
+- [10.1073/pnas.2314646121](papers/10.1073_pnas.2314646121.md) —— Rapid and automated design of two-component protein nanomaterials using ProteinM
+- [10.48550/arxiv.2409.06090](papers/10.48550_arxiv.2409.06090.md) —— AbGPT: De Novo Antibody Design via Generative Language Modeling
+- [10.48550/arxiv.2507.05503](papers/10.48550_arxiv.2507.05503.md) —— MolFORM: Multi-modal Flow Matching for Structure-Based Drug Design
+- [10.48550/arxiv.2407.01648](papers/10.48550_arxiv.2407.01648.md) —— Aligning Target-Aware Molecule Diffusion Models with Exact Energy Optimization
+- [10.48550/arxiv.2405.08205](papers/10.48550_arxiv.2405.08205.md) —— Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecu
+- [10.48550/arxiv.2512.05080](papers/10.48550_arxiv.2512.05080.md) —— OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design
+- [10.48550/arxiv.2411.05472](papers/10.48550_arxiv.2411.05472.md) —— Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Gen
+- [10.48550/arxiv.2406.17797](papers/10.48550_arxiv.2406.17797.md) —— MoleculeCLA: Rethinking Molecular Benchmark via Computational Ligand-Target Bind
+- [10.1126/sciadv.adl4000](papers/10.1126_sciadv.adl4000.md) —— ForceGen: End-to-end de novo protein generation based on nonlinear mechanical un
+- [10.1002/adfm.202311324](papers/10.1002_adfm.202311324.md) —— Generative Modeling, Design, and Analysis of Spider Silk Protein Sequences for E
+- [10.48550/arxiv.2505.01700](papers/10.48550_arxiv.2505.01700.md) —— PoseX: AI Defeats Physics Approaches on Protein-Ligand Cross Docking
+- [10.48550/arxiv.2409.16298](papers/10.48550_arxiv.2409.16298.md) —— BetterBodies: Reinforcement Learning guided Diffusion for Antibody Sequence Desi
+- [10.48550/arxiv.2410.00327](papers/10.48550_arxiv.2410.00327.md) —— EnzymeFlow: Generating Reaction-specific Enzyme Catalytic Pockets through Flow M
+- [10.64898/2026.02.24.707610](papers/10.64898_2026.02.24.707610.md) —— Integrative Multi-Scale Sequence–Structure Modeling for Antimicrobial Peptide Pr
+- [10.48550/arxiv.2407.21028](papers/10.48550_arxiv.2407.21028.md) —— Antibody DomainBed: Out-of-Distribution Generalization in Therapeutic Protein De
+- [10.48550/arxiv.2607.19237](papers/10.48550_arxiv.2607.19237.md) —— DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structur
+- [10.48550/arxiv.2410.16302](papers/10.48550_arxiv.2410.16302.md) —— Computational design of target-specific linear peptide binders with TransformerB
+- [10.48550/arxiv.2405.20313](papers/10.48550_arxiv.2405.20313.md) —— Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generati
+- [10.48550/arxiv.2402.04845](papers/10.48550_arxiv.2402.04845.md) —— AlphaFold Meets Flow Matching for Generating Protein Ensembles
+- [10.48550/arxiv.2410.17173](papers/10.48550_arxiv.2410.17173.md) —— Reinforcement learning on structure-conditioned categorical diffusion for protei
+- [10.48550/arxiv.2403.12995](papers/10.48550_arxiv.2403.12995.md) —— ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling
+- [10.48550/arxiv.2601.04506](papers/10.48550_arxiv.2601.04506.md) —— Surface-based Molecular Design with Multi-modal Flow Matching
+- [10.48550/arxiv.2402.13555](papers/10.48550_arxiv.2402.13555.md) —— Full-Atom Peptide Design with Geometric Latent Diffusion
+- [10.48550/arxiv.2406.10840](papers/10.48550_arxiv.2406.10840.md) —— CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph
+- [10.1101/2024.03.07.583831](papers/10.1101_2024.03.07.583831.md) —— PPFlow: Target-Aware Peptide Design with Torsional Flow Matching
+- [10.1016/j.csbj.2024.06.029](papers/10.1016_j.csbj.2024.06.029.md) —— G– PLIP : Knowledge graph neural network for structure-free protein–ligand bioac
+- [10.1021/acs.jcim.3c01650](papers/10.1021_acs.jcim.3c01650.md) —— Transferring a Molecular Foundation Model for Polymer Property Predictions
+- [10.48550/arxiv.2310.03842](papers/10.48550_arxiv.2310.03842.md) —— PepMLM: Target Sequence-Conditioned Generation of Therapeutic Peptide Binders vi
+- [10.48550/arxiv.2412.06847](papers/10.48550_arxiv.2412.06847.md) —— M$^{3}$-20M: A Large-Scale Multi-Modal Molecule Dataset for AI-driven Drug Desig
+- [10.48550/arxiv.2312.17495](papers/10.48550_arxiv.2312.17495.md) —— Integrating Chemical Language and Molecular Graph in Multimodal Fused Deep Learn
+- [10.48550/arxiv.2401.08986](papers/10.48550_arxiv.2401.08986.md) —— Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Pred
+- [10.48550/arxiv.2411.14157](papers/10.48550_arxiv.2411.14157.md) —— DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement L
+- [10.1021/acs.jctc.6c00199](papers/10.1021_acs.jctc.6c00199.md) —— Distance-Restraint-Guided Diffusion Models for Sampling Protein Conformational C
+- [10.1101/2024.12.07.627340](papers/10.1101_2024.12.07.627340.md) —— Generative AI-assisted Virtual Screening Pipeline for Generalizable and Efficien
+- [10.48550/arxiv.2404.02003](papers/10.48550_arxiv.2404.02003.md) —— AUTODIFF: Autoregressive Diffusion Modeling for Structure-based Drug Design
+- [10.1093/bioadv/vbaf274](papers/10.1093_bioadv_vbaf274.md) —— Long short-term memory-based deep learning model for the discovery of antimicrob
+- [10.48550/arxiv.2505.22869](papers/10.48550_arxiv.2505.22869.md) —— CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Mode
+- [10.48550/arxiv.2409.19520](papers/10.48550_arxiv.2409.19520.md) —— Generalized Protein Pocket Generation with Prior-Informed Flow Matching
+- [10.48550/arxiv.2607.20057](papers/10.48550_arxiv.2607.20057.md) —— Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody D
+- [10.48550/arxiv.2404.12141](papers/10.48550_arxiv.2404.12141.md) —— MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space
+- [10.1021/acs.jpcb.3c08195](papers/10.1021_acs.jpcb.3c08195.md) —— Data-Efficient Generation of Protein Conformational Ensembles with Backbone-to-S
+- [10.48550/arxiv.2501.08001](papers/10.48550_arxiv.2501.08001.md) —— GDiffRetro: Retrosynthesis Prediction with Dual Graph Enhanced Molecular Represe
+- [10.1101/2024.02.25.581968](papers/10.1101_2024.02.25.581968.md) —— Efficient Generation of Protein Pockets with PocketGen
+- [10.48550/arxiv.2403.14088](papers/10.48550_arxiv.2403.14088.md) —— Protein Conformation Generation via Force-Guided SE(3) Diffusion Models
+- [10.48550/arxiv.2310.19849](papers/10.48550_arxiv.2310.19849.md) —— Predicting mutational effects on protein-protein binding via a side-chain diffus
+- [10.1101/2024.12.18.629145](papers/10.1101_2024.12.18.629145.md) —— Pharmacophore-guided de novo drug design with diffusion bridge
+- [10.48550/arxiv.2312.00080](papers/10.48550_arxiv.2312.00080.md) —— PDB-Struct: A Comprehensive Benchmark for Structure-based Protein Design
+- [10.48550/arxiv.2411.16694](papers/10.48550_arxiv.2411.16694.md) —— Reaction-conditioned De Novo Enzyme Design with GENzyme
+- [10.48550/arxiv.2310.05297](papers/10.48550_arxiv.2310.05297.md) —— Fast protein backbone generation with SE(3) flow matching
+- [10.1093/bib/bbaf367](papers/10.1093_bib_bbaf367.md) —— PepLand: a large-scale pre-trained peptide representation model for a comprehens
+- [10.48550/arxiv.2511.10590](papers/10.48550_arxiv.2511.10590.md) —— Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecul
+- [10.48550/arxiv.2505.10545](papers/10.48550_arxiv.2505.10545.md) —— Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design
+- [10.48550/arxiv.2411.17196](papers/10.48550_arxiv.2411.17196.md) —— P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching
+- [10.48550/arxiv.2404.19739](papers/10.48550_arxiv.2404.19739.md) —— Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generatio
+- [10.48550/arxiv.2402.04997](papers/10.48550_arxiv.2402.04997.md) —— Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applic
+- [10.48550/arxiv.2406.15669](papers/10.48550_arxiv.2406.15669.md) —— CARE: a Benchmark Suite for the Classification and Retrieval of Enzymes
+- [10.1093/bioinformatics/btaf582](papers/10.1093_bioinformatics_btaf582.md) —— Endowing protein language models with structural knowledge
+- [10.48550/arxiv.2409.19645](papers/10.48550_arxiv.2409.19645.md) —— FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling
+- [10.48550/arxiv.2512.17815](papers/10.48550_arxiv.2512.17815.md) —— Structure-Aware Antibody Design with Affinity-Optimized Inverse Folding
+- [10.48550/arxiv.2310.02391](papers/10.48550_arxiv.2310.02391.md) —— SE(3)-Stochastic Flow Matching for Protein Backbone Generation
+- [10.48550/arxiv.2411.05676](papers/10.48550_arxiv.2411.05676.md) —— Improving Molecular Graph Generation with Flow Matching and Optimal Transport
+- [10.1101/2025.05.13.653854](papers/10.1101_2025.05.13.653854.md) —— ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with
+- [10.1021/acs.jcim.5c00397](papers/10.1021_acs.jcim.5c00397.md) —— Integrating Hydrogen Exchange with Molecular Dynamics for Improved Ligand Bindin
+- [10.48550/arxiv.2408.06050](papers/10.48550_arxiv.2408.06050.md) —— What Ails Generative Structure-based Drug Design: Expressivity is Too Little or 
