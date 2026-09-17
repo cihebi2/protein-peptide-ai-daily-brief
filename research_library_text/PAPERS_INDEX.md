@@ -1,7 +1,7 @@
 # 论文索引
 
 
-共 1404 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 777 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 3 + 五方向扩展 110，其中 L1 蛋白设计 59/L2 蛋白语言模型 30/L3 肽性质预测 4/L4 肽生成 6/L5 肽优化 11；各批 DOI 零重叠）。
+共 1465 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 838 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 3 + 五方向扩展 110 + 第二轮五方向 61；各批 DOI 零重叠）。
 
 ## 基础语料（2026-09-06，627 篇）
 
@@ -3490,3 +3490,67 @@
 - [10.1016/j.apsb.2024.04.007](papers/10.1016_j.apsb.2024.04.007.md) —— Characteristic roadmap of linker governs the rational design of PROTACs
 - [10.1093/plphys/kiae105](papers/10.1093_plphys_kiae105.md) —— Regulatory networks in plant responses to drought and cold stress
 - [10.1002/ctm2.1384](papers/10.1002_ctm2.1384.md) —— mRNA vaccine in cancer therapy: Current advance and future outlook
+
+### wave3 多源补下批次（2026-09-16 第二轮，61 篇）
+
+- [10.1073/pnas.2311219120](papers/10.1073_pnas.2311219120.md) —— DNA language models are powerful predictors of genome-wide variant effects
+- [10.3389/fgene.2023.1232117](papers/10.3389_fgene.2023.1232117.md) —— AMP-EBiLSTM: employing novel deep learning strategies for the accurate predictio
+- [10.1186/s12915-024-01883-4](papers/10.1186_s12915-024-01883-4.md) —— Prediction of blood–brain barrier penetrating peptides based on data augmentatio
+- [10.1007/s10989-023-10524-3](papers/10.1007_s10989-023-10524-3.md) —— Strategic Approaches to Improvise Peptide Drugs as Next Generation Therapeutics
+- [10.1007/s12599-023-00834-7](papers/10.1007_s12599-023-00834-7.md) —— Generative AI
+- [10.1038/s12276-024-01262-7](papers/10.1038_s12276-024-01262-7.md) —— Genome-resolved metagenomics: a game changer for microbiome medicine
+- [10.1038/s41392-024-01780-w](papers/10.1038_s41392-024-01780-w.md) —— Adeno-associated virus as a delivery vector for gene therapy of human diseases
+- [10.1038/s41392-024-01886-1](papers/10.1038_s41392-024-01886-1.md) —— Glycosylation: mechanisms, biological functions and clinical implications
+- [10.1186/s40001-025-03196-w](papers/10.1186_s40001-025-03196-w.md) —— Artificial intelligence in healthcare and medicine: clinical applications, thera
+- [10.1038/s41392-025-02280-1](papers/10.1038_s41392-025-02280-1.md) —— Immune evasion in cancer: mechanisms and cutting-edge therapeutic approaches
+- [10.1186/s12951-024-02298-7](papers/10.1186_s12951-024-02298-7.md) —— Exosome-based delivery strategies for tumor therapy: an update on modification, 
+- [10.1093/europace/euae204](papers/10.1093_europace_euae204.md) —— Atrial cardiomyopathy revisited—evolution of a concept: a clinical consensus sta
+- [10.1038/s41392-024-01756-w](papers/10.1038_s41392-024-01756-w.md) —— Peroxisome proliferator-activated receptor gamma coactivator-1 (PGC-1) family in
+- [10.1186/s42269-024-01174-6](papers/10.1186_s42269-024-01174-6.md) —— Oxidative stress and inflammation: elucidating mechanisms of smoking-attributabl
+- [10.1038/s41392-023-01619-w](papers/10.1038_s41392-023-01619-w.md) —— Drug-microbiota interactions: an emerging priority for precision medicine
+- [10.1186/s13045-023-01477-7](papers/10.1186_s13045-023-01477-7.md) —— Methyltransferase-like proteins in cancer biology and potential therapeutic targ
+- [10.1038/s41392-024-02070-1](papers/10.1038_s41392-024-02070-1.md) —— Emerging regulatory mechanisms and functions of biomolecular condensates: implic
+- [10.1038/s41392-023-01704-0](papers/10.1038_s41392-023-01704-0.md) —— Clinical applications of stem cell-derived exosomes
+- [10.1038/s41392-024-02082-x](papers/10.1038_s41392-024-02082-x.md) —— Lactate and lactylation in cancer
+- [10.1186/s40659-024-00562-6](papers/10.1186_s40659-024-00562-6.md) —— Advances in genomic tools for plant breeding: harnessing DNA molecular markers, 
+- [10.3389/fimmu.2023.1267091](papers/10.3389_fimmu.2023.1267091.md) —— The role of inflammation in autoimmune disease: a therapeutic target
+- [10.3389/fimmu.2023.1236063](papers/10.3389_fimmu.2023.1236063.md) —— Copper-instigated modulatory cell mortality mechanisms and progress in oncologic
+- [10.1186/s11671-024-04118-1](papers/10.1186_s11671-024-04118-1.md) —— Comprehensive insights into mechanism of nanotoxicity, assessment methods and re
+- [10.1186/s12967-025-06425-2](papers/10.1186_s12967-025-06425-2.md) —— Machine learning and multi-omics integration: advancing cardiovascular translati
+- [10.1007/s10462-024-10731-4](papers/10.1007_s10462-024-10731-4.md) —— Machine learning heralding a new development phase in molecular dynamics simulat
+- [10.1186/s40164-025-00647-2](papers/10.1186_s40164-025-00647-2.md) —— Extracellular matrix stiffness: mechanisms in tumor progression and therapeutic 
+- [10.1038/s41392-025-02220-z](papers/10.1038_s41392-025-02220-z.md) —— The immune system in cardiovascular diseases: from basic mechanisms to therapeut
+- [10.1007/s10238-025-01965-9](papers/10.1007_s10238-025-01965-9.md) —— AI-driven multi-omics integration in precision oncology: bridging the data delug
+- [10.1016/j.xinn.2024.100691](papers/10.1016_j.xinn.2024.100691.md) —— Artificial intelligence for geoscience: Progress, challenges, and perspectives
+- [10.1109/access.2024.3367715](papers/10.1109_access.2024.3367715.md) —— Generative AI for Transformative Healthcare: A Comprehensive Study of Emerging M
+- [10.1007/s11101-025-10194-7](papers/10.1007_s11101-025-10194-7.md) —— Medicinal plants and human health: a comprehensive review of bioactive compounds
+- [10.1186/s12943-025-02357-z](papers/10.1186_s12943-025-02357-z.md) —— Precision nanomedicine: navigating the tumor microenvironment for enhanced cance
+- [10.1186/s40164-025-00602-1](papers/10.1186_s40164-025-00602-1.md) —— Applications of liposomes and lipid nanoparticles in cancer therapy: current adv
+- [10.1038/s41413-024-00319-7](papers/10.1038_s41413-024-00319-7.md) —— A DNA tetrahedron-based ferroptosis-suppressing nanoparticle: superior delivery 
+- [10.1186/s13045-023-01514-5](papers/10.1186_s13045-023-01514-5.md) —— Novel research and future prospects of artificial intelligence in cancer diagnos
+- [10.1186/s43556-025-00340-0](papers/10.1186_s43556-025-00340-0.md) —— Multi-omics strategies for biomarker discovery and application in personalized o
+- [10.1007/s00521-023-09391-2](papers/10.1007_s00521-023-09391-2.md) —— Enhancing crop recommendation systems with explainable artificial intelligence: 
+- [10.1007/s44466-025-00014-0](papers/10.1007_s44466-025-00014-0.md) —— NF-κB: master regulator of cellular responses in health and disease
+- [10.1007/s44379-025-00016-0](papers/10.1007_s44379-025-00016-0.md) —— When physics meets machine learning: a survey of physics-informed machine learni
+- [10.1038/s41392-024-02108-4](papers/10.1038_s41392-024-02108-4.md) —— Breast cancer: pathogenesis and treatments
+- [10.1186/s40537-023-00876-4](papers/10.1186_s40537-023-00876-4.md) —— A review of graph neural networks: concepts, architectures, techniques, challeng
+- [10.1007/s12525-023-00680-1](papers/10.1007_s12525-023-00680-1.md) —— Generative artificial intelligence
+- [10.1186/s12645-024-00250-w](papers/10.1186_s12645-024-00250-w.md) —— Mesoporous silica nanotechnology: promising advances in augmenting cancer theran
+- [10.3389/fonc.2024.1296091](papers/10.3389_fonc.2024.1296091.md) —— Lipid-based nanoparticles as drug delivery carriers for cancer therapy
+- [10.1038/s41375-024-02444-y](papers/10.1038_s41375-024-02444-y.md) —— Leveraging CRISPR gene editing technology to optimize the efficacy, safety and a
+- [10.1007/s11468-024-02620-x](papers/10.1007_s11468-024-02620-x.md) —— Developments in Localized Surface Plasmon Resonance
+- [10.1016/j.jsamd.2024.100694](papers/10.1016_j.jsamd.2024.100694.md) —— Applications of nanomaterial technology in biosensing
+- [10.1039/d4nh00226a](papers/10.1039_d4nh00226a.md) —— Plasmonic nanoparticle sensors: current progress, challenges, and future prospec
+- [10.1016/j.pdpdt.2023.103959](papers/10.1016_j.pdpdt.2023.103959.md) —— Nanomaterials-assisted photothermal therapy for breast cancer: State-of-the-art 
+- [10.1186/s12943-024-01932-0](papers/10.1186_s12943-024-01932-0.md) —— Tumor-derived small extracellular vesicles in cancer invasion and metastasis: mo
+- [10.1038/s41746-025-01471-y](papers/10.1038_s41746-025-01471-y.md) —— Convergence of evolving artificial intelligence and machine learning techniques 
+- [10.1038/s41392-023-01503-7](papers/10.1038_s41392-023-01503-7.md) —— The mitophagy pathway and its implications in human diseases
+- [10.1002/jev2.12404](papers/10.1002_jev2.12404.md) —— Minimal information for studies of extracellular vesicles (MISEV2023): From basi
+- [10.1038/s41392-023-01693-0](papers/10.1038_s41392-023-01693-0.md) —— Intratumoural microbiota: a new frontier in cancer development and therapy
+- [10.1109/access.2024.3376441](papers/10.1109_access.2024.3376441.md) —— A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenge
+- [10.3389/fmolb.2023.1232109](papers/10.3389_fmolb.2023.1232109.md) —— Nanogels as novel drug nanocarriers for CNS drug delivery
+- [10.1186/s12929-024-01080-z](papers/10.1186_s12929-024-01080-z.md) —— Current landscape of mRNA technologies and delivery systems for new modality the
+- [10.1038/s41598-024-54655-z](papers/10.1038_s41598-024-54655-z.md) —— AI is a viable alternative to high throughput screening: a 318-target study
+- [10.1007/s40265-023-01938-w](papers/10.1007_s40265-023-01938-w.md) —— Alzheimer’s Disease: Novel Targets and Investigational Drugs for Disease Modific
+- [10.1038/s41392-024-01851-y](papers/10.1038_s41392-024-01851-y.md) —— Cancer stem cells: advances in knowledge and implications for cancer therapy
+- [10.1016/j.biotechadv.2025.108570](papers/10.1016_j.biotechadv.2025.108570.md) —— Advances in antimicrobial peptides: From mechanistic insights to chemical modifi

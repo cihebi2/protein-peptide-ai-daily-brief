@@ -542,6 +542,105 @@
    "pdf_url": "http://www.immunoinformaticsjournal.com/article/S2667119024000053/pdf",
    "status": "blocked",
    "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.cels.2023.10.002",
+   "title": "ProGen2: Exploring the boundaries of protein language models",
+   "quality_score": 105,
+   "lane_ids": "L2-蛋白语言模型",
+   "pdf_url": "http://www.cell.com/article/S2405471223002727/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.cels.2023.10.001",
+   "title": "IgLM: Infilling language modeling for antibody sequence design",
+   "quality_score": 105,
+   "lane_ids": "L2-蛋白语言模型",
+   "pdf_url": "http://www.cell.com/article/S2405471223002715/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.cels.2024.01.008",
+   "title": "Convolutions are competitive with transformers for protein sequence pretraining",
+   "quality_score": 105,
+   "lane_ids": "L2-蛋白语言模型",
+   "pdf_url": "http://www.cell.com/article/S2405471224000292/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1126/sciadv.adq8492",
+   "title": "Designing microplastic-binding peptides with a variational quantum circuit–based hybrid quantum-classical approach",
+   "quality_score": 104.3,
+   "lane_ids": "L4-肽生成",
+   "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adq8492",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.cell.2024.04.015",
+   "title": "Circadian tumor infiltration and function of CD8+ T cells dictate immunotherapy efficacy",
+   "quality_score": 99,
+   "lane_ids": "L1-蛋白设计",
+   "pdf_url": "http://www.cell.com/article/S0092867424004100/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1126/science.adm8684",
+   "title": "Targeting cancer with small-molecule pan-KRAS degraders",
+   "quality_score": 99,
+   "lane_ids": "L1-蛋白设计",
+   "pdf_url": "https://www.science.org/doi/pdf/10.1126/science.adm8684",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/cells13221838",
+   "title": "Apoptosis: A Comprehensive Overview of Signaling Pathways, Morphological Changes, and Physiological Significance and Therapeutic Implications",
+   "quality_score": 99,
+   "lane_ids": "L1-蛋白设计",
+   "pdf_url": "https://www.mdpi.com/2073-4409/13/22/1838/pdf?version=1731049236",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.cell.2023.08.030",
+   "title": "ADP-ribosylation from molecular mechanisms to therapeutic implications",
+   "quality_score": 99,
+   "lane_ids": "L1-蛋白设计",
+   "pdf_url": "http://www.cell.com/article/S0092867423009625/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.cell.2023.07.039",
+   "title": "Phage-assisted evolution and protein engineering yield compact, efficient prime editors",
+   "quality_score": 99,
+   "lane_ids": "L5-肽优化",
+   "pdf_url": "http://www.cell.com/article/S0092867423008541/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bioinformatics/btad334",
+   "title": "Deep learning-based multi-functional therapeutic peptides prediction with a multi-label focal dice loss function",
+   "quality_score": 84.0,
+   "lane_ids": "L3-肽性质预测",
+   "pdf_url": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad334/50418337/btad334.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbae085",
+   "title": "metaProbiotics: a tool for mining probiotic from metagenomic binning data based on a language model",
+   "quality_score": 83.7,
+   "lane_ids": "L3-肽性质预测",
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/25/2/bbae085/56968598/bbae085.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
   }
  ]
 }
