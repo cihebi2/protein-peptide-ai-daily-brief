@@ -1,7 +1,7 @@
 # 论文索引
 
 
-共 1465 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 838 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 3 + 五方向扩展 110 + 第二轮五方向 61；各批 DOI 零重叠）。
+共 1477 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 850 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 3 + 五方向 110 + 第二轮 61 + 预印本层 12；各批 DOI 零重叠）。
 
 ## 基础语料（2026-09-06，627 篇）
 
@@ -3554,3 +3554,18 @@
 - [10.1007/s40265-023-01938-w](papers/10.1007_s40265-023-01938-w.md) —— Alzheimer’s Disease: Novel Targets and Investigational Drugs for Disease Modific
 - [10.1038/s41392-024-01851-y](papers/10.1038_s41392-024-01851-y.md) —— Cancer stem cells: advances in knowledge and implications for cancer therapy
 - [10.1016/j.biotechadv.2025.108570](papers/10.1016_j.biotechadv.2025.108570.md) —— Advances in antimicrobial peptides: From mechanistic insights to chemical modifi
+
+### wave3 多源补下批次（2026-09-16 第二轮，12 篇）
+
+- [10.1101/2025.10.12.681920](papers/10.1101_2025.10.12.681920.md) —— High-Throughput De Novo Protein Design Yields Novel Immunomodulatory Agonists
+- [10.1101/2025.10.04.680454](papers/10.1101_2025.10.04.680454.md) —— Mapping the evolution of computationally designed protein binders
+- [10.1101/2025.09.29.678898](papers/10.1101_2025.09.29.678898.md) —— De novo design of phosphotyrosine peptide binders
+- [10.1101/2025.08.15.670493](papers/10.1101_2025.08.15.670493.md) —— Deep learning-based joint sequence–structure de novo membrane protein design
+- [10.1101/2025.08.11.669595](papers/10.1101_2025.08.11.669595.md) —— ProStab: Prediction of protein stability change upon mutations by protein langua
+- [10.1101/2025.08.03.668343](papers/10.1101_2025.08.03.668343.md) —— Design of Orthogonal Far-Red, Orange and Green Fluorophore-binding Proteins for 
+- [10.48550/arxiv.2606.05474](papers/10.48550_arxiv.2606.05474.md) —— AlloGen: Conformation-Selective Binder Generation with Differential State Scorin
+- [10.48550/arxiv.2603.06748](papers/10.48550_arxiv.2603.06748.md) —— Property-driven Protein Inverse Folding With Multi-Objective Preference Alignmen
+- [10.48550/arxiv.2602.01845](papers/10.48550_arxiv.2602.01845.md) —— No Generation without Representation: Efficient Causal Protein Language Models E
+- [10.48550/arxiv.2602.00157](papers/10.48550_arxiv.2602.00157.md) —— ProDCARL: Reinforcement Learning-Aligned Diffusion Models for De Novo Antimicrob
+- [10.48550/arxiv.2512.24192](papers/10.48550_arxiv.2512.24192.md) —— SeedProteo: Accurate De Novo All-Atom Design of Protein Binders
+- [10.1093/bib/bbae085](papers/10.1093_bib_bbae085.md) —— metaProbiotics: mining probiotics from metagenomic data

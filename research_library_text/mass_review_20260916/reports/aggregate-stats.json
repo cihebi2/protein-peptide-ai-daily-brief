@@ -1,14 +1,15 @@
 {
  "papers": {
-  "new_reviewed": 838,
+  "new_reviewed": 850,
   "previous_reviewed": 628,
-  "total": 1466,
-  "innovation_cards": 3389,
-  "reusable_assets": 1156,
-  "combination_hooks": 3224,
+  "total": 1478,
+  "innovation_cards": 3449,
+  "reusable_assets": 1189,
+  "combination_hooks": 3283,
   "by_scope": {
    "lane-expansion": 110,
    "lane2-expansion": 61,
+   "preprint-expansion": 12,
    "not_in_manifest": 345,
    "review_queue": 35,
    "accepted_core_high_quality": 287
@@ -22,10 +23,10 @@
   "total": 309
  },
  "lane_support_papers": {
-  "C00": 274,
-  "C04": 228,
-  "C01": 223,
-  "C03": 204,
+  "C00": 290,
+  "C04": 235,
+  "C01": 233,
+  "C03": 208,
   "C16": 199,
   "C08": 183,
   "X06": 154,
@@ -62,13 +63,13 @@
   "C19": 1
  },
  "lane_support_hooks": {
-  "C00": 1721,
-  "C01": 903,
+  "C00": 1775,
+  "C01": 933,
   "X06": 84,
-  "C03": 31,
+  "C03": 33,
+  "C04": 16,
   "C07": 13,
   "C16": 13,
-  "C04": 12,
   "C50": 9,
   "C08": 5,
   "C13": 4,
@@ -91,11 +92,11 @@
   "C16": 9
  },
  "assets_by_kind": {
-  "protocol": 341,
-  "code": 243,
-  "dataset": 243,
-  "benchmark": 175,
-  "model": 153,
+  "protocol": 347,
+  "dataset": 250,
+  "code": 249,
+  "benchmark": 181,
+  "model": 161,
   "webserver": 1
  },
  "top_cross_lane_papers": [

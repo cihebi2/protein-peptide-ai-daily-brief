@@ -66,3 +66,15 @@
 - 剩余 111 篇 MDPI/OUP/PMC/Wiley/Cell 的 CF 死锁块并入 pending-download-archive（总数 58）。
 - 组合阶段提示：本批 lane 标签漂移率较高（宽词表召回的综述），已在 novelty_boundary 逐篇标注降权建议。
 - papers/ 新增 61，合并后论文卡片总数 1465。
+
+## Wave3 2026-09-16（第二轮）
+
+- 多源 OA（OpenAlex/Unpaywall/Semantic Scholar/EuropePMC/arXiv 镜像）补下 115 篇 strict-v2 高分论文并完成精读审查。
+- papers/ 新增 115（DOI 命名），合并后论文卡片总数 1221。
+- 仍有约 156 篇高分论文因出版商 403/无 OA 副本未能获取全文（需校园网 InstSci 通道），清单在本地 wave3-candidates.jsonl。
+
+## Preprint Expansion 2026-09-17（预印本层）
+
+- OpenAlex preprint 类型扫描（2025-06 以来）五方向 14 篇 + 1 篇 BIB 期刊论文；下载 12，全部精读审查（零跳过，60 张创新卡，均标注"未经同行评审"边界）。
+- 亮点：AlloGen 构象选择性 binder（差分状态打分 ΔQ）、ProDCARL（RL 对齐 AMP 生成，活性+毒性联合）、SeedProteo（全原子 binder SOTA+湿验证）。
+- papers/ 新增 12，合并后论文卡片总数 1477。
