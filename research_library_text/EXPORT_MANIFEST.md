@@ -78,3 +78,9 @@
 - OpenAlex preprint 类型扫描（2025-06 以来）五方向 14 篇 + 1 篇 BIB 期刊论文；下载 12，全部精读审查（零跳过，60 张创新卡，均标注"未经同行评审"边界）。
 - 亮点：AlloGen 构象选择性 binder（差分状态打分 ΔQ）、ProDCARL（RL 对齐 AMP 生成，活性+毒性联合）、SeedProteo（全原子 binder SOTA+湿验证）。
 - papers/ 新增 12，合并后论文卡片总数 1477。
+
+## Repos2 2026-09-17（论文声明仓库批次）
+
+- 从新批次 183 篇审查记录提取 27 个声明 GitHub 仓库；浅克隆 25，静态审计 18（7 个空克隆跳过，1 个克隆失败跳过）。
+- 高复用 12+：prodcarl（含 pAMP/pTox 分类器权重）、rfdiffusion、rfantibody、tabpfn、chemprop、gpn、rhodesign、accelerated-enzyme-engineering、utr-lm、mitar 等。
+- repositories/ 新增 18 卡；仓库审计累计 327（200 存量 + 109 mass-review + 18 repos2）。
