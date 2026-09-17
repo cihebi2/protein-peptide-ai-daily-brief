@@ -1,15 +1,15 @@
 {
  "papers": {
-  "new_reviewed": 594,
+  "new_reviewed": 664,
   "previous_reviewed": 628,
-  "total": 1222,
-  "innovation_cards": 2389,
-  "reusable_assets": 832,
-  "combination_hooks": 2369,
+  "total": 1292,
+  "innovation_cards": 2712,
+  "reusable_assets": 975,
+  "combination_hooks": 2706,
   "by_scope": {
    "not_in_manifest": 345,
    "review_queue": 35,
-   "accepted_core_high_quality": 214
+   "accepted_core_high_quality": 284
   }
  },
  "repos": {
@@ -20,64 +20,68 @@
   "total": 309
  },
  "lane_support_papers": {
-  "C16": 176,
-  "C04": 161,
-  "C08": 154,
-  "C03": 143,
-  "C00": 125,
-  "C01": 115,
-  "C05": 109,
-  "X06": 101,
+  "C16": 198,
+  "C04": 183,
+  "C08": 173,
+  "C00": 167,
+  "C03": 149,
+  "C01": 144,
+  "X06": 116,
+  "C05": 112,
   "C02": 92,
-  "C07": 75,
+  "C07": 83,
+  "X01": 35,
   "C13": 32,
+  "X05": 28,
   "C11": 25,
-  "X05": 20,
-  "X07": 19,
-  "X01": 18,
-  "X02": 18,
-  "X03": 14,
+  "X07": 24,
+  "X04": 22,
+  "X02": 21,
+  "X08": 17,
+  "X03": 16,
+  "X09": 15,
   "C10": 13,
-  "X09": 13,
-  "X04": 13,
-  "X08": 11,
+  "C09": 12,
   "C12": 10,
-  "C09": 8,
-  "X10": 6,
-  "X12": 6,
+  "X12": 9,
+  "X10": 8,
+  "X11": 6,
+  "C15": 5,
   "X13": 4,
-  "X11": 4,
   "X15": 4,
-  "C15": 4,
   "X14": 3,
   "X16": 2,
   "X17": 2,
   "X18": 1,
   "C06": 1,
-  "C14": 1
+  "C14": 1,
+  "C17": 1,
+  "C18": 1,
+  "C19": 1
  },
  "lane_support_hooks": {
-  "C00": 1187,
-  "C01": 603,
-  "X06": 50,
+  "C00": 1376,
+  "C01": 743,
+  "X06": 70,
   "C03": 20,
   "C16": 13,
   "C07": 8,
   "C04": 6,
+  "C50": 5,
   "C30": 4,
   "C02": 4,
   "C42": 3,
-  "C50": 3,
   "C34": 2,
   "C12": 2,
   "C90": 2,
   "C20": 2,
   "C13": 2,
+  "C08": 2,
   "C81": 1,
   "C63": 1,
   "X50": 1,
   "X01": 1,
-  "C08": 1
+  "X11": 1
  },
  "lane_support_repos": {
   "C00": 141,
@@ -85,11 +89,12 @@
   "C16": 9
  },
  "assets_by_kind": {
-  "protocol": 256,
-  "code": 182,
-  "dataset": 160,
-  "benchmark": 123,
-  "model": 111
+  "protocol": 298,
+  "code": 211,
+  "dataset": 188,
+  "benchmark": 146,
+  "model": 131,
+  "webserver": 1
  },
  "top_cross_lane_papers": [
   {
@@ -103,6 +108,12 @@
    "lanes": 5,
    "hooks": 4,
    "title": "Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbon"
+  },
+  {
+   "doi": "10.1039/d4sc03744h",
+   "lanes": 5,
+   "hooks": 4,
+   "title": "Unlocking comprehensive molecular design across all scenarios with lar"
   },
   {
    "doi": "10.64898/2026.06.10.731501",
@@ -171,6 +182,18 @@
    "title": "Co-Designing Proteins, Ligands, Binding Interfaces, and Molecular Asse"
   },
   {
+   "doi": "10.1126/science.adq1741",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Scalable protein design using optimization in a relaxed sequence space"
+  },
+  {
+   "doi": "10.1126/science.adk8946",
+   "lanes": 4,
+   "hooks": 5,
+   "title": "Unsupervised evolution of protein and antibody complexes with a struct"
+  },
+  {
    "doi": "10.1101/2025.09.01.673427",
    "lanes": 4,
    "hooks": 5,
@@ -213,34 +236,16 @@
    "title": "DSMBind: SE(3) denoising score matching for unsupervised binding energ"
   },
   {
-   "doi": "10.1093/bib/bbae644",
+   "doi": "10.1093/bib/bbae715",
    "lanes": 4,
    "hooks": 5,
-   "title": "TG-CDDPM: text-guided antimicrobial peptides generation based on condi"
+   "title": "Directed evolution of antimicrobial peptides using multi-objective zer"
   },
   {
-   "doi": "10.1038/s41598-024-57247-z",
+   "doi": "10.1093/bib/bbae693",
    "lanes": 4,
    "hooks": 5,
-   "title": "De novo antioxidant peptide design via machine learning and DFT studie"
-  },
-  {
-   "doi": "10.1038/s41586-023-06953-1",
-   "lanes": 4,
-   "hooks": 5,
-   "title": "De novo design of high-affinity binders of bioactive helical peptides"
-  },
-  {
-   "doi": "10.1038/s41467-023-44288-7",
-   "lanes": 4,
-   "hooks": 5,
-   "title": "From interaction networks to interfaces, scanning intrinsically disord"
-  },
-  {
-   "doi": "10.1021/acssynbio.4c00624",
-   "lanes": 4,
-   "hooks": 5,
-   "title": "GRACE: Generative Redesign in Artificial Computational Enzymology"
+   "title": "DrugAssist: a large language model for molecule optimization"
   }
  ],
  "high_reusability_repos": [

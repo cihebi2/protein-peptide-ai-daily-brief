@@ -1,7 +1,7 @@
 # 论文索引
 
 
-共 1221 篇：2026-09-06 基础语料 627 篇 + 2026-09-16 mass-review 批次 594 篇（wave1/2 479 + wave3 多源补下 115；各批 DOI 零重叠）。
+共 1291 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 664 篇（wave1/2 479 + wave3 115 + wave4 校园网浏览器补下 70；各批 DOI 零重叠）。
 
 ## 基础语料（2026-09-06，627 篇）
 
@@ -3298,3 +3298,76 @@
 - [10.1101/2025.05.13.653854](papers/10.1101_2025.05.13.653854.md) —— ProtFun: A Protein Function Prediction Model Using Graph Attention Networks with
 - [10.1021/acs.jcim.5c00397](papers/10.1021_acs.jcim.5c00397.md) —— Integrating Hydrogen Exchange with Molecular Dynamics for Improved Ligand Bindin
 - [10.48550/arxiv.2408.06050](papers/10.48550_arxiv.2408.06050.md) —— What Ails Generative Structure-based Drug Design: Expressivity is Too Little or 
+
+### wave3 多源补下批次（2026-09-16 第二轮，70 篇）
+
+- [10.1002/pro.70338](papers/10.1002_pro.70338.md) —— DiffPepDock: Efficient protein-peptide docking and binder screening via SE(3)-eq
+- [10.3390/foods14132202](papers/10.3390_foods14132202.md) —— Explainable Machine Learning Model to Accurately Predict Protein-Binding Peptide
+- [10.1002/jcc.27315](papers/10.1002_jcc.27315.md) —— Advances in machine learning with chemical language models in molecular property
+- [10.1021/acs.jcim.3c01586](papers/10.1021_acs.jcim.3c01586.md) —— Classifying Protein-Protein Binding Affinity with Free-Energy Calculations and M
+- [10.1039/d4sc03744h](papers/10.1039_d4sc03744h.md) —— Unlocking comprehensive molecular design across all scenarios with large languag
+- [10.1093/bib/bbae142](papers/10.1093_bib_bbae142.md) —— GLDM: hit molecule generation with constrained graph latent diffusion model
+- [10.1021/acsomega.4c05607](papers/10.1021_acsomega.4c05607.md) —— A Multibranch Neural Network for Drug-Target Affinity Prediction Using Similarit
+- [10.1016/j.jare.2024.02.016](papers/10.1016_j.jare.2024.02.016.md) —— Machine learning and genetic algorithm-guided directed evolution for the develop
+- [10.1093/bib/bbae693](papers/10.1093_bib_bbae693.md) —— DrugAssist: a large language model for molecule optimization
+- [10.1093/abt/tbad023](papers/10.1093_abt_tbad023.md) —— A disruptive clickable antibody design for the generation of antibody-drug conju
+- [10.1126/science.adk8946](papers/10.1126_science.adk8946.md) —— Unsupervised evolution of protein and antibody complexes with a structure-inform
+- [10.1093/bib/bbae123](papers/10.1093_bib_bbae123.md) —— Graph-pMHC: graph neural network approach to MHC class II peptide presentation a
+- [10.1016/j.csbj.2024.01.023](papers/10.1016_j.csbj.2024.01.023.md) —— Enhancing Mass spectrometry-based tumor immunopeptide identification: machine le
+- [10.1016/j.csbj.2024.04.030](papers/10.1016_j.csbj.2024.04.030.md) —— Multimodal fused deep learning for drug property prediction: Integrating chemica
+- [10.1126/science.adq1741](papers/10.1126_science.adq1741.md) —— Scalable protein design using optimization in a relaxed sequence space (RSO)
+- [10.1038/s41467-024-50903-y](papers/10.1038_s41467-024-50903-y.md) —— De novo generation of SARS-CoV-2 antibody CDRH3 with a pre-trained generative la
+- [10.1021/acs.jcim.5c02883](papers/10.1021_acs.jcim.5c02883.md) —— LiBRe: A Ligand-Aware Sequence-Based Binding Residue Prediction Model for Virtua
+- [10.1021/acs.jcim.3c01559](papers/10.1021_acs.jcim.3c01559.md) —— HydraProt: A New Deep Learning Tool for Fast and Accurate Prediction of Water Mo
+- [10.1021/acs.jcim.3c01698](papers/10.1021_acs.jcim.3c01698.md) —— Graph Attention Site Prediction (GrASP): Identifying Druggable Binding Sites Usi
+- [10.22541/au.174562565.51283311/v1](papers/10.22541_au.174562565.51283311_v1.md) —— Mining Bovine Milk Proteins for DPP-4 Inhibitory Peptides Using Machine Learning
+- [10.1126/sciadv.adr8638](papers/10.1126_sciadv.adr8638.md) —— De novo design of peptide binders to conformationally diverse targets with contr
+- [10.1002/pro.4841](papers/10.1002_pro.4841.md) —— TEPCAM: Prediction of T-cell receptor-epitope binding specificity via interpreta
+- [10.1093/bib/bbae525](papers/10.1093_bib_bbae525.md) —— Cross-modal Generation of Hit-like Molecules via Foundation Model Encoding of Ge
+- [10.1073/pnas.2316401121](papers/10.1073_pnas.2316401121.md) —— TULIP: A transformer-based unsupervised language model for interacting peptides 
+- [10.1093/bib/bbaf585](papers/10.1093_bib_bbaf585.md) —— SAGE-prot: scoring-assisted generative exploration for multi-objective protein d
+- [10.1126/sciadv.adx8352](papers/10.1126_sciadv.adx8352.md) —— AI-assisted protein design to rapidly convert antibody sequences to intrabodies 
+- [10.1186/s13059-026-03986-3](papers/10.1186_s13059-026-03986-3.md) —— A geometric deep learning framework for genome-wide prediction of enzyme turnove
+- [10.1021/acs.jcim.4c01193](papers/10.1021_acs.jcim.4c01193.md) —— Structure-Based Drug Design with a Deep Hierarchical Generative Model (DrugHIVE)
+- [10.1093/bib/bbae583](papers/10.1093_bib_bbae583.md) —— ToxGIN: an in silico prediction model for peptide toxicity via graph isomorphism
+- [10.1021/acsomega.4c01374](papers/10.1021_acsomega.4c01374.md) —— Integrating Traditional Machine Learning and Deep Learning for Precision Screeni
+- [10.1016/j.str.2024.02.017](papers/10.1016_j.str.2024.02.017.md) —— A Suite of Designed Protein Cages Using Machine Learning and Protein Fragment-Ba
+- [10.1016/j.cell.2024.05.013](papers/10.1016_j.cell.2024.05.013.md) —— Discovery of antimicrobial peptides in the global microbiome with machine learni
+- [10.1016/j.heliyon.2024.e36041](papers/10.1016_j.heliyon.2024.e36041.md) —— ProSol-multi: Protein solubility prediction via amino acids multi-level correlat
+- [10.1039/d4sc06864e](papers/10.1039_d4sc06864e.md) —— 3DSMILES-GPT: 3D molecular pocket-based generation with token-only large languag
+- [10.1101/2025.01.31.636003](papers/10.1101_2025.01.31.636003.md) —— Generative latent diffusion language modeling yields anti-infective synthetic pe
+- [10.1002/mef2.96](papers/10.1002_mef2.96.md) —— Deep learning methods for protein structure prediction (review)
+- [10.1093/bib/bbae715](papers/10.1093_bib_bbae715.md) —— Directed evolution of antimicrobial peptides using multi-objective zeroth-order 
+- [10.34133/research.0391](papers/10.34133_research.0391.md) —— Multiscale graph equivariant diffusion model for 3D molecule design (MD3MD) [正文实
+- [10.1002/pro.5233](papers/10.1002_pro.5233.md) —— Predicting absolute protein folding stability using generative models
+- [10.1021/acsomega.3c05571](papers/10.1021_acsomega.3c05571.md) —— Exploration of DPP-IV Inhibitory Peptide Design Rules Assisted by the Deep Learn
+- [10.1093/bioinformatics/btae268](papers/10.1093_bioinformatics_btae268.md) —— AbLEF: antibody language ensemble fusion for thermodynamically empowered propert
+- [10.1093/nar/gkag425](papers/10.1093_nar_gkag425.md) —— xBind: an integrated webserver for large language model-enabled cross-molecular 
+- [10.1021/acsomega.4c07682](papers/10.1021_acsomega.4c07682.md) —— PepCARES: A Comprehensive Advanced Refinement and Evaluation System for Peptide 
+- [10.1021/acsomega.4c08027](papers/10.1021_acsomega.4c08027.md) —— Enhancing De Novo Drug Design across Multiple Therapeutic Targets with CVAE Gene
+- [10.1073/pnas.2313809121](papers/10.1073_pnas.2313809121.md) —— Context-dependent design of induced-fit enzymes using deep learning generates we
+- [10.1016/j.jare.2025.11.046](papers/10.1016_j.jare.2025.11.046.md) —— Generation of antifungals to combat drug resistance using language models and di
+- [10.1016/j.apsb.2026.04.009](papers/10.1016_j.apsb.2026.04.009.md) —— FlowDock: A unified flow-based framework for flexible protein-ligand docking and
+- [10.1002/wcms.1693](papers/10.1002_wcms.1693.md) —— Revolutionizing Peptide-Based Drug Discovery: Advances in the Post-AlphaFold Era
+- [10.1039/d4sc05894a](papers/10.1039_d4sc05894a.md) —— DiffBP: generative diffusion of 3D molecules for target protein binding
+- [10.1021/acsomega.5c09368](papers/10.1021_acsomega.5c09368.md) —— Structure-Based and AI-Assisted Identification of AGPS Inhibitors for Glioma via
+- [10.1126/sciadv.adr7338](papers/10.1126_sciadv.adr7338.md) —— Self-supervised machine learning methods for protein design improve sampling but
+- [10.1038/s41467-024-50571-y](papers/10.1038_s41467-024-50571-y.md) —— Context-aware geometric deep learning for protein sequence design (CARBonAra)
+- [10.1016/j.bbrep.2024.101703](papers/10.1016_j.bbrep.2024.101703.md) —— Computational exploration of SLC14A1 genetic variants through structure modeling
+- [10.1126/sciadv.adv0778](papers/10.1126_sciadv.adv0778.md) —— Antioxidant Activity In Vitro and Protective Effects Against Lipopolysaccharide-
+- [10.1016/j.apsb.2024.05.003](papers/10.1016_j.apsb.2024.05.003.md) —— Screening antimicrobial peptides and probiotics using multiple deep learning and
+- [10.1021/acs.jcim.3c01774](papers/10.1021_acs.jcim.3c01774.md) —— Real-World Molecular Out-Of-Distribution: Specification and Investigation
+- [10.1186/s13321-024-00920-2](papers/10.1186_s13321-024-00920-2.md) —— Protein-small molecule binding site prediction based on a pre-trained protein la
+- [10.1016/j.jare.2025.01.005](papers/10.1016_j.jare.2025.01.005.md) —— Unveiling novel antimicrobial peptides from the ruminant gastrointestinal microb
+- [10.1038/s41598-024-67433-8](papers/10.1038_s41598-024-67433-8.md) —— PLMACPred: prediction of anticancer peptides based on protein language model and
+- [10.1039/d4sc02233e](papers/10.1039_d4sc02233e.md) —— ProBID-Net: a deep learning model for protein-protein binding interface design
+- [10.1021/acs.jcim.5c02734](papers/10.1021_acs.jcim.5c02734.md) —— SwinSite: 3D Structure-Based Prediction of Protein-Ligand Binding Sites Using a 
+- [10.1002/anie.202421686](papers/10.1002_anie.202421686.md) —— Structure Prediction and Computational Protein Design for Efficient Biocatalysts
+- [10.1093/nar/gkae1019](papers/10.1093_nar_gkae1019.md) —— dbAMP 3.0: updated resource of antimicrobial activity and structural annotation 
+- [10.1126/sciadv.adp7171](papers/10.1126_sciadv.adp7171.md) —— Artificial intelligence using a latent diffusion model enables the generation of
+- [10.1039/d4ra05422a](papers/10.1039_d4ra05422a.md) —— Combining de novo molecular design with semiempirical protein-ligand binding fre
+- [10.1073/pnas.2504117122](papers/10.1073_pnas.2504117122.md) —— GeoEvoBuilder: A deep learning framework for efficient functional and thermostab
+- [10.64898/2025.12.01.691424](papers/10.64898_2025.12.01.691424.md) —— Modeling TCR-pMHC Binding with Dual Encoders and Cross-Attention Fusion (TIDE)
+- [10.1093/bib/bbae308](papers/10.1093_bib_bbae308.md) —— TP-LMMSG: a peptide prediction graph neural network incorporating flexible amino
+- [10.1038/s41598-024-80940-y](papers/10.1038_s41598-024-80940-y.md) —— ParaAntiProt provides paratope prediction using antibody and protein language mo
+- [10.1080/19420862.2024.2362775](papers/10.1080_19420862.2024.2362775.md) —— Toward enhancement of antibody thermostability and affinity by computational des
