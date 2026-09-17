@@ -1,14 +1,15 @@
 {
  "papers": {
-  "new_reviewed": 850,
+  "new_reviewed": 875,
   "previous_reviewed": 628,
-  "total": 1478,
-  "innovation_cards": 3449,
-  "reusable_assets": 1189,
-  "combination_hooks": 3283,
+  "total": 1503,
+  "innovation_cards": 3570,
+  "reusable_assets": 1231,
+  "combination_hooks": 3369,
   "by_scope": {
    "lane-expansion": 110,
    "lane2-expansion": 61,
+   "peptide-core": 25,
    "preprint-expansion": 12,
    "not_in_manifest": 345,
    "review_queue": 35,
@@ -16,16 +17,16 @@
   }
  },
  "repos": {
-  "new_audited": 109,
-  "new_skipped": 21,
-  "high_reusability": 57,
+  "new_audited": 134,
+  "new_skipped": 24,
+  "high_reusability": 73,
   "previous_audited": 200,
-  "total": 309
+  "total": 334
  },
  "lane_support_papers": {
-  "C00": 290,
+  "C00": 334,
+  "C01": 256,
   "C04": 235,
-  "C01": 233,
   "C03": 208,
   "C16": 199,
   "C08": 183,
@@ -63,14 +64,14 @@
   "C19": 1
  },
  "lane_support_hooks": {
-  "C00": 1775,
-  "C01": 933,
+  "C00": 1827,
+  "C01": 968,
   "X06": 84,
   "C03": 33,
   "C04": 16,
   "C07": 13,
   "C16": 13,
-  "C50": 9,
+  "C50": 12,
   "C08": 5,
   "C13": 4,
   "C30": 4,
@@ -87,16 +88,17 @@
   "X11": 1
  },
  "lane_support_repos": {
-  "C00": 141,
-  "C01": 60,
-  "C16": 9
+  "C00": 185,
+  "C01": 88,
+  "C16": 9,
+  "X06": 6
  },
  "assets_by_kind": {
-  "protocol": 347,
-  "dataset": 250,
-  "code": 249,
-  "benchmark": 181,
-  "model": 161,
+  "protocol": 357,
+  "dataset": 261,
+  "code": 258,
+  "benchmark": 189,
+  "model": 165,
   "webserver": 1
  },
  "top_cross_lane_papers": [
@@ -252,6 +254,11 @@
   }
  ],
  "high_reusability_repos": [
+  {
+   "repo": "grosenberger/easypqp",
+   "url": "https://github.com/grosenberger/easypqp",
+   "reason": "PyPI 正式发布、CLI+Docker 双分发、pytest 回归测试与 CI 齐全、文档完整，可直接安装复用；唯一外部依赖 easypqp_rs 为可选 extras"
+  },
   {
    "repo": "bytedance/decompdiff",
    "url": "https://github.com/bytedance/decompdiff",
@@ -536,6 +543,81 @@
    "repo": "zjufanlab/msformer",
    "url": "https://github.com/zjufanlab/msformer",
    "reason": "微调评测脚本 + 教程 notebook + 12 个内置 TDC 数据集 + 预训练权重 GDrive 链接 + 数据集版本表（COCONUT/MoleculeNet/TDC 0.4.1）齐全，可复现性强；仅缺 LICENSE"
+  },
+  {
+   "repo": "oxpig/calm",
+   "url": "https://github.com/oxpig/calm",
+   "reason": "pip可安装(pyproject.toml, 版本0.1.2)，权重自动下载，7个基准数据集CSV随仓库内置，API极简(CaLM().embed_sequence)，可直接作为密码子级特征提取器嵌入任何蛋白/肽性质预测或优化流程"
+  },
+  {
+   "repo": "bowang-lab/agile",
+   "url": "https://github.com/bowang-lab/agile",
+   "reason": "MIT许可，预训练权重与论文数据(微调集+候选库CSV)随仓库分发，config yaml驱动全流程，requirements锁定版本；但依赖较旧(torch1.12+cu113/pyg)且分子图非肽链表征，跨域复用需替换分子表示层"
+  },
+  {
+   "repo": "ntranoslab/esm-variants",
+   "url": "https://github.com/ntranoslab/esm-variants",
+   "reason": "变体效应打分 CLI 开箱即用；全部基准 CSV 含预测分数内置；DMS assay 集合可作 C008/C013 现成评测床；HF 门户可零安装查询。"
+  },
+  {
+   "repo": "hive-uoft/prodcarl",
+   "url": "https://github.com/hive-uoft/prodcarl",
+   "reason": "SFT→RL对齐→生成打分的完整管线可单脚本复现，且附带可直接复用的 AMP/毒性两个预训练分类头权重与 APD3 数据，baselines 目录提供消融对照；缺点是无 LICENSE 且需自行准备 positive_samples.fas"
+  },
+  {
+   "repo": "rosettacommons/rfdiffusion",
+   "url": "https://github.com/rosettacommons/rfdiffusion",
+   "reason": "工业级标准工具：22个可直接套用的条件设计示例脚本、conda环境、Docker镜像、Colab教程与权重下载脚本齐备，社区维护活跃；不含训练代码但推理复现门槛极低。"
+  },
+  {
+   "repo": "tjgu/mitar",
+   "url": "https://github.com/tjgu/mitar",
+   "reason": "数据划分、采样种子、训练/评估/预测脚本、3个预训练Keras模型、多平台安装包全部入库，复现材料极完整；风险是技术栈老旧(TF1.14/Keras2.2.4/py3.7)需容器化运行。"
+  },
+  {
+   "repo": "a96123155/utr-lm",
+   "url": "https://github.com/a96123155/utr-lm",
+   "reason": "预训练权重(.pkl checkpoint)直接打包在仓库内，README给出完整预训练/微调命令与全部超参，数据经CodeOcean capsule+Google Drive可获取，评测含10折CV与BenchmarkSplit双协议，复"
+  },
+  {
+   "repo": "cedergrouphub/chgnet",
+   "url": "https://github.com/cedergrouphub/chgnet",
+   "reason": "pip可安装、预训练权重内置、推理/微调API清晰、有Colab示例notebook和完整测试套件，作为'预训练通用模型+微调'的软件工程范式可直接借用；但领域为无机晶体材料，与肽/蛋白课题族领域错配。"
+  },
+  {
+   "repo": "grantlandwehr/accelerated-enzyme-engineering",
+   "url": "https://github.com/grantlandwehr/accelerated-enzyme-engineering",
+   "reason": "实验数据、零样本预测特征、训练/验证划分全部随仓库分发，两个notebook即完整复现入口，MIT许可证，代码量小依赖轻。增广MLDE范式（少量实验标签+零样本预测增广）可平移到任何蛋白/肽工程课题。"
+  },
+  {
+   "repo": "instadeepai/nucleotide-transformer",
+   "url": "https://github.com/instadeepai/nucleotide-transformer",
+   "reason": "推理/微调代码完整、权重经HF一键下载、notebook+docs齐全、多规格模型可选；但为DNA基因组领域且CC BY-NC-SA非商业许可证，JAX栈与蛋白肽课题常用PyTorch栈不同。"
+  },
+  {
+   "repo": "ml4bio/rhodesign",
+   "url": "https://github.com/ml4bio/rhodesign",
+   "reason": "推理/评测脚本+示例数据+五折划分ID齐全，checkpoint经Google Drive可取，MIT许可证无传染性；GVP+Transformer结构条件序列生成架构对蛋白/肽逆向折叠课题是直接可改造的模板。"
+  },
+  {
+   "repo": "priorlabs/tabpfn",
+   "url": "https://github.com/priorlabs/tabpfn",
+   "reason": "pip安装即用、sklearn API零学习成本、小样本(<=10k行)表格任务免训练，含微调/提示调优接口与不确定度输出；Apache-2.0宽松许可。是肽活性/毒性等小样本回归课题开箱即用的强基线。"
+  },
+  {
+   "repo": "chemprop/chemprop",
+   "url": "https://github.com/chemprop/chemprop",
+   "reason": "积极维护的标准工业级工具（PyPI/conda 可装、CI 测试、readthedocs、MIT）：数据划分/多任务/超参优化/不确定性估计模块齐全，examples 教程完备，可直接作为分子与肽性质预测的强基线和生产级管线。"
+  },
+  {
+   "repo": "rosettacommons/rfantibody",
+   "url": "https://github.com/rosettacommons/rfantibody",
+   "reason": "工业级端到端管线：CLI + 全流程示例脚本 + 权重自动下载 + Docker/Apptainer 环境固化，MIT 许可且含详尽实战文档（热点选择、过滤策略），可直接部署到 GPU 服务器复现论文抗体设计。"
+  },
+  {
+   "repo": "songlab-cal/gpn",
+   "url": "https://github.com/songlab-cal/gpn",
+   "reason": "pip 可安装、HuggingFace AutoClass 原生集成、CLI 覆盖训练/VEP/嵌入、含维护的训练配方与 Colab demo、CI 测试与详尽文档，MIT 许可；其预训练-微调-零样本打分的工程范式可直接迁移。"
   }
  ]
 }

@@ -641,6 +641,186 @@
    "pdf_url": "https://academic.oup.com/bib/article-pdf/25/2/bbae085/56968598/bbae085.pdf",
    "status": "blocked",
    "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1073/pnas.2216697120",
+   "title": "Peptide-binding specificity prediction using fine-tuned protein structure prediction networks",
+   "quality_score": 99,
+   "lane_ids": "PEP",
+   "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9992841/pdf/pnas.202216697.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/antibiotics12030523",
+   "title": "Artificial Intelligence for Antimicrobial Resistance Prediction: Challenges and Opportunities towards Practical Implementation",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://www.mdpi.com/2079-6382/12/3/523/pdf?version=1678098871",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/nar/gkad376",
+   "title": "PEP-FOLD4: a pH-dependent force field for peptide structure prediction in aqueous solution",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad376/50279569/gkad376.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbad135",
+   "title": "UniDL4BioPep: a universal deep learning architecture for binary classification in peptide bioactivity",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/24/3/bbad135/50410977/bbad135.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbad058",
+   "title": "Designing antimicrobial peptides using deep learning and molecular dynamic simulations",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/24/2/bbad058/49560424/bbad058.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1002/advs.202206151",
+   "title": "Explainable Deep Hypergraph Learning Modeling the Peptide Secondary Structure Prediction",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202206151",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bioinformatics/btad284",
+   "title": "epiTCR: a highly sensitive predictor for TCR–peptide binding",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad284/50081625/btad284.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acs.jcim.2c01485",
+   "title": "Deep Learning-Based Bioactive Therapeutic Peptide Generation and Screening",
+   "quality_score": 74,
+   "lane_ids": "PEP",
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c01485",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/ijms24076788",
+   "title": "Intelligent De Novo Design of Novel Antimicrobial Peptides against Antibiotic-Resistant Bacteria Strains",
+   "quality_score": 73.22941968823042,
+   "lane_ids": "PEP",
+   "pdf_url": "https://www.mdpi.com/1422-0067/24/7/6788/pdf?version=1680778467",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/ijms241713257",
+   "title": "Design of Cyclic Peptides Targeting Protein–Protein Interactions Using AlphaFold",
+   "quality_score": 72.5754247590989,
+   "lane_ids": "PEP",
+   "pdf_url": "https://www.mdpi.com/1422-0067/24/17/13257/pdf?version=1693041992",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acs.jcim.2c01317",
+   "title": "Serverless Prediction of Peptide Properties with Recurrent Neural Networks",
+   "quality_score": 72.09424782422805,
+   "lane_ids": "PEP",
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c01317",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acs.jcim.3c01881",
+   "title": "Multi-CGAN: Deep Generative Model-Based Multiproperty Antimicrobial Peptide Design",
+   "quality_score": 71.9674123853187,
+   "lane_ids": "PEP",
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.3c01881",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/antibiotics12040725",
+   "title": "CalcAMP: A New Machine Learning Model for the Accurate Prediction of Antimicrobial Activity of Peptides",
+   "quality_score": 71.83772647454919,
+   "lane_ids": "PEP",
+   "pdf_url": "https://www.mdpi.com/2079-6382/12/4/725/pdf?version=1680867664",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acs.jcim.2c01551",
+   "title": "Bacteria-Specific Feature Selection for Enhanced Antimicrobial Peptide Activity Predictions Using Machine-Learning Methods",
+   "quality_score": 71.83772647454919,
+   "lane_ids": "PEP",
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.2c01551",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.patter.2023.100702",
+   "title": "TriNet: A tri-fusion neural network for the prediction of anticancer and antimicrobial peptides",
+   "quality_score": 70.51713206777987,
+   "lane_ids": "PEP",
+   "pdf_url": "http://www.cell.com/article/S2666389923000399/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acscentsci.2c01487",
+   "title": "High-Throughput Screen Reveals the Structure–Activity Relationship of the Antimicrobial Lasso Peptide Ubonodin",
+   "quality_score": 70.34985136500136,
+   "lane_ids": "PEP",
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acscentsci.2c01487",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/ijms26020462",
+   "title": "Evaluation of Structure Prediction and Molecular Docking Tools for Therapeutic Peptides in Clinical Use and Trials Targeting Coronary Artery Disease",
+   "quality_score": 70.17757647743382,
+   "lane_ids": "PEP",
+   "pdf_url": "https://www.mdpi.com/1422-0067/26/2/462/pdf?version=1736325619",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.compbiolchem.2024.108098",
+   "title": "FusPB-ESM2: Fusion model of ProtBERT and ESM-2 for cell-penetrating peptide prediction",
+   "quality_score": 70.0,
+   "lane_ids": "PEP",
+   "pdf_url": "https://www.cell.com/action/showPdf?pii=j.compbiolchem.2024.108098",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbad409",
+   "title": "Efficient prediction of peptide self-assembly through sequential and graphical encoding",
+   "quality_score": 69.22941968823042,
+   "lane_ids": "PEP",
+   "pdf_url": "https://academic.oup.com/doi/pdf/10.1093/bib/bbad409",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbad164",
+   "title": "STMHCpan, an accurate Star-Transformer-based extensible framework for predicting MHC I allele binding peptides",
+   "quality_score": 69.01955000865388,
+   "lane_ids": "PEP",
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/24/3/bbad164/50410338/bbad164.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
   }
  ]
 }

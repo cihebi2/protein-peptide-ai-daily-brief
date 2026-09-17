@@ -96,3 +96,10 @@
 - 从新批次 183 篇审查记录提取 27 个声明 GitHub 仓库；浅克隆 25，静态审计 18（7 个空克隆跳过，1 个克隆失败跳过）。
 - 高复用 12+：prodcarl（含 pAMP/pTox 分类器权重）、rfdiffusion、rfantibody、tabpfn、chemprop、gpn、rhodesign、accelerated-enzyme-engineering、utr-lm、mitar 等。
 - repositories/ 新增 18 卡；仓库审计累计 327（200 存量 + 109 mass-review + 18 repos2）。
+
+## Peptide Core & PhD Topics 2026-09-18
+
+- 肽核心批次：97 筛出 80 目标，下载 25（requests 20 + IAB 5），全部精读审查（121 张创新卡）；55 篇 CF 硬块入存档（存档累计 78）。
+- 肽批声明仓库：克隆 3/5，审计 3（easypqp high、pgm medium、latched low）；仓库审计累计 334。
+- 新增核心交付：reports/phd-topics-20-directions.md —— 基于全部证据的 20 个博士课题方向（每个含任务定义/验收标准/先例/创新组合）。
+- papers/ 新增 25；论文卡片总数 1502。

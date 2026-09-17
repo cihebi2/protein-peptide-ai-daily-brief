@@ -3569,3 +3569,31 @@
 - [10.48550/arxiv.2602.00157](papers/10.48550_arxiv.2602.00157.md) —— ProDCARL: Reinforcement Learning-Aligned Diffusion Models for De Novo Antimicrob
 - [10.48550/arxiv.2512.24192](papers/10.48550_arxiv.2512.24192.md) —— SeedProteo: Accurate De Novo All-Atom Design of Protein Binders
 - [10.1093/bib/bbae085](papers/10.1093_bib_bbae085.md) —— metaProbiotics: mining probiotics from metagenomic data
+
+### 肽核心批次（2026-09-18，25 篇）
+
+- [10.1038/s41467-023-40129-9](papers/10.1038_s41467-023-40129-9.md) —— MSBooster: improving peptide identification rates using deep learning-based
+- [10.1038/s41467-023-39648-2](papers/10.1038_s41467-023-39648-2.md) —— Accelerating the prediction and discovery of peptide hydrogels with human-i
+- [10.1038/s42256-023-00619-3](papers/10.1038_s42256-023-00619-3.md) —— Pan-Peptide Meta Learning for T-cell receptor–antigen binding recognition
+- [10.1038/s41467-023-41864-9](papers/10.1038_s41467-023-41864-9.md) —— Intermolecular interactions underlie protein/peptide phase separation irres
+- [10.1038/s41467-023-36060-8](papers/10.1038_s41467-023-36060-8.md) —— Biomolecular condensates formed by designer minimalistic peptides
+- [10.1038/s41586-023-05909-9](papers/10.1038_s41586-023-05909-9.md) —— De novo design of modular peptide-binding proteins by superhelical matching
+- [10.1038/s41467-023-43718-w](papers/10.1038_s41467-023-43718-w.md) —— Design and structural validation of peptide–drug conjugate ligands of the k
+- [10.1021/jacs.3c10126](papers/10.1021_jacs.3c10126.md) —— Lasso Peptides: Exploring the Folding Landscape of Nature's Smallest Interl
+- [10.1021/jacs.3c08014](papers/10.1021_jacs.3c08014.md) —— How Cell-Penetrating Peptides Behave Differently from Pore-Forming Peptides
+- [10.7554/elife.82813](papers/10.7554_elife.82813.md) —— Structure-based prediction of T cell receptor:peptide-MHC interactions
+- [10.1038/s42003-025-07615-w](papers/10.1038_s42003-025-07615-w.md) —— Prediction of hemolytic peptides and their hemolytic concentration
+- [10.1021/acs.jmedchem.3c01835](papers/10.1021_acs.jmedchem.3c01835.md) —— Peptide-Drug Conjugates: An Emerging Direction for the Next Generation of P
+- [10.1021/acs.jcim.3c00602](papers/10.1021_acs.jcim.3c00602.md) —— Predicting Protein–Peptide Interactions: Benchmarking Deep Learning Techniq
+- [10.1371/journal.pcbi.1010874](papers/10.1371_journal.pcbi.1010874.md) —— Funneling modulatory peptide design with generative models: Discovery and c
+- [10.1021/acsabm.2c01041](papers/10.1021_acsabm.2c01041.md) —— Self-Assembly, Bioactivity, and Nanomaterials Applications of Peptide Conju
+- [10.1101/2023.02.25.529956](papers/10.1101_2023.02.25.529956.md) —— Cyclic peptide structure prediction and design using AlphaFold
+- [10.1007/s12026-023-09374-4](papers/10.1007_s12026-023-09374-4.md) —— Designing of multi-epitope peptide vaccine against Acinetobacter baumannii 
+- [10.1007/s11831-023-09933-w](papers/10.1007_s11831-023-09933-w.md) —— Recent Advances in Machine Learning-Based Models for Prediction of Antivira
+- [10.3389/fbinf.2023.1216362](papers/10.3389_fbinf.2023.1216362.md) —— Geometric deep learning as a potential tool for antimicrobial peptide predi
+- [10.1038/s41598-023-43274-9](papers/10.1038_s41598-023-43274-9.md) —— Rational design and characterization of cell-selective antimicrobial peptid
+- [10.1101/2023.04.25.538237](papers/10.1101_2023.04.25.538237.md) —— STAPLER: Efficient learning of TCR-peptide specificity prediction from full
+- [10.1186/s42490-024-00075-z](papers/10.1186_s42490-024-00075-z.md) —— Prediction of the synergistic effect of antimicrobial peptides and antimicr
+- [10.1101/2023.06.26.546591](papers/10.1101_2023.06.26.546591.md) —— De Novo Design of Peptide Binders to Conformationally Diverse Targets with 
+- [10.1038/s41598-024-63446-5](papers/10.1038_s41598-024-63446-5.md) —— Hybrid transformer-CNN model for accurate prediction of peptide hemolytic p
+- [10.1186/s12859-024-05983-4](papers/10.1186_s12859-024-05983-4.md) —— Enhanced prediction of hemolytic activity in antimicrobial peptides using d
