@@ -1,0 +1,561 @@
+{
+ "generated": "2026-09-17",
+ "trigger": "用户质询：每篇都审了吗/够深吗",
+ "coverage_check": {
+  "mass_review_records": 850,
+  "prior_expert": 628,
+  "total": 1478,
+  "consistent": true
+ },
+ "grounding": {
+  "cards_total": 3449,
+  "exact_or_fuzzy_pct": 95.5,
+  "not_found": 4
+ },
+ "drift_or_stub_records": [
+  {
+   "doi": "10.1038/s41586-024-07231-4",
+   "batch": "lane",
+   "empty": [
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "The complex polyploid genome architecture of sugar"
+  },
+  {
+   "doi": "10.1038/s41592-024-02262-1",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "漂移",
+   "cards": 3,
+   "title": "Unveiling microbial diversity: harnessing long-rea"
+  },
+  {
+   "doi": "10.1038/s41588-024-01715-9",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "A pan-genome of 69 Arabidopsis thaliana accessions"
+  },
+  {
+   "doi": "10.1038/s41565-024-01667-5",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "漂移",
+   "cards": 3,
+   "title": "Towards realizing nano-enabled precision delivery "
+  },
+  {
+   "doi": "10.1016/j.cell.2024.02.041",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "漂移",
+   "cards": 3,
+   "title": "Cancer biomarkers: Emerging trends and clinical im"
+  },
+  {
+   "doi": "10.1186/s12916-023-03076-2",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Multimodal non-invasive non-pharmacological therap"
+  },
+  {
+   "doi": "10.1038/s41392-024-01848-7",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Tumor initiation and early tumorigenesis: molecula"
+  },
+  {
+   "doi": "10.1038/s41392-025-02148-4",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Invasion and metastasis in cancer: molecular insig"
+  },
+  {
+   "doi": "10.1038/s41586-023-06638-9",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Evolution of neuronal cell classes and types in th"
+  },
+  {
+   "doi": "10.1016/j.xgen.2024.100591",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Gene-environment interactions within a precision e"
+  },
+  {
+   "doi": "10.1016/j.apsb.2024.10.004",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Oxidative stress and inflammation in the pathogene"
+  },
+  {
+   "doi": "10.1016/j.ccell.2024.09.001",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Spatial oncology: Translating contextual biology t"
+  },
+  {
+   "doi": "10.1016/j.ccell.2023.09.012",
+   "batch": "lane",
+   "empty": [
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Tumor-resident Lactobacillus iners confer chemorad"
+  },
+  {
+   "doi": "10.1038/s41586-023-06426-5",
+   "batch": "lane",
+   "empty": [
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 4,
+   "title": "Nuclear genetic control of mtDNA copy number and h"
+  },
+  {
+   "doi": "10.1038/s41467-023-42889-w",
+   "batch": "lane",
+   "empty": [
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Bioinspired porous three-coordinated single-atom F"
+  },
+  {
+   "doi": "10.1038/s41392-024-01745-z",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Nanotechnology's frontier in combatting infectious"
+  },
+  {
+   "doi": "10.1038/s41388-023-02780-w",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Going circular: history, present, and future of ci"
+  },
+  {
+   "doi": "10.1038/s41392-024-01839-8",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Mitochondrial dysfunction: mechanisms and advances"
+  },
+  {
+   "doi": "10.2196/59505",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Multimodal Large Language Models in Health Care: A"
+  },
+  {
+   "doi": "10.1021/acs.bioconjchem.3c00286",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Click Chemistry and Radiochemistry: An Update"
+  },
+  {
+   "doi": "10.1002/mco2.658",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Macrophage plasticity: signaling pathways, tissue "
+  },
+  {
+   "doi": "10.1016/j.apsb.2024.01.009",
+   "batch": "lane",
+   "empty": [
+    "method"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "Bispecific antibody drug conjugates: Making 1+1>2"
+  },
+  {
+   "doi": "10.1016/j.cell.2024.03.045",
+   "batch": "lane",
+   "empty": [
+    "method",
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "The plant immune system: From discovery to deploym"
+  },
+  {
+   "doi": "10.1016/j.molcel.2023.09.016",
+   "batch": "lane",
+   "empty": [
+    "method",
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "tRNA renovatio: Rebirth through fragmentation"
+  },
+  {
+   "doi": "10.1186/s12964-023-01219-9",
+   "batch": "lane",
+   "empty": [
+    "method",
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Short-chain fatty acids in diseases"
+  },
+  {
+   "doi": "10.1038/s41467-025-58527-6",
+   "batch": "lane",
+   "empty": [
+    "method",
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 4,
+   "title": "Machine learning in point-of-care testing: innovat"
+  },
+  {
+   "doi": "10.1038/s41586-024-07747-9",
+   "batch": "lane",
+   "empty": [
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "The genomic landscape of 2,023 colorectal cancers"
+  },
+  {
+   "doi": "10.1109/jbhi.2023.3316750",
+   "batch": "lane",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 4,
+   "title": "Large AI Models in Health Informatics: Application"
+  },
+  {
+   "doi": "10.1038/s41392-025-02269-w",
+   "batch": "lane",
+   "empty": [
+    "method",
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "CAR-T cell therapy for cancer: current challenges "
+  },
+  {
+   "doi": "10.1186/s12951-024-02901-x",
+   "batch": "lane",
+   "empty": [
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Nanotechnology in healthcare, and its safety and e"
+  },
+  {
+   "doi": "10.1038/s41392-024-01845-w",
+   "batch": "lane",
+   "empty": [
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Pathology of pain and its implications for therape"
+  },
+  {
+   "doi": "10.1038/s42255-023-00930-8",
+   "batch": "lane",
+   "empty": [
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Mitophagy in human health, ageing and disease"
+  },
+  {
+   "doi": "10.1021/acscentsci.3c01340",
+   "batch": "lane",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 4,
+   "title": "Metals in Cancer Research: Beyond Platinum Metallo"
+  },
+  {
+   "doi": "10.1016/j.metrad.2023.100022",
+   "batch": "lane",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 3,
+   "title": "A comprehensive survey of ChatGPT: Advancements, a"
+  },
+  {
+   "doi": "10.1093/plphys/kiae105",
+   "batch": "lane",
+   "empty": [
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Regulatory networks in plant responses to drought "
+  },
+  {
+   "doi": "10.1007/s12599-023-00834-7",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Generative AI"
+  },
+  {
+   "doi": "10.1038/s12276-024-01262-7",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Genome-resolved metagenomics: a game changer for m"
+  },
+  {
+   "doi": "10.1038/s41392-024-01780-w",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Adeno-associated virus as a delivery vector for ge"
+  },
+  {
+   "doi": "10.1038/s41392-024-01886-1",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Glycosylation: mechanisms, biological functions an"
+  },
+  {
+   "doi": "10.1186/s40001-025-03196-w",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Artificial intelligence in healthcare and medicine"
+  },
+  {
+   "doi": "10.1038/s41392-025-02280-1",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Immune evasion in cancer: mechanisms and cutting-e"
+  },
+  {
+   "doi": "10.1186/s12951-024-02298-7",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Exosome-based delivery strategies for tumor therap"
+  },
+  {
+   "doi": "10.1093/europace/euae204",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions",
+    "combination_hooks",
+    "innovation_cards"
+   ],
+   "drift": "正常",
+   "cards": 0,
+   "title": "Atrial cardiomyopathy revisited—evolution of a con"
+  },
+  {
+   "doi": "10.1038/s41392-024-01756-w",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions",
+    "combination_hooks"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Peroxisome proliferator-activated receptor gamma c"
+  },
+  {
+   "doi": "10.1186/s42269-024-01174-6",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Oxidative stress and inflammation: elucidating mec"
+  },
+  {
+   "doi": "10.1038/s41392-023-01619-w",
+   "batch": "lane2",
+   "empty": [
+    "method",
+    "data",
+    "results",
+    "topic_directions"
+   ],
+   "drift": "正常",
+   "cards": 2,
+   "title": "Drug-microbiota interactions: an emerging priority"
+  },
+  {
+   "doi": "10.1186/s12943-024-01932-0",
+   "batch": "lane2",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 5,
+   "title": "Tumor-derived small extracellular vesicles in canc"
+  },
+  {
+   "doi": "10.1038/s41392-023-01503-7",
+   "batch": "lane2",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 5,
+   "title": "The mitophagy pathway and its implications in huma"
+  },
+  {
+   "doi": "10.51847/yya2shcyj9",
+   "batch": "wave2-4",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 4,
+   "title": "Co-Designing Proteins, Ligands, Binding Interfaces"
+  },
+  {
+   "doi": "10.51847/x5pk88ln9y",
+   "batch": "wave2-4",
+   "empty": [
+    "data"
+   ],
+   "drift": "正常",
+   "cards": 4,
+   "title": "Diffusion Models for Macrocyclic Peptide Design Us"
+  }
+ ],
+ "advice": "综合阶段排除 drift_or_stub 标记记录；以 wave1-4 + lane 批次为主证据"
+}
