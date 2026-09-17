@@ -440,3 +440,13 @@
 - **[medium]** [biofam/mofa](repositories/biofam-mofa.md)
 - **[medium]** [hicai-zju/plmeae](repositories/hicai-zju-plmeae.md)
 - **[medium]** [irinagain/slide-paper](repositories/irinagain-slide-paper.md)
+
+### repos2 批次（2026-09-17，论文声明仓库，4 个）
+
+- **[high]** [oxpig/calm](repositories/oxpig-calm.md)
+- **[high]** [bowang-lab/agile](repositories/bowang-lab-agile.md)
+- **[high]** [ntranoslab/esm-variants](repositories/ntranoslab-esm-variants.md)
+- **[low]** [zhenchengfang/metaprobiotics](repositories/zhenchengfang-metaprobiotics.md)
+
+### repos2 批次（2026-09-17，论文声明仓库，0 个）
+

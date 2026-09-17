@@ -84,3 +84,15 @@
 - 从新批次 183 篇审查记录提取 27 个声明 GitHub 仓库；浅克隆 25，静态审计 18（7 个空克隆跳过，1 个克隆失败跳过）。
 - 高复用 12+：prodcarl（含 pAMP/pTox 分类器权重）、rfdiffusion、rfantibody、tabpfn、chemprop、gpn、rhodesign、accelerated-enzyme-engineering、utr-lm、mitar 等。
 - repositories/ 新增 18 卡；仓库审计累计 327（200 存量 + 109 mass-review + 18 repos2）。
+
+## Repos2 2026-09-17（论文声明仓库批次）
+
+- 从新批次 183 篇审查记录提取 27 个声明 GitHub 仓库；浅克隆 25，静态审计 18（7 个空克隆跳过，1 个克隆失败跳过）。
+- 高复用 12+：prodcarl（含 pAMP/pTox 分类器权重）、rfdiffusion、rfantibody、tabpfn、chemprop、gpn、rhodesign、accelerated-enzyme-engineering、utr-lm、mitar 等。
+- repositories/ 新增 18 卡；仓库审计累计 327（200 存量 + 109 mass-review + 18 repos2）。
+
+## Repos2 2026-09-17（论文声明仓库批次）
+
+- 从新批次 183 篇审查记录提取 27 个声明 GitHub 仓库；浅克隆 25，静态审计 18（7 个空克隆跳过，1 个克隆失败跳过）。
+- 高复用 12+：prodcarl（含 pAMP/pTox 分类器权重）、rfdiffusion、rfantibody、tabpfn、chemprop、gpn、rhodesign、accelerated-enzyme-engineering、utr-lm、mitar 等。
+- repositories/ 新增 18 卡；仓库审计累计 327（200 存量 + 109 mass-review + 18 repos2）。
