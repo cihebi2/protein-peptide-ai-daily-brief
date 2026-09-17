@@ -1,0 +1,547 @@
+{
+ "schema": "pending-download-archive-v1",
+ "generated": "2026-09-17",
+ "description": "mass-review 行动中未能获取全文的高分论文存档：质量分已过 strict-v2 门，但 PDF 获取被阻断。恢复方式见 recovery 字段说明。",
+ "recovery_options": [
+  "校园网下在内置浏览器手动打开 pdf_url（渲染完成后可由助手提取字节）",
+  "回校园网后重跑 iab_batch_v6.mjs（render-then-extract 引擎）",
+  "对 no_pdf_url 的条目按 DOI 逐出版商构造 PDF 链接"
+ ],
+ "papers": [
+  {
+   "doi": "10.26434/chemrxiv-2025-sf3cs",
+   "title": "A new benchmark for deep learning based affinity prediction: Solving the inter-protein scoring noise problem",
+   "quality_score": 81.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/68c47cf49008f1a46721c407/original/a-new-benchmark-for-deep-learning-based-affinity-prediction-solving-the-inter-protein-scoring-noise-problem.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.64898/2026.02.14.705870",
+   "title": "ProtFlow: Flow Matching-based Protein Sequence Design with Comprehensive Protein Semantic Distribution Learning and High-quality Generation",
+   "quality_score": 71.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1093/bioinformatics/btaf202",
+   "title": "TCR-epiDiff: solving dual challenges of TCR generation and binding prediction",
+   "quality_score": 75.0,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/41/Supplement_1/i125/63745521/btaf202.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1111/bph.17388",
+   "title": "GraphCPP: The new state‐of‐the‐art method for cell‐penetrating peptide prediction via graph neural networks",
+   "quality_score": 78.716,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bph.17388",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbad368",
+   "title": "Enhancing reinforcement learning for de novo molecular design applying self-attention mechanisms",
+   "quality_score": 73.615,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/24/6/bbad368/52689993/bbad368.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbaf506",
+   "title": "Advancing ADMET prediction through multiscale fragment-aware pretraining with MSformer-ADMET",
+   "quality_score": 73.401,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/26/5/bbaf506/64427490/bbaf506.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.26434/chemrxiv-2024-sr1v6",
+   "title": "Optimal Molecular Design: Generative Active Learning Combining REINVENT with Absolute Binding Free Energy Simulations",
+   "quality_score": 79.17,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/662a030e418a5379b0aa3994/original/optimal-molecular-design-generative-active-learning-combining-reinvent-with-absolute-binding-free-energy-simulations.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/pharmaceutics17080993",
+   "title": "Predicting Antimicrobial Peptide Activity: A Machine Learning-Based Quantitative Structure–Activity Relationship Approach",
+   "quality_score": 71.615,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.mdpi.com/1999-4923/17/8/993/pdf?version=1753933371",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1039/d5dd00363f",
+   "title": "FlowMol3: flow matching for 3D de novo small-molecule generation",
+   "quality_score": 74.17,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2025/dd/d5dd00363f",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.26434/chemrxiv-2025-f1hgn-v3",
+   "title": "A Foundation Model for Accurate Atomistic Simulations in Drug Design",
+   "quality_score": 73.0,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/67f92a44fa469535b9baca1a/original/a-foundation-model-for-accurate-atomistic-simulations-in-drug-design.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/biom15111587",
+   "title": "De Novo Design of High-Affinity HER2-Targeting Protein Minibinders",
+   "quality_score": 74.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.mdpi.com/2218-273X/15/11/1587/pdf?version=1762948170",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/sym16040464",
+   "title": "UniproLcad: Accurate Identification of Antimicrobial Peptide by Fusing Multiple Pre-Trained Protein Language Models",
+   "quality_score": 73.615,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.mdpi.com/2073-8994/16/4/464/pdf?version=1713230450",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bioinformatics/btaf423",
+   "title": "ASCE-PPIS: A Protein-Protein Interaction Sites Predictor Based on Equivariant Graph Neural Network with Fusion of Structure-Aware Pooling and Graph Collapse",
+   "quality_score": 75.17,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf423/63841218/btaf423.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acs.jcim.5c01985",
+   "title": "TEMPL: A Template-Based Protein–Ligand Pose Prediction Baseline",
+   "quality_score": 71.0,
+   "lane_ids": [
+    "C01-protein-backbone-generation"
+   ],
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.5c01985?ref=article_openPDF",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.64898/2026.08.02.742339",
+   "title": "Seed-Guided De Novo Design Expands the Structural Diversity of Antitoxin Protein Binders",
+   "quality_score": 72.0,
+   "lane_ids": [
+    "C01-protein-backbone-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1021/acs.jcim.5c01737",
+   "title": "Auxiliary Discrminator Sequence Generative Adversarial Networks for Few Sample Molecule Generation",
+   "quality_score": 73.17,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.5c01737?ref=article_openPDF",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.26434/chemrxiv-2025-xhmlv",
+   "title": "Molecular Docking, Machine Learning-Guided Design, Synthesis, and Biological Evaluation of Novel Multitarget HDAC/ROCK Inhibitors",
+   "quality_score": 72.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/682c8b293ba0887c33dd1404/original/molecular-docking-machine-learning-guided-design-synthesis-and-biological-evaluation-of-novel-multitarget-hdac-rock-inhibitors.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbae531",
+   "title": "Deep reinforcement learning as an interaction agent to steer fragment-based 3D molecular generation for protein pockets",
+   "quality_score": 75.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/26/4/bbae531/63959033/bbae531.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bioinformatics/btaf426",
+   "title": "Geometry-Complete Latent Diffusion Model for 3D Molecule Generation",
+   "quality_score": 72.644,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf426/63895554/btaf426.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/jdad3020019",
+   "title": "Orthogonal Molecular Feature Signatures Guide Multi-Target Alzheimer’s Drug Discovery Through Graph Transformer Representation Learning",
+   "quality_score": 73.0,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.mdpi.com/3042-4518/3/2/19/pdf?version=1775554375",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.7717/peerj-cs.3247",
+   "title": "SGCL-DPI: structure-guided curriculum learning for drug-protein interaction prediction",
+   "quality_score": 71.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://peerj.com/articles/cs-3247.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.26434/chemrxiv.15000109/v1",
+   "title": "MillerBind: A Harmonic Framework for Protein-Ligand Binding Affinity Prediction with State-of-the-Art Performance on CASF-2016",
+   "quality_score": 74.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000109/v1",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1021/acscentsci.5c01285",
+   "title": "SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models",
+   "quality_score": 70.401,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://pubs.acs.org/doi/pdf/10.1021/acscentsci.5c01285?ref=article_openPDF",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/biom15040524",
+   "title": "Molecular Modelling in Bioactive Peptide Discovery and Characterisation",
+   "quality_score": 72.259,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.mdpi.com/2218-273X/15/4/524/pdf?version=1743662839",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.csbj.2024.05.040",
+   "title": "Classification of bioactive peptides: A systematic benchmark of models and encodings",
+   "quality_score": 70.047,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "http://www.csbj.org/article/S2001037024001867/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.36227/techrxiv.171216731.17280932/v1",
+   "title": "Improving Molecular De Novo Drug Design with Transformers",
+   "quality_score": 72.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.171216731.17280932",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1016/j.bpj.2026.05.013",
+   "title": "Protein function-conditioned language models for variant effect prediction and controllable design",
+   "quality_score": 73.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1093/bib/bbad398",
+   "title": "FG-BERT: a generalized and self-supervised functional group-based molecular representation learning framework for properties prediction",
+   "quality_score": 76.109,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/24/6/bbad398/52778061/bbad398.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.26434/chemrxiv.15001573/v1",
+   "title": "Context-Guided Equivariant Diffusion Model for Efficient and Physics-Aware 3D Molecular Generation and Editing",
+   "quality_score": 71.0,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001573/v1",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1101/2024.02.22.581480",
+   "title": "ProT-Diff: A Modularized and Efficient Approach to De Novo Generation of Antimicrobial Peptide Sequences through Integration of Protein Language Model and Diffusion Model",
+   "quality_score": 90.919,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1109/tai.2025.3565671",
+   "title": "DrugMAP: Deep Multimodal Transformers for Drug-Target Mechanism of Action Prediction",
+   "quality_score": 72.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://hal.science/hal-05067564v1/document",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1002/prot.26827",
+   "title": "Protein‐Ligand Structure and Affinity Prediction in CASP16 Using a Geometric Deep Learning Ensemble and Flow Matching",
+   "quality_score": 88.644,
+   "lane_ids": [
+    "C01-protein-backbone-generation"
+   ],
+   "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/prot.26827",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1093/bib/bbad386",
+   "title": "Breaking the barriers of data scarcity in drug–target affinity prediction",
+   "quality_score": 75.496,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": "https://academic.oup.com/bib/article-pdf/24/6/bbad386/54034646/bbad386.pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1126/sciadv.ads8932",
+   "title": "Discovery of antimicrobial peptides with notable antibacterial potency by an LLM-based foundation model",
+   "quality_score": 74.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.ads8932?download=true",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.3390/inventions11010012",
+   "title": "Design and Research of a Dual-Target Drug Molecular Generation Model Based on Reinforcement Learning",
+   "quality_score": 78.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.mdpi.com/2411-5134/11/1/12/pdf?version=1769441883",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1126/sciadv.ady9955",
+   "title": "Steering semi-flexible molecular diffusion model for structure-based drug design with reinforcement learning",
+   "quality_score": 76.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.ady9955?download=true",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.1002/cpt.3158",
+   "title": "The Future of Machine Learning Within Target Identification: Causality, Reversibility, and Druggability",
+   "quality_score": 75.615,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpt.3158",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  },
+  {
+   "doi": "10.4310/cis.241021221101",
+   "title": "Docking strategies for predicting protein-ligand interactions and their application to structure-based drug design",
+   "quality_score": 82.814,
+   "lane_ids": [
+    "C01-protein-backbone-generation",
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1093/bib/bbae050",
+   "title": "A comprehensive computational benchmark for evaluating deep learning-based protein function prediction approaches",
+   "quality_score": 77.17,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.3390/ijms26094088",
+   "title": "GTPLM-GO: Enhancing Protein Function Prediction Through Dual-Branch Graph Transformer and Protein Language Model Fusing Sequence and Local–Global PPI Information",
+   "quality_score": 76.644,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1093/bib/bbad534",
+   "title": "Interpretable feature extraction and dimensionality reduction in ESM2 for protein localization prediction",
+   "quality_score": 73.615,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.3390/medicina59122058",
+   "title": "Network Pharmacology Integrated Molecular Docking and Dynamics to Elucidate Saffron Compounds Targeting Human COX-2 Protein",
+   "quality_score": 72.175,
+   "lane_ids": [
+    "C02-protein-inverse-folding"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1111/cts.70056",
+   "title": "Practical guide to SHAP analysis: Explaining supervised machine learning model predictions in drug development",
+   "quality_score": 72.0,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1093/bib/bbae634",
+   "title": "Benchmarking recent computational tools for DNA-binding protein identification",
+   "quality_score": 70.17,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1002/pmic.202300471",
+   "title": "Deep learning methods for protein function prediction",
+   "quality_score": 71.17,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1093/bioinformatics/btaf579",
+   "title": "DeepFold-PLM: accelerating protein structure prediction via efficient homology search using protein language models",
+   "quality_score": 70.0,
+   "lane_ids": [
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": null,
+   "status": "blocked",
+   "block_reason": "no_pdf_url_in_metadata"
+  },
+  {
+   "doi": "10.1016/j.immuno.2024.100035",
+   "title": "Guiding a language-model based protein design method towards MHC Class-I immune-visibility targets in vaccines and therapeutics",
+   "quality_score": 73.17,
+   "lane_ids": [
+    "C02-protein-inverse-folding",
+    "C03-protein-language-generation"
+   ],
+   "pdf_url": "http://www.immunoinformaticsjournal.com/article/S2667119024000053/pdf",
+   "status": "blocked",
+   "block_reason": "cf_or_render_failure"
+  }
+ ]
+}
