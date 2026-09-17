@@ -40,3 +40,16 @@
 - 多源 OA（OpenAlex/Unpaywall/Semantic Scholar/EuropePMC/arXiv 镜像）补下 115 篇 strict-v2 高分论文并完成精读审查。
 - papers/ 新增 115（DOI 命名），合并后论文卡片总数 1221。
 - 仍有约 156 篇高分论文因出版商 403/无 OA 副本未能获取全文（需校园网 InstSci 通道），清单在本地 wave3-candidates.jsonl。
+
+## Wave3 2026-09-16（第二轮）
+
+- 多源 OA（OpenAlex/Unpaywall/Semantic Scholar/EuropePMC/arXiv 镜像）补下 115 篇 strict-v2 高分论文并完成精读审查。
+- papers/ 新增 115（DOI 命名），合并后论文卡片总数 1221。
+- 仍有约 156 篇高分论文因出版商 403/无 OA 副本未能获取全文（需校园网 InstSci 通道），清单在本地 wave3-candidates.jsonl。
+
+## Lane Expansion 2026-09-17（五方向扩展批次）
+
+- 扩展课题关切至五方向：L1 蛋白设计、L2 蛋白语言模型、L3 肽性质预测、L4 肽生成、L5 肽优化。
+- OpenAlex 实时扫描（2023-08 以来、引用降序）429 候选，期刊门（T1/T2 或引用>=40）+ 信号门（标题领域词x方法词x强动词）筛出 287，下载 110（requests 校园直连 77 + 内置浏览器渲染提取 33）。
+- 110 篇全部精读审查（subagent 分片，零跳过），带 lane/tier/cited/venue 标注；部分综述类条目存在 lane 标签漂移，已在 novelty_boundary 中标注。
+- papers/ 新增 110，合并后论文卡片总数 1404。

@@ -1,12 +1,13 @@
 {
  "papers": {
-  "new_reviewed": 667,
+  "new_reviewed": 777,
   "previous_reviewed": 628,
-  "total": 1295,
-  "innovation_cards": 2729,
-  "reusable_assets": 985,
-  "combination_hooks": 2725,
+  "total": 1405,
+  "innovation_cards": 3168,
+  "reusable_assets": 1125,
+  "combination_hooks": 3060,
   "by_scope": {
+   "lane-expansion": 110,
    "not_in_manifest": 345,
    "review_queue": 35,
    "accepted_core_high_quality": 287
@@ -20,27 +21,27 @@
   "total": 309
  },
  "lane_support_papers": {
+  "C00": 248,
+  "C04": 212,
+  "C01": 200,
   "C16": 199,
-  "C04": 183,
-  "C08": 174,
-  "C00": 167,
-  "C03": 151,
-  "C01": 145,
-  "X06": 119,
+  "C03": 186,
+  "C08": 179,
+  "X06": 149,
   "C05": 112,
-  "C02": 93,
-  "C07": 83,
+  "C07": 95,
+  "C02": 95,
+  "C13": 53,
   "X01": 35,
-  "C13": 32,
   "X05": 28,
   "C11": 25,
   "X07": 24,
   "X04": 22,
   "X02": 21,
+  "C10": 17,
   "X08": 17,
   "X03": 16,
   "X09": 15,
-  "C10": 13,
   "C09": 12,
   "C12": 10,
   "X12": 9,
@@ -60,14 +61,16 @@
   "C19": 1
  },
  "lane_support_hooks": {
-  "C00": 1388,
-  "C01": 750,
-  "X06": 70,
-  "C03": 20,
+  "C00": 1608,
+  "C01": 857,
+  "X06": 81,
+  "C03": 31,
+  "C07": 13,
   "C16": 13,
-  "C07": 8,
-  "C04": 6,
-  "C50": 5,
+  "C04": 10,
+  "C50": 8,
+  "C08": 5,
+  "C13": 4,
   "C30": 4,
   "C02": 4,
   "C42": 3,
@@ -75,8 +78,6 @@
   "C12": 2,
   "C90": 2,
   "C20": 2,
-  "C13": 2,
-  "C08": 2,
   "C81": 1,
   "C63": 1,
   "X50": 1,
@@ -89,11 +90,11 @@
   "C16": 9
  },
  "assets_by_kind": {
-  "protocol": 300,
-  "code": 214,
-  "dataset": 191,
-  "benchmark": 147,
-  "model": 132,
+  "protocol": 334,
+  "dataset": 237,
+  "code": 235,
+  "benchmark": 169,
+  "model": 149,
   "webserver": 1
  },
  "top_cross_lane_papers": [
@@ -102,6 +103,18 @@
    "lanes": 5,
    "hooks": 6,
    "title": "SpecLig: Energy-Guided Hierarchical Model for Target-Specific 3D Ligan"
+  },
+  {
+   "doi": "10.1038/s42256-023-00778-3",
+   "lanes": 5,
+   "hooks": 5,
+   "title": "Assessing antibody and nanobody nativeness for hit selection and human"
+  },
+  {
+   "doi": "10.1038/s41586-023-06887-8",
+   "lanes": 5,
+   "hooks": 5,
+   "title": "Discovery of a structural class of antibiotics with explainable deep l"
   },
   {
    "doi": "10.48550/arxiv.2405.20313",
@@ -132,6 +145,12 @@
    "lanes": 4,
    "hooks": 6,
    "title": "Antimicrobial Peptides as Cross-Seeding Modulators at the Neurodegener"
+  },
+  {
+   "doi": "10.1126/science.aea1820",
+   "lanes": 4,
+   "hooks": 6,
+   "title": "Rapid directed evolution guided by protein language models and epistat"
   },
   {
    "doi": "10.1101/2025.07.10.664242",
@@ -228,24 +247,6 @@
    "lanes": 4,
    "hooks": 5,
    "title": "Novel antibody language model accelerates IgG screening and design for"
-  },
-  {
-   "doi": "10.1101/2023.12.10.570461",
-   "lanes": 4,
-   "hooks": 5,
-   "title": "DSMBind: SE(3) denoising score matching for unsupervised binding energ"
-  },
-  {
-   "doi": "10.1093/bib/bbae715",
-   "lanes": 4,
-   "hooks": 5,
-   "title": "Directed evolution of antimicrobial peptides using multi-objective zer"
-  },
-  {
-   "doi": "10.1093/bib/bbae693",
-   "lanes": 4,
-   "hooks": 5,
-   "title": "DrugAssist: a large language model for molecule optimization"
   }
  ],
  "high_reusability_repos": [

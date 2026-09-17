@@ -1,7 +1,7 @@
 # 论文索引
 
 
-共 1294 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 667 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 清扫 3；各批 DOI 零重叠）。
+共 1404 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 777 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 3 + 五方向扩展 110，其中 L1 蛋白设计 59/L2 蛋白语言模型 30/L3 肽性质预测 4/L4 肽生成 6/L5 肽优化 11；各批 DOI 零重叠）。
 
 ## 基础语料（2026-09-06，627 篇）
 
@@ -3377,3 +3377,116 @@
 - [10.1016/j.jpha.2024.101137](papers/10.1016_j.jpha.2024.101137.md) —— Diffusion-based generative drug-like molecular editing with chemical natural lan
 - [10.1021/jacsau.5c00757](papers/10.1021_jacsau.5c00757.md) —— De Novo Design of High-Performance Sec-type Signal Peptide via a Hybrid Deep Lea
 - [10.1021/acs.jcim.6c01587](papers/10.1021_acs.jcim.6c01587.md) —— CatIF-RL: Activity-Oriented Enzyme Sequence Design by Steered Inverse Protein Fo
+
+### wave3 多源补下批次（2026-09-16 第二轮，110 篇）
+
+- [10.1038/s41586-025-09721-5](papers/10.1038_s41586-025-09721-5.md) —— Atomically accurate de novo design of antibodies with RFdiffusion
+- [10.1038/s41467-025-56751-8](papers/10.1038_s41467-025-56751-8.md) —— Integrating protein language models and automatic biofoundry for enhanced protei
+- [10.1038/s42256-024-00836-4](papers/10.1038_s42256-024-00836-4.md) —— Multi-purpose RNA language modelling with motif-aware pretraining and type-guide
+- [10.1038/s41467-024-45766-2](papers/10.1038_s41467-024-45766-2.md) —— Design of target specific peptide inhibitors using generative deep learning and 
+- [10.1038/s41591-024-03233-x](papers/10.1038_s41591-024-03233-x.md) —— A foundation model for clinician-centered drug repurposing
+- [10.1038/s41586-024-08328-6](papers/10.1038_s41586-024-08328-6.md) —— Accurate predictions on small data with a tabular foundation model
+- [10.1038/s41467-023-44599-9](papers/10.1038_s41467-023-44599-9.md) —— A dynamic knowledge graph approach to distributed self-driving laboratories
+- [10.1038/s41588-023-01465-0](papers/10.1038_s41588-023-01465-0.md) —— Genome-wide prediction of disease variant effects with a deep protein language m
+- [10.1038/s42256-024-00791-0](papers/10.1038_s42256-024-00791-0.md) —— Codon language embeddings provide strong signals for use in protein engineering
+- [10.1038/s41586-024-08391-z](papers/10.1038_s41586-024-08391-z.md) —— A foundation model of transcription across human cell types
+- [10.1038/s41587-024-02133-2](papers/10.1038_s41587-024-02133-2.md) —— Sparks of function by de novo protein design
+- [10.1038/s41422-024-01034-y](papers/10.1038_s41422-024-01034-y.md) —— GeneCompass: deciphering universal gene regulatory mechanisms with a knowledge-i
+- [10.1126/sciadv.adi6539](papers/10.1126_sciadv.adi6539.md) —— Determinants of viscoelasticity and flow activation energy in biomolecular conde
+- [10.1038/s41586-024-08370-4](papers/10.1038_s41586-024-08370-4.md) —— Site-saturation mutagenesis of 500 human protein domains
+- [10.1038/s41586-024-07421-0](papers/10.1038_s41586-024-07421-0.md) —— Detecting hallucinations in large language models using semantic entropy
+- [10.1038/s42256-024-00823-9](papers/10.1038_s42256-024-00823-9.md) —— A 5' UTR language model for decoding untranslated regions of mRNA and function p
+- [10.1038/s41589-023-01496-y](papers/10.1038_s41589-023-01496-y.md) —— De novo development of small cyclic peptides that are orally bioavailable
+- [10.1038/s41586-024-07948-2](papers/10.1038_s41586-024-07948-2.md) —— Designed endocytosis-inducing proteins degrade targets and amplify signals
+- [10.1038/s41592-024-02523-z](papers/10.1038_s41592-024-02523-z.md) —— Nucleotide Transformer: building and evaluating robust foundation models for hum
+- [10.1126/science.aea1820](papers/10.1126_science.aea1820.md) —— Rapid directed evolution guided by protein language models and epistatic interac
+- [10.1038/s41586-024-07231-4](papers/10.1038_s41586-024-07231-4.md) —— The complex polyploid genome architecture of sugarcane
+- [10.1038/s41467-024-55399-0](papers/10.1038_s41467-024-55399-0.md) —— Accelerated enzyme engineering by machine-learning guided cell-free expression
+- [10.1038/s41586-024-07711-7](papers/10.1038_s41586-024-07711-7.md) —— Loss of plasticity in deep continual learning
+- [10.1038/s41467-024-50619-z](papers/10.1038_s41467-024-50619-z.md) —— AGILE platform: a deep learning powered approach to accelerate LNP development f
+- [10.1038/s41467-025-62063-8](papers/10.1038_s41467-025-62063-8.md) —— Nanozymes expanding the boundaries of biocatalysis
+- [10.1038/s43588-024-00720-6](papers/10.1038_s43588-024-00720-6.md) —— Deep generative design of RNA aptamers using structural predictions
+- [10.1016/j.cell.2024.03.037](papers/10.1016_j.cell.2024.03.037.md) —— Principles and therapeutic applications of adaptive immunity
+- [10.1038/s41589-024-01638-w](papers/10.1038_s41589-024-01638-w.md) —— The power and pitfalls of AlphaFold2 for structure prediction beyond rigid globu
+- [10.1038/s41592-024-02262-1](papers/10.1038_s41592-024-02262-1.md) —— Unveiling microbial diversity: harnessing long-read sequencing technology
+- [10.1038/s41588-024-01715-9](papers/10.1038_s41588-024-01715-9.md) —— A pan-genome of 69 Arabidopsis thaliana accessions reveals a conserved genome st
+- [10.1038/s41565-024-01667-5](papers/10.1038_s41565-024-01667-5.md) —— Towards realizing nano-enabled precision delivery in plants
+- [10.1016/j.cell.2024.02.041](papers/10.1016_j.cell.2024.02.041.md) —— Cancer biomarkers: Emerging trends and clinical implications for personalized tr
+- [10.1038/s41586-023-06638-9](papers/10.1038_s41586-023-06638-9.md) —— Evolution of neuronal cell classes and types in the vertebrate retina
+- [10.1126/science.abo7201](papers/10.1126_science.abo7201.md) —— Open science discovery of potent noncovalent SARS-CoV-2 main protease inhibitors
+- [10.1016/j.xgen.2024.100591](papers/10.1016_j.xgen.2024.100591.md) —— Gene-environment interactions within a precision environmental health framework
+- [10.1038/s41586-023-06426-5](papers/10.1038_s41586-023-06426-5.md) —— Nuclear genetic control of mtDNA copy number and heteroplasmy in humans
+- [10.1038/s41467-023-42528-4](papers/10.1038_s41467-023-42528-4.md) —— trRosettaRNA: automated prediction of RNA 3D structure with transformer network
+- [10.1038/s41467-025-56122-3](papers/10.1038_s41467-025-56122-3.md) —— A guidance to intelligent metamaterials and metamaterials intelligence
+- [10.1038/s41586-023-06887-8](papers/10.1038_s41586-023-06887-8.md) —— Discovery of a structural class of antibiotics with explainable deep learning
+- [10.1038/s41557-023-01321-y](papers/10.1038_s41557-023-01321-y.md) —— Assembling membraneless organelles from de novo designed proteins
+- [10.1126/science.adf2341](papers/10.1126_science.adf2341.md) —— Priming agents transiently reduce the clearance of cell-free DNA to improve liqu
+- [10.1016/j.cell.2024.06.029](papers/10.1016_j.cell.2024.06.029.md) —— Diabetes mellitus—Progress and opportunities in the evolving epidemic
+- [10.1038/s41467-023-42889-w](papers/10.1038_s41467-023-42889-w.md) —— Bioinspired porous three-coordinated single-atom Fe nanozyme with oxidase-like a
+- [10.1016/j.chembiol.2024.04.002](papers/10.1016_j.chembiol.2024.04.002.md) —— Molecular glues for protein-protein interactions: Progressing toward a new dream
+- [10.1038/s42256-023-00716-3](papers/10.1038_s42256-023-00716-3.md) —— CHGNet as a pretrained universal neural network potential for charge-informed at
+- [10.1038/s41586-023-06808-9](papers/10.1038_s41586-023-06808-9.md) —— Molecularly defined and spatially resolved cell atlas of the whole mouse brain
+- [10.1038/s42256-023-00778-3](papers/10.1038_s42256-023-00778-3.md) —— Assessing antibody and nanobody nativeness for hit selection and humanization wi
+- [10.1126/science.adn6354](papers/10.1126_science.adn6354.md) —— AlphaFold2 structures guide prospective ligand discovery
+- [10.1016/j.cell.2024.03.045](papers/10.1016_j.cell.2024.03.045.md) —— The plant immune system: From discovery to deployment
+- [10.1038/s41589-023-01432-0](papers/10.1038_s41589-023-01432-0.md) —— Distinct chemical environments in biomolecular condensates
+- [10.1016/j.molcel.2023.09.016](papers/10.1016_j.molcel.2023.09.016.md) —— tRNA renovatio: Rebirth through fragmentation
+- [10.1186/s12964-023-01219-9](papers/10.1186_s12964-023-01219-9.md) —— Short-chain fatty acids in diseases
+- [10.1038/s41467-025-58527-6](papers/10.1038_s41467-025-58527-6.md) —— Machine learning in point-of-care testing: innovations, challenges, and opportun
+- [10.1038/s41586-024-07747-9](papers/10.1038_s41586-024-07747-9.md) —— The genomic landscape of 2,023 colorectal cancers
+- [10.1038/s42255-023-00930-8](papers/10.1038_s42255-023-00930-8.md) —— Mitophagy in human health, ageing and disease
+- [10.1039/d3sc07012c](papers/10.1039_d3sc07012c.md) —— Automation and machine learning augmented by large language models in a catalysi
+- [10.1038/s42003-023-05133-1](papers/10.1038_s42003-023-05133-1.md) —— Integration of pre-trained protein language models into geometric deep learning 
+- [10.1093/nar/gkae973](papers/10.1093_nar_gkae973.md) —— Generic Diagramming Platform (GDP): a comprehensive database of high-quality bio
+- [10.1038/s42004-023-01019-9](papers/10.1038_s42004-023-01019-9.md) —— The maximal and current accuracy of rigorous protein-ligand binding free energy 
+- [10.1021/acscentsci.3c01340](papers/10.1021_acscentsci.3c01340.md) —— Metals in Cancer Research: Beyond Platinum Metallodrugs
+- [10.1186/s40035-024-00432-x](papers/10.1186_s40035-024-00432-x.md) —— Updates in Alzheimer's disease: from basic research to diagnosis and therapies
+- [10.1016/j.apsb.2024.10.004](papers/10.1016_j.apsb.2024.10.004.md) —— Oxidative stress and inflammation in the pathogenesis of neurological disorders:
+- [10.1186/s13020-023-00853-2](papers/10.1186_s13020-023-00853-2.md) —— Network pharmacology: a bright guiding light on the way to explore the personali
+- [10.1016/j.ccell.2025.12.009](papers/10.1016_j.ccell.2025.12.009.md) —— Spatial omics at the forefront: emerging technologies, analytical innovations, a
+- [10.1007/s10462-024-10888-y](papers/10.1007_s10462-024-10888-y.md) —— Large language models (LLMs): survey, technical frameworks, and future challenge
+- [10.1186/s12916-023-03076-2](papers/10.1186_s12916-023-03076-2.md) —— Multimodal non-invasive non-pharmacological therapies for chronic pain: mechanis
+- [10.1021/acsami.4c04486](papers/10.1021_acsami.4c04486.md) —— AI-Based Metamaterial Design
+- [10.1007/s11704-024-40663-9](papers/10.1007_s11704-024-40663-9.md) —— A survey on LoRA of large language models
+- [10.7150/thno.94788](papers/10.7150_thno.94788.md) —— Theranostics and artificial intelligence: new frontiers in personalized medicine
+- [10.1002/anie.202308251](papers/10.1002_anie.202308251.md) —— Cyclic Peptides for Drug Development
+- [10.1021/acsomega.4c02718](papers/10.1021_acsomega.4c02718.md) —— A Comprehensive Review on Advanced Extraction Techniques for Retrieving Bioactiv
+- [10.1038/s43856-023-00370-1](papers/10.1038_s43856-023-00370-1.md) —— The future landscape of large language models in medicine
+- [10.1021/acs.jctc.3c00702](papers/10.1021_acs.jctc.3c00702.md) —— Two for One: Diffusion Models and Force Fields for Coarse-Grained Molecular Dyna
+- [10.2196/59505](papers/10.2196_59505.md) —— Multimodal Large Language Models in Health Care: Applications, Challenges, and F
+- [10.1109/jbhi.2023.3316750](papers/10.1109_jbhi.2023.3316750.md) —— Large AI Models in Health Informatics: Applications, Challenges, and the Future
+- [10.1016/j.metrad.2023.100022](papers/10.1016_j.metrad.2023.100022.md) —— A comprehensive survey of ChatGPT: Advancements, applications, prospects, and ch
+- [10.1007/s44230-023-00038-y](papers/10.1007_s44230-023-00038-y.md) —— Survey on Explainable AI: From Approaches, Limitations and Applications Aspects
+- [10.1016/j.biotechadv.2024.108401](papers/10.1016_j.biotechadv.2024.108401.md) —— Relieving metabolic burden to improve robustness and bioproduction by industrial
+- [10.1038/s41392-023-01589-z](papers/10.1038_s41392-023-01589-z.md) —— Recent advances in targeting the "undruggable" proteins: from drug discovery to 
+- [10.1038/s41392-023-01579-1](papers/10.1038_s41392-023-01579-1.md) —— mRNA vaccines in disease prevention and treatment
+- [10.1038/s41392-025-02176-0](papers/10.1038_s41392-025-02176-0.md) —— The BCL2 family: from apoptosis mechanisms to new advances in targeted therapy
+- [10.1016/j.fmre.2024.04.021](papers/10.1016_j.fmre.2024.04.021.md) —— Role of artificial intelligence in revolutionizing drug discovery
+- [10.1002/smll.202502315](papers/10.1002_smll.202502315.md) —— Nanoparticle Therapeutics in Clinical Perspective: Classification, Marketed Prod
+- [10.1186/s12951-024-02900-y](papers/10.1186_s12951-024-02900-y.md) —— Discovery of nanobodies: a comprehensive review of their applications and potent
+- [10.1038/s41598-023-40160-2](papers/10.1038_s41598-023-40160-2.md) —— Molecular docking as a tool for the discovery of molecular targets of nutraceuti
+- [10.1038/s41392-024-01848-7](papers/10.1038_s41392-024-01848-7.md) —— Tumor initiation and early tumorigenesis: molecular mechanisms and interventiona
+- [10.1038/s41392-025-02148-4](papers/10.1038_s41392-025-02148-4.md) —— Invasion and metastasis in cancer: molecular insights and therapeutic targets
+- [10.1016/j.ccell.2024.09.001](papers/10.1016_j.ccell.2024.09.001.md) —— Spatial oncology: Translating contextual biology to the clinic
+- [10.1016/j.ccell.2023.09.012](papers/10.1016_j.ccell.2023.09.012.md) —— Tumor-resident Lactobacillus iners confer chemoradiation resistance through lact
+- [10.1038/s41392-024-01889-y](papers/10.1038_s41392-024-01889-y.md) —— Current advance of nanotechnology in diagnosis and treatment for malignant tumor
+- [10.1038/s41392-024-01911-3](papers/10.1038_s41392-024-01911-3.md) —— Recent advances in Alzheimer’s disease: mechanisms, clinical trials and new drug
+- [10.1038/s41392-024-01934-w](papers/10.1038_s41392-024-01934-w.md) —— The JAK-STAT pathway: from structural biology to cytokine engineering
+- [10.1038/s41392-023-01687-y](papers/10.1038_s41392-023-01687-y.md) —— The role of inflammasomes in human diseases and their potential as therapeutic t
+- [10.1186/s13045-024-01563-4](papers/10.1186_s13045-024-01563-4.md) —— Wnt/β-catenin signaling pathway in carcinogenesis and cancer therapy
+- [10.1016/j.apsb.2023.12.003](papers/10.1016_j.apsb.2023.12.003.md) —— Targeting the Warburg effect: A revisited perspective from molecular mechanisms 
+- [10.1038/s41392-023-01606-1](papers/10.1038_s41392-023-01606-1.md) —— Targeting ferroptosis opens new avenues for the development of novel therapeutic
+- [10.1038/s41392-024-01745-z](papers/10.1038_s41392-024-01745-z.md) —— Nanotechnology's frontier in combatting infectious and inflammatory diseases: pr
+- [10.1038/s41388-023-02780-w](papers/10.1038_s41388-023-02780-w.md) —— Going circular: history, present, and future of circRNAs in cancer
+- [10.1038/s41392-024-01839-8](papers/10.1038_s41392-024-01839-8.md) —— Mitochondrial dysfunction: mechanisms and advances in therapy
+- [10.1021/acs.bioconjchem.3c00286](papers/10.1021_acs.bioconjchem.3c00286.md) —— Click Chemistry and Radiochemistry: An Update
+- [10.1002/mco2.658](papers/10.1002_mco2.658.md) —— Macrophage plasticity: signaling pathways, tissue repair, and regeneration
+- [10.1016/j.apsb.2024.01.009](papers/10.1016_j.apsb.2024.01.009.md) —— Bispecific antibody drug conjugates: Making 1+1>2
+- [10.1038/s41392-025-02269-w](papers/10.1038_s41392-025-02269-w.md) —— CAR-T cell therapy for cancer: current challenges and future directions
+- [10.1007/s40259-023-00641-2](papers/10.1007_s40259-023-00641-2.md) —— Reducing Immunogenicity by Design: Approaches to Minimize Immunogenicity of Mono
+- [10.1038/s41392-024-01803-6](papers/10.1038_s41392-024-01803-6.md) —— G protein-coupled receptors (GPCRs): advances in structures, mechanisms and drug
+- [10.1186/s12951-024-02901-x](papers/10.1186_s12951-024-02901-x.md) —— Nanotechnology in healthcare, and its safety and environmental risks
+- [10.1038/s41392-024-01845-w](papers/10.1038_s41392-024-01845-w.md) —— Pathology of pain and its implications for therapeutic interventions
+- [10.1016/j.apsb.2024.04.007](papers/10.1016_j.apsb.2024.04.007.md) —— Characteristic roadmap of linker governs the rational design of PROTACs
+- [10.1093/plphys/kiae105](papers/10.1093_plphys_kiae105.md) —— Regulatory networks in plant responses to drought and cold stress
+- [10.1002/ctm2.1384](papers/10.1002_ctm2.1384.md) —— mRNA vaccine in cancer therapy: Current advance and future outlook
