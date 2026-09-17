@@ -1,15 +1,15 @@
 {
  "papers": {
-  "new_reviewed": 664,
+  "new_reviewed": 667,
   "previous_reviewed": 628,
-  "total": 1292,
-  "innovation_cards": 2712,
-  "reusable_assets": 975,
-  "combination_hooks": 2706,
+  "total": 1295,
+  "innovation_cards": 2729,
+  "reusable_assets": 985,
+  "combination_hooks": 2725,
   "by_scope": {
    "not_in_manifest": 345,
    "review_queue": 35,
-   "accepted_core_high_quality": 284
+   "accepted_core_high_quality": 287
   }
  },
  "repos": {
@@ -20,15 +20,15 @@
   "total": 309
  },
  "lane_support_papers": {
-  "C16": 198,
+  "C16": 199,
   "C04": 183,
-  "C08": 173,
+  "C08": 174,
   "C00": 167,
-  "C03": 149,
-  "C01": 144,
-  "X06": 116,
+  "C03": 151,
+  "C01": 145,
+  "X06": 119,
   "C05": 112,
-  "C02": 92,
+  "C02": 93,
   "C07": 83,
   "X01": 35,
   "C13": 32,
@@ -60,8 +60,8 @@
   "C19": 1
  },
  "lane_support_hooks": {
-  "C00": 1376,
-  "C01": 743,
+  "C00": 1388,
+  "C01": 750,
   "X06": 70,
   "C03": 20,
   "C16": 13,
@@ -89,11 +89,11 @@
   "C16": 9
  },
  "assets_by_kind": {
-  "protocol": 298,
-  "code": 211,
-  "dataset": 188,
-  "benchmark": 146,
-  "model": 131,
+  "protocol": 300,
+  "code": 214,
+  "dataset": 191,
+  "benchmark": 147,
+  "model": 132,
   "webserver": 1
  },
  "top_cross_lane_papers": [

@@ -1,7 +1,7 @@
 # 论文索引
 
 
-共 1291 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 664 篇（wave1/2 479 + wave3 115 + wave4 校园网浏览器补下 70；各批 DOI 零重叠）。
+共 1294 篇：2026-09-06 基础语料 627 篇 + mass-review 批次 667 篇（wave1/2 479 + wave3 115 + wave4 73 + wave4b 清扫 3；各批 DOI 零重叠）。
 
 ## 基础语料（2026-09-06，627 篇）
 
@@ -3371,3 +3371,9 @@
 - [10.1093/bib/bbae308](papers/10.1093_bib_bbae308.md) —— TP-LMMSG: a peptide prediction graph neural network incorporating flexible amino
 - [10.1038/s41598-024-80940-y](papers/10.1038_s41598-024-80940-y.md) —— ParaAntiProt provides paratope prediction using antibody and protein language mo
 - [10.1080/19420862.2024.2362775](papers/10.1080_19420862.2024.2362775.md) —— Toward enhancement of antibody thermostability and affinity by computational des
+
+### wave3 多源补下批次（2026-09-16 第二轮，3 篇）
+
+- [10.1016/j.jpha.2024.101137](papers/10.1016_j.jpha.2024.101137.md) —— Diffusion-based generative drug-like molecular editing with chemical natural lan
+- [10.1021/jacsau.5c00757](papers/10.1021_jacsau.5c00757.md) —— De Novo Design of High-Performance Sec-type Signal Peptide via a Hybrid Deep Lea
+- [10.1021/acs.jcim.6c01587](papers/10.1021_acs.jcim.6c01587.md) —— CatIF-RL: Activity-Oriented Enzyme Sequence Design by Steered Inverse Protein Fo
